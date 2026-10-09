@@ -1,0 +1,751 @@
+{
+  "address_map": {},
+  "description": "Ingest delta tracker. Source payloads are create-only.",
+  "sources": {
+    ".raw/captured/2023-01-09 The Information - Six OpenAI rivals Google and Microsoft are watching (notes).md": {
+      "hash": "42f8a68066c80c475fe8d4efd7355ba6dddf2cd3ba18801fe8eb0ee774cd51a1",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2023-01-09-Six-OpenAI-Rivals-Google-and-Microsoft-Are-Watching.md"
+      ],
+      "source_id": "src-e37a9ad0ae29934fea33"
+    },
+    ".raw/captured/2026-02-27 The Information - What Amazon and Microsoft win or lose from OpenAI's new deals (notes).md": {
+      "hash": "13dee203f0c9c0465ce953d9a0c7ec8e24821ae2c9c4e4799642e1962be831bf",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-02-27-What-Amazon-and-Microsoft-Will-Win-or-Lose-From-OpenAIs-New-Deals.md"
+      ],
+      "source_id": "src-de1b1794fa0732c48d9c"
+    },
+    ".raw/captured/2026-09-01 The Information - SpaceX shakes up data center leadership (notes).md": {
+      "hash": "b3636664fde238c1f25d1820b515b035172dc53fbc6ee81c7093738468ea7f41",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-01-SpaceX-Shakes-Up-Data-Center-Leadership-After-Aggressive-Build-Out.md"
+      ],
+      "source_id": "src-f8ba96f3f2e54908e3ad"
+    },
+    ".raw/captured/2026-09-03 The Information - Meta works to stop its Hatch AI agent going rogue (notes).md": {
+      "hash": "b9cf00e94516d8e5f84ce74ae39830c2cfbf433f644118caaea8da6ed6199d4a",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-03-Inside-Metas-Efforts-to-Ensure-Its-Upcoming-Hatch-AI-Agent-Wont-Go-Rogue.md"
+      ],
+      "source_id": "src-d0c7a92bef0d5617b8c2"
+    },
+    ".raw/captured/2026-09-04 The Information - Anthropic builds in-house payments tech, could chip at Stripe (notes).md": {
+      "hash": "25d1700548c5eff1daf5fb8fa7c8fb11a7f711b8a820f02d8c656fb37976eb51",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-04-Anthropics-In-House-Payments-Tech-Push-Could-Chip-Away-at-Stripe.md"
+      ],
+      "source_id": "src-b39f886683b62e60fe72"
+    },
+    ".raw/captured/2026-09-06 The Information - How Anthropic clinched 517 billion in compute deals (notes).md": {
+      "hash": "8beb8c47724946b1d0399d2136007befdd62e8e9da230b8d1cee76857fe40bbb",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-06-How-Anthropic-Clinched-517-Billion-in-Compute-Deals-in-11-Months.md"
+      ],
+      "source_id": "src-7d4279a9285108fc74e0"
+    },
+    ".raw/captured/2026-09-08 The Information - Six AWS engineers rebuilt Bedrock to challenge Microsoft (notes).md": {
+      "hash": "82584be37f39dd2134ce1e94c00e879c4f2abf2a6ee9a371483012231a575d42",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-08-How-Six-AWS-Engineers-Rebuilt-Bedrock-to-Challenge-Microsoft.md"
+      ],
+      "source_id": "src-ddeb029b8cdae1385107"
+    },
+    ".raw/captured/2026-09-09 The Information - OpenAI bars rival AI ads from ChatGPT (notes).md": {
+      "hash": "db6c776c7157b9d8b87b14e669b8b19269aedaa31d4a8724a6d46106f7fb66a4",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-09-OpenAI-Restricts-Adobe-and-Other-Competitors-From-Advertising-in-ChatGPT.md"
+      ],
+      "source_id": "src-5b13e0d6d9396f71208b"
+    },
+    ".raw/captured/2026-09-10 The Information - SpaceX slows data center build to fix reliability (notes).md": {
+      "hash": "8e79c22ba39248e75dd0e7c147a6dd7838ba0a2885074b5d177d3ff26f5de4c5",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-10-SpaceX-Overhauls-Data-Center-Build-Out-Potentially-Slowing-Expansion.md"
+      ],
+      "source_id": "src-4793295ef93948952908"
+    },
+    ".raw/captured/2026-09-13 The Information - Anthropic strikes 13.7 billion compute deal with Rum Group (notes).md": {
+      "hash": "e44d9517c787725897bbcb6c8d5f754ca362f2b75596603afa0daab0df07b956",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-13-Anthropic-Strikes-13-7-Billion-Compute-Deal-With-Trump-Linked-Rum-Group.md"
+      ],
+      "source_id": "src-8b7e0e92a7cc11707e76"
+    },
+    ".raw/captured/2026-09-13 The Information - Nvidia's growing dependence on a few big customers (notes).md": {
+      "hash": "bf5857ebfa852b032e4dde1451bc9dd91d381a37cda6d73c2a11026cd7e4e4c9",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-13-Nvidias-Growing-Dependence-On-a-Few-Big-Customers.md"
+      ],
+      "source_id": "src-de2fc7ba1a59088b09f9"
+    },
+    ".raw/captured/2026-09-14 The Information - Data retention fears push big firms to limit Anthropic models (notes).md": {
+      "hash": "dea53591c203b5dc6557d95406fa81426994dabfadc490818a4f78567bcc99e8",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-14-Anthropic-Data-Fears-Prompt-Nvidia-Palantir-and-Booz-Allen-to-Restrict-Model-Use.md"
+      ],
+      "source_id": "src-02fdbfe69047d07acf5f"
+    },
+    ".raw/captured/2026-09-14 The Information - Noam Brown says OpenAI's top agent priority is automating AI research (notes).md": {
+      "hash": "616398b2b62049243a567ebb817310dc0ba7b2d16604c76d7fda4345070070d3",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-14-OpenAIs-Top-Priority-for-AI-Agents-is-Automating-AI-Research.md"
+      ],
+      "source_id": "src-7b02411bb71dac5d4719"
+    },
+    ".raw/captured/2026-09-15 The Information - Meta to launch camera-free smart glasses (notes).md": {
+      "hash": "be1f21aecdbfdaeec4a0c1e04439ad5bfaa87ff77e92dcba9b06edf7e22aaeb4",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-15-Meta-to-Launch-Camera-Free-Smart-Glasses.md"
+      ],
+      "source_id": "src-3d8f8d8df16cb8d175f7"
+    },
+    ".raw/captured/2026-09-16 The Information - Apple considers return to server market with Nvidia network tech (notes).md": {
+      "hash": "7ed063026d31b0fe9c4d646d6c7898ad653997b87456b19dba5eb4d2505ff767",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-16-Apple-Considers-Return-to-Server-Market-Has-Talked-With-Nvidia-to-Use-Network-Tech.md"
+      ],
+      "source_id": "src-fc9644a4620a5bccfad5"
+    },
+    ".raw/captured/2026-09-20 The Information - Why Apple is betting on foldable iPhones (notes).md": {
+      "hash": "cf3be8b236e1415095d5bb2fff73e1fd148ee652ad294cc06dd16c93548b1260",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-20-Why-Apple-Is-Betting-on-Foldable-iPhones.md"
+      ],
+      "source_id": "src-a76640715e65c09585b6"
+    },
+    ".raw/captured/2026-09-21 The Information - DeepSeek bets on Huawei chips to get around US export controls (notes).md": {
+      "hash": "4673a2f3d9373c6d52c2572dcea76977dccc476eaae543a4a324aad8cd5097d5",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-21-DeepSeek-Bets-Big-on-Huawei-Chips-to-Bypass-US-Export-Controls.md"
+      ],
+      "source_id": "src-b735e8aabbe4b81e401b"
+    },
+    ".raw/captured/2026-09-22 The Information - Anthropic in talks for 1-gigawatt data center lease with Stream (notes).md": {
+      "hash": "561753fb9446a29cf54f48bdf73fffcaa5d91efffac9883dbd8b60e9db61f2e2",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-22-Anthropic-in-Talks-for-1-Gigawatt-Data-Center-Lease-With-Apollo-Backed-Developer.md"
+      ],
+      "source_id": "src-16c2a0195a2ef2283ac9"
+    },
+    ".raw/captured/2026-09-22 The Information - Software firms discount AI to keep customers from Anthropic and OpenAI (notes).md": {
+      "hash": "45946ea708d1758f7ce289ee177be09c59b3d0c37015eef572528a7afc0e7d69",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-22-Software-Firms-Discount-AI-to-Keep-Customers-From-Anthropic-OpenAI.md"
+      ],
+      "source_id": "src-b7f55c9b442f16821626"
+    },
+    ".raw/captured/2026-09-23 The Information - DeepSeek hits 1 billion dollar revenue run rate (notes).md": {
+      "hash": "66b958756a51e8e9dd3b0a59989d1f4600133fa10464d9daf3399a78dbb31f2d",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-23-DeepSeeks-Annualized-Revenue-Hits-1-Billion-as-Startup-Finalizes-7-5-Billion-Fundraising.md"
+      ],
+      "source_id": "src-7f6fcedf2adfe1acd11a"
+    },
+    ".raw/captured/2026-09-23 The Information - Google nears release of Gemini 4 (notes).md": {
+      "hash": "5cf15f322594d7f56a1fb36fab8468d6d8f5194cda4577b4899d5a29023e1b2a",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-23-Google-Nears-Release-of-Flagship-Gemini-4-AI-Model.md"
+      ],
+      "source_id": "src-f36bae4810e3cdd3bc20"
+    },
+    ".raw/captured/2026-09-23 The Information - Open source and model price cuts keep AI costs under control (notes).md": {
+      "hash": "b1ff0fac08cb53159c4466fa2ddcc9480a8e753c9f0a37395741443323cea9f7",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-23-Open-Source-Model-Price-Cuts-Keep-AI-Costs-Under-Control.md"
+      ],
+      "source_id": "src-44de44efa3c3244d6cba"
+    },
+    ".raw/captured/2026-09-25 The Information - Fireworks and Fal eye new rounds as inference demand soars (notes).md": {
+      "hash": "7b4a09d7b52c69b41202a2c97fb760ba02faa7fc6537e13b49852a2c92fd18dc",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-25-Fireworks-Fal-Consider-New-Rounds-as-Inference-Demand-Soars.md"
+      ],
+      "source_id": "src-5881ca8b2ae5c4d5bebb"
+    },
+    ".raw/captured/2026-09-28 The Information - Anthropic cuts off discounts when customers hit their cap (notes).md": {
+      "hash": "1c4b705221aaaab935bf6633554350db7bc9be124c86244708ba51b186556d82",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-28-Anthropic-Moves-to-Cut-Off-Discounts-When-Customers-Hit-Their-Cap.md"
+      ],
+      "source_id": "src-26fa748b39e355beb5d7"
+    },
+    ".raw/captured/2026-09-29 The Information - Google is paying about 100 publishers for AI Overviews (notes).md": {
+      "hash": "316cb1bee27a3b90fa818b6f9368120a6d0747f88674574755d6fbc7600b6acd",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-29-Google-Is-Paying-About-100-Digital-Publishers-for-AI-Overviews.md"
+      ],
+      "source_id": "src-36036c92f06632f1e2ac"
+    },
+    ".raw/captured/2026-09-30 The Information - AliExpress tests Elite membership to challenge Amazon (notes).md": {
+      "hash": "52db452ae5f348183de8ff13588aaf31ece9a89abc2a59adfd54ceb7229a029e",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-30-Alibabas-AliExpress-Tests-Membership-Program-in-Challenge-to-Amazon.md"
+      ],
+      "source_id": "src-74a2c39835417bd0ab65"
+    },
+    ".raw/captured/2026-09-30 The Information - Cracks emerge in AI's debt-fueled data center boom (notes).md": {
+      "hash": "0fecfd001bb4539a1a483f3382ec36480ad22f679caad640eeda8ba370fbd488",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-30-Cracks-Emerge-in-AIs-Debt-Fueled-Data-Center-Boom.md"
+      ],
+      "source_id": "src-91f6f88680314b0a4525"
+    },
+    ".raw/captured/2026-09-30 The Information - Wall Street and Silicon Valley split over AI valuations (notes).md": {
+      "hash": "72fbccb3a76be657e81e0e014888da14b23bcd17a627e8f5173b229637749f12",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-09-30-Wall-Street-and-Silicon-Valley-Split-Over-AIs-Price-Tag.md"
+      ],
+      "source_id": "src-606633ecdc897d6a4381"
+    },
+    ".raw/captured/2026-10-03 The Information - AI agents going rogue and the legal battles ahead (notes).md": {
+      "hash": "eb26c9a8058a9c11670bacd609cc9fd9db46a9258f7deefc39db83251bb7b55f",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-10-03-AI-Agents-Are-Going-Rogue-Novel-Legal-Battles-Are-Next.md"
+      ],
+      "source_id": "src-3643f140c47cf53adde5"
+    },
+    ".raw/captured/2026-10-04 The Information - Anthropic's big charity bill for shareholders (notes).md": {
+      "hash": "e13f9973a0e34d1cf3aefff60e2d883e3246962564e538f78717bf0553ac5d78",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-10-04-Anthropics-Big-Charity-Bill-for-Shareholders.md"
+      ],
+      "source_id": "src-2d56e82c4232d46ffa13"
+    },
+    ".raw/captured/2026-10-05 The Information - Microsoft slashes internal Claude spending by a third (notes).md": {
+      "hash": "1270f0161a7f9d41ac1ba8819fc248d95eb239b00b7708e5ec535aebf8015d17",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-10-05-Microsoft-Slashes-Internal-Claude-Spending-by-a-Third.md"
+      ],
+      "source_id": "src-6abd49162cc3a38553f5"
+    },
+    ".raw/captured/2026-10-06 The Information - Uber's M&A blitz (notes).md": {
+      "hash": "d6f60d07f0fb605c8e7c75b822845381f0b08d3d424380813b08836877c3b718",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-10-06-Ubers-MA-Blitz.md"
+      ],
+      "source_id": "src-d7da15e56629f1257a52"
+    },
+    ".raw/captured/2026-10-06 The Information - Why the SaaSpocalypse is not over for Workday (notes).md": {
+      "hash": "fdbdfa8100ac61d55380ccb424d5d1e514e0c9ce81e39eea7a6bec0cb34a6a4c",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-10-06-Why-the-SaaSpocalypse-Isnt-Over-For-Workday.md"
+      ],
+      "source_id": "src-f2d742fd3ee7cbc6a45b"
+    },
+    ".raw/captured/2026-10-07 The Information - Where Nvidia's dealmaking spree goes next (notes).md": {
+      "hash": "49fc2ab48cf03a81cb752747f144f1c907bf676915a51125376e66f6fb531d46",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-10-07-Where-Nvidias-100-Billion-Dealmaking-Juggernaut-Will-Go-Next.md"
+      ],
+      "source_id": "src-8dcfe48397b479ff3650"
+    },
+    ".raw/captured/2026-10-07 The Information - Where is all the AI automation (notes).md": {
+      "hash": "114aaa553e0f4a5008c616a80ebb008af2a57b7d63e63c112bef2747a277db59",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-10-07-AIs-Simmering-Question-Where-Is-All-the-Automation.md"
+      ],
+      "source_id": "src-1dd5726ed8c0c484fb63"
+    },
+    ".raw/captured/2026-10-08 The Information - Amazon rewired data centers after Mississippi power warning (notes).md": {
+      "hash": "937b4a3684814621fc6adf242699abc8159303ef0b327e09c233a5d2874adae7",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-10-08-How-Amazon-Rewired-Its-Data-Centers-After-Mississippi-Power-Warning.md"
+      ],
+      "source_id": "src-34b9122546d529bc13df"
+    },
+    ".raw/captured/2026-10-08 The Information - Chip networking startup Eliyan draws takeover interest (notes).md": {
+      "hash": "94538079d83ca972fa78fbdaf33145e8b4577cc5396d49841c750e98403d6ccf",
+      "ingested_at": "2026-10-09",
+      "pages_created": [
+        "wiki/sources/2026-10-08-Networking-Startup-Eliyan-Draws-Takeover-Interest-Held-Early-Talks-With-Arm.md"
+      ],
+      "source_id": "src-0e6b99c5ef4231875f10"
+    },
+    ".raw/captured/2026-10-08 The Information - How OpenAI beat math (notes).md": {
+      "hash": "da7abdad5b25d7e6b3d58b590863cb9b8f708edb948b2f9ddc9670710e5771e7",
+      "ingested_at": "2026-10-08",
+      "pages_created": [
+        "wiki/sources/2026-10-08-How-OpenAI-Beat-Math.md"
+      ],
+      "source_id": "src-6b15616ce6ae7d673800"
+    },
+    ".raw/captured/2026-10-08 The Information - Infrastructure investors turn from AI to landfills and airports (notes).md": {
+      "hash": "97b49daf1c76fdda07b31a88840ea0833998baa7c613227fa78a361c38acca04",
+      "ingested_at": "2026-10-09",
+      "pages_created": [
+        "wiki/sources/2026-10-08-AIs-Boom-Has-Infrastructure-Investors-Looking-at-Garbage.md"
+      ],
+      "source_id": "src-ff941b0f4e7930a8839d"
+    },
+    ".raw/captured/2026-10-08 The Information - Nvidia to invest in chip rival d-Matrix (notes).md": {
+      "hash": "133999f52d9cfaac1327bd818394b61e9f7866719fe64d4b54de1b37cd6b4c19",
+      "ingested_at": "2026-10-09",
+      "pages_created": [
+        "wiki/sources/2026-10-08-Nvidia-to-Invest-in-Chip-Rival-d-Matrix-as-Its-Challengers-Choose-Partnership.md"
+      ],
+      "source_id": "src-98225593427368b6970f"
+    },
+    ".raw/captured/2026-10-08 The Information - OpenAI ARR error shows the flaws of annualized revenue (notes).md": {
+      "hash": "5a9c2315008610b7d17d18ab7b685b40173e2be557c6ee00d217b4a5d6c77843",
+      "ingested_at": "2026-10-09",
+      "pages_created": [
+        "wiki/sources/2026-10-08-OpenAI-ARR-Snafu-Highlights-Flawed-Metric.md"
+      ],
+      "source_id": "src-972ffda3d3a4c8caaa33"
+    },
+    ".raw/captured/2026-10-08 The Information - Subscriber survey shows Chinese open models and Claude gaining (notes).md": {
+      "hash": "f4a2b5a7c9f6446cbe9230bc38aad8eac803899d4cbb9739039ef7c9ef205bb1",
+      "ingested_at": "2026-10-09",
+      "pages_created": [
+        "wiki/sources/2026-10-08-Chinese-Open-Models-Win-Over-One-in-Five-of-The-Informations-Subscribers.md"
+      ],
+      "source_id": "src-53d3aff88d6f8a32d325"
+    },
+    ".raw/captured/2026.28_ XBOX On the Rocks.md": {
+      "hash": "952790fa551289ee6883b864241796a4d483817fa6f376ff40e8fad1aec4a082",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-07-10-XBOX-On-the-Rocks.md"
+      ],
+      "source_id": "src-d15fc32d70999af7cbbe"
+    },
+    ".raw/captured/AI Hardware, Meta Display, Redefining VR and AR.md": {
+      "hash": "1850f34a668c437f066e899b3e066dc4a472c14a23a94a64ab2f2195a1310bfe",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-04-27-AI-Hardware-Meta-Display.md"
+      ],
+      "source_id": "src-a3fe751aca2f987ed6fc"
+    },
+    ".raw/captured/Aggregation Theory.md": {
+      "hash": "12266750affef25799bc645242ad1c2c1d61a39eefeb54914c3d12fac4f53d03",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2015-07-21-Aggregation-Theory.md"
+      ],
+      "source_id": "src-16e4aadfe9df1fe26fc8"
+    },
+    ".raw/captured/Amazon Earnings, Trainium and Commodity Markets, Additional Amazon Notes.md": {
+      "hash": "029c57727c18dd396595ce1e29cd615406e282c51df1d47b287fd7f2b2e81076",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-04-30-Amazon-Earnings-Trainium.md"
+      ],
+      "source_id": "src-8824d4c61f1ff1a69c30"
+    },
+    ".raw/captured/Amazon’s Durability.md": {
+      "hash": "6e3d1c543e8ed73c7c4d777f443d9a6a790274685958ffb5bd805186ff65b5f2",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-05-05-Amazons-Durability.md"
+      ],
+      "source_id": "src-1868d7761fd537d6f59f"
+    },
+    ".raw/captured/An Interview with Ben Thompson at the MoffettNathanson Media, Internet & Communications Conference.md": {
+      "hash": "c1f29863a27457dc2ab877f9be66af48e5ccaa3666c59169f7134698c5ff5f12",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-05-14-Interview-Ben-Thompson-MoffettNathanson.md"
+      ],
+      "source_id": "src-e016af26de6cdb94788a"
+    },
+    ".raw/captured/An Interview with Google Cloud CEO Thomas Kurian About the Agentic Moment.md": {
+      "hash": "e5c7578bf82f6bf4b778df14bfc1e135d94127ae55be2bd1627b703b6836ceb0",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-04-23-Interview-Thomas-Kurian-Google-Cloud.md"
+      ],
+      "source_id": "src-6439957cd04601c9b8fc"
+    },
+    ".raw/captured/An Interview with Joanna Stern About Living With AI.md": {
+      "hash": "29fe7968994b7af98e15bbe5024070b4383bd9cc56f56ec866d3ff1b8233a193",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-05-07-Interview-Joanna-Stern-Living-With-AI.md"
+      ],
+      "source_id": "src-b28f1dc8efad0cb13e2e"
+    },
+    ".raw/captured/An Interview with Michael Morton About E-Commerce in the Age of AI.md": {
+      "hash": "fc72eb6155cb82ec29a3096c46e1f512df9eb4bfd1c9629d0931f43f8c6b9458",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-06-18-Interview-Michael-Morton-E-Commerce-AI.md"
+      ],
+      "source_id": "src-d67a205881254f9c8468"
+    },
+    ".raw/captured/An Interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman About Bedrock Managed Agents.md": {
+      "hash": "e941a71dfaaadcaf9194132bce5499bb9ee99878859ef53e5670f0f9240a6f37",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-04-28-Interview-Altman-Garman-Bedrock-Managed-Agents.md"
+      ],
+      "source_id": "src-11caadea4b839f865bfd"
+    },
+    ".raw/captured/An Interview with Parallel Founder Parag Agarwal About Valuing Content on the Agentic Web.md": {
+      "hash": "0c02667a63be20578d9316f3e27dfe1a72f43a6b954a10968cb0ae83d372174b",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-05-21-Interview-Parag-Agarwal-Parallel.md"
+      ],
+      "source_id": "src-3aa7b1e3c6445b375cd5"
+    },
+    ".raw/captured/Apple Sues OpenAI, Apple’s Real Problem.md": {
+      "hash": "0bf7b0f156f605dd10750f4d7b58bcbe0ab0cf234adc3f22a31b4bd3aaf97a9f",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-07-13-Apple-Sues-OpenAI.md"
+      ],
+      "source_id": "src-561b5b1d2040ad0941f6"
+    },
+    ".raw/captured/Apps, Agents, and Aggregation.md": {
+      "hash": "5fc40053b776a883b1ef539a410831cddc914b35033dd6cf0f639ab9d92b315a",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-09-28-Apps-Agents-and-Aggregation.md"
+      ],
+      "source_id": "src-0ce6795ed46a89f4a382"
+    },
+    ".raw/captured/Autonomy and Innovation (1).md": {
+      "hash": "f94c16767b37a6342caf98a62ca22975172675cd704bc85483495301a0083516",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-08-24-Autonomy-and-Innovation.md"
+      ],
+      "source_id": "src-c90062d728a3b1ea1370"
+    },
+    ".raw/captured/Data Center Discontent, Understanding the Opposition, Fixing the Problem.md": {
+      "hash": "8d4046d1f8566bd1e992c47c7fe951f9758687277887065604bbd7560f800416",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-05-18-Data-Center-Discontent.md"
+      ],
+      "source_id": "src-e8b94db5911484287695"
+    },
+    ".raw/captured/Fable 5.1, Enterprise Frontier Safeguards.md": {
+      "hash": "a86e43094356fbcd68f7a8f0a1b0591f1f9209355aab77d7199b5eddf7fb6b39",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-09-02-Fable-5-1-Enterprise-Frontier-Safeguards.md"
+      ],
+      "source_id": "src-40778f5663ced98b8e45"
+    },
+    ".raw/captured/Frontier Overhangs.md": {
+      "hash": "1dbe7b161deb8ebc68642e70af10c4f95165de9725bdacef07b0ab7f070dc74a",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-09-21-Frontier-Overhangs.md"
+      ],
+      "source_id": "src-d1ee4c82069df2fa1b8a"
+    },
+    ".raw/captured/Gallaugher 2025 - Ch02 Zara - Fast Fashion from Savvy Systems.md": {
+      "hash": "4b1b6db60fdd2c52638ebc2abd6b61f44900bc8f5bf01a1f1d6deca68d9c6abd",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2025-Gallaugher-Ch02-Zara.md"
+      ],
+      "source_id": "src-cb7402150570c63ff9af"
+    },
+    ".raw/captured/Gallaugher 2025 - Ch04 FreshDirect - A Tech-Heavy Online Grocer.md": {
+      "hash": "43a1c40676476205fbbdf8df64cef486adef41266067941b63a49da2b4f8d919",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2025-Gallaugher-Ch04-FreshDirect.md"
+      ],
+      "source_id": "src-9f8cb42c0976d5b1a461"
+    },
+    ".raw/captured/Gallaugher 2025 - Ch08 Amazon - An Empire from Cardboard Box to Kindle to Cloud.md": {
+      "hash": "cb44f01296897896ba36cde7ee802ddb5926696b99c26040eda3ab31575fea94",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2025-Gallaugher-Ch08-Amazon.md"
+      ],
+      "source_id": "src-95ed0fd771b503dc4d36"
+    },
+    ".raw/captured/Gallaugher 2025 - Ch09 Shein and Temu - E-commerce Giants from Asia.md": {
+      "hash": "250e15a36e2c88261a2bb558df3b2ac276fb8cdb0e7225c3e9a6bae3fbfa3abb",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2025-Gallaugher-Ch09-Shein-and-Temu.md"
+      ],
+      "source_id": "src-4547adf608d0590050eb"
+    },
+    ".raw/captured/Gallaugher 2025 - S17.7 Walmart - Data Asset in Action and the Rise of Walmart.md": {
+      "hash": "3bbf694eddb7dd30f364a7f2f9b94142e7e05203094ff782960b2a859fa2b004",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2025-Gallaugher-S17-7-Walmart.md"
+      ],
+      "source_id": "src-f503b3523d1ad9368d39"
+    },
+    ".raw/captured/Google Earnings, Meta Earnings.md": {
+      "hash": "19e9379521d9d30f1eaab38dd2282384bc7d3d5fd4818c86d279df5ef402d41f",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-05-04-Google-Earnings-Meta-Earnings.md"
+      ],
+      "source_id": "src-13f289fdb26d06126cb4"
+    },
+    ".raw/captured/Google I_O, World Models, I_O Spaghetti.md": {
+      "hash": "290a247d8a826e05325013bd2d140d88e0cb6f74877aa7a70b1382ddd61675ff",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-05-20-Google-IO-World-Models-IO-Spaghetti.md"
+      ],
+      "source_id": "src-1adf1f15a4ec266ebfa8"
+    },
+    ".raw/captured/How Agentic Commerce Is Transforming Retail and Beyond.md": {
+      "hash": "5fd158fa0ae61da48363d0a9149c0c81e88b5ddca0fa91cd8ecbea31d973b294",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-04-12-How-Agentic-Commerce-Is-Transforming-Retail-and-Beyond.md"
+      ],
+      "source_id": "src-5e34d8e204cd3562ce9c"
+    },
+    ".raw/captured/IBM Misses, IBM’s Mainframe Moat, IBM’s Many AI Problems.md": {
+      "hash": "2be0d31706e065d3c8bc73f6b2f7478539878e08274d9621bd9a15c2fe02b45b",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-07-15-IBM-Misses-IBMs-Mainframe-Moat-IBMs-Many-AI-Problems.md"
+      ],
+      "source_id": "src-4cbd9ed47159dea43d76"
+    },
+    ".raw/captured/Intel Earnings, Intel’s Differentiation_, Whither Terafab.md": {
+      "hash": "7901693b101ed3649db7860373105e7f258bdedf7882313fec05dfef4379c262",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-04-29-Intel-Earnings-Intels-Differentiation-Whither-Terafab.md"
+      ],
+      "source_id": "src-d7ac2c905bfade7fd836"
+    },
+    ".raw/captured/John Ternus and Apple’s Hardware-Defined Future, SpaceXAI and Cursor.md": {
+      "hash": "1028b1cefcd154b887c4a0a5ccb0d50700d0ef00904d65971d75450043969cd0",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-04-22-John-Ternus-and-Apples-Hardware-Defined-Future-SpaceXAI-and-Cursor.md"
+      ],
+      "source_id": "src-877ad11e835c97ea13d2"
+    },
+    ".raw/captured/Meta Settles, A Framework For Regulating Content, The Rest of Big Tech.md": {
+      "hash": "a52a32386d3de9f12adcb3e32e22f96e587cb2b3b367b3d75a658189803b0a9f",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-08-31-Meta-Settles-A-Framework-For-Regulating-Content-The-Rest-of-Big-Tech.md"
+      ],
+      "source_id": "src-c849644b10757170d505"
+    },
+    ".raw/captured/Microsoft Earnings, Apple Earnings.md": {
+      "hash": "7e6aa2940b4d310c3d90bd49b93719810bd7ff1b831cf6c9e8fe818aa5695e2a",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-05-06-Microsoft-Earnings-Apple-Earnings.md"
+      ],
+      "source_id": "src-f56d4dcfde37ada02d73"
+    },
+    ".raw/captured/Muse Image, Grok 4.5, Alex Karp on CNBC.md": {
+      "hash": "31048e4fd6961521c5488c03ece66d1b0ec2e87e1bfe9091d20ef1113d8b1d5b",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-07-09-Muse-Image-Grok-4-5-Alex-Karp-on-CNBC.md"
+      ],
+      "source_id": "src-55c6e8e074fea0ad9b48"
+    },
+    ".raw/captured/Netflix Earnings, Is Netflix Washed_, Additional Notes.md": {
+      "hash": "ed530e8630612a00e6e4163c8d00400f5dbb415fbca642c607b565428deb44eb",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-07-21-Netflix-Earnings-Is-Netflix-Washed-Additional-Notes.md"
+      ],
+      "source_id": "src-23efbc1f90195af5587f"
+    },
+    ".raw/captured/Netflix and the Conservation of Attractive Profits.md": {
+      "hash": "94daea597dc1a27e93f4d2953cc30d17de5dd67fb2dc75e0aa82fb6fe1dd5d0e",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2015-07-08-Netflix-and-the-Conservation-of-Attractive-Profits.md"
+      ],
+      "source_id": "src-15452bbc17806d4215d5"
+    },
+    ".raw/captured/Netflix to Sell Streaming Services_, Streamers as Aggregators, Revisiting Roku.md": {
+      "hash": "2f96561b7a2596bcb84e241dd0029f5ad23d6b9136e754c6b09ac0b8284ac176",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-08-25-Netflix-to-Sell-Streaming-Services-Streamers-as-Aggregators-Revisiting-Roku.md"
+      ],
+      "source_id": "src-9e74a9bd7a1337185a1b"
+    },
+    ".raw/captured/Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face.md": {
+      "hash": "2852ac065d6e42aa5cf15ddfe9fb978b2812aeb30570b4247f43e4bf906015eb",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-09-01-Nvidia-Earnings-Dollars-Per-Gigawatt-Open-and-Hugging-Face.md"
+      ],
+      "source_id": "src-8394131aeff39f4968ab"
+    },
+    ".raw/captured/Nvidia Earnings, The AI Stack, Nvidia’s New Reporting.md": {
+      "hash": "78b2a5af6f21155e3aba58b9405b0e663af4ab2ab724d58ec3c872355d2d73bd",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-05-26-Nvidia-Earnings-The-AI-Stack-Nvidias-New-Reporting.md"
+      ],
+      "source_id": "src-653fd37c53f00ee673ed"
+    },
+    ".raw/captured/OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent.md": {
+      "hash": "0b00925ed290d7c62b54857dc767aaf621f8f47ddd68a0ca23a709bd4c8388ce",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-09-09-OpenAI-Does-Math-Reward-Hacking-Meta-Launches-Personal-Agent.md"
+      ],
+      "source_id": "src-dc1d82cd99e7331707d7"
+    },
+    ".raw/captured/OpenAI Hacks Hugging Face, What Happened, Alignment and Paper Clips.md": {
+      "hash": "d5933014c2ae972ce3a9539dfec2aa38b09d5a49f42f82e178841d24a75bf3ab",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-07-22-OpenAI-Hacks-Hugging-Face-What-Happened-Alignment-and-Paper-Clips.md"
+      ],
+      "source_id": "src-120dea6271efde02571e"
+    },
+    ".raw/captured/SpaceX and Anthropic, xAI’s Two Companies, Elon Musk and SpaceXAI’s Future.md": {
+      "hash": "248ae2aff627ecd8f5b54b8109a3326efb5c14a315fdf3c630c798bce8300178",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-05-12-SpaceX-and-Anthropic-xAIs-Two-Companies-Elon-Musk-and-SpaceXAIs-Future.md"
+      ],
+      "source_id": "src-2dcbf2efc0f23a2b9eeb"
+    },
+    ".raw/captured/TSMC Earnings, New N3 Fabs, The Nvidia Ramp.md": {
+      "hash": "ea6723ab7d281d31b57dfa50e9e59ddf07b714f0983a7c0728f8905f5d354710",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-04-20-TSMC-Earnings-New-N3-Fabs-The-Nvidia-Ramp.md"
+      ],
+      "source_id": "src-78b0d2fc066a0aebe5ca"
+    },
+    ".raw/captured/The Deployment Company, Back to the 70s, Apple and Intel.md": {
+      "hash": "0d5c6f433477212b0c5a56468c78f7f62f8abd2cea38e78b397d4d98f0e181f2",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-05-13-The-Deployment-Company-Back-to-the-70s-Apple-and-Intel.md"
+      ],
+      "source_id": "src-1d7d9694d9f4e2d0293f"
+    },
+    ".raw/captured/The Gen AI Bridge to the Future.md": {
+      "hash": "1fb2e2e3641c964eda1e7f2895bb66e2be61d336d30ea4e7bbb3835f4ce66850",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2024-12-02-The-Gen-AI-Bridge-to-the-Future.md"
+      ],
+      "source_id": "src-0eb4cf902fcda7b4491c"
+    },
+    ".raw/captured/The Google Capital Company.md": {
+      "hash": "21f146d4a117a04271ad2b63a89ac91358d94d8e87a21af80950980b2870e802",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-06-02-The-Google-Capital-Company.md"
+      ],
+      "source_id": "src-5cb7deb3fb1b773247fc"
+    },
+    ".raw/captured/The Inference Shift.md": {
+      "hash": "6bf039c2a13dda6c0031e54cce266f20a0d7b6c45a6c55133352cd1319c464b1",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-05-11-The-Inference-Shift.md"
+      ],
+      "source_id": "src-b73e19487f1c5ee17dd6"
+    },
+    ".raw/captured/The OpenAI Super App, ChatGPT = Codex, Whither Chat.md": {
+      "hash": "10ab105fdb407fb9c3c509d7880cc6bbd5f65ee778dcdfcdce561134ab27cb3f",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-07-14-The-OpenAI-Super-App-ChatGPT-Codex-Whither-Chat.md"
+      ],
+      "source_id": "src-a597aafa5ffdfbed3562"
+    },
+    ".raw/captured/The SpaceX IPO and Data Centers in Space.md": {
+      "hash": "35017ed8efc8166f549281575f3f166baef46c1a521e0bab3fd344764b06bae2",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-05-27-The-SpaceX-IPO-and-Data-Centers-in-Space.md"
+      ],
+      "source_id": "src-7cf773be5bb749b45f4e"
+    },
+    ".raw/captured/The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence.md": {
+      "hash": "10f5cdb641c5ec52d255fd5ea629eb0683da54d43a3e1ea0eb1678695a77f354",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-09-10-The-iPhone-Duo-The-Intelligent-Personal-Hub-Apple-Watch-Audio-Intelligence.md"
+      ],
+      "source_id": "src-3cce8b13be4dd364dcf8"
+    },
+    ".raw/captured/Tim Cook’s Impeccable Timing.md": {
+      "hash": "8494f4f3c733c8896ab5bacc9840802b8fb119a5268621c5b2a62ef3f36b8daf",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-04-21-Tim-Cooks-Impeccable-Timing.md"
+      ],
+      "source_id": "src-263174440ea8c7c76e4d"
+    },
+    ".raw/captured/Who’s Afraid of Chinese Models_.md": {
+      "hash": "af1454e3b4a4e182607179a0f68f8ad219cd1c83d745c7a370aa4185420ab8d8",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-07-20-Whos-Afraid-of-Chinese-Models.md"
+      ],
+      "source_id": "src-070df2d452b5db44933f"
+    },
+    ".raw/captured/agents-over-bubbles.md": {
+      "hash": "cb91daab04780e460dd04ecb2ffd4ddf622ebed3e7d0f119aa5106afad748bde",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-03-16-Agents-Over-Bubbles.md"
+      ],
+      "source_id": "src-8e82f84c8501daff1c84"
+    },
+    ".raw/captured/jamesob_local-llm_ Everything I know about running LLMs locally.md": {
+      "hash": "9d62b274c89ba6efcfd0bb81cd144fda2c93634301ae413a9639b48d8eebcf96",
+      "ingested_at": "2026-09-29",
+      "pages_created": [
+        "wiki/sources/2026-07-05-jamesob-local-llm-Running-LLMs-Locally.md"
+      ],
+      "source_id": "src-9e7a03fe6483eabcc079"
+    }
+  },
+  "version": 1
+}

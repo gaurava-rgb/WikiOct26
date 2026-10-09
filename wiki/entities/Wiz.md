@@ -1,0 +1,27 @@
+---
+type: entity
+title: Wiz
+status: developing
+created: 2026-09-29
+updated: 2026-10-09
+tags:
+  - entity
+  - entity/company
+claim_count: 3
+---
+
+# Wiz
+
+Cloud security company acquired by Google.
+
+## Facts by source
+
+### 2026-04-23 [[2026-04-23-Interview-Thomas-Kurian-Google-Cloud|An Interview with Google Cloud CEO Thomas Kurian About the Agentic Moment]]
+
+- Kurian says Google bought Wiz because AI will find software holes much faster, so customers must fix them much faster, and cloud is the most valuable place to protect. ([[2026-04-23-Interview-Thomas-Kurian-Google-Cloud#^clm-e32ac02bb9849f3bacb6|cite]])
+- Google and Wiz launched three Gemini agents: Red Agent tests attacks, Blue Agent finds what to fix, and Green Agent fixes it. ([[2026-04-23-Interview-Thomas-Kurian-Google-Cloud#^clm-69f4c9640e73e136870e|cite]])
+- Thompson argues the Wiz deal answers why Google bought instead of built: in two years building would have been too late. ([[2026-04-23-Interview-Thomas-Kurian-Google-Cloud#^clm-3b4878b9b30d64259a6b|cite]])
+
+## Related concepts
+
+[[AI-Agents|AI Agents]]

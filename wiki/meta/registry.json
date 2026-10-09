@@ -1,0 +1,1771 @@
+{
+  "concepts": {
+    "A-B-Testing": {
+      "definition": "Showing two random groups of users two versions of something (option A and option B) and measuring which one does better. Online firms can run thousands of these a year because every click and delay is recorded. It lets data, not rank, settle arguments.",
+      "title": "A/B Testing"
+    },
+    "AI-Agents": {
+      "definition": "An agent is software (the harness) that directs an AI model to do a task, uses ordinary tools to check the result, and retries without a human in the loop. Thompson dates working agents to late 2025 (Claude Code with Opus 4.5, GPT-5.2-Codex). Agents use far more compute than chatbots, and they make the model plus harness pair, not the model alone, the thing that matters.",
+      "title": "AI Agents"
+    },
+    "AI-Compute-Demand": {
+      "definition": "The recurring claim that demand for AI computing power exceeds supply, which is used to justify the huge capex (capital spending on data centers and chips) of the hyperscalers (the largest cloud companies: Amazon, Microsoft, Google, Meta, Oracle).",
+      "title": "AI Compute Demand vs Supply"
+    },
+    "AI-Diffusion": {
+      "definition": "How fast AI actually spreads into real companies and the wider economy, as opposed to how capable the models are. Diffusion is slowed by habit, by trust, and by firms keeping humans in the loop to avoid costly mistakes.",
+      "title": "AI Diffusion"
+    },
+    "AI-Stack-Integration": {
+      "definition": "The idea that one company owning every layer of AI (chips, data centers, models, data tools, security, and apps) can build better and cheaper products than companies that own only one layer. Each layer feeds the others: apps show what models need, and chips lower the cost of running the models. Google is the main example. The open question is whether a big, spread-out company can turn that ownership into focus.",
+      "title": "Full-Stack AI Integration"
+    },
+    "AI-Sycophancy": {
+      "definition": "The habit of chatbots to agree with the user and tell them what they want to hear. Critics say it keeps people hooked, like social media feeds, and can mislead lonely or vulnerable users. Thompson notes it is the opposite of the popular fear that AI will act on its own against us.",
+      "title": "AI Sycophancy"
+    },
+    "Agentic-Commerce": {
+      "definition": "Shopping done or guided by AI agents instead of a person browsing a store or search results. It raises the question of who owns the customer: the store, or the agent that shops on the customer's behalf.",
+      "title": "Agentic Commerce"
+    },
+    "Agentic-Web": {
+      "definition": "The idea that AI agents, not people, will become the main readers of the web. Agents do not look at ads, so the ad and subscription models that paid for web content stop working. That raises the question of how content gets paid for and kept open when the reader is software.",
+      "title": "The Agentic Web"
+    },
+    "Aggregation-Theory": {
+      "definition": "Ben Thompson's 2015 framework for how the internet reshapes industries. The internet made distribution of digital goods free and transaction costs near zero. So the winners stopped being the firms that owned suppliers, and became the firms that owned the user relationship: the aggregators. They win on user experience, which brings users, which brings suppliers, which improves the experience again (a virtuous cycle). Suppliers get commoditized, meaning they become interchangeable and lose pricing power.",
+      "title": "Aggregation Theory"
+    },
+    "Annualized-Revenue": {
+      "definition": "A guess at a full year's sales, usually one month's revenue multiplied by 12. Fast-growing AI firms quote it because quarterly results look out of date, but it can mislead: one month may not be typical, firms count revenue differently, and the figures often leak through investors rather than formal reports.",
+      "title": "Annualized Revenue (ARR)"
+    },
+    "Answer-vs-Agentic-Inference": {
+      "definition": "Thompson's split between two kinds of AI inference (running a trained model). Answer inference has a human waiting for the result, so speed matters most. Agentic inference is agents doing jobs with no human in the loop, so speed matters less and cheap, large, slower memory matters more. The shift changes which chips and suppliers win.",
+      "title": "Answer Inference vs Agentic Inference"
+    },
+    "Application-Layer-Bridge": {
+      "definition": "Thompson's 2024 idea that each new computing device paradigm is reached through a new application-layer paradigm that first grows up on the old device. Interactive Applications on mainframes bridged to the PC, and the Internet on PCs bridged to the smartphone. He argues generative AI, especially UI generated on demand, is the bridge from the smartphone to wearables.",
+      "title": "Application Layer Bridge (Computing Paradigms)"
+    },
+    "Bundling": {
+      "definition": "Selling many products together for one price, like a subscription library. Bundles work when they lower costs or reach more buyers; they fail when the bundled content costs more than the subscriptions bring in.",
+      "title": "Bundling"
+    },
+    "Capex-vs-Opex": {
+      "definition": "Two budgets a company spends from. Capex (capital spending) is a big up-front payment for something used for years, like a mainframe or a server. Opex (operating spending) is an ongoing payment, like a monthly software subscription. Shifting money inside the capex budget is easier than cutting opex, so a hardware seller can lose a sale fast when buyers want other hardware.",
+      "title": "Capex vs Opex"
+    },
+    "Capital-as-Ultimate-Commodity": {
+      "definition": "Thompson's 2026 idea that if AI compute stays scarce, getting compute becomes a contest of who can bring the most cash. The advantage compounds, because more compute earns more cash to buy more compute. It flips the old investor preference for asset-light, high-margin tech firms toward capital-heavy businesses that earn bigger absolute profits, the way Berkshire Hathaway used See's Candies cash to buy BNSF Railway.",
+      "title": "Cash the Ultimate Commodity (the Google Capital Company)"
+    },
+    "Cash-Conversion-Cycle": {
+      "definition": "The number of days between paying suppliers for goods and collecting cash from customers for them. A negative cycle means the firm gets paid by customers before it pays suppliers, so suppliers in effect fund its growth with free short-term loans. Fast-selling inventory and slow supplier payment terms push the cycle down.",
+      "title": "Cash Conversion Cycle"
+    },
+    "Channel-Conflict": {
+      "definition": "When a firm's would-be partners start to see it as a threat, because it sells competing products through other channels or works closely with their rivals. The partners may stop carrying the firm's goods. Gallaugher argues the side that offers the partners more total value usually wins.",
+      "title": "Channel Conflict"
+    },
+    "Collaborative-Filtering": {
+      "definition": "Software that spots patterns in what many customers buy or browse and uses them to personalize each customer's experience, such as recommending items that similar shoppers bought. It gets better as more customer data builds up.",
+      "title": "Collaborative Filtering"
+    },
+    "Commoditize-Your-Complements": {
+      "definition": "A strategy where a firm makes the products that go with its own core business cheap or free, so that demand for its core business grows and no rival can capture the value. Thompson uses it in 2026 to explain why China pushes open weight AI models: free, widely available AI helps China's physical industries like robotics, which are its real strength.",
+      "title": "Commoditize Your Complements"
+    },
+    "Commodity-Cost-Advantage": {
+      "definition": "There are two ways to earn steady profits: be different enough to charge more (the Apple model), or sell a commodity with a lower cost structure than rivals. In a commodity market the price settles where the highest-cost seller earns about zero, so every cheaper seller keeps the gap as profit. Thompson argues AWS runs on this second model.",
+      "title": "Winning a Commodity Market on Cost"
+    },
+    "Conservation-of-Attractive-Profits": {
+      "definition": "Clay Christensen's idea that profits in a value chain go to the integrated, differentiated part, and leave the modular, commoditized parts. When one part becomes a commodity, profit moves to the next part that can be integrated. Apple is the standard example: hardware integrated with its own software is not a commodity.",
+      "title": "Conservation of Attractive Profits"
+    },
+    "Constitutional-AI": {
+      "definition": "Anthropic's way of training AI models to follow an explicit written set of principles, instead of relying only on people rating answers (reinforcement learning from human feedback, RLHF). Supporters say it makes models safer and more reliable.",
+      "title": "Constitutional AI"
+    },
+    "Content-Regulation-Framework": {
+      "definition": "Thompson's 2019 framework for regulating online content. Free speech is guaranteed at the infrastructure level (ISPs cannot block or throttle). General platform providers, like cloud hosts, stay free of liability for what users post and are policed by the market. Only platforms paid mainly by advertising get their own category of regulation, because they earn money from engagement rather than from users paying, so no price signal pushes them to care about harmful content. He also separates what is posted from what the algorithm promotes.",
+      "title": "A Framework for Regulating Content on the Internet"
+    },
+    "Contract-Manufacturing": {
+      "definition": "Paying outside factories to make your products instead of owning the plants or employing the workers. It lowers costs and lets a firm grow without building factories, but it adds long lead times and exposes the brand to the contractor's labor, safety, and environmental failures.",
+      "title": "Contract Manufacturing"
+    },
+    "Cook-Doctrine": {
+      "definition": "Tim Cook's statement of Apple's values, given on the January 2009 earnings call while Steve Jobs was on medical leave. Apple exists to make great products, prefers the simple to the complex, owns and controls the primary technologies behind its products, says no to thousands of projects to focus on a few, and only enters markets where it can make a significant contribution. It became the core of Apple University's teaching on what makes Apple Apple.",
+      "title": "The Cook Doctrine"
+    },
+    "Custom-Silicon": {
+      "definition": "Chips a company designs for its own use instead of buying from Nvidia, Intel, or AMD. Examples: Amazon's Nitro, Graviton (general CPU), and Trainium (AI). The payoff is lower cost per unit of work, not always top speed.",
+      "title": "Custom Silicon"
+    },
+    "Data-Asset": {
+      "definition": "Data a firm collects from its own operations and customers (sales by store and hour, clicks, returns) that rivals cannot buy. Used well, it drives better decisions on what to stock, price, and build. Its value comes from being unique and acted on, not from sheer size.",
+      "title": "Data as a Competitive Asset"
+    },
+    "Data-Center-Opposition": {
+      "definition": "Growing local pushback against building data centers, especially for AI. Neighbors worry about power bills, water, noise, and land, and also about AI taking jobs. Because a data center needs local permission to be built, towns and counties can slow or block the AI build-out.",
+      "title": "Local Opposition to Data Centers"
+    },
+    "De-Minimis-Rule": {
+      "definition": "A U.S. customs rule under which shipments worth $800 or less pay no import duty and skip most customs checks; many other nations have similar rules. Retailers that ship each order straight from a foreign factory to a single consumer, like Shein and Temu, stay under the limit, so their goods arrive cheaper and faster than bulk imports that stores bring in.",
+      "title": "De Minimis Rule (Import Loophole)"
+    },
+    "Dollars-Per-Gigawatt": {
+      "definition": "A way to measure how much of a data center's spending one supplier captures, stated as revenue per gigawatt of power the data center uses. Because power is the hard limit on how many AI data centers get built, a supplier grows by selling more of the parts inside each gigawatt (GPUs, CPUs, networking, systems). Nvidia uses it to argue its opportunity per gigawatt rose from about $18 billion with Hopper to $40 billion with Vera Rubin.",
+      "title": "Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)"
+    },
+    "Down-Round": {
+      "definition": "A funding round for a private company at a lower valuation than its previous round. It signals that investors now think the company is worth less than before, though the company still gets new cash.",
+      "title": "Down-Round"
+    },
+    "Drop-Shipping": {
+      "definition": "Selling goods the seller never holds. The seller takes the order and passes it to a supplier, who ships straight to the customer. It needs little money to start, but the seller has little control over quality, shipping time, or returns, so customer experience often suffers.",
+      "title": "Drop Shipping"
+    },
+    "Dynamic-Pricing": {
+      "definition": "Changing prices on the fly as conditions change, such as raising a price when an item is scarce or when rivals sell out, and cutting it to match a rival. Data and software let an online seller do this constantly. It can lift profit, but shoppers get angry if they feel cheated.",
+      "title": "Dynamic Pricing"
+    },
+    "Enshittification": {
+      "definition": "Cory Doctorow's word for how maturing tech platforms get worse: once users and suppliers are locked in, the firm changes the service to squeeze more profit from both, for example by filling results with paid ads. Growth goes up while the experience goes down, which opens the door to rivals.",
+      "title": "Enshittification"
+    },
+    "Enterprise-Philosophy": {
+      "definition": "Thompson's 2024 idea that enterprise tech is driven by the buyer, not the user: executives who want more revenue and lower costs and judge AI coldly on the bottom line. He compares AI agents to the 1970s mainframe wave, when software replaced clerical workers by executive decision rather than by employees choosing new tools. So the big AI opportunity is top-down company rollouts, not helping workers use chatbots.",
+      "title": "Enterprise Philosophy (Tech's Third Philosophy)"
+    },
+    "Export-Controls": {
+      "definition": "US rules that block or limit sales of advanced chips, such as Nvidia's top AI GPUs, and chipmaking tools to China. They aim to slow China's AI progress by starving it of compute. In response, Chinese labs like DeepSeek buy chips on the black market, squeeze more work out of fewer chips, and shift to homegrown chips such as Huawei's Ascend line.",
+      "title": "Chip Export Controls"
+    },
+    "Fast-Fashion": {
+      "definition": "Making clothes in small batches that follow current trends and reach stores in weeks instead of months. Sell what customers are buying now, make less of what they are not, and restock often. Zara built the model; Shein pushed it further online with test batches of a hundred or so pieces.",
+      "title": "Fast Fashion"
+    },
+    "First-Best-Customer": {
+      "definition": "Amazon's pattern: build a basic service (a primitive) for its own use, so Amazon is the first and best customer that justifies the cost, then sell the same service to other companies to gain scale. AWS, Amazon's logistics, and the Leo satellite network follow this path.",
+      "title": "First and Best Customer (Amazon Primitives)"
+    },
+    "First-Mover-Advantage": {
+      "definition": "The edge a firm can gain by entering a market before rivals. An early lead with a good product can bring big market share, customer lock-in, lessons learned inside the firm, and network effects from partners and skilled workers who build around it. Being first only pays if the firm uses the head start to build assets rivals cannot quickly copy.",
+      "title": "First-Mover Advantage"
+    },
+    "Flywheel": {
+      "definition": "A loop where each part of a business pushes the next one faster. Amazon's version: lower prices bring more customers, more customers draw more sellers and more selection, more volume lowers costs, and lower costs allow lower prices again. Once it spins, rivals must match every part at once to catch up.",
+      "title": "Flywheel (Virtuous Cycle)"
+    },
+    "Gallaughers-Law": {
+      "definition": "John Gallaugher's joke rule: 'Any idiot with funding can ruin a market.' A well-funded entrant that sells below cost, like Pets.com in the dot-com era, can wreck prices for everyone even if its own model can never make money.",
+      "title": "Gallaugher's Law"
+    },
+    "Gamification": {
+      "definition": "Adding game features such as scores, levels, contests, and prizes to work or other non-game tasks to make them less boring and more productive. Amazon warehouses, Uber drivers, and fitness apps all use it. The fun of competing fades fast, so games need to change over time.",
+      "title": "Gamification"
+    },
+    "Generative-UI": {
+      "definition": "Software screens that an AI builds on request for one person and one task, instead of a fixed app built once for everyone. The interface can be thrown away and made again whenever it is needed. Thompson sees it as the path from today's apps to AI that shows you just the choices you need at the moment.",
+      "title": "Generative UI (On-Demand Interfaces)"
+    },
+    "Hybrid-Cloud": {
+      "definition": "A setup where a firm runs most work on its own computers but uses a public cloud such as AWS or Azure for extra capacity. Shifting load to the cloud during demand spikes is called bursting. It lets a firm avoid buying servers that sit idle most of the year.",
+      "title": "Hybrid Cloud and Bursting"
+    },
+    "Information-System-Components": {
+      "definition": "An information system is more than technology. It combines hardware, software, data, procedures, and the people who use it. Rollouts fail when firms buy flashy tech without getting the data, processes, and people right, so managers should forecast return on investment and test before launch.",
+      "title": "Information System (Five Components)"
+    },
+    "Intelligent-Personal-Hub": {
+      "definition": "John Ternus' 2026 name for the device at the center of a person's AI life: always with you, deeply personal, able to run AI models and see and hear the world, and tied to your apps and services. Apple says the iPhone is that hub. Thompson accepts the idea but argues the real hub may be a cloud agent, like Meta's Muse, that runs all the time and may not need apps at all.",
+      "title": "Intelligent Personal Hub"
+    },
+    "Inventory-Turns": {
+      "definition": "How many times a firm sells through and replaces its average inventory in a period, usually a year. Higher turns mean goods sell faster, cash comes back sooner, and perishable stock is fresher. FreshDirect reported 197 turns a year against about 40 at traditional grocers.",
+      "title": "Inventory Turns"
+    },
+    "LATR-Model": {
+      "definition": "Shein's name for its production loop: make a tiny first batch of a new design, show it in ads and the app as a test, and order bigger runs only for items the data says are selling. Because first runs are so small, flops cost little, and thousands of designs can be tested at once.",
+      "title": "Large-Scale Automated Test and Reorder (LATR)"
+    },
+    "LLM-Inflection-Points": {
+      "definition": "Thompson's timeline of AI shifts. One: ChatGPT (November 2022), answers straight from the model. Two: reasoning models, OpenAI o1 (September 2024), where the model thinks before answering and uses many more tokens. Three: working agents, Opus 4.5 (late 2025), where agents call reasoning models many times and one person can run many agents. Each step multiplies demand for compute.",
+      "title": "Three LLM Inflection Points"
+    },
+    "Local-Inference": {
+      "definition": "Running an AI model on computers you own instead of paying a cloud provider like Anthropic or OpenAI per request. You pay up front for hardware (mostly GPU memory, called VRAM, which sets how big a model fits), then each use is nearly free and your data never leaves your machine. Open weight models (models whose files anyone can download) make it possible; the trade-off is cost, setup work, and models a step behind the best hosted ones.",
+      "title": "Local Inference (Running AI Models on Your Own Hardware)"
+    },
+    "Long-Tail": {
+      "definition": "The huge number of niche products that each sell a little. A physical store only has shelf room for hits, but an online store with a big warehouse or third-party sellers can carry millions of niche items, and together they add up to a large share of sales.",
+      "title": "The Long Tail"
+    },
+    "Network-Effects": {
+      "definition": "When a product gets more valuable as more people use it. In a marketplace, more buyers attract more sellers and more sellers attract more buyers (a two-sided or indirect network effect). The biggest network tends to pull further ahead, so these markets often end with one or two winners.",
+      "title": "Network Effects"
+    },
+    "Omnichannel": {
+      "definition": "Running stores, website, and apps as one joined system, so customers can buy online and pick up or return in a store, or find an item online while standing in a shop. The goal is more sales and a smoother experience, and it depends on knowing where every item is.",
+      "title": "Omnichannel Retail"
+    },
+    "Open-Weight-Models": {
+      "definition": "AI models whose trained settings (weights) are published so anyone can download and run them, unlike closed models such as GPT or Claude that are only reached through the maker's service. Chinese labs like DeepSeek, Moonshot and Alibaba's Qwen lead here, and their low prices pressure closed-model makers.",
+      "title": "Open-Weight Models"
+    },
+    "Opportunity-Cost-of-Compute": {
+      "definition": "Thompson's idea that AI compute is scarce, so every chip a company uses for one purpose is a chip it cannot rent to someone else. Firms with a cloud or enterprise business give up paying customers when they spend compute on free consumer products. A firm with no cloud business, like Meta, gives up nothing, so it can focus all its compute on consumers.",
+      "title": "Opportunity Cost of Compute"
+    },
+    "Paperclip-Maximizer": {
+      "definition": "Nick Bostrom's 2003 thought experiment. A well-meaning team makes a mistake in a superintelligent AI's goal, for example telling it to make paperclips, and it pursues that goal so single-mindedly that it turns the earth into paperclip factories. The lesson is to be careful what you ask a powerful AI for, because you might get it.",
+      "title": "Paperclip Maximizer (Bostrom)"
+    },
+    "Price-Umbrella": {
+      "definition": "A price umbrella is when the market leader charges more than its costs require, because demand is bigger than supply. Rivals can then price below the leader and look cheap, even if their own costs are not lower. When supply catches up, the umbrella shrinks and prices fall toward cost.",
+      "title": "Price Umbrella (Price Overhang)"
+    },
+    "Product-Market-Fit": {
+      "definition": "How well a product meets real demand from the customers it targets. With strong fit, customers want the product and the business can grow into a large, profitable one. Early online grocers like Webvan failed largely because suburban shoppers did not want the service; FreshDirect found fit with car-less, time-strapped New Yorkers.",
+      "title": "Product-Market Fit"
+    },
+    "Referral-vs-Distribution": {
+      "definition": "A way to judge whether AI hurts a consumer business. If AI acts as a referral channel, it sends shoppers on to the business, which keeps the customer relationship, like a better Google Search. If AI acts as a distributor, it sits between the business and the customer and reduces the business to an API call (a back-end service the AI calls). The first is mostly good for incumbents; the second is the real threat.",
+      "title": "AI as Referral Channel vs Distributor"
+    },
+    "Reward-Hacking": {
+      "definition": "When an AI (or a person or company) hits the goal it is scored on but in a way that defeats the real point of the goal. The system chases the measurable proxy instead of the purpose behind it. Thompson counts it among the alignment problems he worries about most, and applies it to companies as well as models.",
+      "title": "Reward Hacking"
+    },
+    "Scale-Economies": {
+      "definition": "When a firm's cost per unit falls as it gets bigger, because fixed costs (warehouses, software, data centers, ad buys) are spread over more sales and big buyers get better terms. A larger rival can then charge less or earn more than a smaller one, which is hard to copy.",
+      "title": "Scale Economies"
+    },
+    "Seats-Plus-Consumption": {
+      "definition": "Microsoft's 2026 description of how its software will be sold once AI agents do work. Customers still pay a fixed license per person (a seat), but they also pay a metered fee for how much agent work they use, like a cloud bill. The shift answers a threat: if agents replace workers, a pure per-seat business shrinks, so the vendor must earn money from usage instead.",
+      "title": "Seats Plus Consumption (Per-User Plus Usage Pricing)"
+    },
+    "Shapley-Values": {
+      "definition": "A rule from cooperative game theory for splitting a shared gain among the people who helped make it. Each player gets paid by how much they add on average, across every mix of players with and without them. So a rare, hard-to-replace input earns more than one many others can also supply. Computing it exactly is very costly, so in practice it is estimated.",
+      "title": "Shapley Values"
+    },
+    "Straddling": {
+      "definition": "Trying to hold two strategic positions at once, such as running both stores and a delivery warehouse, and ending up worse at each than a rival focused on only one. The costs and compromises of serving both models keep the straddler from matching the focused firm's efficiency.",
+      "title": "Straddling"
+    },
+    "Sustainable-Competitive-Advantage": {
+      "definition": "An edge a rival cannot easily copy. Technology alone rarely is one, since it can be bought. Lasting advantage comes from assets like brand, scale, network effects, switching costs, data, and above all from many parts of a business that fit together and reinforce each other, so a copier must match the whole system.",
+      "title": "Sustainable Competitive Advantage"
+    },
+    "Sustaining-vs-Disruptive-Innovation": {
+      "definition": "Clayton Christensen's split from The Innovator's Dilemma. A sustaining innovation makes existing products better in the ways current customers already value, so incumbents tend to get stronger. A disruptive innovation starts out worse for mainstream customers but is cheaper, simpler, or more convenient for a few new ones, so startups tend to capture the value.",
+      "title": "Sustaining vs Disruptive Innovation"
+    },
+    "Switching-Costs": {
+      "definition": "What a customer loses in money, time, data, or effort by moving to a rival: a paid membership, a library of bought e-books, stored settings, learned habits. High switching costs keep customers even when a rival is a little cheaper or better.",
+      "title": "Switching Costs"
+    },
+    "Two-Pizza-Teams": {
+      "definition": "Amazon's rule that any project team should be small enough to be fed by two pizzas. Small teams move fast, avoid groupthink, and let several teams try rival solutions at once. It is a way to keep a big company acting like a startup.",
+      "title": "Two-Pizza Teams"
+    },
+    "Two-Sided-Marketplace": {
+      "definition": "A business that connects two groups, such as buyers and third-party sellers, and earns fees on their trades instead of owning the goods. It can grow selection fast without buying stock, but must balance both sides and police bad actors.",
+      "title": "Two-Sided Marketplace (Platform)"
+    },
+    "Unified-Content-Business-Model": {
+      "definition": "Thompson's 2023 idea that the strongest content businesses offer the same content two ways at once: free with ads for most people, and a paid subscription with no ads for those who will pay. YouTube is his main example. Serving both groups from one service lets a company reach the most people and still earn the most per fan.",
+      "title": "The Unified Content Business Model"
+    },
+    "VR-vs-AR": {
+      "definition": "Thompson's split: virtual reality is an immersive experience that pulls you out of your surroundings; augmented reality adds to the world you are already in. He argues the difference is about immersion and input method, not whether your eyes are covered.",
+      "title": "Virtual vs Augmented Reality"
+    },
+    "Verification-Advantage": {
+      "definition": "Thompson's idea that AI models improve fastest on tasks where you can check the answer, like code that runs or fails. So a company that owns a clear pass or fail signal, such as whether an ad led to a sale, has an edge in training models. Markets are verification machines: with enough volume, their outcomes tell a model what worked.",
+      "title": "Verification Advantage (Verifiable Data)"
+    },
+    "Vertical-Integration": {
+      "definition": "Owning more steps of the chain that makes and delivers a product (design, making, shipping, selling) instead of buying them from other firms. It costs money up front but gives control over speed, quality, and data, and makes the whole system harder for rivals to copy.",
+      "title": "Vertical Integration"
+    },
+    "Wholesale-vs-Agency-Pricing": {
+      "definition": "Two ways a store can sell a supplier's goods. Under wholesale pricing the store buys the item and sets any retail price it likes, even below cost. Under agency pricing the supplier sets the retail price and the store takes a fixed cut, often about 30 percent. The e-book fight between Amazon, Apple, and publishers turned on which model applied.",
+      "title": "Wholesale vs Agency Pricing"
+    },
+    "World-Models": {
+      "definition": "AI models that learn how the physical world works (how things move, fall, and push on each other) so they can simulate it, not just describe it in words. Demis Hassabis of Google DeepMind argues much of this knowledge is hard to put into text, so language models miss it. He sees generating realistic video and interactive worlds as proof of that understanding, and as a path to robots, everyday assistants, and AGI.",
+      "title": "World Models"
+    },
+    "Zero-Data-Retention": {
+      "definition": "A promise from an AI provider that it will not keep a customer's prompts and outputs after a request is done. For most large companies this is a must before they send sensitive work to a model. Fights over retention are fights over trust and over who gets to see and later use the data.",
+      "title": "Zero Data Retention"
+    }
+  },
+  "entities": {
+    "A&P": {
+      "blurb": "Grocery chain that held 80 percent of US grocery sales in the 1920s and 1930s, then fell.",
+      "kind": "company"
+    },
+    "AI Overviews": {
+      "blurb": "Google's AI-generated summaries at the top of search results.",
+      "kind": "product"
+    },
+    "AI21 Labs": {
+      "blurb": "Tel Aviv AI startup founded in 2017 that makes language models and the Wordtune writing apps.",
+      "kind": "company"
+    },
+    "AMD": {
+      "blurb": "Chipmaker; owns Xilinx.",
+      "kind": "company"
+    },
+    "AWS": {
+      "blurb": "Amazon Web Services, Amazon's cloud computing business and the largest cloud provider.",
+      "kind": "company"
+    },
+    "Adept AI Labs": {
+      "blurb": "San Francisco AI startup founded in 2021 that built a browser agent for office tasks.",
+      "kind": "company"
+    },
+    "Adobe": {
+      "blurb": "Maker of creative and document software, including Acrobat and the Firefly AI image generator.",
+      "kind": "company"
+    },
+    "Adyen": {
+      "blurb": "Dutch payments processor competing with Stripe; bought billing startup Orb in 2026.",
+      "kind": "company"
+    },
+    "Ahold Delhaize": {
+      "blurb": "Dutch grocery giant, parent of Stop & Shop and Peapod; bought a majority of FreshDirect (2021) then sold it to Getir.",
+      "kind": "company"
+    },
+    "Airbnb": {
+      "blurb": "Home-sharing marketplace that connects travelers with hosts renting out their own homes or rooms.",
+      "kind": "company"
+    },
+    "Alex Karp": {
+      "blurb": "Co-founder and CEO of Palantir.",
+      "kind": "person"
+    },
+    "Alexa": {
+      "blurb": "Amazon's voice assistant, used in Echo smart speakers.",
+      "kind": "product"
+    },
+    "Alexandr Wang": {
+      "blurb": "Chief AI Officer of Meta, leading Meta Superintelligence Labs.",
+      "kind": "person"
+    },
+    "AliExpress": {
+      "blurb": "Alibaba's international cross-border shopping site.",
+      "kind": "company"
+    },
+    "Alibaba": {
+      "blurb": "Chinese e-commerce and cloud company.",
+      "kind": "company"
+    },
+    "AllianceBernstein": {
+      "blurb": "Global asset manager.",
+      "kind": "company"
+    },
+    "Amancio Ortega": {
+      "blurb": "Spanish founder of Zara and Inditex.",
+      "kind": "person"
+    },
+    "Amazon": {
+      "blurb": "US e-commerce, logistics, and cloud company (AWS). Known for long-term, capital-heavy bets in the physical world.",
+      "kind": "company"
+    },
+    "Amazon Bedrock": {
+      "blurb": "AWS service that lets customers run AI models such as Claude and OpenAI models inside Amazon's cloud; launched 2023.",
+      "kind": "product"
+    },
+    "Amazon Fresh": {
+      "blurb": "Amazon's full-service grocery store chain, known for Dash Carts.",
+      "kind": "product"
+    },
+    "Amazon Go": {
+      "blurb": "Amazon's cashierless 'just walk out' convenience stores.",
+      "kind": "product"
+    },
+    "Amazon One": {
+      "blurb": "Amazon's palm-scan payment and identity service.",
+      "kind": "product"
+    },
+    "Amazon Prime": {
+      "blurb": "Amazon's paid membership with fast free shipping and other perks.",
+      "kind": "product"
+    },
+    "American Airlines": {
+      "blurb": "Large US airline that signed a Starlink inflight Wi-Fi deal in 2026.",
+      "kind": "company"
+    },
+    "Amjad Masad": {
+      "blurb": "CEO of Replit.",
+      "kind": "person"
+    },
+    "Amy Hood": {
+      "blurb": "Chief Financial Officer of Microsoft.",
+      "kind": "person"
+    },
+    "Andrej Karpathy": {
+      "blurb": "AI researcher, formerly at OpenAI and Tesla, recruited by Anthropic in May 2026 to lead a team on recursive self-improvement.",
+      "kind": "person"
+    },
+    "Andrew Bosworth": {
+      "blurb": "Chief Technology Officer of Meta.",
+      "kind": "person"
+    },
+    "Andrew Sharp": {
+      "blurb": "Writer of Sharp Text and co-host of Stratechery podcasts including Sharp China.",
+      "kind": "person"
+    },
+    "Andy Jassy": {
+      "blurb": "CEO of Amazon.",
+      "kind": "person"
+    },
+    "Aneel Bhusri": {
+      "blurb": "Workday co-founder, back as CEO since February 2026.",
+      "kind": "person"
+    },
+    "Annapurna Labs": {
+      "blurb": "Israeli chip designer Amazon bought (2015; the Gallaugher book says 2016); designs AWS's Nitro, Graviton, Trainium, and Inferentia chips.",
+      "kind": "company"
+    },
+    "Anthony Liguori": {
+      "blurb": "Senior AWS engineering leader who led the Project Mantle rebuild of Bedrock.",
+      "kind": "person"
+    },
+    "Anthropic": {
+      "blurb": "AI lab that makes the Claude models and Claude Code; focused on enterprise customers.",
+      "kind": "company"
+    },
+    "Apollo Global Management": {
+      "blurb": "Private investment firm that owns most of Stream Data Centers and helps finance AI compute.",
+      "kind": "company"
+    },
+    "Apple": {
+      "blurb": "US maker of the iPhone, Mac, and wearables; integrates hardware and software.",
+      "kind": "company"
+    },
+    "Apple TV": {
+      "blurb": "Apple's streaming box and video app.",
+      "kind": "product"
+    },
+    "Apple Watch": {
+      "blurb": "Apple's smartwatch line; Series 12 and Ultra 4 added always-listening Audio Intelligence in 2026.",
+      "kind": "product"
+    },
+    "Aravind Srinivas": {
+      "blurb": "CEO of Perplexity.",
+      "kind": "person"
+    },
+    "Arm": {
+      "blurb": "British chip design firm whose instruction set powers most phones and a growing share of server CPUs such as Graviton, Axion and Nvidia's Vera.",
+      "kind": "company"
+    },
+    "Arvind Krishna": {
+      "blurb": "CEO of IBM.",
+      "kind": "person"
+    },
+    "Associated Press": {
+      "blurb": "U.S. news agency.",
+      "kind": "company"
+    },
+    "Atlassian": {
+      "blurb": "Maker of Jira and Confluence workplace software.",
+      "kind": "company"
+    },
+    "BNSF Railway": {
+      "blurb": "Berkshire Hathaway-owned U.S. freight railroad; a capital-hungry business with large absolute profits.",
+      "kind": "company"
+    },
+    "BTG Capital": {
+      "blurb": "Canadian private equity and infrastructure firm focused on mid-sized transport, logistics and energy deals.",
+      "kind": "company"
+    },
+    "Barnes & Noble": {
+      "blurb": "U.S. bookstore chain; launched the Nook to rival the Kindle.",
+      "kind": "company"
+    },
+    "Baseten": {
+      "blurb": "AI inference provider.",
+      "kind": "company"
+    },
+    "Ben Thompson": {
+      "blurb": "Author of Stratechery, a tech strategy newsletter; creator of Aggregation Theory.",
+      "kind": "person"
+    },
+    "Berkshire Hathaway": {
+      "blurb": "Warren Buffett's holding company; invested $10 billion in Alphabet equity in June 2026.",
+      "kind": "company"
+    },
+    "Bill Gates": {
+      "blurb": "Microsoft co-founder and philanthropist.",
+      "kind": "person"
+    },
+    "BlackBerry": {
+      "blurb": "Research In Motion's hand-held email phone, the leading smartphone before the iPhone.",
+      "kind": "product"
+    },
+    "BlackRock": {
+      "blurb": "World's largest asset manager.",
+      "kind": "company"
+    },
+    "Blackstone": {
+      "blurb": "Large private equity and alternative asset manager.",
+      "kind": "company"
+    },
+    "Block": {
+      "blurb": "Payments company (Square, Cash App) founded by Jack Dorsey.",
+      "kind": "company"
+    },
+    "Blue Owl Capital": {
+      "blurb": "Alternative asset manager that funds data center projects.",
+      "kind": "company"
+    },
+    "Booz Allen Hamilton": {
+      "blurb": "US government and defense consulting firm that does sensitive cybersecurity work.",
+      "kind": "company"
+    },
+    "Brett Stevenson": {
+      "blurb": "Founder and managing partner of BTG Capital.",
+      "kind": "person"
+    },
+    "Broadcom": {
+      "blurb": "Chip company that makes Google's TPU chips together with Google.",
+      "kind": "company"
+    },
+    "C.C. Wei": {
+      "blurb": "CEO of TSMC.",
+      "kind": "person"
+    },
+    "Calcbench": {
+      "blurb": "Financial data provider that analyzes company filings.",
+      "kind": "company"
+    },
+    "Capital One": {
+      "blurb": "U.S. bank and major AWS customer; suffered a 2019 data breach.",
+      "kind": "company"
+    },
+    "Cat Wu": {
+      "blurb": "Head of product for Claude Code at Anthropic.",
+      "kind": "person"
+    },
+    "Cerebras": {
+      "blurb": "AI chipmaker that turns a whole silicon wafer into one chip with fast on-chip memory; went public in May 2026.",
+      "kind": "company"
+    },
+    "Chang Liu": {
+      "blurb": "OpenAI technical staff member and former Apple employee; named by Apple in its 2026 trade secret lawsuit.",
+      "kind": "person"
+    },
+    "Character.AI": {
+      "blurb": "Palo Alto startup founded in 2021 by former Google LaMDA builders where users chat with role-playing bots.",
+      "kind": "company"
+    },
+    "ChatGPT": {
+      "blurb": "OpenAI's consumer AI chatbot, used by more than 1 billion people a month in 2026.",
+      "kind": "product"
+    },
+    "Chris Xu": {
+      "blurb": "Founder and CEO of Shein.",
+      "kind": "person"
+    },
+    "Claude Code": {
+      "blurb": "Anthropic's AI coding agent.",
+      "kind": "product"
+    },
+    "Clayton Christensen": {
+      "blurb": "Late Harvard Business School professor known for disruption theory and the idea of integration versus modularity.",
+      "kind": "person"
+    },
+    "CleanSpark": {
+      "blurb": "Bitcoin miner moving into AI data centers.",
+      "kind": "company"
+    },
+    "Cleanview": {
+      "blurb": "Energy research firm led by CEO Michael Thomas.",
+      "kind": "company"
+    },
+    "Cloudflare": {
+      "blurb": "Internet infrastructure company that helps websites block AI crawlers and charge for access.",
+      "kind": "company"
+    },
+    "CodeRabbit": {
+      "blurb": "AI code-review service led by CEO Harjot Gill.",
+      "kind": "company"
+    },
+    "Cognition": {
+      "blurb": "AI coding agent startup founded by Scott Wu, valued at $48 billion in 2026.",
+      "kind": "company"
+    },
+    "Cohere": {
+      "blurb": "Toronto AI startup founded in 2019 that sells language models through an API; CEO Aidan Gomez co-invented the transformer.",
+      "kind": "company"
+    },
+    "Colette Kress": {
+      "blurb": "Chief Financial Officer of Nvidia.",
+      "kind": "person"
+    },
+    "Constellation Energy": {
+      "blurb": "US nuclear power operator that signed a power deal with Amazon in 2026.",
+      "kind": "company"
+    },
+    "Core Automation": {
+      "blurb": "AI startup led by former OpenAI research VP Jerry Tworek.",
+      "kind": "company"
+    },
+    "CoreWeave": {
+      "blurb": "Neocloud that rents out Nvidia AI chips; Nvidia has invested in it.",
+      "kind": "company"
+    },
+    "Craig Federighi": {
+      "blurb": "Apple's Senior Vice President of Software Engineering.",
+      "kind": "person"
+    },
+    "Cristóbal Valenzuela": {
+      "blurb": "CEO of AI video startup Runway ML.",
+      "kind": "person"
+    },
+    "Crusoe": {
+      "blurb": "AI data center developer.",
+      "kind": "company"
+    },
+    "Cursor": {
+      "blurb": "AI coding startup whose editor and agent harness gather large amounts of code usage data; SpaceX agreed to acquire it in 2026.",
+      "kind": "company"
+    },
+    "Dan Hendrycks": {
+      "blurb": "AI safety researcher who worked with xAI and joined Meta in 2026.",
+      "kind": "person"
+    },
+    "Daniela Amodei": {
+      "blurb": "Co-founder and President of Anthropic; former OpenAI vice president.",
+      "kind": "person"
+    },
+    "Dario Amodei": {
+      "blurb": "CEO and cofounder of Anthropic.",
+      "kind": "person"
+    },
+    "David Luan": {
+      "blurb": "CEO of Adept AI Labs; earlier led Google's large-model work and was a VP of engineering at OpenAI.",
+      "kind": "person"
+    },
+    "David McInerney": {
+      "blurb": "Co-founder and former CEO of FreshDirect; former Michelin-star restaurant chef.",
+      "kind": "person"
+    },
+    "David Robinson": {
+      "blurb": "Former OpenAI safety report lead who resigned in 2026 and criticized its safety culture.",
+      "kind": "person"
+    },
+    "David Zinsner": {
+      "blurb": "CFO of Intel.",
+      "kind": "person"
+    },
+    "Dax Raad": {
+      "blurb": "Open-source developer behind the OpenCode coding agent.",
+      "kind": "person"
+    },
+    "DeForest": {
+      "blurb": "Village of about 11,500 people near Madison, Wisconsin.",
+      "kind": "place"
+    },
+    "DeepSeek": {
+      "blurb": "Chinese AI lab based in Hangzhou that makes cheap, efficient open models such as V4 and R1.",
+      "kind": "company"
+    },
+    "Deliveroo": {
+      "blurb": "European food delivery company acquired by DoorDash.",
+      "kind": "company"
+    },
+    "Delivery Hero": {
+      "blurb": "European food delivery company that Uber is partly acquiring.",
+      "kind": "company"
+    },
+    "Dell": {
+      "blurb": "PC maker once known for vertically integrated build-to-order manufacturing.",
+      "kind": "company"
+    },
+    "Demis Hassabis": {
+      "blurb": "Co-founder and CEO of Google DeepMind.",
+      "kind": "person"
+    },
+    "Dianne Penn": {
+      "blurb": "Leads product management for research and labs at Anthropic.",
+      "kind": "person"
+    },
+    "Diogo Almeida": {
+      "blurb": "Former OpenAI researcher who runs TypeSafe AI.",
+      "kind": "person"
+    },
+    "Disney": {
+      "blurb": "Entertainment company with large film and TV libraries.",
+      "kind": "company"
+    },
+    "Dominion Energy": {
+      "blurb": "Virginia utility serving the largest US data center cluster.",
+      "kind": "company"
+    },
+    "DoorDash": {
+      "blurb": "US food and goods delivery app.",
+      "kind": "company"
+    },
+    "Duke Energy": {
+      "blurb": "US utility serving North Carolina and other states.",
+      "kind": "company"
+    },
+    "ERCOT": {
+      "blurb": "Operator of the Texas power grid.",
+      "kind": "organization"
+    },
+    "ESPN": {
+      "blurb": "Sports cable network; the most profitable network because every cable subscriber pays for it.",
+      "kind": "company"
+    },
+    "EY": {
+      "blurb": "Global accounting and consulting firm.",
+      "kind": "company"
+    },
+    "El Puerto de Liverpool": {
+      "blurb": "Mexican department store chain.",
+      "kind": "company"
+    },
+    "ElevenLabs": {
+      "blurb": "AI voice and speech generation company.",
+      "kind": "company"
+    },
+    "Eliyan": {
+      "blurb": "Chip interconnect startup founded in 2021 whose optical-electronic links let chiplets and AI racks share data faster.",
+      "kind": "company"
+    },
+    "Elon Musk": {
+      "blurb": "CEO of Tesla and SpaceX; bought Twitter in 2022.",
+      "kind": "person"
+    },
+    "Entergy": {
+      "blurb": "US utility that serves Mississippi and warned Amazon it would curtail its data centers.",
+      "kind": "company"
+    },
+    "Eric Seufert": {
+      "blurb": "Mobile advertising analyst who writes MobileDevMemo.",
+      "kind": "person"
+    },
+    "Etsy": {
+      "blurb": "Online marketplace for handmade and vintage goods from millions of small sellers.",
+      "kind": "company"
+    },
+    "Eugene Wei": {
+      "blurb": "Former Amazon employee and writer on Amazon's low-margin strategy.",
+      "kind": "person"
+    },
+    "European Commission": {
+      "blurb": "Executive arm of the European Union, which enforces EU competition law.",
+      "kind": "organization"
+    },
+    "Fair Factories Clearinghouse": {
+      "blurb": "Nonprofit where apparel firms share audit data on contract factories.",
+      "kind": "org"
+    },
+    "Fal": {
+      "blurb": "Inference provider specializing in image and video generation models.",
+      "kind": "company"
+    },
+    "FedEx": {
+      "blurb": "US package and freight delivery company.",
+      "kind": "company"
+    },
+    "Federal Reserve": {
+      "blurb": "The U.S. central bank.",
+      "kind": "organization"
+    },
+    "Federal Trade Commission": {
+      "blurb": "U.S. consumer protection and antitrust agency; sued Amazon in September 2023.",
+      "kind": "org"
+    },
+    "Figma": {
+      "blurb": "Design software maker whose AI tools include Figma Make.",
+      "kind": "company"
+    },
+    "Figure": {
+      "blurb": "Humanoid robot maker backed by Nvidia.",
+      "kind": "company"
+    },
+    "Fire Phone": {
+      "blurb": "Amazon's 2014 smartphone, canceled about a year after launch.",
+      "kind": "product"
+    },
+    "Fire TV": {
+      "blurb": "Amazon's streaming TV devices, running the Android-fork Fire OS.",
+      "kind": "product"
+    },
+    "Fireworks AI": {
+      "blurb": "One of the largest AI inference providers by revenue.",
+      "kind": "company"
+    },
+    "Flipkart": {
+      "blurb": "India's largest e-commerce firm, about 80 percent owned by Walmart.",
+      "kind": "company"
+    },
+    "Fluidstack": {
+      "blurb": "Cloud startup building data centers for Anthropic in Texas and New York.",
+      "kind": "company"
+    },
+    "Forever 21": {
+      "blurb": "U.S. mall fashion chain; bankrupt in 2020, now owned by Sparc Group.",
+      "kind": "company"
+    },
+    "Forrester": {
+      "blurb": "Technology research and advisory firm.",
+      "kind": "company"
+    },
+    "Fox": {
+      "blurb": "Fox Corporation, US broadcaster that runs the Fox One streaming service and bought Roku in 2026.",
+      "kind": "company"
+    },
+    "Frasers Group": {
+      "blurb": "UK retail group (Sports Direct and others).",
+      "kind": "company"
+    },
+    "FreshDirect": {
+      "blurb": "New York City online grocer that delivers from a single tech-heavy warehouse; owned by Ahold Delhaize then Getir.",
+      "kind": "company"
+    },
+    "GLM": {
+      "blurb": "Family of large open weight AI models; a compressed GLM-5.2 variant runs on four workstation GPUs.",
+      "kind": "product"
+    },
+    "Gabe Monroy": {
+      "blurb": "Workday CTO, formerly at Google.",
+      "kind": "person"
+    },
+    "Gallup": {
+      "blurb": "US polling company that surveys public opinion.",
+      "kind": "organization"
+    },
+    "Gap": {
+      "blurb": "U.S. apparel retailer; former industry leader and the book's contrast case for Zara.",
+      "kind": "company"
+    },
+    "Gemini": {
+      "blurb": "Google's family of AI models and its chatbot app.",
+      "kind": "product"
+    },
+    "Gentle Monster": {
+      "blurb": "South Korean eyewear brand partnering with Google on AI glasses.",
+      "kind": "company"
+    },
+    "Getir": {
+      "blurb": "Turkish quick-delivery firm that acquired FreshDirect in 2023.",
+      "kind": "company"
+    },
+    "GitHub": {
+      "blurb": "Code hosting service and hub for open source software, bought by Microsoft in 2018.",
+      "kind": "company"
+    },
+    "Google": {
+      "blurb": "Search and advertising giant (Alphabet); builds Gemini models and TPU chips.",
+      "kind": "company"
+    },
+    "Google Cloud": {
+      "blurb": "Google's cloud computing unit (GCP), which rents computing, AI models, and tools to businesses.",
+      "kind": "company"
+    },
+    "Google DeepMind": {
+      "blurb": "Google's AI research lab, led by Demis Hassabis, which builds the Gemini models.",
+      "kind": "company"
+    },
+    "Greg Peters": {
+      "blurb": "Co-CEO of Netflix.",
+      "kind": "person"
+    },
+    "Groq": {
+      "blurb": "AI chip company whose LPU inference chip Nvidia now sells as part of its Vera Rubin platform.",
+      "kind": "company"
+    },
+    "H&M": {
+      "blurb": "Swedish fashion retailer; world's number two clothing retailer and Zara's nearest rival.",
+      "kind": "company"
+    },
+    "HBO": {
+      "blurb": "Premium pay-TV network known for prestige original series; long the must-have subscription for top TV talent.",
+      "kind": "company"
+    },
+    "Hachette": {
+      "blurb": "Big Five book publisher that fought Amazon over eBook terms in 2014.",
+      "kind": "company"
+    },
+    "Harvey": {
+      "blurb": "Startup building AI agents for lawyers; a Parallel customer.",
+      "kind": "company"
+    },
+    "Hatch": {
+      "blurb": "Meta's personal AI agent, delayed from July 2026 for safety work.",
+      "kind": "product"
+    },
+    "Hill County": {
+      "blurb": "Rural Texas county southwest of Dallas.",
+      "kind": "place"
+    },
+    "Hon Hai": {
+      "blurb": "Taiwanese manufacturer also known as Foxconn; builds servers with Nvidia chips and resells them.",
+      "kind": "company"
+    },
+    "Huawei": {
+      "blurb": "Chinese telecom and electronics giant that makes smartphones and Ascend AI chips.",
+      "kind": "company"
+    },
+    "HubSpot": {
+      "blurb": "Marketing and sales software maker that charges per completed task for AI agents.",
+      "kind": "company"
+    },
+    "Hugging Face": {
+      "blurb": "Model hosting company; target of the 2026 'Hugging Face incident' hack.",
+      "kind": "company"
+    },
+    "Hulu": {
+      "blurb": "U.S. streaming service owned by TV network groups, a Netflix rival.",
+      "kind": "company"
+    },
+    "IBM": {
+      "blurb": "Old-line computing company; sells z-series mainframes, the software that runs on them, and consulting.",
+      "kind": "company"
+    },
+    "IDC": {
+      "blurb": "Market research firm that tracks smartphone and tech sales.",
+      "kind": "company"
+    },
+    "Inditex": {
+      "blurb": "Spanish fashion group (Industrias de Diseno Textil) that owns Zara and seven other brands.",
+      "kind": "company"
+    },
+    "Inflection": {
+      "blurb": "Palo Alto AI startup founded in 2022 by Mustafa Suleyman, Karén Simonyan and Reid Hoffman.",
+      "kind": "company"
+    },
+    "Instacart": {
+      "blurb": "Grocery delivery platform using contract shoppers to pick orders from retailers' stores.",
+      "kind": "company"
+    },
+    "Instinct": {
+      "blurb": "Viral AI consumer assistant startup.",
+      "kind": "company"
+    },
+    "Isomorphic Labs": {
+      "blurb": "Google DeepMind's drug-discovery spinout.",
+      "kind": "company"
+    },
+    "Jack Dorsey": {
+      "blurb": "Twitter co-founder and former CEO.",
+      "kind": "person"
+    },
+    "Jake Palmer": {
+      "blurb": "Former head of physical infrastructure for SpaceX's AI data centers; left in July 2026.",
+      "kind": "person"
+    },
+    "Jay Parikh": {
+      "blurb": "Microsoft executive who runs developer tools.",
+      "kind": "person"
+    },
+    "Jeff Bezos": {
+      "blurb": "Founder of Amazon and its CEO until 2021.",
+      "kind": "person"
+    },
+    "Jen Jones": {
+      "blurb": "Chief marketing officer of commercetools.",
+      "kind": "person"
+    },
+    "Jensen Huang": {
+      "blurb": "Co-founder and CEO of Nvidia.",
+      "kind": "person"
+    },
+    "Jet.com": {
+      "blurb": "E-commerce startup from Quidsi's founders, sold to Walmart.",
+      "kind": "company"
+    },
+    "Jim Kavanaugh": {
+      "blurb": "CFO of IBM.",
+      "kind": "person"
+    },
+    "Joanna Stern": {
+      "blurb": "Tech columnist and video maker; at the Wall Street Journal 2013 to 2026, now runs New Things and is NBC News chief technology analyst.",
+      "kind": "person"
+    },
+    "John Gruber": {
+      "blurb": "Apple-focused writer behind Daring Fireball and co-host of Dithering with Ben Thompson.",
+      "kind": "person"
+    },
+    "John Ternus": {
+      "blurb": "Apple's longtime hardware chief, named in April 2026 to succeed Tim Cook as CEO.",
+      "kind": "person"
+    },
+    "Jony Ive": {
+      "blurb": "Former Apple design chief; partnered with OpenAI on AI hardware through his firm io.",
+      "kind": "person"
+    },
+    "Kate Jensen": {
+      "blurb": "Head of Americas at Anthropic.",
+      "kind": "person"
+    },
+    "Kearney": {
+      "blurb": "Management consulting firm.",
+      "kind": "company"
+    },
+    "Kevan Parekh": {
+      "blurb": "Chief Financial Officer of Apple.",
+      "kind": "person"
+    },
+    "Kindle": {
+      "blurb": "Amazon's e-reader line, launched in 2007.",
+      "kind": "product"
+    },
+    "Kiro": {
+      "blurb": "AWS's AI coding assistant, a rival to Claude Code.",
+      "kind": "product"
+    },
+    "Kiva Systems": {
+      "blurb": "Massachusetts warehouse-robot maker Amazon bought; now the core of Amazon Robotics.",
+      "kind": "company"
+    },
+    "Kling AI": {
+      "blurb": "AI video model maker spun out of Chinese video app Kuaishou.",
+      "kind": "company"
+    },
+    "Koray Kavukcuoglu": {
+      "blurb": "Head of Google DeepMind since August 2026 and Google's chief AI architect; formerly DeepMind's CTO.",
+      "kind": "person"
+    },
+    "Krishna Rao": {
+      "blurb": "CFO of Anthropic.",
+      "kind": "person"
+    },
+    "Kroger": {
+      "blurb": "Largest pure-play US grocery chain.",
+      "kind": "company"
+    },
+    "Lambda": {
+      "blurb": "US neocloud that rents out Nvidia GPU capacity.",
+      "kind": "company"
+    },
+    "Liang Wenfeng": {
+      "blurb": "Founder and CEO of DeepSeek.",
+      "kind": "person"
+    },
+    "Lina Khan": {
+      "blurb": "FTC Chair under President Biden who led the 2023 antitrust suit against Amazon.",
+      "kind": "person"
+    },
+    "Lip-Bu Tan": {
+      "blurb": "CEO of Intel.",
+      "kind": "person"
+    },
+    "M.G. Siegler": {
+      "blurb": "Tech writer and investor who writes the Spyglass newsletter.",
+      "kind": "person"
+    },
+    "MCX": {
+      "blurb": "Failed retailer group mobile payments standard backed by Walmart, Target, Best Buy and others.",
+      "kind": "org"
+    },
+    "MGM": {
+      "blurb": "Film studio Amazon bought in 2022.",
+      "kind": "company"
+    },
+    "MUFG": {
+      "blurb": "Mitsubishi UFJ Financial Group, a large Japanese bank and data center lender.",
+      "kind": "company"
+    },
+    "Manus": {
+      "blurb": "AI agent startup whose parent is Butterfly Effect; recently separated from Meta.",
+      "kind": "company"
+    },
+    "Mark Chen": {
+      "blurb": "Chief Research Officer of OpenAI.",
+      "kind": "person"
+    },
+    "Mark Zuckerberg": {
+      "blurb": "Co-founder and CEO of Meta.",
+      "kind": "person"
+    },
+    "Marvell": {
+      "blurb": "Chip designer that makes networking and custom AI chips; bought Celestial AI in 2026.",
+      "kind": "company"
+    },
+    "Matt Garman": {
+      "blurb": "CEO of AWS, Amazon's cloud business; joined AWS as an intern.",
+      "kind": "person"
+    },
+    "McKinsey": {
+      "blurb": "Management consulting firm.",
+      "kind": "company"
+    },
+    "Meta": {
+      "blurb": "Owner of Facebook, Instagram, and WhatsApp; also builds AI models (Llama, Muse Spark) and smart glasses.",
+      "kind": "company"
+    },
+    "Michael Burry": {
+      "blurb": "Investor known for predicting the 2008 mortgage crisis.",
+      "kind": "person"
+    },
+    "Michael Dalton": {
+      "blurb": "OpenAI security researcher who presented the Hugging Face incident at Black Hat USA.",
+      "kind": "person"
+    },
+    "Michael Morton": {
+      "blurb": "Senior research analyst at MoffettNathanson covering e-commerce and marketplaces; formerly on YouTube's strategy team.",
+      "kind": "person"
+    },
+    "Michael Truell": {
+      "blurb": "Co-founder and CEO of Cursor.",
+      "kind": "person"
+    },
+    "Mickey Drexler": {
+      "blurb": "Former Gap CEO who made Gap iconic, then led its youth-market misstep.",
+      "kind": "person"
+    },
+    "Microsoft": {
+      "blurb": "US software and cloud company (Windows, Office, Azure, Xbox); a major OpenAI investor.",
+      "kind": "company"
+    },
+    "MiniMax": {
+      "blurb": "Chinese AI startup that sells cheap AI models.",
+      "kind": "company"
+    },
+    "Modal": {
+      "blurb": "Cloud compute and inference provider for AI developers.",
+      "kind": "company"
+    },
+    "Moonshot AI": {
+      "blurb": "Chinese AI startup that makes the Kimi open weight models, including Kimi K3.",
+      "kind": "company"
+    },
+    "Morgan Stanley": {
+      "blurb": "U.S. investment bank.",
+      "kind": "company"
+    },
+    "Moxie Marlinspike": {
+      "blurb": "Security researcher who created Signal; partnered with Meta on encrypted AI chat in 2026.",
+      "kind": "person"
+    },
+    "Mustafa Suleyman": {
+      "blurb": "Co-founder of DeepMind and CEO of Inflection.",
+      "kind": "person"
+    },
+    "NBC News": {
+      "blurb": "US broadcast news network, home of the Today show.",
+      "kind": "company"
+    },
+    "NBCUniversal": {
+      "blurb": "Comcast's media arm; owns Peacock.",
+      "kind": "company"
+    },
+    "Nat Friedman": {
+      "blurb": "Head of product at Meta's AI effort; former GitHub CEO and AI investor.",
+      "kind": "person"
+    },
+    "Nebius": {
+      "blurb": "Neocloud that rents out AI chips; Nvidia has invested in it.",
+      "kind": "company"
+    },
+    "Netflix": {
+      "blurb": "Video streaming service; an AWS customer that competes with Amazon Prime Video.",
+      "kind": "company"
+    },
+    "Nick Bostrom": {
+      "blurb": "Philosopher who framed the paperclip problem of AI goal design in 2003.",
+      "kind": "person"
+    },
+    "Nike": {
+      "blurb": "Sportswear company long dogged by sweatshop allegations.",
+      "kind": "company"
+    },
+    "Noam Brown": {
+      "blurb": "OpenAI research scientist working on reasoning and agents; earlier built the Diplomacy-playing AI at Meta.",
+      "kind": "person"
+    },
+    "Noam Shazeer": {
+      "blurb": "Co-founder of Character.AI; earlier built Google's LaMDA.",
+      "kind": "person"
+    },
+    "Northern Data": {
+      "blurb": "German neocloud with 22,000 Nvidia Hopper GPUs, bought by Rumble in June 2026.",
+      "kind": "company"
+    },
+    "Northrop Grumman": {
+      "blurb": "US defense contractor that runs open-source AI models on air-gapped servers.",
+      "kind": "company"
+    },
+    "Notion": {
+      "blurb": "Workspace software maker whose Notion Agent searches the web through Parallel's API.",
+      "kind": "company"
+    },
+    "Nscale": {
+      "blurb": "UK-based neocloud that rents out GPU capacity.",
+      "kind": "company"
+    },
+    "Nvidia": {
+      "blurb": "US chip designer whose GPUs (graphics processors) dominate AI training and inference.",
+      "kind": "company"
+    },
+    "Ocado": {
+      "blurb": "British online grocer whose warehouse automation tech Kroger licenses.",
+      "kind": "company"
+    },
+    "OpenAI": {
+      "blurb": "AI lab behind ChatGPT, the o1 reasoning models, and Codex.",
+      "kind": "company"
+    },
+    "OpenClaw": {
+      "blurb": "An agent harness (software that runs AI agents) popular on Mac Minis and Mac Studios; by default it calls cloud AI models.",
+      "kind": "product"
+    },
+    "OpenRouter": {
+      "blurb": "Service that sits between developers and AI model providers; being bought by Stripe for more than $7 billion.",
+      "kind": "company"
+    },
+    "Oracle": {
+      "blurb": "Enterprise software and cloud company building large AI data centers for OpenAI.",
+      "kind": "company"
+    },
+    "Oura": {
+      "blurb": "Smart ring maker.",
+      "kind": "company"
+    },
+    "PDD Holdings": {
+      "blurb": "Parent of Temu and Pinduoduo; moved headquarters from Shanghai to Dublin in 2023.",
+      "kind": "company"
+    },
+    "PJM": {
+      "blurb": "Largest US grid operator, covering parts of Virginia, Illinois and other states.",
+      "kind": "organization"
+    },
+    "PR Newswire": {
+      "blurb": "Press release distribution service; an Index by Parallel launch partner.",
+      "kind": "company"
+    },
+    "Palantir": {
+      "blurb": "Data analytics and software company that serves the U.S. government and large enterprises.",
+      "kind": "company"
+    },
+    "Parag Agrawal": {
+      "blurb": "Founder and CEO of Parallel; former CTO and then CEO of Twitter until Elon Musk bought it. Also spelled Agrawal.",
+      "kind": "person"
+    },
+    "Parallel": {
+      "blurb": "Startup founded in 2023 by Parag Agarwal that sells web search and deep research to AI agents through a pay-per-use API, and pays content owners via Index by Parallel.",
+      "kind": "company"
+    },
+    "Partners Group": {
+      "blurb": "Swiss asset manager with $186 billion under management; invests in infrastructure including data center power.",
+      "kind": "company"
+    },
+    "PayPal": {
+      "blurb": "Online payments company.",
+      "kind": "company"
+    },
+    "Peacock": {
+      "blurb": "NBCUniversal's streaming service.",
+      "kind": "product"
+    },
+    "Peapod": {
+      "blurb": "Ahold Delhaize's long-running online grocery delivery service.",
+      "kind": "company"
+    },
+    "Penske Media": {
+      "blurb": "Digital publisher (Rolling Stone, Variety) that sued Google over AI Overviews.",
+      "kind": "company"
+    },
+    "Perplexity": {
+      "blurb": "AI answer engine startup led by Aravind Srinivas.",
+      "kind": "company"
+    },
+    "PhonePe": {
+      "blurb": "India's largest fintech startup and mobile payments app, majority owned by Walmart.",
+      "kind": "company"
+    },
+    "Pinduoduo": {
+      "blurb": "Chinese e-commerce platform; original name of Temu's parent PDD Holdings.",
+      "kind": "company"
+    },
+    "Pinterest": {
+      "blurb": "Social image discovery platform.",
+      "kind": "company"
+    },
+    "PitchBook": {
+      "blurb": "Private market data provider; a Parallel content partner.",
+      "kind": "company"
+    },
+    "Poolside": {
+      "blurb": "AI coding model startup that signed a $6 billion license-and-hire deal with Nvidia.",
+      "kind": "company"
+    },
+    "Prada": {
+      "blurb": "Italian luxury fashion house; its high-tech Manhattan flagship is a cautionary IS tale.",
+      "kind": "company"
+    },
+    "Primark": {
+      "blurb": "Low-price fashion retailer with no meaningful online sales.",
+      "kind": "company"
+    },
+    "Prime Air": {
+      "blurb": "Amazon's cargo airline and drone delivery unit.",
+      "kind": "product"
+    },
+    "Prime Video": {
+      "blurb": "Amazon's streaming video service, bundled with Prime.",
+      "kind": "product"
+    },
+    "QTS": {
+      "blurb": "US data center builder and operator.",
+      "kind": "company"
+    },
+    "Quidsi": {
+      "blurb": "New Jersey operator of Diapers.com and Wag.com; bought by Amazon, later shut down.",
+      "kind": "company"
+    },
+    "Qwen": {
+      "blurb": "Family of open weight AI models from Alibaba that can run on consumer GPUs.",
+      "kind": "product"
+    },
+    "Ramin Farjadrad": {
+      "blurb": "Co-founder and CEO of Eliyan.",
+      "kind": "person"
+    },
+    "Ramp": {
+      "blurb": "US corporate card and spend company that publishes an AI Index of business spending on AI models.",
+      "kind": "company"
+    },
+    "Randall Hunt": {
+      "blurb": "CTO of AWS consulting firm Caylent.",
+      "kind": "person"
+    },
+    "Reality Labs": {
+      "blurb": "Meta's hardware and wearables unit, which makes its smart glasses and headsets and runs heavy losses.",
+      "kind": "company"
+    },
+    "Reddit": {
+      "blurb": "Online discussion platform that licenses its data to AI companies.",
+      "kind": "company"
+    },
+    "Reebok": {
+      "blurb": "Sportswear brand that created and donated a supplier-audit system.",
+      "kind": "company"
+    },
+    "Reed Hastings": {
+      "blurb": "Netflix co-founder and former CEO.",
+      "kind": "person"
+    },
+    "Reid Hoffman": {
+      "blurb": "LinkedIn co-founder and Greylock investor; co-founder of Inflection.",
+      "kind": "person"
+    },
+    "Replit": {
+      "blurb": "AI coding platform led by CEO Amjad Masad.",
+      "kind": "company"
+    },
+    "Restaurant Associates": {
+      "blurb": "On-site dining management firm that partnered with FreshDirect during COVID-19.",
+      "kind": "company"
+    },
+    "Retail Link": {
+      "blurb": "Walmart's proprietary system that turns each checkout scan into reorders and shares sales data with suppliers.",
+      "kind": "product"
+    },
+    "Ring": {
+      "blurb": "Smart doorbell and home security maker Amazon bought for $1 billion.",
+      "kind": "company"
+    },
+    "Rivian": {
+      "blurb": "Electric vehicle maker supplying Amazon's delivery vans.",
+      "kind": "company"
+    },
+    "Roku": {
+      "blurb": "Streaming-device and TV-platform maker spun out of Netflix; sells other services through its channels feature; bought by Fox in 2026.",
+      "kind": "company"
+    },
+    "Rum Group": {
+      "blurb": "Formerly Rumble; runs the Rumble video platform, hosts Truth Social, and became a neocloud after buying Northern Data in 2026.",
+      "kind": "company"
+    },
+    "SB Energy": {
+      "blurb": "SoftBank-owned power and data center firm building capacity for OpenAI.",
+      "kind": "company"
+    },
+    "STRIVR": {
+      "blurb": "VR training startup that supplies Walmart's employee training headsets.",
+      "kind": "company"
+    },
+    "Salesforce": {
+      "blurb": "US maker of customer relationship software (CRM) for businesses; hosts the Dreamforce conference.",
+      "kind": "company"
+    },
+    "Sam Altman": {
+      "blurb": "CEO of OpenAI.",
+      "kind": "person"
+    },
+    "Sam's Club": {
+      "blurb": "Walmart's warehouse club chain; ran the cashierless Sam's Club Now test store in Dallas.",
+      "kind": "company"
+    },
+    "SambaNova Systems": {
+      "blurb": "AI chip startup that showed its chips running models jointly with Nvidia GPUs.",
+      "kind": "company"
+    },
+    "Samsung": {
+      "blurb": "South Korean electronics maker; Google's partner on Android phones and AI glasses.",
+      "kind": "company"
+    },
+    "Satya Nadella": {
+      "blurb": "CEO of Microsoft.",
+      "kind": "person"
+    },
+    "Scott Guthrie": {
+      "blurb": "Microsoft executive who runs Azure, its cloud and AI group.",
+      "kind": "person"
+    },
+    "Scott Kirby": {
+      "blurb": "CEO of United Airlines.",
+      "kind": "person"
+    },
+    "Scott Wu": {
+      "blurb": "Founder of coding agent startup Cognition and a former math competition star.",
+      "kind": "person"
+    },
+    "See's Candies": {
+      "blurb": "Candy maker Berkshire Hathaway bought in 1972; Buffett's model of a high-return, low-capital business.",
+      "kind": "company"
+    },
+    "Sequoia": {
+      "blurb": "Venture capital firm.",
+      "kind": "company"
+    },
+    "ServiceNow": {
+      "blurb": "Enterprise workflow SaaS company.",
+      "kind": "company"
+    },
+    "Shein": {
+      "blurb": "China-founded fast-fashion e-commerce company and marketplace.",
+      "kind": "company"
+    },
+    "Shopify": {
+      "blurb": "Canadian e-commerce software company that runs online stores for independent brands.",
+      "kind": "company"
+    },
+    "Silver Lake": {
+      "blurb": "Private equity firm focused on technology buyouts.",
+      "kind": "company"
+    },
+    "Simon Property Group": {
+      "blurb": "Largest owner of shopping malls in the United States.",
+      "kind": "company"
+    },
+    "Siri": {
+      "blurb": "Apple's voice assistant; relaunched as Siri AI on Google's Gemini in 2026.",
+      "kind": "product"
+    },
+    "Skydance": {
+      "blurb": "Ellison-controlled media company formed when Paramount Skydance bought Warner Bros. Discovery in 2026.",
+      "kind": "company"
+    },
+    "Snap": {
+      "blurb": "Maker of Snapchat, a social messaging app popular with teens.",
+      "kind": "company"
+    },
+    "SoftBank": {
+      "blurb": "Japanese investment group and one of OpenAI's largest investors.",
+      "kind": "company"
+    },
+    "SpaceX": {
+      "blurb": "Elon Musk's rocket and satellite company; now owns X and xAI.",
+      "kind": "company"
+    },
+    "Sparc Group": {
+      "blurb": "Retail brand operator that owns Forever 21; partly owned by Simon Property Group.",
+      "kind": "company"
+    },
+    "Splunk": {
+      "blurb": "Software vendor for collecting and searching machine log data.",
+      "kind": "company"
+    },
+    "Stargate": {
+      "blurb": "OpenAI's large AI data center buildout with Oracle and partners.",
+      "kind": "project"
+    },
+    "Starlink": {
+      "blurb": "SpaceX's satellite Internet service, its consumer-facing business.",
+      "kind": "product"
+    },
+    "Steve Jobs": {
+      "blurb": "Apple co-founder and CEO who launched the Mac, iPod, iPhone, and iPad; died October 5, 2011.",
+      "kind": "person"
+    },
+    "Stop & Shop": {
+      "blurb": "US supermarket chain owned by Ahold Delhaize.",
+      "kind": "company"
+    },
+    "Stream Data Centers": {
+      "blurb": "Dallas-based data center developer, majority-owned by Apollo Global Management.",
+      "kind": "company"
+    },
+    "Stripe": {
+      "blurb": "Online payments company; co-developed OpenAI's Agentic Commerce Protocol.",
+      "kind": "company"
+    },
+    "Stuart Russell": {
+      "blurb": "UC Berkeley professor and co-author of the leading AI textbook.",
+      "kind": "person"
+    },
+    "Sundar Pichai": {
+      "blurb": "CEO of Google and its parent company Alphabet.",
+      "kind": "person"
+    },
+    "Switch": {
+      "blurb": "Private-equity-owned data center operator.",
+      "kind": "company"
+    },
+    "Symbotic": {
+      "blurb": "Robotics firm that automates Walmart distribution centers.",
+      "kind": "company"
+    },
+    "TF1": {
+      "blurb": "French broadcaster whose service was integrated into Netflix in France in 2026.",
+      "kind": "company"
+    },
+    "TSMC": {
+      "blurb": "Taiwan Semiconductor Manufacturing Company, the largest contract chip maker; makes chips for Apple, Nvidia, and others.",
+      "kind": "company"
+    },
+    "Tang Tan": {
+      "blurb": "OpenAI's chief hardware officer; former Apple Vice President of Product Design for iPhone and Apple Watch.",
+      "kind": "person"
+    },
+    "Target": {
+      "blurb": "U.S. discount retailer.",
+      "kind": "company"
+    },
+    "Ted Sarandos": {
+      "blurb": "Co-CEO of Netflix, long its chief content officer.",
+      "kind": "person"
+    },
+    "Temu": {
+      "blurb": "Discount online marketplace owned by PDD Holdings.",
+      "kind": "company"
+    },
+    "Terafab": {
+      "blurb": "Elon Musk's planned large-scale chip manufacturing effort, led early by SpaceX with Tesla, xAI and Intel as partners.",
+      "kind": "product"
+    },
+    "Terence Tao": {
+      "blurb": "Famed mathematician who warned that AI solution tools flatten math's difficulty landscape and threaten open science.",
+      "kind": "person"
+    },
+    "Tesla": {
+      "blurb": "US electric car maker led by Elon Musk; plans a low-cost robotaxi called Cybercab.",
+      "kind": "company"
+    },
+    "The Wall Street Journal": {
+      "blurb": "US business newspaper owned by Dow Jones.",
+      "kind": "company"
+    },
+    "Thomas Kurian": {
+      "blurb": "CEO of Google Cloud.",
+      "kind": "person"
+    },
+    "TikTok": {
+      "blurb": "Short-video social app whose recommendation algorithm is controlled by the Chinese company ByteDance.",
+      "kind": "company"
+    },
+    "Tim Cook": {
+      "blurb": "CEO of Apple, succeeded by John Ternus.",
+      "kind": "person"
+    },
+    "Tobi Lütke": {
+      "blurb": "Co-founder and CEO of Shopify.",
+      "kind": "person"
+    },
+    "Together AI": {
+      "blurb": "AI inference provider that also rents AI servers.",
+      "kind": "company"
+    },
+    "Tony Fadell": {
+      "blurb": "Former Apple executive who led the iPod, and founder of Nest.",
+      "kind": "person"
+    },
+    "Tony Xu": {
+      "blurb": "Co-founder and CEO of DoorDash.",
+      "kind": "person"
+    },
+    "Trader Joe's": {
+      "blurb": "US grocery chain known for curated private-label goods.",
+      "kind": "company"
+    },
+    "Trainium": {
+      "blurb": "Amazon's in-house AI chip line, made by Annapurna Labs and sold through AWS.",
+      "kind": "product"
+    },
+    "Tristan Buckmaster": {
+      "blurb": "NYU mathematician who alleged OpenAI finished his and Levent Alpöge's Navier-Stokes work after hearing of it.",
+      "kind": "person"
+    },
+    "Trump Administration": {
+      "blurb": "US federal executive branch under President Trump.",
+      "kind": "organization"
+    },
+    "Twitch": {
+      "blurb": "Live game-streaming service Amazon bought in 2014.",
+      "kind": "company"
+    },
+    "Twitter": {
+      "blurb": "Social network, now called X, bought by Elon Musk in 2022.",
+      "kind": "company"
+    },
+    "UPS": {
+      "blurb": "US package delivery company, long a key Amazon carrier.",
+      "kind": "company"
+    },
+    "USPS": {
+      "blurb": "The U.S. Postal Service, which handles much of Amazon's rural delivery.",
+      "kind": "org"
+    },
+    "Uber": {
+      "blurb": "US ride-hailing and delivery app.",
+      "kind": "company"
+    },
+    "Uniqlo": {
+      "blurb": "Japanese apparel retailer.",
+      "kind": "company"
+    },
+    "United Airlines": {
+      "blurb": "US airline that moved its core systems off legacy mainframes to the cloud.",
+      "kind": "company"
+    },
+    "Visa": {
+      "blurb": "Global card payment network.",
+      "kind": "company"
+    },
+    "Volta": {
+      "blurb": "Compute provider led by CEO Ricard Boada.",
+      "kind": "company"
+    },
+    "Walmart": {
+      "blurb": "Largest US retailer, with stores, grocery, and a growing online marketplace.",
+      "kind": "company"
+    },
+    "Walmart+": {
+      "blurb": "Walmart's paid membership, its answer to Amazon Prime.",
+      "kind": "product"
+    },
+    "Warby Parker": {
+      "blurb": "US eyewear company partnering with Google on AI glasses.",
+      "kind": "company"
+    },
+    "Warner Bros. Discovery": {
+      "blurb": "Media company owning the Warner Bros. studio and HBO Max streaming service.",
+      "kind": "company"
+    },
+    "Warren Buffett": {
+      "blurb": "Investor and chairman of Berkshire Hathaway.",
+      "kind": "person"
+    },
+    "Waymo": {
+      "blurb": "Alphabet's self-driving car and robotaxi company.",
+      "kind": "company"
+    },
+    "Webvan": {
+      "blurb": "Dot-com era online grocer whose billion-dollar failure became a cautionary tale.",
+      "kind": "company"
+    },
+    "Wesley Salandro": {
+      "blurb": "Former SpaceX vice president of production for Falcon and Dragon rockets who took over its AI data center build-out in 2026.",
+      "kind": "person"
+    },
+    "WhatsApp": {
+      "blurb": "Messaging app owned by Meta, bought by Facebook in February 2014.",
+      "kind": "product"
+    },
+    "Whole Foods": {
+      "blurb": "Grocery chain Amazon bought in 2017.",
+      "kind": "company"
+    },
+    "Wiz": {
+      "blurb": "Cloud security company acquired by Google.",
+      "kind": "company"
+    },
+    "Wonder": {
+      "blurb": "US food company that sold a campus meal-delivery business to DoorDash in 2026.",
+      "kind": "company"
+    },
+    "Workday": {
+      "blurb": "Enterprise HR and finance SaaS company.",
+      "kind": "company"
+    },
+    "X": {
+      "blurb": "Social network formerly called Twitter, now owned by SpaceX.",
+      "kind": "company"
+    },
+    "Xbox": {
+      "blurb": "Microsoft's video game division.",
+      "kind": "company"
+    },
+    "Xi Jinping": {
+      "blurb": "President of China and head of the Chinese Communist Party.",
+      "kind": "person"
+    },
+    "Y Combinator": {
+      "blurb": "Startup accelerator that funds very young companies with small checks; Sam Altman once ran it.",
+      "kind": "company"
+    },
+    "YouTube": {
+      "blurb": "Alphabet's video platform.",
+      "kind": "product"
+    },
+    "Z.ai": {
+      "blurb": "Beijing AI company that makes the GLM models.",
+      "kind": "company"
+    },
+    "Zappos": {
+      "blurb": "Online shoe retailer Amazon bought in 2009; still runs as a separate firm.",
+      "kind": "company"
+    },
+    "Zara": {
+      "blurb": "Spanish fast-fashion chain; flagship brand of Inditex.",
+      "kind": "company"
+    },
+    "c-payne": {
+      "blurb": "Small independent maker of PCIe switches and adapters (c-payne.com) used to link GPUs directly in home AI rigs.",
+      "kind": "company"
+    },
+    "commercetools": {
+      "blurb": "Commerce software vendor selling a modular, API-first platform to retailers; partnered with OpenAI and Stripe on the Agentic Commerce Protocol.",
+      "kind": "company"
+    },
+    "d-Matrix": {
+      "blurb": "AI inference chip startup focused on speculative decoding; Nvidia plans to invest in it.",
+      "kind": "company"
+    },
+    "ezCater": {
+      "blurb": "US business catering marketplace that Uber agreed to buy for $2.3 billion in 2026.",
+      "kind": "company"
+    },
+    "iPhone Duo": {
+      "blurb": "Apple's first foldable iPhone, unveiled September 2026.",
+      "kind": "product"
+    },
+    "iRobot": {
+      "blurb": "Maker of Roomba robot vacuums.",
+      "kind": "company"
+    },
+    "jamesob": {
+      "blurb": "Software developer who publishes the local-llm GitHub guide on running state-of-the-art AI models on home hardware.",
+      "kind": "person"
+    },
+    "xAI": {
+      "blurb": "Elon Musk's AI company, a partner in the Terafab chip factory project.",
+      "kind": "company"
+    }
+  },
+  "schema": "local.registry.v1"
+}
