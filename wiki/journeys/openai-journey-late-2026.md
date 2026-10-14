@@ -3,7 +3,7 @@ type: journey
 title: "OpenAI, July to October 2026: agents break out, safety brakes"
 status: developing
 created: 2026-10-13
-updated: 2026-10-13
+updated: 2026-10-14
 tags:
   - journey
   - openai
@@ -35,12 +35,13 @@ How the two first split is in the [[journeys/openai-journey-2022-2026|previous e
 
 - [[Price-Umbrella]]: a chip shortage lets the labs charge far above full-supply prices ([[2026-07-20-Whos-Afraid-of-Chinese-Models|Chinese Models]]).
 
-## Moving forward (as of 2026-10-13)
+## Moving forward (as of 2026-10-14)
 
 - **A cybersecurity business.** OpenAI is in early talks to buy Trail of Bits, a firm that finds and fixes flaws in open-source software, and the talks could still fall apart ([[2026-10-13-OpenAI-Eyes-Acquisition-That-Could-Boost-Cybersecurity-Business|OpenAI Eyes Trail of Bits]]). The Information calls cybersecurity one of OpenAI's most promising business chances ([[2026-10-13-OpenAI-Eyes-Acquisition-That-Could-Boost-Cybersecurity-Business|OpenAI Eyes Trail of Bits]]).
 - **Safety versus speed.** Employees expect one or two new models by the end of 2026, even if not the big upgrade ([[2026-10-13-OpenAI-Scrambles-to-Fix-Safety-Issues-Before-Shipping-Its-Next-Flagship-Model|OpenAI Safety Scramble]]). Goodfire's Tom McGrath argues cheap monitors that read a model's insides could catch hidden reward hacking (gaming a test instead of solving it) that written notes miss ([[2026-10-12-Researchers-Need-to-Learn-How-AI-Makes-Decisions-Says-Goodfires-Tom-McGrath|McGrath interview]]).
 - **Ads versus work.** Ad revenue hit a $1 billion yearly pace in August 2026 ([[2026-09-09-OpenAI-Restricts-Adobe-and-Other-Competitors-From-Advertising-in-ChatGPT|ChatGPT Ad Limits]]). But OpenAI now refuses ads for image and audio tools that compete with its own ([[2026-09-09-OpenAI-Restricts-Adobe-and-Other-Competitors-From-Advertising-in-ChatGPT|ChatGPT Ad Limits]]).
-- **AI that builds AI.** Brown says OpenAI's top training goal, by a wide margin, is AI that helps build better AI ([[2026-09-14-OpenAIs-Top-Priority-for-AI-Agents-is-Automating-AI-Research|Noam Brown interview]]). OpenAI released 722 papers of AI-made math solutions ([[2026-10-08-How-OpenAI-Beat-Math|How OpenAI Beat Math]]).
+- **AI that builds AI and crypto alarm.** Brown says OpenAI's top training goal, by a wide margin, is AI that helps build better AI ([[2026-09-14-OpenAIs-Top-Priority-for-AI-Agents-is-Automating-AI-Research|Noam Brown interview]]). OpenAI released 722 papers of AI-made math solutions ([[2026-10-08-How-OpenAI-Beat-Math|How OpenAI Beat Math]]). But prominent cryptographers warned those math breakthroughs could break public key encryption within years, while OpenAI omitted all cryptography findings from its public release ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders|OpenAI Math Breakthroughs]]).
+- **Internal espionage and legal battles.** In October 2026 the FBI arrested an OpenAI employee for planting a recording device in an executive conference room television port ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders|OpenAI Math Breakthroughs]]). In Apple's trade secrets lawsuit, a judge granted Apple expedited access to OpenAI's interview and hiring records for former Apple staff ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders|OpenAI Math Breakthroughs]]).
 - **Own chips.** OpenAI plans to deploy its own chip, Jalapeno, later in 2026 ([[2026-09-16-Apple-Considers-Return-to-Server-Market-Has-Talked-With-Nvidia-to-Use-Network-Tech|Apple Server Talks]]).
 - **Huge bills.** OpenAI projects about $750 billion of compute spending through 2030 ([[2026-09-06-How-Anthropic-Clinched-517-Billion-in-Compute-Deals-in-11-Months|Anthropic's $517 Billion]]). It is in early talks to raise about $30 billion before its IPO (first sale of shares to the public) ([[2026-09-30-Wall-Street-and-Silicon-Valley-Split-Over-AIs-Price-Tag|AI's Price Tag]]).
 
@@ -72,6 +73,7 @@ OpenAI says the agents found an unknown flaw in a package tool and chained flaws
 18. [[2026-10-12-Researchers-Need-to-Learn-How-AI-Makes-Decisions-Says-Goodfires-Tom-McGrath|McGrath interview]] (The Information, 2026-10-12).
 19. [[2026-10-13-OpenAI-Eyes-Acquisition-That-Could-Boost-Cybersecurity-Business|OpenAI Eyes Trail of Bits]] (The Information, 2026-10-13).
 20. [[2026-10-13-OpenAI-Scrambles-to-Fix-Safety-Issues-Before-Shipping-Its-Next-Flagship-Model|OpenAI Safety Scramble]] (The Information, 2026-10-13).
+21. [[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders|OpenAI Math Breakthroughs]] (The Information, 2026-10-14).
 
 **Where sources disagree.**
 - Annualized revenue in early October 2026: nearly $70 billion ([[2026-10-05-Microsoft-Slashes-Internal-Claude-Spending-by-a-Third|Microsoft Cuts Claude]]) versus closer to $50 billion ([[2026-10-08-OpenAI-ARR-Snafu-Highlights-Flawed-Metric|ARR Snafu]]). OpenAI's own figure to investors, approaching $50 billion at end of September, backs the lower number ([[2026-10-12-OpenAIs-Plan-To-Revive-Sora|Reviving Sora]]).
@@ -82,9 +84,10 @@ See also: [[journeys/openai-journey|OpenAI journey (hub)]], [[journeys/openai-jo
 
 ## Change log
 
+- 2026-10-14: added cryptography alarm over math models, FBI arrest of conference room bugger, and Apple lawsuit document access [OpenAI Math Breakthroughs, 2026-10-14]
 - 2026-10-08: first build of openai-journey.md from proposal 2026-10-08.
 - 2026-10-09: September beat: revenue pace corrected from nearly $70 billion to about $50 billion; added the conflict [ARR Snafu, 2026-10-08]
 - 2026-10-13: added September safety beat, October loop-transformer beat; OpenAI's own ~$50 billion figure; Copilot shift to OpenAI and cyber race in the rival section; Trail of Bits and safety-versus-speed in Moving forward; firing-date conflict and OpenAI/McGrath framing of the hack.
 - 2026-10-13: split from openai-journey.md per proposal 2026-10-13. Text moved unchanged; added the era thesis line, a story-so-far built from existing cited sentences, era links and one bridge sentence in the rival section.
 
-<!-- claims: clm-f306b04b571634dc170c, clm-01606f31506c6d566005, clm-8146442b2c2c048de48a, clm-449fb92c0a1b39d5205a, clm-a9af6fd1eb06ecd6cc24, clm-4316535fbd4a7ed33728, clm-f5e82fe568cf5c2d1e17, clm-6975fe47fcbdd2f1d8c7, clm-59ecb850f35ac08c508d, clm-6d3e2c47335a8bfa4a96, clm-37551a42eab3a9b8f31e, clm-e473781981d7af6bd09d, clm-c3725d194154fd003aa4, clm-a3af98f6937213bce2b8, clm-31c73ece6850b39caaac, clm-02452eb9ba5dad8524c5, clm-704a06783486a9f2b564, clm-d8505865972c9eef03fb, clm-ed1c8293f59f2acf27d3, clm-86689254e577ca50c8fb, clm-b3db5921c7022b77e589, clm-b593cbdb541bca17ca52, clm-c22dd84066f25a24d883, clm-ff42ced14ae9993fec72, clm-31c1993bdfcdeb26352f, clm-0752960285dba221ec7f, clm-84d1ecc42f745796ef9f, clm-6599fd30c030d2b22730, clm-56dca76fde8d018e9384, clm-335f05700cd5835c0a10, clm-f3bcc5560c01ebc05d54, clm-2a8bdf097ed60dc10711, clm-df8cfafcbc7367d187c7, clm-6571e4b93e233148585b, clm-c6ce97693eaeb0de5b38, clm-f505b5d108d9b456c5e5, clm-1de8336e09679c146cc0, clm-fff4d53fdb3947acf1fe, clm-2ab529b77fc739daa016, clm-0f8add7f85d270a8810c, clm-90fd4fce7f7d188318e6, clm-1c6ad696e1b923232d38, clm-2f04a5d8dc1dd300a487, clm-939d4581aa3be7646eec, clm-f44b4dc5317465a469db -->
+<!-- claims: clm-f306b04b571634dc170c, clm-01606f31506c6d566005, clm-8146442b2c2c048de48a, clm-449fb92c0a1b39d5205a, clm-a9af6fd1eb06ecd6cc24, clm-4316535fbd4a7ed33728, clm-f5e82fe568cf5c2d1e17, clm-6975fe47fcbdd2f1d8c7, clm-59ecb850f35ac08c508d, clm-6d3e2c47335a8bfa4a96, clm-37551a42eab3a9b8f31e, clm-e473781981d7af6bd09d, clm-c3725d194154fd003aa4, clm-a3af98f6937213bce2b8, clm-31c73ece6850b39caaac, clm-02452eb9ba5dad8524c5, clm-704a06783486a9f2b564, clm-d8505865972c9eef03fb, clm-ed1c8293f59f2acf27d3, clm-86689254e577ca50c8fb, clm-b3db5921c7022b77e589, clm-b593cbdb541bca17ca52, clm-c22dd84066f25a24d883, clm-ff42ced14ae9993fec72, clm-31c1993bdfcdeb26352f, clm-0752960285dba221ec7f, clm-84d1ecc42f745796ef9f, clm-6599fd30c030d2b22730, clm-56dca76fde8d018e9384, clm-335f05700cd5835c0a10, clm-f3bcc5560c01ebc05d54, clm-2a8bdf097ed60dc10711, clm-df8cfafcbc7367d187c7, clm-6571e4b93e233148585b, clm-c6ce97693eaeb0de5b38, clm-f505b5d108d9b456c5e5, clm-1de8336e09679c146cc0, clm-fff4d53fdb3947acf1fe, clm-2ab529b77fc739daa016, clm-0f8add7f85d270a8810c, clm-90fd4fce7f7d188318e6, clm-1c6ad696e1b923232d38, clm-2f04a5d8dc1dd300a487, clm-939d4581aa3be7646eec, clm-f44b4dc5317465a469db, clm-1c41493cc97c11df2768, clm-21f8eeadb4081a5a63b7, clm-d85f7a520f6751b3f2c9, clm-69bd4d44260349536f07, clm-463f32124276f4a81e92, clm-5e0363a40ced255a0dbf -->

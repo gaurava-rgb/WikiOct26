@@ -13,6 +13,10 @@ tags:
 
 Newest completed operations appear first.
 
+## 2026-10-14 editor-update-20261014-b25
+
+- Editor update: slotted 2 Oct 14 The Information articles (batch b25) into the OpenAI and Anthropic 2026 journeys; 2 what-changed entries on crypto math and professional services AI economics.
+
 ## 2026-10-14 ingest-20261014-b25
 
 - Batch 25: TI Oct 14 (TPG accounting AI & crypto math).
