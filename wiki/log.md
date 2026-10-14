@@ -13,6 +13,10 @@ tags:
 
 Newest completed operations appear first.
 
+## 2026-10-13 editor-update-20261013-b24
+
+- Editor update: added what-changed entry for SpaceX distributed cellular strategy and low-band spectrum vs cell towers (batch b24).
+
 ## 2026-10-13 ingest-20261013-b24
 
 - Batch 24: Stratechery (SpaceX spectrum & distributed cellular).
