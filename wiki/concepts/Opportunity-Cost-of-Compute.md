@@ -3,7 +3,7 @@ type: concept
 title: Opportunity Cost of Compute
 status: developing
 created: 2026-09-29
-updated: 2026-10-13
+updated: 2026-10-14
 tags:
   - concept
 source_count: 10

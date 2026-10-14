@@ -3,11 +3,11 @@ type: entity
 title: General Catalyst
 status: developing
 created: 2026-10-13
-updated: 2026-10-13
+updated: 2026-10-14
 tags:
   - entity
   - entity/company
-claim_count: 6
+claim_count: 7
 ---
 
 # General Catalyst
@@ -27,6 +27,10 @@ Venture capital firm building a data center to supply compute to its startups.
 ### 2026-10-13 [[2026-10-13-Applied-Intuition-Fields-Offers-at-30-Billion-Valuation|Applied Intuition Fields Offers at $30 Billion Valuation]]
 
 - Applied Intuition has raised $1.2 billion from investors including Andreessen Horowitz, General Catalyst, Lux Capital and Kleiner Perkins, and had not used most of it as of July 2026. ([[2026-10-13-Applied-Intuition-Fields-Offers-at-30-Billion-Valuation#^clm-bb0f7b48d20574bcafee|cite]])
+
+### 2026-10-14 [[2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions|Inside a TPG-Backed Accounting Firm’s Plans for AI and More Acquisitions]]
+
+- Thrive Capital created Thrive Holdings to acquire and modernize professional service firms like accountants, while General Catalyst pursued AI-focused rollups. ([[2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions#^clm-c4561424fdf786351c61|cite]])
 
 ## Related concepts
 

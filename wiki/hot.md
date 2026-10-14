@@ -3,7 +3,7 @@ type: meta
 title: Hot Cache
 status: developing
 created: 2026-09-29
-updated: 2026-10-13
+updated: 2026-10-14
 tags:
   - meta
   - hot-cache
@@ -13,17 +13,20 @@ tags:
 
 ## Last Updated
 
-2026-10-13: Batch 24: Stratechery (SpaceX spectrum & distributed cellular).
+2026-10-14: Batch 25: TI Oct 14 (TPG accounting AI & crypto math).
 
 ## Key Recent Facts
 
-- SpaceX agreed to buy U.S. cellular spectrum licenses from investment firm Grain Management for about $8 billion in cash to move into the wireless market.
-- The licenses SpaceX acquired from Grain Management are in the 800-megahertz band, tailored for wireless service from cellphone towers rather than satellites.
+- Smith + Howard, backed by private equity firm TPG, is preparing a new round of acquisitions, including two deals expected to close by the end of 2026.
+- Smith + Howard plans to use artificial intelligence to expand its business without hiring accountants at its previous pace.
+- OpenAI's release of over 300 math solutions from an internal model sparked concern among cryptographers about potential risks to internet encryption.
+- Cryptographers worry AI advances in mathematics could discover algorithms that crack methods protecting online payments and messaging platforms.
 
 ## Recent Changes
 
-- Source: [[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular|SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular]]
+- Source: [[2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions|Inside a TPG-Backed Accounting Firm’s Plans for AI and More Acquisitions]]
+- Source: [[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders|OpenAI’s Math Breakthroughs Rattle Cryptography Leaders]]
 
 ## Totals
 
-- Sources: 113; claims: 2682; entity pages: 305; concept pages: 50.
+- Sources: 115; claims: 2714; entity pages: 308; concept pages: 50.

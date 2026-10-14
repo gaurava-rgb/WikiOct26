@@ -3,7 +3,7 @@ type: entity
 title: Thinking Machines
 status: developing
 created: 2026-10-09
-updated: 2026-10-13
+updated: 2026-10-14
 tags:
   - entity
 claim_count: 2

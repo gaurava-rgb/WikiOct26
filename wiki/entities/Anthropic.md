@@ -3,11 +3,11 @@ type: entity
 title: Anthropic
 status: developing
 created: 2026-09-29
-updated: 2026-10-13
+updated: 2026-10-14
 tags:
   - entity
   - entity/company
-claim_count: 306
+claim_count: 310
 ---
 
 # Anthropic
@@ -537,6 +537,16 @@ AI lab that makes the Claude models and Claude Code; focused on enterprise custo
 ### 2026-10-13 [[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off|Why Companies Can't Prove Their AI Spending Pays Off]]
 
 - On October 13, 2026 Workday unveiled tools letting customers use AI agents from Anthropic, Microsoft and OpenAI to automate tasks in Workday, similar to Salesforce's SIforce, earlier called AIforce and Headless 360. ([[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off#^clm-e173711615ae09d3702d|cite]])
+
+### 2026-10-14 [[2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions|Inside a TPG-Backed Accounting Firm’s Plans for AI and More Acquisitions]]
+
+- Smith + Howard rolled out Anthropic's Claude to all employees to experiment with automating basic tasks like industry-specific audits. ([[2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions#^clm-f207d00bd58d95d082c7|cite]])
+- Smith + Howard engaged external AI trainers partnering with labs like Anthropic, receiving weeks of employee training in exchange for minimum spending commitments. ([[2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions#^clm-4930d454444507985f9e|cite]])
+
+### 2026-10-14 [[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders|OpenAI’s Math Breakthroughs Rattle Cryptography Leaders]]
+
+- In July 2026, Anthropic published research that largely broke a post-quantum algorithm proposed to NIST, sharing its findings in advance with the U.S. government. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-7e456e3a0353cb58b6d5|cite]])
+- Dario Amodei pushed OpenAI on information hazard risks before leaving in 2021, writing memos on an air-gapped computer disconnected from networks to avoid foreign espionage. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-d3b7b3426edcbc25c0d0|cite]])
 
 ## Related concepts
 

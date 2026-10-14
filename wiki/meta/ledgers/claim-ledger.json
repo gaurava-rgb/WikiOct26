@@ -74302,8 +74302,864 @@
         "Ben Thompson"
       ],
       "concepts": []
+    },
+    "clm-91f5615c9b269d58da49": {
+      "text": "Smith + Howard, backed by private equity firm TPG, is preparing a new round of acquisitions, including two deals expected to close by the end of 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions.md",
+        "anchor": "^clm-91f5615c9b269d58da49"
+      },
+      "evidence": [
+        {
+          "source_id": "src-f8f5395f1bc8f6258182",
+          "relation": "supports",
+          "locator": "§ The core story: “Smith + Howard, an accounting firm backed by private equity giant TPG, is preparing a new round of acquisitions”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Smith + Howard",
+        "TPG"
+      ],
+      "concepts": []
+    },
+    "clm-a5166901496942f8b039": {
+      "text": "Smith + Howard plans to use artificial intelligence to expand its business without hiring accountants at its previous pace.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions.md",
+        "anchor": "^clm-a5166901496942f8b039"
+      },
+      "evidence": [
+        {
+          "source_id": "src-f8f5395f1bc8f6258182",
+          "relation": "supports",
+          "locator": "§ The core story: “Smith + Howard hopes AI will allow it to expand without hiring accountants at the same pace as in the past.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Smith + Howard"
+      ],
+      "concepts": [
+        "AI-Diffusion"
+      ]
+    },
+    "clm-0bf9ef721ab77cccbcd1": {
+      "text": "Smith + Howard employs over 800 people across seven states and projects roughly $175 million in revenue in 2026, growing 10% to 15% annually excluding acquisitions.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions.md",
+        "anchor": "^clm-0bf9ef721ab77cccbcd1"
+      },
+      "evidence": [
+        {
+          "source_id": "src-f8f5395f1bc8f6258182",
+          "relation": "supports",
+          "locator": "§ Growth and acquisition targets: “Smith + Howard employs more than 800 workers across seven states and expects roughly $175 million in revenue in 2026.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [
+        "Smith + Howard"
+      ],
+      "concepts": []
+    },
+    "clm-1115d4ceab121ac722ae": {
+      "text": "Smith + Howard aims to add 20% to 25% of forward revenue through acquisitions, lifting its target purchase size to firms with $5 million to $50 million in annual revenue.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions.md",
+        "anchor": "^clm-1115d4ceab121ac722ae"
+      },
+      "evidence": [
+        {
+          "source_id": "src-f8f5395f1bc8f6258182",
+          "relation": "supports",
+          "locator": "§ Growth and acquisition targets: “The firm aims to add 20% to 25% of forward revenue through acquisitions”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Smith + Howard"
+      ],
+      "concepts": []
+    },
+    "clm-6fa4557c5ab13167c9c7": {
+      "text": "Smith + Howard increased its acquisition target size to companies generating between $5 million and $50 million in annual revenue, up from $2 million to $20 million previously.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions.md",
+        "anchor": "^clm-6fa4557c5ab13167c9c7"
+      },
+      "evidence": [
+        {
+          "source_id": "src-f8f5395f1bc8f6258182",
+          "relation": "supports",
+          "locator": "§ Growth and acquisition targets: “lifting target purchase size to between $5 million and $50 million in annual revenue”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Smith + Howard"
+      ],
+      "concepts": []
+    },
+    "clm-45637ad326a8dd644816": {
+      "text": "OpenAI launched its majority-owned Deployment Co. in May 2026 with backing from TPG and others to embed engineers inside corporate clients.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions.md",
+        "anchor": "^clm-45637ad326a8dd644816"
+      },
+      "evidence": [
+        {
+          "source_id": "src-f8f5395f1bc8f6258182",
+          "relation": "supports",
+          "locator": "§ Passing savings versus retaining profits: “OpenAI’s majority-owned Deployment Co., which launched in May 2026 with backing from TPG.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-05",
+      "subjects": [
+        "OpenAI",
+        "TPG"
+      ],
+      "concepts": []
+    },
+    "clm-c4561424fdf786351c61": {
+      "text": "Thrive Capital created Thrive Holdings to acquire and modernize professional service firms like accountants, while General Catalyst pursued AI-focused rollups.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions.md",
+        "anchor": "^clm-c4561424fdf786351c61"
+      },
+      "evidence": [
+        {
+          "source_id": "src-f8f5395f1bc8f6258182",
+          "relation": "supports",
+          "locator": "§ Passing savings versus retaining profits: “Thrive Capital launched Thrive Holdings to buy and modernize firms like accountants, while General Catalyst is pursuing AI rollups.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [
+        "Thrive Capital",
+        "General Catalyst"
+      ],
+      "concepts": []
+    },
+    "clm-c6776a62b2dfa2bda168": {
+      "text": "TPG managing director Brian Goffman argued accounting firms retain AI cost savings rather than passing them on to customers, protecting profit margins.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions.md",
+        "anchor": "^clm-c6776a62b2dfa2bda168"
+      },
+      "evidence": [
+        {
+          "source_id": "src-f8f5395f1bc8f6258182",
+          "relation": "supports",
+          "locator": "§ Passing savings versus retaining profits: “Brian Goffman, managing director of AI at TPG, argued that accounting firms hold onto savings rather than passing them on”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10",
+      "subjects": [
+        "Brian Goffman",
+        "TPG"
+      ],
+      "concepts": []
+    },
+    "clm-bde5f610b3e4556f9233": {
+      "text": "Audit fees in the accounting industry continued climbing even after major cost-cutting moves such as offshoring reduced labor expenses.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions.md",
+        "anchor": "^clm-bde5f610b3e4556f9233"
+      },
+      "evidence": [
+        {
+          "source_id": "src-f8f5395f1bc8f6258182",
+          "relation": "supports",
+          "locator": "§ Passing savings versus retaining profits: “audit fees continued climbing after offshoring reduced labor costs.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "TPG",
+        "Smith + Howard"
+      ],
+      "concepts": []
+    },
+    "clm-42a5e3e3836bb60b0fcf": {
+      "text": "Private equity investors in accounting divided between those excited about AI productivity and those fearing automation would shrink billable hours and revenue.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions.md",
+        "anchor": "^clm-42a5e3e3836bb60b0fcf"
+      },
+      "evidence": [
+        {
+          "source_id": "src-f8f5395f1bc8f6258182",
+          "relation": "supports",
+          "locator": "§ Passing savings versus retaining profits: “Taylor noted private equity investors were previously divided between those excited about AI productivity and those scared it would reduce billable hours and revenue.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Sean Taylor",
+        "Smith + Howard"
+      ],
+      "concepts": []
+    },
+    "clm-f207d00bd58d95d082c7": {
+      "text": "Smith + Howard rolled out Anthropic's Claude to all employees to experiment with automating basic tasks like industry-specific audits.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions.md",
+        "anchor": "^clm-f207d00bd58d95d082c7"
+      },
+      "evidence": [
+        {
+          "source_id": "src-f8f5395f1bc8f6258182",
+          "relation": "supports",
+          "locator": "§ Companywide Claude deployment: “Smith + Howard rolled Anthropic’s Claude out to all employees to experiment and propose automation uses.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Smith + Howard",
+        "Anthropic"
+      ],
+      "concepts": [
+        "AI-Diffusion"
+      ]
+    },
+    "clm-4930d454444507985f9e": {
+      "text": "Smith + Howard engaged external AI trainers partnering with labs like Anthropic, receiving weeks of employee training in exchange for minimum spending commitments.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions.md",
+        "anchor": "^clm-4930d454444507985f9e"
+      },
+      "evidence": [
+        {
+          "source_id": "src-f8f5395f1bc8f6258182",
+          "relation": "supports",
+          "locator": "§ Companywide Claude deployment: “brought in external AI trainers partnering with labs like Anthropic, providing several weeks of employee training in exchange for minimum spending commitments.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Smith + Howard",
+        "Anthropic",
+        "TPG"
+      ],
+      "concepts": [
+        "AI-Diffusion",
+        "Seats-Plus-Consumption"
+      ]
+    },
+    "clm-43d6594c2d3690dbb015": {
+      "text": "Accounting firms with stable client rosters but few technology capabilities trade at valuations of five to six times EBITDA.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions.md",
+        "anchor": "^clm-43d6594c2d3690dbb015"
+      },
+      "evidence": [
+        {
+          "source_id": "src-f8f5395f1bc8f6258182",
+          "relation": "supports",
+          "locator": "§ Valuation multiples and revenue per employee: “Accounting firms with stable client rosters but little technology trade at low valuations of five to six times EBITDA”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "TPG"
+      ],
+      "concepts": []
+    },
+    "clm-677bc22303e903c4a3aa": {
+      "text": "Established accounting firms receiving direct private equity backing command valuations of 12 times EBITDA or higher.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions.md",
+        "anchor": "^clm-677bc22303e903c4a3aa"
+      },
+      "evidence": [
+        {
+          "source_id": "src-f8f5395f1bc8f6258182",
+          "relation": "supports",
+          "locator": "§ Valuation multiples and revenue per employee: “Established accounting firms receiving direct private equity backing command valuations of 12 times EBITDA or higher.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "TPG"
+      ],
+      "concepts": []
+    },
+    "clm-da8ad976b69231f0c725": {
+      "text": "Goffman stated that unlike offshoring which cuts costs quickly, AI requires upfront capital investment and takes several years to pay off.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions.md",
+        "anchor": "^clm-da8ad976b69231f0c725"
+      },
+      "evidence": [
+        {
+          "source_id": "src-f8f5395f1bc8f6258182",
+          "relation": "supports",
+          "locator": "§ Valuation multiples and revenue per employee: “Unlike offshoring which delivers immediate cost savings, AI requires upfront capital spending and several years to pay off.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10",
+      "subjects": [
+        "Brian Goffman",
+        "TPG"
+      ],
+      "concepts": [
+        "Capex-vs-Opex"
+      ]
+    },
+    "clm-2969f7627e016a706dff": {
+      "text": "TPG tracks revenue per employee as its primary metric to evaluate whether AI investments produce real financial payoffs.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions.md",
+        "anchor": "^clm-2969f7627e016a706dff"
+      },
+      "evidence": [
+        {
+          "source_id": "src-f8f5395f1bc8f6258182",
+          "relation": "supports",
+          "locator": "§ Valuation multiples and revenue per employee: “TPG relies on revenue per employee as its primary metric to track whether AI investments produce real financial payoffs.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "TPG",
+        "Brian Goffman"
+      ],
+      "concepts": []
+    },
+    "clm-1c41493cc97c11df2768": {
+      "text": "OpenAI's release of over 300 math solutions from an internal model sparked concern among cryptographers about potential risks to internet encryption.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders.md",
+        "anchor": "^clm-1c41493cc97c11df2768"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0c21d99d9d9003ce3675",
+          "relation": "supports",
+          "locator": "§ Cryptographers sound alarm over AI math: “OpenAI’s release of more than 300 math solutions from an internal model sparked serious concern among prominent cryptographers.”"
+        }
+      ],
+      "notes": "Conflict with clm-c65559ba38605dc4a37a: cryptographers argue math breakthroughs directly affect public encryption, unlike Thompson's view that math results affect almost no one.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-21f8eeadb4081a5a63b7": {
+      "text": "Cryptographers worry AI advances in mathematics could discover algorithms that crack methods protecting online payments and messaging platforms.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders.md",
+        "anchor": "^clm-21f8eeadb4081a5a63b7"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0c21d99d9d9003ce3675",
+          "relation": "supports",
+          "locator": "§ Cryptographers sound alarm over AI math: “Experts worry that AI advances in mathematics could yield new algorithms capable of cracking encryption methods protecting online payments and private messaging.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-d85f7a520f6751b3f2c9": {
+      "text": "Public key cryptography co-inventor Whitfield Diffie stated he anticipates a vast change in mathematics and cryptanalysis within one to five years.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders.md",
+        "anchor": "^clm-d85f7a520f6751b3f2c9"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0c21d99d9d9003ce3675",
+          "relation": "supports",
+          "locator": "§ Cryptographers sound alarm over AI math: “Whitfield Diffie, who co-invented public key cryptography in 1976 with the Diffie-Hellman algorithm, stated he anticipates a vast change in mathematics”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10",
+      "subjects": [
+        "Whitfield Diffie"
+      ],
+      "concepts": []
+    },
+    "clm-3f45c512ce08ccf7cbb0": {
+      "text": "Public key co-inventor Martin Hellman expects AI attacks to disrupt cybersecurity in the short term, but predicts AI will ultimately help patch vulnerabilities.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders.md",
+        "anchor": "^clm-3f45c512ce08ccf7cbb0"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0c21d99d9d9003ce3675",
+          "relation": "supports",
+          "locator": "§ Cryptographers sound alarm over AI math: “Co-inventor Martin Hellman expects AI-driven attacks to disrupt cybersecurity in the short term”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10",
+      "subjects": [
+        "Martin Hellman"
+      ],
+      "concepts": []
+    },
+    "clm-3596ecbb90e1ace27e1d": {
+      "text": "Johns Hopkins professor Matthew Green warned frontier AI models could make a fundamental break in elliptic curve cryptography within two years.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders.md",
+        "anchor": "^clm-3596ecbb90e1ace27e1d"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0c21d99d9d9003ce3675",
+          "relation": "supports",
+          "locator": "§ Cryptographers sound alarm over AI math: “Johns Hopkins University professor Matthew Green warned that frontier AI models could make a fundamental break in elliptic curve cryptography within two years.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10",
+      "subjects": [
+        "Matthew Green"
+      ],
+      "concepts": []
+    },
+    "clm-f19a3dd751d061fa2927": {
+      "text": "Web infrastructure firm Cloudflare found in 2025 that a single elliptic curve algorithm, X25519, secures the majority of internet connections.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders.md",
+        "anchor": "^clm-f19a3dd751d061fa2927"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0c21d99d9d9003ce3675",
+          "relation": "supports",
+          "locator": "§ Cryptographers sound alarm over AI math: “Web security firm Cloudflare found in 2025 that a single elliptic curve algorithm, X25519, secures the majority of internet connections.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2025",
+      "subjects": [
+        "Cloudflare"
+      ],
+      "concepts": []
+    },
+    "clm-69bd4d44260349536f07": {
+      "text": "OpenAI's published math papers contained no cryptography results, prompting experts to suspect the lab withheld findings or shared them privately with the U.S. government.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders.md",
+        "anchor": "^clm-69bd4d44260349536f07"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0c21d99d9d9003ce3675",
+          "relation": "supports",
+          "locator": "§ OpenAI research and withheld results: “OpenAI’s published collection of math papers contained no cryptography findings, leading experts to suspect the company withheld results”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-dadfe636685d038d56b4": {
+      "text": "OpenAI has invested significant resources in cryptography, releasing theoretical results in quantum complexity and lattice cryptography from its Astra model in September 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders.md",
+        "anchor": "^clm-dadfe636685d038d56b4"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0c21d99d9d9003ce3675",
+          "relation": "supports",
+          "locator": "§ OpenAI research and withheld results: “OpenAI has put significant resources into cryptography, previously releasing theoretical results in quantum complexity and lattice cryptography from its Astra model in September 2026.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-09",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-b92d32537da5d8810d1e": {
+      "text": "Princeton professor Ewin Tang argued widely studied core encryption algorithms were designed to resist mathematical breakthroughs, though less-studied post-quantum methods remain vulnerable.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders.md",
+        "anchor": "^clm-b92d32537da5d8810d1e"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0c21d99d9d9003ce3675",
+          "relation": "supports",
+          "locator": "§ OpenAI research and withheld results: “Princeton University professor Ewin Tang argued widely studied core encryption algorithms were deliberately designed to resist mathematical breakthroughs”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10",
+      "subjects": [
+        "Ewin Tang"
+      ],
+      "concepts": []
+    },
+    "clm-7e456e3a0353cb58b6d5": {
+      "text": "In July 2026, Anthropic published research that largely broke a post-quantum algorithm proposed to NIST, sharing its findings in advance with the U.S. government.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders.md",
+        "anchor": "^clm-7e456e3a0353cb58b6d5"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0c21d99d9d9003ce3675",
+          "relation": "supports",
+          "locator": "§ OpenAI research and withheld results: “In July 2026, Anthropic published research that largely broke a post-quantum algorithm proposed to the National Institute of Standards and Technology”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-07",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-463f32124276f4a81e92": {
+      "text": "The FBI arrested an OpenAI employee who allegedly concealed a recording device in an executive conference room television port.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders.md",
+        "anchor": "^clm-463f32124276f4a81e92"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0c21d99d9d9003ce3675",
+          "relation": "supports",
+          "locator": "§ Security incidents and industry news: “The FBI arrested a Saudi national working at OpenAI who allegedly placed a sophisticated recording device wrapped in toilet paper into a conference room television USB port.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-d3b7b3426edcbc25c0d0": {
+      "text": "Dario Amodei pushed OpenAI on information hazard risks before leaving in 2021, writing memos on an air-gapped computer disconnected from networks to avoid foreign espionage.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders.md",
+        "anchor": "^clm-d3b7b3426edcbc25c0d0"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0c21d99d9d9003ce3675",
+          "relation": "supports",
+          "locator": "§ Security incidents and industry news: “Dario Amodei had warned about information hazards before leaving OpenAI in 2021, writing memos on an air-gapped computer disconnected from networks to prevent espionage.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2021",
+      "subjects": [
+        "Dario Amodei",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-09bbf7a046dd8b9b9b67": {
+      "text": "Microsoft Azure president Girish Bablani directed leadership across his unit to find ways to reduce operating costs by at least 20%.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders.md",
+        "anchor": "^clm-09bbf7a046dd8b9b9b67"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0c21d99d9d9003ce3675",
+          "relation": "supports",
+          "locator": "§ Security incidents and industry news: “Microsoft Azure president Girish Bablani asked leaders across his unit to find ways to reduce operating costs by at least 20%.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Microsoft"
+      ],
+      "concepts": []
+    },
+    "clm-1522bc086c9467307f8a": {
+      "text": "JPMorgan CFO Jeremy Barnum stated the bank monitors AI capex exposure and blocks external AI agents like Meta's Muse and Instinct from accessing customer accounts.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders.md",
+        "anchor": "^clm-1522bc086c9467307f8a"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0c21d99d9d9003ce3675",
+          "relation": "supports",
+          "locator": "§ Security incidents and industry news: “JPMorgan CFO Jeremy Barnum stated the bank is monitoring AI capital expenditure exposure and blocking external AI agents such as Meta’s Muse and Instinct from accessing client accounts.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10",
+      "subjects": [
+        "JPMorgan",
+        "Meta"
+      ],
+      "concepts": []
+    },
+    "clm-e77bd8ffd65f67f747d8": {
+      "text": "AI persona startup Character.ai filed for Chapter 11 bankruptcy after facing legal, regulatory, and operational headwinds.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders.md",
+        "anchor": "^clm-e77bd8ffd65f67f747d8"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0c21d99d9d9003ce3675",
+          "relation": "supports",
+          "locator": "§ Security incidents and industry news: “AI persona startup Character.ai filed for Chapter 11 bankruptcy after facing legal, regulatory, and operational headwinds.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Character.ai"
+      ],
+      "concepts": []
+    },
+    "clm-5e0363a40ced255a0dbf": {
+      "text": "In Apple's trade secrets lawsuit against OpenAI, a judge granted Apple expedited access to OpenAI's hiring materials and interview checklists for former Apple employees.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders.md",
+        "anchor": "^clm-5e0363a40ced255a0dbf"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0c21d99d9d9003ce3675",
+          "relation": "supports",
+          "locator": "§ Security incidents and industry news: “In Apple’s trade secrets lawsuit against OpenAI, a judge granted Apple expedited access to OpenAI’s hiring materials and interview checklists for former Apple employees.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Apple",
+        "OpenAI"
+      ],
+      "concepts": []
     }
   },
-  "generated_at": "2026-10-14T04:01:51Z",
+  "generated_at": "2026-10-14T14:47:54Z",
   "schema": "claude-obsidian.claim-ledger.v1"
 }

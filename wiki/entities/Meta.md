@@ -3,11 +3,11 @@ type: entity
 title: Meta
 status: developing
 created: 2026-09-29
-updated: 2026-10-13
+updated: 2026-10-14
 tags:
   - entity
   - entity/company
-claim_count: 156
+claim_count: 157
 ---
 
 # Meta
@@ -294,6 +294,10 @@ Owner of Facebook, Instagram, and WhatsApp; also builds AI models (Llama, Muse S
 ### 2026-10-13 [[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit|OpenAI’s Bug and Bumble’s AI-Powered Exit]]
 
 - JPMorgan said in October 2026 it is blocking external AI agents such as Meta's Muse and Instinct from accessing client accounts. ([[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit#^clm-bd43255c7b9d8fad7333|cite]])
+
+### 2026-10-14 [[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders|OpenAI’s Math Breakthroughs Rattle Cryptography Leaders]]
+
+- JPMorgan CFO Jeremy Barnum stated the bank monitors AI capex exposure and blocks external AI agents like Meta's Muse and Instinct from accessing customer accounts. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-1522bc086c9467307f8a|cite]])
 
 ## Related concepts
 

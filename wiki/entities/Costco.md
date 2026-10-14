@@ -3,7 +3,7 @@ type: entity
 title: Costco
 status: developing
 created: 2026-09-29
-updated: 2026-10-13
+updated: 2026-10-14
 tags:
   - entity
 claim_count: 3

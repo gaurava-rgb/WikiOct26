@@ -3,11 +3,11 @@ type: entity
 title: Microsoft
 status: developing
 created: 2026-09-29
-updated: 2026-10-13
+updated: 2026-10-14
 tags:
   - entity
   - entity/company
-claim_count: 130
+claim_count: 131
 ---
 
 # Microsoft
@@ -283,6 +283,10 @@ US software and cloud company (Windows, Office, Azure, Xbox); a major OpenAI inv
 ### 2026-10-13 [[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit|OpenAI’s Bug and Bumble’s AI-Powered Exit]]
 
 - The Google and Character.AI deal was one of several 2024 license-and-hire deals, with Microsoft and Inflection AI and Amazon and Adept, structured as licenses rather than acquisitions to avoid antitrust scrutiny; many were investigated anyway. ([[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit#^clm-d3505e2e9e26cd7d984d|cite]])
+
+### 2026-10-14 [[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders|OpenAI’s Math Breakthroughs Rattle Cryptography Leaders]]
+
+- Microsoft Azure president Girish Bablani directed leadership across his unit to find ways to reduce operating costs by at least 20%. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-09bbf7a046dd8b9b9b67|cite]])
 
 ## Related concepts
 

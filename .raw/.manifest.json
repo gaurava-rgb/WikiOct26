@@ -490,6 +490,22 @@
       ],
       "source_id": "src-f14243f9d469a2f93102"
     },
+    ".raw/captured/2026-10-14 The Information - Inside a TPG-backed accounting firms AI plans (notes).md": {
+      "hash": "380a34674c93f3fd9d57499ac64f51f74a299fc5822a9d437fd9b2a3cf76770a",
+      "ingested_at": "2026-10-14",
+      "pages_created": [
+        "wiki/sources/2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions.md"
+      ],
+      "source_id": "src-f8f5395f1bc8f6258182"
+    },
+    ".raw/captured/2026-10-14 The Information - OpenAIs math breakthroughs rattle cryptography leaders (notes).md": {
+      "hash": "8238445cdb9f6fa805d47c76038790f977b45e95481fbc58a9a586ddcb53337c",
+      "ingested_at": "2026-10-14",
+      "pages_created": [
+        "wiki/sources/2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders.md"
+      ],
+      "source_id": "src-0c21d99d9d9003ce3675"
+    },
     ".raw/captured/2026.28_ XBOX On the Rocks.md": {
       "hash": "952790fa551289ee6883b864241796a4d483817fa6f376ff40e8fad1aec4a082",
       "ingested_at": "2026-09-29",

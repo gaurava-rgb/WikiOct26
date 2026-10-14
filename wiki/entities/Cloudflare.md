@@ -3,11 +3,11 @@ type: entity
 title: Cloudflare
 status: developing
 created: 2026-10-08
-updated: 2026-10-13
+updated: 2026-10-14
 tags:
   - entity
   - entity/company
-claim_count: 2
+claim_count: 3
 ---
 
 # Cloudflare
@@ -23,6 +23,10 @@ Internet infrastructure company that helps websites block AI crawlers and charge
 ### 2026-09-23 [[2026-09-23-Open-Source-Model-Price-Cuts-Keep-AI-Costs-Under-Control|Open Source, Model Price Cuts Keep AI Costs Under Control]]
 
 - Cloudflare cut about 20% of staff in May 2026; month-end finance decks went from nearly a week to an hour. ([[2026-09-23-Open-Source-Model-Price-Cuts-Keep-AI-Costs-Under-Control#^clm-ae494759c0e2137f322a|cite]])
+
+### 2026-10-14 [[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders|OpenAI’s Math Breakthroughs Rattle Cryptography Leaders]]
+
+- Web infrastructure firm Cloudflare found in 2025 that a single elliptic curve algorithm, X25519, secures the majority of internet connections. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-f19a3dd751d061fa2927|cite]])
 
 ## Related concepts
 

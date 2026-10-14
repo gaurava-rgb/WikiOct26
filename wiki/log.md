@@ -13,6 +13,11 @@ tags:
 
 Newest completed operations appear first.
 
+## 2026-10-14 ingest-20261014-b25
+
+- Batch 25: TI Oct 14 (TPG accounting AI & crypto math).
+- Sources: 2; claims added or updated this batch: 32.
+
 ## 2026-10-13 editor-update-20261013-b24
 
 - Editor update: added what-changed entry for SpaceX distributed cellular strategy and low-band spectrum vs cell towers (batch b24).

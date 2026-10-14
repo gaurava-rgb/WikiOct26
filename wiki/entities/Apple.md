@@ -3,11 +3,11 @@ type: entity
 title: Apple
 status: developing
 created: 2026-09-29
-updated: 2026-10-13
+updated: 2026-10-14
 tags:
   - entity
   - entity/company
-claim_count: 173
+claim_count: 174
 ---
 
 # Apple
@@ -266,6 +266,10 @@ US maker of the iPhone, Mac, and wearables; integrates hardware and software.
 ### 2026-10-13 [[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular|SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular]]
 
 - Rather than partnering with Starlink, AT&T and Verizon doubled down on AST SpaceMobile for satellite connectivity, while Apple allied with Amazon through its Globalstar purchase. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-16b9f357b6f2a89c16ad|cite]])
+
+### 2026-10-14 [[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders|OpenAI’s Math Breakthroughs Rattle Cryptography Leaders]]
+
+- In Apple's trade secrets lawsuit against OpenAI, a judge granted Apple expedited access to OpenAI's hiring materials and interview checklists for former Apple employees. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-5e0363a40ced255a0dbf|cite]])
 
 ## Related concepts
 

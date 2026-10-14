@@ -3,11 +3,11 @@ type: entity
 title: OpenAI
 status: developing
 created: 2026-09-29
-updated: 2026-10-13
+updated: 2026-10-14
 tags:
   - entity
   - entity/company
-claim_count: 366
+claim_count: 374
 ---
 
 # OpenAI
@@ -600,6 +600,20 @@ AI lab behind ChatGPT, the o1 reasoning models, and Codex.
 ### 2026-10-13 [[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off|Why Companies Can't Prove Their AI Spending Pays Off]]
 
 - On October 13, 2026 Workday unveiled tools letting customers use AI agents from Anthropic, Microsoft and OpenAI to automate tasks in Workday, similar to Salesforce's SIforce, earlier called AIforce and Headless 360. ([[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off#^clm-e173711615ae09d3702d|cite]])
+
+### 2026-10-14 [[2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions|Inside a TPG-Backed Accounting Firm’s Plans for AI and More Acquisitions]]
+
+- OpenAI launched its majority-owned Deployment Co. in May 2026 with backing from TPG and others to embed engineers inside corporate clients. ([[2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions#^clm-45637ad326a8dd644816|cite]])
+
+### 2026-10-14 [[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders|OpenAI’s Math Breakthroughs Rattle Cryptography Leaders]]
+
+- OpenAI's release of over 300 math solutions from an internal model sparked concern among cryptographers about potential risks to internet encryption. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-1c41493cc97c11df2768|cite]])
+- Cryptographers worry AI advances in mathematics could discover algorithms that crack methods protecting online payments and messaging platforms. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-21f8eeadb4081a5a63b7|cite]])
+- OpenAI's published math papers contained no cryptography results, prompting experts to suspect the lab withheld findings or shared them privately with the U.S. government. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-69bd4d44260349536f07|cite]])
+- OpenAI has invested significant resources in cryptography, releasing theoretical results in quantum complexity and lattice cryptography from its Astra model in September 2026. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-dadfe636685d038d56b4|cite]])
+- The FBI arrested an OpenAI employee who allegedly concealed a recording device in an executive conference room television port. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-463f32124276f4a81e92|cite]])
+- Dario Amodei pushed OpenAI on information hazard risks before leaving in 2021, writing memos on an air-gapped computer disconnected from networks to avoid foreign espionage. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-d3b7b3426edcbc25c0d0|cite]])
+- In Apple's trade secrets lawsuit against OpenAI, a judge granted Apple expedited access to OpenAI's hiring materials and interview checklists for former Apple employees. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-5e0363a40ced255a0dbf|cite]])
 
 ## Related concepts
 

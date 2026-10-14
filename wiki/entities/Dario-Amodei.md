@@ -3,11 +3,11 @@ type: entity
 title: Dario Amodei
 status: developing
 created: 2026-09-29
-updated: 2026-10-13
+updated: 2026-10-14
 tags:
   - entity
   - entity/person
-claim_count: 7
+claim_count: 8
 ---
 
 # Dario Amodei
@@ -37,6 +37,10 @@ CEO and cofounder of Anthropic.
 ### 2026-10-04 [[2026-10-04-Anthropics-Big-Charity-Bill-for-Shareholders|Anthropic's Big Charity Bill for Shareholders]]
 
 - Dario Amodei and six co-founders pledged to give away at least 80% of their wealth and are not eligible for the match. ([[2026-10-04-Anthropics-Big-Charity-Bill-for-Shareholders#^clm-95a49754abfc8b51bcf8|cite]])
+
+### 2026-10-14 [[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders|OpenAI’s Math Breakthroughs Rattle Cryptography Leaders]]
+
+- Dario Amodei pushed OpenAI on information hazard risks before leaving in 2021, writing memos on an air-gapped computer disconnected from networks to avoid foreign espionage. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-d3b7b3426edcbc25c0d0|cite]])
 
 ## Related concepts
 

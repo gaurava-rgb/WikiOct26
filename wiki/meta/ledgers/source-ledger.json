@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T04:01:51Z",
+  "generated_at": "2026-10-14T14:47:54Z",
   "schema": "claude-obsidian.source-ledger.v1",
   "sources": {
     "src-a3fe751aca2f987ed6fc": {
@@ -2826,6 +2826,56 @@
       "url": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/",
       "form": "update",
       "summary": "Thompson analyzes SpaceX's $8 billion cash purchase of 800-megahertz cellular spectrum licenses from Grain Management. While carrier shares sink on the news, Thompson connects this low-band purchase to SpaceX's earlier EchoStar spectrum deals and Gwynne Shotwell's comments on deploying femtocell base stations on customer Starlink dishes. Instead of spending billions building traditional cell towers, Starlink aims to build a distributed cellular mesh using rooftop dishes for space backhaul and low-band spectrum for indoor wall penetration. Thompson argues this fits Elon Musk's broader strategy of reshaping market structure to make his company's victory inevitable, even when competitors and partners like Delta Air Lines refuse to work with him personally."
+    },
+    "src-f8f5395f1bc8f6258182": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-14 The Information - Inside a TPG-backed accounting firms AI plans (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Inside a TPG-Backed Accounting Firm’s Plans for AI and More Acquisitions",
+      "authority": "secondary",
+      "content_sha256": "380a34674c93f3fd9d57499ac64f51f74a299fc5822a9d437fd9b2a3cf76770a",
+      "ingested_at": "2026-10-14",
+      "retrieved_at": "2026-10-14",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions.md"
+      ],
+      "supersedes": null,
+      "author": "Alex Eichenstein",
+      "published": "2026-10-14",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/inside-tpg-backed-accounting-firms-plans-ai-acquisitions",
+      "form": "article",
+      "summary": "Smith + Howard, an accounting firm backed by private equity firm TPG, is preparing acquisitions while rolling out Anthropic's Claude to automate routine tasks. TPG argues accounting firms can retain AI cost savings as profit rather than passing them to clients, avoiding a race to the bottom because audit fees historically rose even after offshoring. TPG uses revenue per employee as its key measure of AI return on investment, while noting AI requires upfront capital and multiple years to pay off."
+    },
+    "src-0c21d99d9d9003ce3675": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-14 The Information - OpenAIs math breakthroughs rattle cryptography leaders (notes).md"
+      },
+      "content_kind": "document",
+      "title": "OpenAI’s Math Breakthroughs Rattle Cryptography Leaders",
+      "authority": "secondary",
+      "content_sha256": "8238445cdb9f6fa805d47c76038790f977b45e95481fbc58a9a586ddcb53337c",
+      "ingested_at": "2026-10-14",
+      "retrieved_at": "2026-10-14",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders.md"
+      ],
+      "supersedes": null,
+      "author": "Tiffany Li",
+      "published": "2026-10-14",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/openais-math-breakthroughs-rattle-cryptography-leaders",
+      "form": "newsletter",
+      "summary": "OpenAI's release of over 300 math solutions from an internal model sparked concerns among leading cryptographers about AI cracking public key cryptography that secures internet payments and messaging. Pioneers Whitfield Diffie and Martin Hellman along with computer scientists warned that advances could threaten elliptic curve cryptography within years. The piece also reports on the FBI arrest of an OpenAI employee for planting a recording device in an executive conference room, cost-cutting targets at Microsoft Azure, JPMorgan blocking external agents from client accounts, and Character.ai's bankruptcy filing."
     }
   }
 }
