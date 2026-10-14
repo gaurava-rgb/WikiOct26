@@ -3,11 +3,11 @@ type: entity
 title: Fal
 status: developing
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 6
+claim_count: 7
 ---
 
 # Fal
@@ -25,6 +25,10 @@ Inference provider specializing in image and video generation models.
 - Closed-model makers OpenAI and Anthropic are cutting prices harder, a price war that threatens inference providers. ([[2026-09-25-Fireworks-Fal-Consider-New-Rounds-as-Inference-Demand-Soars#^clm-648262348f2bb9a1248d|cite]])
 - Inference providers have historically run about 50% gross margins, versus 70%-plus at the best software firms, and the compute they rent is getting more expensive. ([[2026-09-25-Fireworks-Fal-Consider-New-Rounds-as-Inference-Demand-Soars#^clm-a5f6dd9df9bae018e297|cite]])
 
+### 2026-10-13 [[2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference|Neocloud Prime Intellect Acquires Startup To Speed Up Inference]]
+
+- As of October 2026 Fal generated more than $800 million in annualized revenue and Together AI over $1 billion, far more than Prime Intellect. ([[2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference#^clm-2eed0379742ce314e251|cite]])
+
 ## Related concepts
 
-[[AI-Compute-Demand|AI Compute Demand vs Supply]]
+[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Annualized-Revenue|Annualized Revenue (ARR)]]

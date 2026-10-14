@@ -3,11 +3,11 @@ type: entity
 title: Cursor
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 15
+claim_count: 17
 ---
 
 # Cursor
@@ -55,6 +55,14 @@ AI coding startup whose editor and agent harness gather large amounts of code us
 
 - In coding assistants, the early GitHub Copilot and Cursor duopoly is gone: Claude Code now leads, OpenAI's Codex surged in 2026, and Cursor is close behind. ([[2026-10-08-Chinese-Open-Models-Win-Over-One-in-Five-of-The-Informations-Subscribers#^clm-fcd74c1c7540f769cb89|cite]])
 
+### 2026-10-09 [[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded|China’s AI Model Race Is Just Getting More Crowded]]
+
+- Big AI acquisitions like AMD's $8 billion purchase of Fei-Fei Li's World Labs or SpaceX's $60 billion takeover of Cursor are unheard of in China; Alibaba and Tencent take minority stakes in Chinese AI labs but buy none. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-d981189ee40e220b35c7|cite]])
+
+### 2026-10-10 [[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes|GPUs in the Wine Cellar: Why Techies Are Hoarding AI Compute in Their Homes]]
+
+- 0xSero says Cursor raising its prices in late 2024 was the moment he decided to switch from cloud AI to local AI. ([[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes#^clm-e5827b0d2bf5e01792a3|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[Data-Asset|Data as a Competitive Asset]], [[Seats-Plus-Consumption|Seats Plus Consumption (Per-User Plus Usage Pricing)]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Vertical-Integration|Vertical Integration]]
+[[AI-Agents|AI Agents]], [[Data-Asset|Data as a Competitive Asset]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Seats-Plus-Consumption|Seats Plus Consumption (Per-User Plus Usage Pricing)]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Vertical-Integration|Vertical Integration]]

@@ -3,11 +3,11 @@ type: entity
 title: Demis Hassabis
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/person
-claim_count: 9
+claim_count: 10
 ---
 
 # Demis Hassabis
@@ -30,6 +30,10 @@ Co-founder and CEO of Google DeepMind.
 ### 2026-09-23 [[2026-09-23-Google-Nears-Release-of-Flagship-Gemini-4-AI-Model|Google Nears Release of Flagship Gemini 4 AI Model]]
 
 - Kavukcuoglu took over Google DeepMind in August 2026, moving from CTO to senior vice president; Demis Hassabis became chairman of the unit and chief scientist of Alphabet. ([[2026-09-23-Google-Nears-Release-of-Flagship-Gemini-4-AI-Model#^clm-54dc0e355695e20f7730|cite]])
+
+### 2026-10-10 [[2026-10-10-Zuckerbergs-Big-Biotech-Moment|Zuckerberg’s Big Biotech Moment]]
+
+- Per Kevin Roose's book The AGI Chronicles, Google's Gemini was almost called Titan, a Demis Hassabis suggestion that lawyers vetoed as too aggressive. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-ecf50c64a680dfe54b1d|cite]])
 
 ## Related concepts
 

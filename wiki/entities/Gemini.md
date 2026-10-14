@@ -3,11 +3,11 @@ type: entity
 title: Gemini
 status: developing
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/product
-claim_count: 11
+claim_count: 14
 ---
 
 # Gemini
@@ -35,6 +35,18 @@ Google's family of AI models and its chatbot app.
 - Over the past year subscribers' use of Anthropic's Claude and Google's Gemini rose at the expense of OpenAI's ChatGPT, though ChatGPT still leads and regained some ground versus Claude. ([[2026-10-08-Chinese-Open-Models-Win-Over-One-in-Five-of-The-Informations-Subscribers#^clm-0b10242c58f41ed6f8dc|cite]])
 - Efrati suggests Gemini's comeback is probably due to Google signing more enterprise deals or integrating Gemini with its core search engine. ([[2026-10-08-Chinese-Open-Models-Win-Over-One-in-Five-of-The-Informations-Subscribers#^clm-9292565290f12fdac514|cite]])
 - On Oct. 7, 2026, OpenAI launched visual answers in ChatGPT to catch up with a similar Gemini feature that shows videos or images in answers. ([[2026-10-08-Chinese-Open-Models-Win-Over-One-in-Five-of-The-Informations-Subscribers#^clm-a3cbe73ac4f2868aa7b8|cite]])
+
+### 2026-10-10 [[2026-10-10-Zuckerbergs-Big-Biotech-Moment|Zuckerberg’s Big Biotech Moment]]
+
+- Per Kevin Roose's book The AGI Chronicles, Google's Gemini was almost called Titan, a Demis Hassabis suggestion that lawyers vetoed as too aggressive. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-ecf50c64a680dfe54b1d|cite]])
+
+### 2026-10-12 [[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches AI’s Crowded Frontier—Will Users Care?]]
+
+- Google unveiled Gemini 4 Argon in late September 2026, saying it delivers frontier performance in complex workflows. ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care#^clm-b7d9cb15ced866f324a7|cite]])
+
+### 2026-10-12 [[2026-10-12-Trump-Administration-Plans-to-Move-AI-Testing-Agency-Officials-to-White-House|Trump Administration Plans to Move AI Testing Agency Officials to White House]]
+
+- Google said in a September 30, 2026 blog post that it had submitted Gemini 4 Argon to the White House for voluntary testing; as of October 12 it still had not widely released the model. ([[2026-10-12-Trump-Administration-Plans-to-Move-AI-Testing-Agency-Officials-to-White-House#^clm-0dfb9e274d88634f411b|cite]])
 
 ## Related concepts
 

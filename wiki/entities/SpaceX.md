@@ -3,11 +3,11 @@ type: entity
 title: SpaceX
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 75
+claim_count: 79
 ---
 
 # SpaceX
@@ -144,6 +144,19 @@ Elon Musk's rocket and satellite company; now owns X and xAI.
 
 - SpaceX agreed to buy nationwide low-band spectrum that Elon Musk called the last piece needed for complete U.S. phone coverage; Verizon, T-Mobile and AT&T shares fell 6% to 7% after hours. ([[2026-10-08-OpenAI-ARR-Snafu-Highlights-Flawed-Metric#^clm-a0fdec139105098f635a|cite]])
 - Peers argues SpaceX will struggle to match mobile incumbents by combining its satellite-to-mobile constellation with the new spectrum, and must also build cell towers. ([[2026-10-08-OpenAI-ARR-Snafu-Highlights-Flawed-Metric#^clm-203e7cb2348547cb6706|cite]])
+
+### 2026-10-09 [[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded|China’s AI Model Race Is Just Getting More Crowded]]
+
+- In the U.S., OpenAI and Anthropic hold a clear technical lead over followers such as Meta, SpaceX and Google, while in China no lab has pulled meaningfully ahead as of October 2026. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-447355abfc5320e8e964|cite]])
+- Big AI acquisitions like AMD's $8 billion purchase of Fei-Fei Li's World Labs or SpaceX's $60 billion takeover of Cursor are unheard of in China; Alibaba and Tencent take minority stakes in Chinese AI labs but buy none. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-d981189ee40e220b35c7|cite]])
+
+### 2026-10-11 [[2026-10-11-Amazons-Bargains-Include-Its-Stock|Amazon’s Bargains Include Its Stock]]
+
+- Martin Peers argues investor enthusiasm for chip stocks and blue-sky vision firms like SpaceX has pulled money out of established tech stocks, leaving Amazon at a bargain price. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-69c69c2f02daea6cfa6a|cite]])
+
+### 2026-10-11 [[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint|The Attractive Economics Behind Anthropic Data Center Sprint]]
+
+- At the start of 2026 Anthropic projected its model-training costs would be more than twice its inference spending, and its 2026 server rentals from SpaceX and others will depress margins. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-a62d80bd14ff7e9ac38a|cite]])
 
 ## Related concepts
 

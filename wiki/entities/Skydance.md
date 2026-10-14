@@ -3,7 +3,7 @@ type: entity
 title: Skydance
 status: developing
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company

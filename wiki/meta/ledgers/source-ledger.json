@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:35:27Z",
+  "generated_at": "2026-10-14T03:25:01Z",
   "schema": "claude-obsidian.source-ledger.v1",
   "sources": {
     "src-a3fe751aca2f987ed6fc": {
@@ -2326,6 +2326,481 @@
       "url": "https://www.theinformation.com/articles/openai-arr-snafu-highlights-flawed-metric",
       "form": "article",
       "summary": "OpenAI's annualized revenue is closer to $50 billion, not the $70 billion widely reported the week before, and the correction knocked chip and neocloud stocks. Martin Peers argues the episode shows the industry leans too hard on annualized revenue, a one-month-times-12 figure that leaks irregularly and is counted differently by OpenAI and Anthropic. He expects the problem to fade once AI firms go public. The newsletter also doubts SpaceX's plan to offer full U.S. phone coverage after buying low-band spectrum."
+    },
+    "src-639d8dab9c85622c2d32": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-09 The Information - Chinas AI model race gets more crowded (notes).md"
+      },
+      "content_kind": "document",
+      "title": "China’s AI Model Race Is Just Getting More Crowded",
+      "authority": "secondary",
+      "content_sha256": "a04bf2ac7a95198df778c79f66c1a8792602bcfa956194d7b82b9fcad5e10d39",
+      "ingested_at": "2026-10-13",
+      "retrieved_at": "2026-10-13",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded.md"
+      ],
+      "supersedes": null,
+      "author": "Juro Osawa",
+      "published": "2026-10-09",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/chinas-ai-model-race-just-getting-crowded",
+      "form": "article",
+      "summary": "China's AI model race is getting more crowded as game maker miHoYo, phone maker Xiaomi and delivery app Meituan build their own models next to ByteDance, Alibaba, Tencent and five model startups. Unlike the U.S., where OpenAI and Anthropic lead, no Chinese lab has pulled ahead. The piece says firms distrust each other and prefer to build their own AI, distillation of U.S. frontier models levels the field, and an IPO-or-nothing culture blocks the acquisitions that would consolidate the market."
+    },
+    "src-dad183b16c783724a8a3": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-10 The Information - Techies hoarding AI compute at home (notes).md"
+      },
+      "content_kind": "document",
+      "title": "GPUs in the Wine Cellar: Why Techies Are Hoarding AI Compute in Their Homes",
+      "authority": "secondary",
+      "content_sha256": "2ae5352a15b53747709a9ac89fddd2a90f770f71d6a91d73bf481f5db42ac569",
+      "ingested_at": "2026-10-13",
+      "retrieved_at": "2026-10-13",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes.md"
+      ],
+      "supersedes": null,
+      "author": "Nick Wingfield, Aaron Tilley",
+      "published": "2026-10-10",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/gpus-wine-cellar-techies-hoarding-ai-compute-homes",
+      "form": "article",
+      "summary": "Tech workers are filling basements, attics, garages and even wine cellars with GPUs and Macs to run AI at home instead of renting cloud compute. They cite cost, privacy, reliability, price hikes like Cursor's, and fear that governments could cut off access, and agent tools like OpenClaw added fuel. Apple and Dell report strong sales from this crowd. The catch is heat, noise and costly power and cooling upgrades."
+    },
+    "src-e65a1de794bf0e8aba93": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-10 The Information - Zuckerbergs Biohub bets on AI biology (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Zuckerberg’s Big Biotech Moment",
+      "authority": "secondary",
+      "content_sha256": "25d962cef99548081e4a00e6b9577284b5efb31675a20865bce83fd48db8772d",
+      "ingested_at": "2026-10-13",
+      "retrieved_at": "2026-10-13",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-10-Zuckerbergs-Big-Biotech-Moment.md"
+      ],
+      "supersedes": null,
+      "author": "Amy Dockser Marcus",
+      "published": "2026-10-10",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/zuckerbergs-big-biotech-moment",
+      "form": "article",
+      "summary": "Biohub, the philanthropy of Mark Zuckerberg and Priscilla Chan, announced a $1.8 billion partnership with the NIH and the Department of Energy to build infrastructure for AI-powered biology, framed as a successor to the Human Genome Project. Meta, Google DeepMind and Isomorphic Labs agreed to add $300 million. The writer argues the event is one of several signs that big tech, not universities, now leads big science: tech CEOs fill the White House science council, Brin and Huang got National Medals of Science, and Anthropic gave $150 million in AI credits to the Genesis Mission. A book pick on Kevin Roose's The AGI Chronicles adds small naming details about Stargate and Gemini."
+    },
+    "src-7cc081c3f629bbf06d06": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-11 The Information - Amazon stock looks cheap next to its parts (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Amazon’s Bargains Include Its Stock",
+      "authority": "secondary",
+      "content_sha256": "4cb6b1d76bf9b35ce405f11a18886e0c4eb202c11eaad3390e4fa79f309438db",
+      "ingested_at": "2026-10-13",
+      "retrieved_at": "2026-10-13",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-11-Amazons-Bargains-Include-Its-Stock.md"
+      ],
+      "supersedes": null,
+      "author": "Martin Peers",
+      "published": "2026-10-11",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/amazons-bargains-include-stock",
+      "form": "article",
+      "summary": "Martin Peers argues Amazon stock is undervalued because money has flowed to chip stocks and SpaceX-style vision companies. Despite $220 billion of 2026 capex, Amazon trades at 29 times forward earnings versus 37 for slower-growing Walmart. A sum-of-the-parts view puts AWS at $1 trillion or more, shopping at about $1.7 trillion, and the studio near Netflix's $300 billion, against a $2.8 trillion market value. Risks include the AWS capex return and AI agents replacing human shoppers, which could wipe out the ad business. The newsletter also notes Claude filling out a police tip form during an Anthropic evaluation."
+    },
+    "src-a1ded8336c02e3fbaa42": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-11 The Information - Anthropic data center sprint economics (notes).md"
+      },
+      "content_kind": "document",
+      "title": "The Attractive Economics Behind Anthropic Data Center Sprint",
+      "authority": "secondary",
+      "content_sha256": "27e58d1cd30f450963d152f01ada54350865ef6956f017196172a20f2a89cf3e",
+      "ingested_at": "2026-10-13",
+      "retrieved_at": "2026-10-13",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint.md"
+      ],
+      "supersedes": null,
+      "author": "Ann Davis Vaughan",
+      "published": "2026-10-11",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/attractive-economics-behind-anthropic-data-center-sprint",
+      "form": "article",
+      "summary": "Anthropic is pushing partners to speed up $530 billion of data center leases because each server switched on sooner can be very profitable. At a 330 MW Hut 8 site in Louisiana running Google chips from Q2 2027, one month of early operation could add $1.3 billion or more in revenue at an estimated 85% gross margin if used only for inference. Former bitcoin miners with scarce grid rights have become key to Anthropic's race toward 15 GW against OpenAI. The economics are so strong that AI inference could afford power at over 100 times normal grid prices, which could let data centers trade flexible grid use for faster hookups."
+    },
+    "src-f2fd28e574d7f0c500a9": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-12 The Information - VCs race to secure chips for their startups (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Andreessen Horowitz, General Catalyst Race to Secure the Chips Their Startups Need",
+      "authority": "secondary",
+      "content_sha256": "c1229a0abf8c07e7d5585bcbc979d202f3c3d89721b4b66f8c19c20d5494c194",
+      "ingested_at": "2026-10-13",
+      "retrieved_at": "2026-10-13",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-12-Andreessen-Horowitz-General-Catalyst-Race-to-Secure-the-Chips-Their-Startups-Need.md"
+      ],
+      "supersedes": null,
+      "author": "Julia Hornstein, Dakin Campbell, Phoebe Liu",
+      "published": "2026-10-12",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/andreessen-horowitz-general-catalyst-race-secure-chips-startups-need",
+      "form": "article",
+      "summary": "Venture capital firms are securing AI compute for their portfolio startups as a chip shortage leaves smaller companies short of GPUs. Andreessen Horowitz, which built a 20,000 GPU cluster two years ago, is in talks to expand it with Switch and Volta, two data center firms it backed. General Catalyst is building its own data center, and Coatue, Crucible Capital and Kearny Jackson run their own compute efforts. Firms can resell spare capacity, so compute access is becoming both a recruiting tool for founders and a possible profit line."
+    },
+    "src-1bf1eacb571f1415ce2b": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-12 The Information - Microsoft Office chief Lamanna fixed Copilot (notes).md"
+      },
+      "content_kind": "document",
+      "title": "How Microsoft’s New Office Chief Fixed Copilot and Won Over Nadella",
+      "authority": "secondary",
+      "content_sha256": "2ef47edbb74a1fef0434021295bcc109ccded0c832a9d4870bb2767bc3302dad",
+      "ingested_at": "2026-10-13",
+      "retrieved_at": "2026-10-13",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella.md"
+      ],
+      "supersedes": null,
+      "author": "Aaron Holmes",
+      "published": "2026-10-12",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/microsofts-new-office-chief-fixed-copilot-won-nadella",
+      "form": "article",
+      "summary": "Charles Lamanna turned around Microsoft's Copilot, starting with a 2025 pitch to Satya Nadella to add Anthropic models and end Copilot's dependence on OpenAI alone. Nadella then unified the scattered Copilot teams under him and in October 2026 also gave him Office, making him a possible CEO successor. Copilot corporate users more than doubled in 2026 to over 30 million. Lamanna now works on margins: a model router and a shift of agent mode back to free OpenAI models temper Microsoft's growing Anthropic bill of over $2 billion a year."
+    },
+    "src-242f325f833df28dafb2": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-12 The Information - Meta Muse Wonder joins crowded AI frontier (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Meta Reaches AI’s Crowded Frontier—Will Users Care?",
+      "authority": "secondary",
+      "content_sha256": "3665e634fc7a10a61f7ed2e6957b3577867e8865ebea80a1d598a5c4b9b651dc",
+      "ingested_at": "2026-10-13",
+      "retrieved_at": "2026-10-13",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care.md"
+      ],
+      "supersedes": null,
+      "author": "Martin Peers",
+      "published": "2026-10-12",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/meta-reaches-ais-crowded-frontier-will-users-care",
+      "form": "article",
+      "summary": "Meta unveiled Muse Wonder, a model it says delivers state of the art performance on certain tasks, after a 14-month hiring binge to fix its AI slump. Martin Peers argues the claim is lost among identical frontier claims from Google, OpenAI and Anthropic, while buyers shift to cheaper good enough models: only 14% of OpenRouter usage ran through the top 10 models in Q3 2026, down from 55% in Q1 2025. He argues consumers using the Muse agent do not need a frontier model, so Muse Wonder may mostly raise Meta's costs. The column also covers Bumble's talks to go private, Meta's ban on ByteDance ads, and Microsoft's Maia 300 chip."
+    },
+    "src-30cba1d2a2118fe003a8": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-12 The Information - OpenAI plan to revive Sora (notes).md"
+      },
+      "content_kind": "document",
+      "title": "OpenAI’s Plan To Revive Sora",
+      "authority": "secondary",
+      "content_sha256": "3bdff4ed8f4435e5464ab6d52dbf33f555931c4360d46256206b004b9a8eb08e",
+      "ingested_at": "2026-10-13",
+      "retrieved_at": "2026-10-13",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-12-OpenAIs-Plan-To-Revive-Sora.md"
+      ],
+      "supersedes": null,
+      "author": "Stephanie Palazzolo, Cory Weinberg",
+      "published": "2026-10-12",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/openais-plan-revive-sora",
+      "form": "article",
+      "summary": "OpenAI shut down its costly Sora video model and app earlier in 2026 to focus on ChatGPT and on competing with Anthropic in coding and enterprise. A new filmmaker video startup co-founded by Jeffrey Katzenberg, former Sora lead Bill Peebles and Sujay Jaswa is in talks to license and customize Sora, giving OpenAI equity and some return on its sunk cost. The newsletter notes OpenAI has backslid on its focus push with robotics, a creator division and a device. It also reports OpenAI told investors its annualized revenue was approaching $50 billion at end of September, about $20 billion below other reports."
+    },
+    "src-30eee8615989a096f8ba": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-12 The Information - Goodfire chief scientist Tom McGrath on interpretability (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Researchers Need to Learn How AI Makes Decisions, Says Goodfire’s Tom McGrath",
+      "authority": "primary",
+      "content_sha256": "666b9e1159763f4c811a239020a8b4b6392f3ab771f35f3bd5fb986c41f5f7bb",
+      "ingested_at": "2026-10-13",
+      "retrieved_at": "2026-10-13",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-12-Researchers-Need-to-Learn-How-AI-Makes-Decisions-Says-Goodfires-Tom-McGrath.md"
+      ],
+      "supersedes": null,
+      "author": "Rocket Drew",
+      "published": "2026-10-12",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/researchers-need-learn-ai-makes-decisions-says-goodfires-tom-mcgrath",
+      "form": "interview",
+      "summary": "Goodfire co-founder and chief scientist Tom McGrath argues that mechanistic interpretability, reading a model's internals like a brain scan, is becoming essential as chain-of-thought monitoring gets harder. He says a cheap activation monitor for 'I am cheating' could have helped catch reward hacking like OpenAI's Hugging Face incident, and predicts interp will beat reading the chain of thought for chosen properties within six months. Goodfire aims to fully reverse-engineer Alibaba's Qwen3.6-35B-A3B within a year. McGrath also maps the field, argues labs underinvest, defends a minority view that interp signals could one day be used in training, and expects AI agents to speed interp research about tenfold."
+    },
+    "src-428ffe36e0e6f8bf7fcf": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-12 The Information - Trump administration to move AI testing agency officials to White House (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Trump Administration Plans to Move AI Testing Agency Officials to White House",
+      "authority": "secondary",
+      "content_sha256": "8709beabe1f9fd56fd3b109f30b23869810c025c2e4fe0865ee8055e5579913e",
+      "ingested_at": "2026-10-13",
+      "retrieved_at": "2026-10-13",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-12-Trump-Administration-Plans-to-Move-AI-Testing-Agency-Officials-to-White-House.md"
+      ],
+      "supersedes": null,
+      "author": "Leo Schwartz",
+      "published": "2026-10-12",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/trump-administration-plans-move-ai-testing-agency-officials-white-house",
+      "form": "article",
+      "summary": "The Trump administration is moving three senior officials of CAISSI, the small Commerce Department agency that tests frontier AI models, to report to the White House. CAISSI has about 40 staff and $15 million a year, yet it works with the NSA to test models like OpenAI's Astra and Anthropic's Mythos before release under an August 2026 framework. The agency has had three names in under two years, constant turnover, and was left out of Trump's new super intelligence task force. Labs worry it lacks resources and have explored their own testing group."
+    },
+    "src-29720e9267f39efa60e2": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-13 The Information - Applied Materials and Lam Research as overlooked chip equipment stocks (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Applied And Lam Are Overlooked Chip Equipment Stocks",
+      "authority": "secondary",
+      "content_sha256": "226e202b9fbf02a909a59b9f784685408c08bafdeecaeaa19893098724b3431f",
+      "ingested_at": "2026-10-13",
+      "retrieved_at": "2026-10-13",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-13-Applied-And-Lam-Are-Overlooked-Chip-Equipment-Stocks.md"
+      ],
+      "supersedes": null,
+      "author": "Anita Ramaswamy",
+      "published": "2026-10-13",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/applied-lam-overlooked-chip-equipment-stocks",
+      "form": "article",
+      "summary": "Ramaswamy argues chipmaking toolmakers Applied Materials and Lam Research are still overlooked even after both stocks rose 125% in a year, because their growth could speed up over the next two years as memory makers expand. Lam grows faster and trades at a higher multiple, helped by NAND and memory packaging tools, but that leaves it more exposed to an AI spending pullback. Applied is cheaper, has more exposure to fast-growing DRAM, plans to double its output by 2028, and has a cushion in automotive and industrial chips. Both get about a third of revenue from China and remain cyclical businesses."
+    },
+    "src-5b0bb16ab729596dd7aa": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-13 The Information - Applied Intuition fields offers at 30 billion valuation (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Applied Intuition Fields Offers at $30 Billion Valuation",
+      "authority": "secondary",
+      "content_sha256": "4b0aeac9f34c939b79148e2998655c00bab923b38531df8d2f9d9b09126b9922",
+      "ingested_at": "2026-10-13",
+      "retrieved_at": "2026-10-13",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-13-Applied-Intuition-Fields-Offers-at-30-Billion-Valuation.md"
+      ],
+      "supersedes": null,
+      "author": "Stephanie Palazzolo",
+      "published": "2026-10-13",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/applied-intuition-fields-offers-30-billion-valuation-2",
+      "form": "newsletter",
+      "summary": "Applied Intuition, which sells software to build and test self-driving vehicles, has received investment offers valuing it at $30 billion or more, double its June 2026 valuation, and may raise at least $1 billion. The deal would back its bet on selling self-driving software rather than building and running cars, a contrast to Waymo. It joins a growing set of AI application startups, such as Cognition and Perplexity, worth $20 billion or more. It is also expanding into military vehicles and signed operating system deals with Honda and Nissan."
+    },
+    "src-607aae191e107a3c24a4": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-13 The Information - Microsoft Azure president asks for 20 percent cost cuts (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Microsoft Cloud President Asks Leaders to Find 20% Cost Cuts",
+      "authority": "secondary",
+      "content_sha256": "aaa0e34252eaa27824bc6dcf299537ac91d6cf074ff12ee9d36a5a0e054d8b89",
+      "ingested_at": "2026-10-13",
+      "retrieved_at": "2026-10-13",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts.md"
+      ],
+      "supersedes": null,
+      "author": "Kevin McLaughlin, Aaron Holmes",
+      "published": "2026-10-13",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/microsoft-cloud-president-asks-leaders-find-20-cost-cuts",
+      "form": "article",
+      "summary": "Azure president Girish Bablani asked leaders of his 11,500-person unit to find cost cuts of at least 20%, per one person, though Microsoft denies any such directive. The push comes even as Azure growth speeds up, showing how AI data center spending and talent retention costs weigh on Microsoft. Microsoft is also reorganizing the cloud unit around Arun Ulag. Azure made $101.9 billion in the year to June 2026, while Microsoft's free cash flow fell 20% year over year in the June quarter."
+    },
+    "src-e0e5b6483f374b72effd": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-13 The Information - Prime Intellect acquires Moondream to speed up inference (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Neocloud Prime Intellect Acquires Startup To Speed Up Inference",
+      "authority": "secondary",
+      "content_sha256": "beeccfcd113169f20546e9ec62d702c2c8c238c5b1303f2031b379bd07852826",
+      "ingested_at": "2026-10-13",
+      "retrieved_at": "2026-10-13",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference.md"
+      ],
+      "supersedes": null,
+      "author": "Stephanie Palazzolo",
+      "published": "2026-10-13",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/neocloud-prime-intellect-acquires-startup-speed-inference",
+      "form": "article",
+      "summary": "Prime Intellect, a $1 billion neocloud, is buying Moondream, a tiny open-source model maker, mainly for its engineers' skill at megakernels, a way to fuse GPU operations so models run faster and cheaper. Moondream's compiler automates what has been manual work, and its image-model experience could help Prime Intellect win robotics and computer-use agent customers. At $100 million in annualized revenue, Prime Intellect is far smaller than Fal or Together AI, but it owns its hardware. The newsletter also covers an Anthropic data center in Japan, Microsoft's Maia 300 chip, Character.ai's bankruptcy and Meta's new Muse models."
+    },
+    "src-cb3587753b6d3f4aa0fa": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-13 The Information - OpenAI eyes buying security firm Trail of Bits (notes).md"
+      },
+      "content_kind": "document",
+      "title": "OpenAI Eyes Acquisition That Could Boost Cybersecurity Business",
+      "authority": "secondary",
+      "content_sha256": "a21987866d4446a0be060e06cc553c270c4e0e522588e5c15169980eda50d367",
+      "ingested_at": "2026-10-13",
+      "retrieved_at": "2026-10-13",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-13-OpenAI-Eyes-Acquisition-That-Could-Boost-Cybersecurity-Business.md"
+      ],
+      "supersedes": null,
+      "author": "Valida Pau, Amir Efrati",
+      "published": "2026-10-13",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/openai-early-talks-buy-security-startup-trail-bits",
+      "form": "article",
+      "summary": "OpenAI is in early talks to buy Trail of Bits, a 40-plus person firm that finds and fixes open-source software vulnerabilities, as it tries to build a substantial cybersecurity business. Trail of Bits already works with OpenAI on Patch the Planet, using Codex and cyber-specialized models to fix bugs in projects like Python. OpenAI and Anthropic are racing on vulnerability-finding AI, offering their strongest models to large businesses with White House coordination while neutering public versions. OpenAI also hired former Wiz executive Dali Rajic as chief revenue officer."
+    },
+    "src-90cd268ec8c72eddb94d": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-13 The Information - OpenAI scrambles to fix safety issues before next flagship model (notes).md"
+      },
+      "content_kind": "document",
+      "title": "OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model",
+      "authority": "secondary",
+      "content_sha256": "46c9ca3f9cacb117ee84e4f56ab4537b1164325aa3d4a22850a0c574784d5060",
+      "ingested_at": "2026-10-13",
+      "retrieved_at": "2026-10-13",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-13-OpenAI-Scrambles-to-Fix-Safety-Issues-Before-Shipping-Its-Next-Flagship-Model.md"
+      ],
+      "supersedes": null,
+      "author": "Stephanie Palazzolo, Aaron Holmes, Amir Efrati",
+      "published": "2026-10-13",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model",
+      "form": "article",
+      "summary": "OpenAI is racing to make its next flagship model safe to release while dealing with fallout from loop transformers, a design that runs a problem through the model several times and can hide its reasoning from monitors. Microsoft accidentally confirmed GPT-6.1 Sol uses the technique, and three fired safety researchers are publicly pressing OpenAI to keep model thinking monitorable. After the Hugging Face breach, OpenAI moved about 10% of its compute to safety work, added safety cases and vetoes for training runs, and agreed to up to 30 days of U.S. government testing before release. The piece shows safety now gating OpenAI's release pace."
+    },
+    "src-6f47528841868907a86f": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-13 The Information - OpenAI bug and Bumble AI-powered exit (notes).md"
+      },
+      "content_kind": "document",
+      "title": "OpenAI’s Bug and Bumble’s AI-Powered Exit",
+      "authority": "secondary",
+      "content_sha256": "554a5b1c1fb7b601e4daec7312b40f66a6487d3678343388ee9183744b2f3ad7",
+      "ingested_at": "2026-10-13",
+      "retrieved_at": "2026-10-13",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit.md"
+      ],
+      "supersedes": null,
+      "author": "Martin Peers",
+      "published": "2026-10-13",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/openais-bug-bumbles-ai-powered-exit",
+      "form": "article",
+      "summary": "Martin Peers' Briefing column covers an OpenAI engineer arrested for allegedly planting a recording device in a company conference room, and Ithaca Holdings' $1.3 billion purchase of Bumble, which Peers argues is a distressed sale dressed up as an AI bet. Character.AI's bankruptcy shows the end state of the 2024 license-and-hire deals, with Disney hiring its CEO and bidding for its IP. Shorter items: JPMorgan blocks outside AI agents such as Meta's Muse from client accounts, and Apple launches a $299 HomeView smart home screen."
+    },
+    "src-f14243f9d469a2f93102": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-13 The Information - Why companies cannot prove AI spending pays off (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Why Companies Can't Prove Their AI Spending Pays Off",
+      "authority": "secondary",
+      "content_sha256": "ac618b0f5074f7e104ea327258b3b29ed6c8fa29dd97200da12f7eb8dbe7f283",
+      "ingested_at": "2026-10-13",
+      "retrieved_at": "2026-10-13",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off.md"
+      ],
+      "supersedes": null,
+      "author": "Laura Bratton",
+      "published": "2026-10-13",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/companies-prove-ai-spending-pays",
+      "form": "article",
+      "summary": "A Wharton and GBK Collective survey of 1,400 employees at large U.S. firms finds most companies measure AI returns as hours saved and fewer errors, not new revenue, and that hard financial impact is very difficult to find. Some 80% of managers report positive returns, but the strongest returns come at firms that track growth outcomes. AI spending is still rising in 2026, though fewer managers expect substantial budget increases in 2027. Separately, Workday followed Salesforce in letting outside AI agents operate inside its software, and will charge per agent action from February 2027."
     }
   }
 }

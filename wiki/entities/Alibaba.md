@@ -3,11 +3,11 @@ type: entity
 title: Alibaba
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 9
+claim_count: 15
 ---
 
 # Alibaba
@@ -37,6 +37,18 @@ Chinese e-commerce and cloud company.
 - AliExpress's ultra-low-price Choice program lifted revenue but drove major losses; Alibaba's international e-commerce arm lost $566 million before interest, taxes, depreciation and amortization in the quarter through March 2024. ([[2026-09-30-Alibabas-AliExpress-Tests-Membership-Program-in-Challenge-to-Amazon#^clm-c0916c859f9700f9b398|cite]])
 - AliExpress posted an operating profit in the quarter through June 2026, while Alibaba's international e-commerce revenue fell 1% to $4.09 billion. ([[2026-09-30-Alibabas-AliExpress-Tests-Membership-Program-in-Challenge-to-Amazon#^clm-fad26e33dc340dcbc4db|cite]])
 
+### 2026-10-09 [[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded|China’s AI Model Race Is Just Getting More Crowded]]
+
+- The Information argues the new entrants will further intensify China's AI race, where competition on talent and price has already produced models that significantly narrowed the gap with the best U.S. models. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-6d0dbe7e5d250c2122f7|cite]])
+- ByteDance, Alibaba and Tencent are still racing to build their own AI models, funded by profits from e-commerce, social media and other businesses. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-0016ff04fab013211aab|cite]])
+- Xiaomi's flagship MiMo-V2.6-Pro, released in September 2026, ranks ninth on the Artificial Analysis Intelligence Index, on par with xAI's Grok 4.7 and ahead of the flagships Alibaba and Z.ai launched weeks earlier. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-3ab0c87a5cd99e1c7bc0|cite]])
+- The consolidation many predicted during China's 2023 'war of 100 models' has not happened, because Chinese tech firms deeply distrust each other and see building their own AI as cheaper than buying rivals. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-ac0678eb7f78e646a12c|cite]])
+- Investor Rui Ma says China developed an IPO-or-nothing mentality, so buyers rarely offer prices founders accept and never build acquisition skills, which keeps China's AI field crowded. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-7bb4b567f50ddcc581e7|cite]])
+
+### 2026-10-12 [[2026-10-12-Researchers-Need-to-Learn-How-AI-Makes-Decisions-Says-Goodfires-Tom-McGrath|Researchers Need to Learn How AI Makes Decisions, Says Goodfire’s Tom McGrath]]
+
+- Goodfire announced an effort to fully reverse-engineer a language model, targeting Alibaba's Qwen3.6-35B-A3B, which is a couple of orders of magnitude smaller than frontier models so experiments cost about 100 times less. ([[2026-10-12-Researchers-Need-to-Learn-How-AI-Makes-Decisions-Says-Goodfires-Tom-McGrath#^clm-3433e08de750d8075436|cite]])
+
 ## Related concepts
 
-[[Data-Asset|Data as a Competitive Asset]], [[Sustainable-Competitive-Advantage|Sustainable Competitive Advantage]], [[Two-Sided-Marketplace|Two-Sided Marketplace (Platform)]]
+[[Data-Asset|Data as a Competitive Asset]], Mechanistic Interpretability, [[Open-Weight-Models|Open-Weight Models]], [[Sustainable-Competitive-Advantage|Sustainable Competitive Advantage]], [[Two-Sided-Marketplace|Two-Sided Marketplace (Platform)]]

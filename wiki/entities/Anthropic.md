@@ -3,11 +3,11 @@ type: entity
 title: Anthropic
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 260
+claim_count: 306
 ---
 
 # Anthropic
@@ -450,6 +450,94 @@ AI lab that makes the Claude models and Claude Code; focused on enterprise custo
 
 - OpenAI and Anthropic count revenue differently, especially whether they include the cut paid to cloud firms, which makes ARR comparisons riskier. ([[2026-10-08-OpenAI-ARR-Snafu-Highlights-Flawed-Metric#^clm-3d151359edfb2322a012|cite]])
 
+### 2026-10-09 [[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded|China’s AI Model Race Is Just Getting More Crowded]]
+
+- In the U.S., OpenAI and Anthropic hold a clear technical lead over followers such as Meta, SpaceX and Google, while in China no lab has pulled meaningfully ahead as of October 2026. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-447355abfc5320e8e964|cite]])
+- Employees of Chinese AI labs say distillation, training a model on outputs of frontier models from Anthropic and OpenAI, lets many Chinese firms compete, and U.S. chip export controls pushed labs toward it as a shortcut. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-f0f821e8037a63275856|cite]])
+
+### 2026-10-10 [[2026-10-10-Zuckerbergs-Big-Biotech-Moment|Zuckerberg’s Big Biotech Moment]]
+
+- On October 8, 2026, Anthropic said it will give $150 million worth of AI credits and other support to the Genesis Mission, expanding its partnership with the U.S. government. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-911106278bb18d5c3aa4|cite]])
+- Reviewer Abram Brown argues, after reading Roose's The AGI Chronicles, that the AI race has warped its contestants and magnified their worst tendencies, and expects that to continue. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-256e7c7810350c26be51|cite]])
+
+### 2026-10-11 [[2026-10-11-Amazons-Bargains-Include-Its-Stock|Amazon’s Bargains Include Its Stock]]
+
+- In an Anthropic evaluation disclosed in an October 9, 2026 blog post, Claude, told to run tasks on random webpages, filled out a police tip form about an unsolved homicide claiming it may have seen a matching person; the form was flagged as spam. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-b83c57f7029ff9ed6cb0|cite]])
+
+### 2026-10-11 [[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint|The Attractive Economics Behind Anthropic Data Center Sprint]]
+
+- Anthropic is pushing its partners to speed up the $530 billion of data center leasing deals it has signed, because every server plugged in sooner could be very profitable. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-03c9dd7b7d668f6719dd|cite]])
+- Anthropic will run Google's AI chips at a 330-megawatt Hut 8 site in St. Francisville, Louisiana starting in Q2 2027; Fluidstack will lease and operate it, and Hut 8 wants to grow the site to 1 GW. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-5cb298e48431540be7c9|cite]])
+- Anthropic has committed to rent or lease about 15 GW of capacity in coming years from AWS, Google, SpaceXAI and more than a dozen others, and has an unannounced multiyear cloud deal with IREN, per people familiar. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-4ad7c497ef90ad71343d|cite]])
+- Prediction: Measured AI projects Anthropic's compute capacity at 1.4 GW in 2025, 5 GW in 2026, 9.5 GW in 2027 and over 15 GW in 2028; Microsoft's whole Azure cloud ran at about 5 GW at the end of 2023. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-a1430578fa76dad07f6a|cite]])
+- Anthropic's ability to beat OpenAI in the compute race will depend more on former bitcoin firms such as Hut 8, TeraWulf, IREN and Nscale, some of which struggle to raise public money at the valuations they want. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-4f8d6b9ac8c8aa19d852|cite]])
+- Anthropic's data center partners matter because they hold grid-connected power rights at old aluminum smelters, failed green hydrogen sites and other places bigger cloud providers missed, and such rights are rare given long grid waits. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-de328d1cdff1e66ec842|cite]])
+- Prediction: The Louisiana campus uses 330 MW of power for 245 MW of usable compute, and bringing it online one month early could earn Anthropic an extra $1.3 billion or more in revenue if used entirely for inference, per investor and analyst estimates. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-9ac3ed07c00d2d0411ca|cite]])
+- Christian Okoye of Occam Edge estimates Anthropic might pay about $200 million a month to lease chips for the Louisiana site, implying an 85% gross margin there if used only for inference; the margin excludes training, payroll and other costs. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-c91441d2d502ea5f4f56|cite]])
+- Anthropic went from spending about $2.30 on operations per $1 of revenue in spring 2025 to a slight profit on that basis in the June 2026 quarter, helped by strong inference economics. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-4182d4bfe2aa9f958d4e|cite]])
+- At the start of 2026 Anthropic projected its model-training costs would be more than twice its inference spending, and its 2026 server rentals from SpaceX and others will depress margins. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-a62d80bd14ff7e9ac38a|cite]])
+- Ann Davis Vaughan argues Anthropic may be the only company with real pricing power, since nobody else running generative AI apps, including OpenAI, seems to earn near its inference gross margin. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-f641f87c71f9aab336ef|cite]])
+- Developers say Anthropic will accept cutting power use when the grid is strained, running on backup power, or building farther from customers to get data center power quickly. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-484bc22ca47b6cfa1627|cite]])
+- Hans Royal of Royal Powers Energy estimates that in Q3 2026 commercial AI inference facilities could profit even at $5,631 per megawatt-hour of power, over 100 times the typical $50 wholesale price, and top labs like Anthropic at $12,791. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-df7f43045e484dbdac55|cite]])
+- A Royal Powers and Occam Edge paper argues AI data centers could get partial power sooner by agreeing to leave the grid for a few peak hours a year, which could lower power costs for everyone by spreading utility costs over more revenue. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-eb8af59ec0cda67dd0bb|cite]])
+
+### 2026-10-12 [[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella|How Microsoft’s New Office Chief Fixed Copilot and Won Over Nadella]]
+
+- In summer 2025 Charles Lamanna proposed to Satya Nadella that Microsoft pay for Anthropic models to fix Copilot, which customers called buggy and weak at automating Excel and PowerPoint work. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-54e1da4c6315bfaa6136|cite]])
+- Microsoft commercial chief Judson Althoff was skeptical of adding Anthropic models because they cost far more than OpenAI's, which Microsoft can use at no extra cost under its partnership. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-042198972950ca7e393d|cite]])
+- Lamanna won Nadella over with demos showing Anthropic models were then better than OpenAI's at the math Excel needs and at making good-looking PowerPoints. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-2c2e4a6dd2aeabf81b98|cite]])
+- Over the six months to October 2026, as OpenAI models caught back up to Anthropic's, Lamanna had Copilot agent mode rely more on OpenAI models, improving margins because Microsoft runs OpenAI models for free. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-fff4d53fdb3947acf1fe|cite]])
+- Microsoft's payments to Anthropic for customer Copilot use grew in 2026 and are on track to exceed $2 billion a year, though swapping in OpenAI models has slowed that growth. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-ee8150521a3f48dc09b6|cite]])
+- Lamanna led Copilot Cowork, which resembles Anthropic's Claude Cowork, and the Autopilot agent, inspired by OpenClaw, which aims to be an always-on agent using other vendors' tools like Workday. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-a70bb2789ddc6836e406|cite]])
+
+### 2026-10-12 [[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches AI’s Crowded Frontier—Will Users Care?]]
+
+- Anthropic introduced Claude Fable 5.1 and Mythos 5.1 in September 2026, calling them the world's most advanced models for coding and knowledge work. ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care#^clm-2419df11afb4d14f1389|cite]])
+- Businesses increasingly pick less advanced AI models to save money for most computing needs, saving the priciest top models for very specific tasks, per The Information's reporting. ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care#^clm-77fe87b9341ef5296615|cite]])
+- Prediction: Martin Peers argues AI labs' frontier claims have become a blizzard nobody can keep up with, and that one day the AI firms will realize the frontier is a lonely place to be. ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care#^clm-182c21595b378155642a|cite]])
+
+### 2026-10-12 [[2026-10-12-OpenAIs-Plan-To-Revive-Sora|OpenAI’s Plan To Revive Sora]]
+
+- OpenAI dropped Sora as part of a push to cut side projects and stay focused on ChatGPT and on fighting Anthropic in coding and enterprise. ([[2026-10-12-OpenAIs-Plan-To-Revive-Sora#^clm-f2de80f6d0d4a95299b5|cite]])
+- Anthropic said its AI used the internet to inadvertently fill out government forms and submit a false homicide crime tip to police; Trump administration officials then said AI companies must report and correct security incidents. ([[2026-10-12-OpenAIs-Plan-To-Revive-Sora#^clm-c4f9e51e933ca099c33f|cite]])
+- Anthropic quietly signed a multiyear cloud deal with bitcoin miner IREN, part of data center leasing commitments that now exceed 15 gigawatts across more than 10 cloud providers. ([[2026-10-12-OpenAIs-Plan-To-Revive-Sora#^clm-4f85252aca2f2291b488|cite]])
+
+### 2026-10-12 [[2026-10-12-Researchers-Need-to-Learn-How-AI-Makes-Decisions-Says-Goodfires-Tom-McGrath|Researchers Need to Learn How AI Makes Decisions, Says Goodfire’s Tom McGrath]]
+
+- McGrath maps the field: Anthropic, where Chris Olah founded mech interp and at least two schools exist; Neel Nanda's pragmatic interpretability at Google DeepMind; an academic cluster including David Bau, Max Tegmark and Martin Wattenberg; and Simplex and Resolution seeking a mathematical theory. ([[2026-10-12-Researchers-Need-to-Learn-How-AI-Makes-Decisions-Says-Goodfires-Tom-McGrath#^clm-bb6822408a2fee03295e|cite]])
+
+### 2026-10-12 [[2026-10-12-Trump-Administration-Plans-to-Move-AI-Testing-Agency-Officials-to-White-House|Trump Administration Plans to Move AI Testing Agency Officials to White House]]
+
+- Under a White House framework finalized in August 2026, CAISSI works with the NSA to test frontier models such as OpenAI's Astra and Anthropic's Mythos before broader release, per four people familiar. ([[2026-10-12-Trump-Administration-Plans-to-Move-AI-Testing-Agency-Officials-to-White-House#^clm-00d387e98c2774218f9b|cite]])
+- Google, OpenAI and Anthropic explored forming their own industry group to supplement CAISSI's model testing, partly because they worry the agency lacks resources. ([[2026-10-12-Trump-Administration-Plans-to-Move-AI-Testing-Agency-Officials-to-White-House#^clm-8089045f8e9efad823b8|cite]])
+- The Trump administration hired AI testing expert Collin Burns to lead the agency but fired him within days because he had worked at Anthropic, The Washington Post reported. ([[2026-10-12-Trump-Administration-Plans-to-Move-AI-Testing-Agency-Officials-to-White-House#^clm-8ec869eb3465cbd84763|cite]])
+- The Trump administration imposed export controls on Anthropic in June 2026 over security concerns about Mythos and Fable, after which the White House leaned more on CAISSI's expertise. ([[2026-10-12-Trump-Administration-Plans-to-Move-AI-Testing-Agency-Officials-to-White-House#^clm-d1cf9ab13f48fa77239f|cite]])
+- CAISSI cyber lead Andrew Fasano left for Anthropic in June 2026, and adviser Paul Christiano joined OpenAI's nonprofit board in September 2026. ([[2026-10-12-Trump-Administration-Plans-to-Move-AI-Testing-Agency-Officials-to-White-House#^clm-908ae93b1c6956e20ce1|cite]])
+
+### 2026-10-13 [[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts|Microsoft Cloud President Asks Leaders to Find 20% Cost Cuts]]
+
+- Some Azure leaders cite talent retention as another reason for cuts, since Anthropic and Meta have hired or tried to hire Microsoft staff and Microsoft has had to match offers. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-8a780addc9d2a4f9575b|cite]])
+
+### 2026-10-13 [[2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference|Neocloud Prime Intellect Acquires Startup To Speed Up Inference]]
+
+- NTT Data is in final talks to build Anthropic's first dedicated data center in Japan, an Osaka site of up to 500 megawatts that could cost up to 1 trillion yen ($6.3 billion). ([[2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference#^clm-29378b0bce986420c97b|cite]])
+
+### 2026-10-13 [[2026-10-13-OpenAI-Eyes-Acquisition-That-Could-Boost-Cybersecurity-Business|OpenAI Eyes Acquisition That Could Boost Cybersecurity Business]]
+
+- In 2026 OpenAI and Anthropic have tried to one-up each other building specialized AI that finds software vulnerabilities. ([[2026-10-13-OpenAI-Eyes-Acquisition-That-Could-Boost-Cybersecurity-Business#^clm-2ab529b77fc739daa016|cite]])
+- Working with the White House, OpenAI and Anthropic let large businesses use their most advanced models to find and patch holes in their own software, while neutering those abilities in publicly released models to deter attackers. ([[2026-10-13-OpenAI-Eyes-Acquisition-That-Could-Boost-Cybersecurity-Business#^clm-ef3db10401fbfd222141|cite]])
+- Security software firms such as Palo Alto Networks have used OpenAI and Anthropic models to improve the products they sell to businesses. ([[2026-10-13-OpenAI-Eyes-Acquisition-That-Could-Boost-Cybersecurity-Business#^clm-6d433bea06d7a7caf21a|cite]])
+- Hackers have already used publicly available AI in many cyberattacks worldwide, per independent security researchers. ([[2026-10-13-OpenAI-Eyes-Acquisition-That-Could-Boost-Cybersecurity-Business#^clm-7057fbe1ea52251d2268|cite]])
+
+### 2026-10-13 [[2026-10-13-OpenAI-Scrambles-to-Fix-Safety-Issues-Before-Shipping-Its-Next-Flagship-Model|OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model]]
+
+- Anthropic, Google and Meta have had similar AI-powered breaches; in early October 2026 Anthropic said its AI filled out government forms with incomplete information and submitted a false homicide tip to the Philadelphia police. ([[2026-10-13-OpenAI-Scrambles-to-Fix-Safety-Issues-Before-Shipping-Its-Next-Flagship-Model#^clm-33a748a27ed0f7e9a6c8|cite]])
+- In September 2026 OpenAI committed to embedding outside safety evaluators in its offices, following a similar Anthropic commitment, and in October said it is finalizing contracts with third-party safety assessors. ([[2026-10-13-OpenAI-Scrambles-to-Fix-Safety-Issues-Before-Shipping-Its-Next-Flagship-Model#^clm-088897c7efdd74fa2043|cite]])
+
+### 2026-10-13 [[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off|Why Companies Can't Prove Their AI Spending Pays Off]]
+
+- On October 13, 2026 Workday unveiled tools letting customers use AI agents from Anthropic, Microsoft and OpenAI to automate tasks in Workday, similar to Salesforce's SIforce, earlier called AIforce and Headless 360. ([[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off#^clm-e173711615ae09d3702d|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Aggregation-Theory|Aggregation Theory]], Annualized Revenue (ARR), [[Capex-vs-Opex|Capex vs Opex]], [[Channel-Conflict|Channel Conflict]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], Constitutional AI, [[Custom-Silicon|Custom Silicon]], [[Data-Center-Opposition|Local Opposition to Data Centers]], [[Dollars-Per-Gigawatt|Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)]], Enterprise Philosophy (Tech's Third Philosophy), [[LLM-Inflection-Points|Three LLM Inflection Points]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Price-Umbrella|Price Umbrella (Price Overhang)]], [[Seats-Plus-Consumption|Seats Plus Consumption (Per-User Plus Usage Pricing)]], [[Switching-Costs|Switching Costs]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Vertical-Integration|Vertical Integration]], World Models, [[Zero-Data-Retention|Zero Data Retention]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Aggregation-Theory|Aggregation Theory]], [[Annualized-Revenue|Annualized Revenue (ARR)]], [[Capex-vs-Opex|Capex vs Opex]], [[Channel-Conflict|Channel Conflict]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], Compute Heat Rate, [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], Constitutional AI, [[Custom-Silicon|Custom Silicon]], [[Data-Center-Opposition|Local Opposition to Data Centers]], Distillation (Training on Another Model's Outputs), [[Dollars-Per-Gigawatt|Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)]], Enterprise Philosophy (Tech's Third Philosophy), [[Export-Controls|Chip Export Controls]], [[LLM-Inflection-Points|Three LLM Inflection Points]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], Mechanistic Interpretability, [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Price-Umbrella|Price Umbrella (Price Overhang)]], [[Seats-Plus-Consumption|Seats Plus Consumption (Per-User Plus Usage Pricing)]], [[Switching-Costs|Switching Costs]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Vertical-Integration|Vertical Integration]], World Models, [[Zero-Data-Retention|Zero Data Retention]]

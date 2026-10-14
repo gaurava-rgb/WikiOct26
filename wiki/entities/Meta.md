@@ -3,11 +3,11 @@ type: entity
 title: Meta
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 141
+claim_count: 156
 ---
 
 # Meta
@@ -255,6 +255,45 @@ Owner of Facebook, Instagram, and WhatsApp; also builds AI models (Llama, Muse S
 ### 2026-10-08 [[2026-10-08-Networking-Startup-Eliyan-Draws-Takeover-Interest-Held-Early-Talks-With-Arm|Networking Startup Eliyan Draws Takeover Interest, Held Early Talks With Arm]]
 
 - Founded in 2021, Eliyan has raised more than $250 million from backers including AMD, Cisco, Meta, Seligman Ventures and Tiger Global Management. ([[2026-10-08-Networking-Startup-Eliyan-Draws-Takeover-Interest-Held-Early-Talks-With-Arm#^clm-a46892086a06cd20ff8e|cite]])
+
+### 2026-10-09 [[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded|China’s AI Model Race Is Just Getting More Crowded]]
+
+- In the U.S., OpenAI and Anthropic hold a clear technical lead over followers such as Meta, SpaceX and Google, while in China no lab has pulled meaningfully ahead as of October 2026. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-447355abfc5320e8e964|cite]])
+
+### 2026-10-10 [[2026-10-10-Zuckerbergs-Big-Biotech-Moment|Zuckerberg’s Big Biotech Moment]]
+
+- Meta, Google DeepMind and Isomorphic Labs agreed to put $300 million into Biohub's AI biology initiative. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-84850df6105e1cabf1d3|cite]])
+- The Information's Amy Dockser Marcus argues the Biohub event is one of several signs of a changing of the scientific guard from major universities to big tech companies, with AI the favored engine for studying cells and disease. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-19ad68e26190a7a4858e|cite]])
+
+### 2026-10-11 [[2026-10-11-Amazons-Bargains-Include-Its-Stock|Amazon’s Bargains Include Its Stock]]
+
+- Amazon's ad business brings in $80 billion a year as of October 2026 and grows 20% to 25% a year, though it is mostly merchants' promotional spending on Amazon's own platform, making it less valuable than ads on Meta or Google. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-3771fb17b114f78aad81|cite]])
+
+### 2026-10-12 [[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches AI’s Crowded Frontier—Will Users Care?]]
+
+- On October 12, 2026, Meta unveiled a new AI model, Muse Wonder, which it says delivers state of the art performance on certain tasks, and claimed it is pushing the frontier of AI. ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care#^clm-0afe4bd52893834a199d|cite]])
+- Prediction: Meta said Muse Wonder will soon power experiences in Muse, its consumer personal agent. ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care#^clm-c86006ac501487c59bd7|cite]])
+- Meta's Muse Wonder release follows a slump in its AI efforts that led to a massive hiring binge over roughly the 14 months before October 2026. ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care#^clm-7f2a50f33551029ae1e3|cite]])
+- Martin Peers argues consumers, Muse's target audience, do not need the most advanced models for everything, so the only impact of putting Muse Wonder into Muse might be on Meta's costs. ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care#^clm-c0ded9427b53f0d7905e|cite]])
+- Prediction: Martin Peers argues AI labs' frontier claims have become a blizzard nobody can keep up with, and that one day the AI firms will realize the frontier is a lonely place to be. ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care#^clm-182c21595b378155642a|cite]])
+- Bumble's would-be buyers are Ravi Gupta, a former Sequoia partner, and John Hegeman, former chief revenue officer at Meta, whose new company aims to make acquisitions starting with Bumble. ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care#^clm-e3b2d6eb6312b9c8bfcc|cite]])
+- Meta has banned ads from ByteDance, TikTok's parent, on its platforms in the U.S. and several other markets, per Bloomberg. ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care#^clm-ac25750953945b5c4005|cite]])
+
+### 2026-10-13 [[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts|Microsoft Cloud President Asks Leaders to Find 20% Cost Cuts]]
+
+- Some Azure leaders cite talent retention as another reason for cuts, since Anthropic and Meta have hired or tried to hire Microsoft staff and Microsoft has had to match offers. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-8a780addc9d2a4f9575b|cite]])
+
+### 2026-10-13 [[2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference|Neocloud Prime Intellect Acquires Startup To Speed Up Inference]]
+
+- Meta unveiled two new AI models, Muse Wonder and Muse Wonder Full, on October 12, 2026. ([[2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference#^clm-4fbbf96b00ae90868f83|cite]])
+
+### 2026-10-13 [[2026-10-13-OpenAI-Scrambles-to-Fix-Safety-Issues-Before-Shipping-Its-Next-Flagship-Model|OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model]]
+
+- Anthropic, Google and Meta have had similar AI-powered breaches; in early October 2026 Anthropic said its AI filled out government forms with incomplete information and submitted a false homicide tip to the Philadelphia police. ([[2026-10-13-OpenAI-Scrambles-to-Fix-Safety-Issues-Before-Shipping-Its-Next-Flagship-Model#^clm-33a748a27ed0f7e9a6c8|cite]])
+
+### 2026-10-13 [[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit|OpenAI’s Bug and Bumble’s AI-Powered Exit]]
+
+- JPMorgan said in October 2026 it is blocking external AI agents such as Meta's Muse and Instinct from accessing client accounts. ([[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit#^clm-bd43255c7b9d8fad7333|cite]])
 
 ## Related concepts
 

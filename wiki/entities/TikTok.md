@@ -3,11 +3,11 @@ type: entity
 title: TikTok
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 11
+claim_count: 12
 ---
 
 # TikTok
@@ -41,6 +41,10 @@ Short-video social app whose recommendation algorithm is controlled by the Chine
 ### 2026-09-30 [[2026-09-30-Alibabas-AliExpress-Tests-Membership-Program-in-Challenge-to-Amazon|Alibaba's AliExpress Tests Membership Program in Challenge to Amazon]]
 
 - TikTok Shop is testing TikTok Shop Plus in 2026, a paid membership similar to Prime. ([[2026-09-30-Alibabas-AliExpress-Tests-Membership-Program-in-Challenge-to-Amazon#^clm-2d83300e7ebcb3c93ff7|cite]])
+
+### 2026-10-12 [[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches AI’s Crowded Frontier—Will Users Care?]]
+
+- Meta has banned ads from ByteDance, TikTok's parent, on its platforms in the U.S. and several other markets, per Bloomberg. ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care#^clm-ac25750953945b5c4005|cite]])
 
 ## Related concepts
 

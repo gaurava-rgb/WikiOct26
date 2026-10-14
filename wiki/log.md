@@ -13,6 +13,16 @@ tags:
 
 Newest completed operations appear first.
 
+## 2026-10-13 ingest-20261013-b23
+
+- Batch 23: TI Oct 13.
+- Sources: 8; claims added or updated this batch: 127.
+
+## 2026-10-13 ingest-20261013-b22
+
+- Batch 22: TI Oct 9-12.
+- Sources: 11; claims added or updated this batch: 202.
+
 ## 2026-10-09 editor-update-20261009-b21
 
 - Editor update: slotted 5 Oct 8 articles (batch ingest-20261009-b21) into the AI shift story, Nvidia, OpenAI, Anthropic, Google and Amazon 2023-2026 journeys; 2 what-changed entries.

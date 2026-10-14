@@ -3,11 +3,11 @@ type: entity
 title: Palantir
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 11
+claim_count: 12
 ---
 
 # Palantir
@@ -38,6 +38,10 @@ Data analytics and software company that serves the U.S. government and large en
 ### 2026-09-28 [[2026-09-28-Anthropic-Moves-to-Cut-Off-Discounts-When-Customers-Hit-Their-Cap|Anthropic Moves to Cut Off Discounts When Customers Hit Their Cap]]
 
 - Worries that the labs could learn from customers' intellectual property have led Palantir, Nvidia and Booz Allen Hamilton to demand guarantees or cut use of the most advanced models. ([[2026-09-28-Anthropic-Moves-to-Cut-Off-Discounts-When-Customers-Hit-Their-Cap#^clm-5172f1f9fb58f6ade051|cite]])
+
+### 2026-10-13 [[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit|OpenAI’s Bug and Bumble’s AI-Powered Exit]]
+
+- Peers argues acquisitions of distressed companies are being dressed up as AI-driven purchases, and that Bumble could adopt AI without being sold, for example with forward-deployed engineers from Google or Palantir; the real reason it is selling is a troubled business. ([[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit#^clm-f685252bd1afb529d325|cite]])
 
 ## Related concepts
 

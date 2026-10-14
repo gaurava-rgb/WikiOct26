@@ -3,11 +3,11 @@ type: entity
 title: Jensen Huang
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/person
-claim_count: 24
+claim_count: 26
 ---
 
 # Jensen Huang
@@ -66,6 +66,11 @@ Co-founder and CEO of Nvidia.
 - In early August 2026 Huang gathered Blackstone, Apollo and Goldman Sachs to finance $500 billion of Nvidia hardware, and Nvidia may backstop up to 25% in some deals. ([[2026-10-07-Where-Nvidias-100-Billion-Dealmaking-Juggernaut-Will-Go-Next#^clm-3612e6a34df64983e50c|cite]])
 - Nvidia's credit default swap spreads widened in August 2026, signaling investor worry; Huang watched them closely and the OpenAI guarantee shrank to less than half the size first discussed. ([[2026-10-07-Where-Nvidias-100-Billion-Dealmaking-Juggernaut-Will-Go-Next#^clm-c6e065cb5277de70ba37|cite]])
 - Huang publicly downplays the risk, telling a Goldman Sachs conference in September 2026: I'm not taking any risks. ([[2026-10-07-Where-Nvidias-100-Billion-Dealmaking-Juggernaut-Will-Go-Next#^clm-bab5d68dff2841fd7466|cite]])
+
+### 2026-10-10 [[2026-10-10-Zuckerbergs-Big-Biotech-Moment|Zuckerberg’s Big Biotech Moment]]
+
+- President Trump appointed Mark Zuckerberg in March 2026 to the President's Council of Advisors on Science and Technology, alongside Sergey Brin, Larry Ellison and Jensen Huang; only one of the council's 13 members is an academic researcher. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-5257749eeffe90fa7196|cite]])
+- On October 8, 2026, Sergey Brin and Jensen Huang, with other tech figures, received the National Medals of Science from President Trump. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-9cbaa6918d5a1fc5f3e2|cite]])
 
 ## Related concepts
 

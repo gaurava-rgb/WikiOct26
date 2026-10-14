@@ -3,11 +3,11 @@ type: entity
 title: Mark Zuckerberg
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/person
-claim_count: 13
+claim_count: 17
 ---
 
 # Mark Zuckerberg
@@ -52,6 +52,13 @@ Co-founder and CEO of Meta.
 ### 2026-10-05 [[2026-10-05-Microsoft-Slashes-Internal-Claude-Spending-by-a-Third|Microsoft Slashes Internal Claude Spending by a Third]]
 
 - Mark Zuckerberg launched Meta Enterprise Platform to sell AI to businesses. ([[2026-10-05-Microsoft-Slashes-Internal-Claude-Spending-by-a-Third#^clm-4156bd89a9e0ae358892|cite]])
+
+### 2026-10-10 [[2026-10-10-Zuckerbergs-Big-Biotech-Moment|Zuckerberg’s Big Biotech Moment]]
+
+- Biohub is partnering with the NIH and the Department of Energy in a $1.8 billion investment to build technologies and scientific infrastructure for AI-powered biology, announced at an October 2026 reception. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-d48d60dac553d9dfa7ac|cite]])
+- Mark Zuckerberg said he and Priscilla Chan started the first version of Biohub almost 10 years earlier aiming to cure and prevent all diseases by 2100, and that thanks to AI this no longer seems so crazy. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-144e9a93dde9c0ff85ea|cite]])
+- President Trump appointed Mark Zuckerberg in March 2026 to the President's Council of Advisors on Science and Technology, alongside Sergey Brin, Larry Ellison and Jensen Huang; only one of the council's 13 members is an academic researcher. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-5257749eeffe90fa7196|cite]])
+- The Information's Amy Dockser Marcus argues the Biohub event is one of several signs of a changing of the scientific guard from major universities to big tech companies, with AI the favored engine for studying cells and disease. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-19ad68e26190a7a4858e|cite]])
 
 ## Related concepts
 

@@ -3,11 +3,11 @@ type: entity
 title: Nscale
 status: developing
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 2
+claim_count: 3
 ---
 
 # Nscale
@@ -23,3 +23,7 @@ UK-based neocloud that rents out GPU capacity.
 ### 2026-09-30 [[2026-09-30-Wall-Street-and-Silicon-Valley-Split-Over-AIs-Price-Tag|Wall Street and Silicon Valley Split Over AI's Price Tag]]
 
 - Data center firms Nscale and Switch plan IPOs, but investors dislike their heavy debt and need for more funding as rates rise. ([[2026-09-30-Wall-Street-and-Silicon-Valley-Split-Over-AIs-Price-Tag#^clm-8aa6c2af3ce25f21874c|cite]])
+
+### 2026-10-11 [[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint|The Attractive Economics Behind Anthropic Data Center Sprint]]
+
+- Anthropic's ability to beat OpenAI in the compute race will depend more on former bitcoin firms such as Hut 8, TeraWulf, IREN and Nscale, some of which struggle to raise public money at the valuations they want. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-4f8d6b9ac8c8aa19d852|cite]])

@@ -3,11 +3,11 @@ type: entity
 title: DeepSeek
 status: developing
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 23
+claim_count: 27
 ---
 
 # DeepSeek
@@ -48,6 +48,13 @@ Chinese AI lab based in Hangzhou that makes cheap, efficient open models such as
 
 - A quarter of subscribers use Perplexity and a quarter use DeepSeek models; about one-sixth regularly use Moonshot's Kimi K3. ([[2026-10-08-Chinese-Open-Models-Win-Over-One-in-Five-of-The-Informations-Subscribers#^clm-04295f76ab87fd003470|cite]])
 
+### 2026-10-09 [[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded|China’s AI Model Race Is Just Getting More Crowded]]
+
+- The Information argues the new entrants will further intensify China's AI race, where competition on talent and price has already produced models that significantly narrowed the gap with the best U.S. models. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-6d0dbe7e5d250c2122f7|cite]])
+- Five Chinese AI startups earn recurring revenue from their own models: Z.ai and MiniMax went public in Hong Kong in January 2026, and DeepSeek, Moonshot AI and StepFun are preparing to go public soon. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-5347f7b2be93258ddac0|cite]])
+- Xiaomi made a splash in 2025 by poaching a star researcher from DeepSeek. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-4bc3dd716383e4e545f3|cite]])
+- The Information argues reliance on distillation may make it harder for Chinese labs to stand apart, but widely known techniques also level the playing field for all of them. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-12bdac29fbe4b625e05a|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Export-Controls|Chip Export Controls]], Open-Weight Models, [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], Distillation (Training on Another Model's Outputs), [[Export-Controls|Chip Export Controls]], [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]]

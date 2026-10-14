@@ -3,7 +3,7 @@ type: concept
 title: A/B Testing
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - concept
 source_count: 2

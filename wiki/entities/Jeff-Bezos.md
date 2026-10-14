@@ -3,11 +3,11 @@ type: entity
 title: Jeff Bezos
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/person
-claim_count: 18
+claim_count: 19
 ---
 
 # Jeff Bezos
@@ -36,6 +36,10 @@ Founder of Amazon and its CEO until 2021.
 - Jeff Bezos has described AWS as having a seven-year head start before facing serious, like-minded competition. ([[2025-Gallaugher-Ch08-Amazon#^clm-344effddeb146ff7f8b3|cite]])
 - Jeff Bezos has joked that Barnes & Noble took only a year to launch a Kindle rival, while big tech rivals took years to build anything close to AWS. ([[2025-Gallaugher-Ch08-Amazon#^clm-2d2e2a66840d07cebc30|cite]])
 - Warren Buffett, praising Jeff Bezos for building two major industries at once, said: "You do not want to give Jeff Bezos a 7-year head start." ([[2025-Gallaugher-Ch08-Amazon#^clm-644bdcebe50f8b37b198|cite]])
+
+### 2026-10-10 [[2026-10-10-Zuckerbergs-Big-Biotech-Moment|Zuckerberg’s Big Biotech Moment]]
+
+- Per Kevin Roose's book The AGI Chronicles, Sam Altman texted Jeff Bezos just before the January 2025 Project Stargate announcement to check they could use the name, since Amazon owns MGM, which owns the Stargate franchise. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-4c3ff242b1e623b7627b|cite]])
 
 ## Related concepts
 

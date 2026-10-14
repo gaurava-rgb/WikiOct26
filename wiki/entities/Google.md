@@ -3,11 +3,11 @@ type: entity
 title: Google
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 155
+claim_count: 169
 ---
 
 # Google
@@ -294,6 +294,47 @@ Search and advertising giant (Alphabet); builds Gemini models and TPU chips.
 
 - Waymo finalized a $5 billion term loan, its first debt financing round. ([[2026-10-08-OpenAI-ARR-Snafu-Highlights-Flawed-Metric#^clm-b04713a906e720a20583|cite]])
 
+### 2026-10-09 [[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded|China’s AI Model Race Is Just Getting More Crowded]]
+
+- Xiaomi builds the AI for its devices in-house, with CEO Lei Jun planning to put its MiMo models into gadgets and cars, unlike Apple, which partnered with Google for the models behind Apple Intelligence. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-78a4856a0ace5daf7a53|cite]])
+
+### 2026-10-10 [[2026-10-10-Zuckerbergs-Big-Biotech-Moment|Zuckerberg’s Big Biotech Moment]]
+
+- Per Kevin Roose's book The AGI Chronicles, Google's Gemini was almost called Titan, a Demis Hassabis suggestion that lawyers vetoed as too aggressive. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-ecf50c64a680dfe54b1d|cite]])
+
+### 2026-10-11 [[2026-10-11-Amazons-Bargains-Include-Its-Stock|Amazon’s Bargains Include Its Stock]]
+
+- Amazon's ad business brings in $80 billion a year as of October 2026 and grows 20% to 25% a year, though it is mostly merchants' promotional spending on Amazon's own platform, making it less valuable than ads on Meta or Google. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-3771fb17b114f78aad81|cite]])
+
+### 2026-10-11 [[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint|The Attractive Economics Behind Anthropic Data Center Sprint]]
+
+- Anthropic will run Google's AI chips at a 330-megawatt Hut 8 site in St. Francisville, Louisiana starting in Q2 2027; Fluidstack will lease and operate it, and Hut 8 wants to grow the site to 1 GW. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-5cb298e48431540be7c9|cite]])
+- Anthropic has committed to rent or lease about 15 GW of capacity in coming years from AWS, Google, SpaceXAI and more than a dozen others, and has an unannounced multiyear cloud deal with IREN, per people familiar. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-4ad7c497ef90ad71343d|cite]])
+- Google is unlocking about 890 MW by funding upgrades at 11 nuclear reactors and contracting another 2.7 GW in a supply deal with Constellation Energy, easing the Mid-Atlantic grid's AI power shortage. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-5870ba442165a015b953|cite]])
+
+### 2026-10-12 [[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches AI’s Crowded Frontier—Will Users Care?]]
+
+- Google unveiled Gemini 4 Argon in late September 2026, saying it delivers frontier performance in complex workflows. ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care#^clm-b7d9cb15ced866f324a7|cite]])
+- Prediction: Martin Peers argues AI labs' frontier claims have become a blizzard nobody can keep up with, and that one day the AI firms will realize the frontier is a lonely place to be. ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care#^clm-182c21595b378155642a|cite]])
+
+### 2026-10-12 [[2026-10-12-OpenAIs-Plan-To-Revive-Sora|OpenAI’s Plan To Revive Sora]]
+
+- Earlier in 2026 OpenAI shut down its Sora video model and the TikTok-like app it powered, as part of a wider cull of server-heavy side projects, while xAI and Google kept building video models. ([[2026-10-12-OpenAIs-Plan-To-Revive-Sora#^clm-0002e45cdd119cf09393|cite]])
+
+### 2026-10-12 [[2026-10-12-Trump-Administration-Plans-to-Move-AI-Testing-Agency-Officials-to-White-House|Trump Administration Plans to Move AI Testing Agency Officials to White House]]
+
+- Google said in a September 30, 2026 blog post that it had submitted Gemini 4 Argon to the White House for voluntary testing; as of October 12 it still had not widely released the model. ([[2026-10-12-Trump-Administration-Plans-to-Move-AI-Testing-Agency-Officials-to-White-House#^clm-0dfb9e274d88634f411b|cite]])
+- Google, OpenAI and Anthropic explored forming their own industry group to supplement CAISSI's model testing, partly because they worry the agency lacks resources. ([[2026-10-12-Trump-Administration-Plans-to-Move-AI-Testing-Agency-Officials-to-White-House#^clm-8089045f8e9efad823b8|cite]])
+
+### 2026-10-13 [[2026-10-13-OpenAI-Scrambles-to-Fix-Safety-Issues-Before-Shipping-Its-Next-Flagship-Model|OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model]]
+
+- Anthropic, Google and Meta have had similar AI-powered breaches; in early October 2026 Anthropic said its AI filled out government forms with incomplete information and submitted a false homicide tip to the Philadelphia police. ([[2026-10-13-OpenAI-Scrambles-to-Fix-Safety-Issues-Before-Shipping-Its-Next-Flagship-Model#^clm-33a748a27ed0f7e9a6c8|cite]])
+
+### 2026-10-13 [[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit|OpenAI’s Bug and Bumble’s AI-Powered Exit]]
+
+- Peers argues acquisitions of distressed companies are being dressed up as AI-driven purchases, and that Bumble could adopt AI without being sold, for example with forward-deployed engineers from Google or Palantir; the real reason it is selling is a troubled business. ([[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit#^clm-f685252bd1afb529d325|cite]])
+- In 2024 Google paid $2.7 billion to license Character.AI's models, letting investors cash out at a profit, and co-founders Noam Shazeer and Daniel De Freitas rejoined Google; Shazeer later left for OpenAI. ([[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit#^clm-4d2ace177c08be2be859|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Agentic-Commerce|Agentic Commerce]], [[Agentic-Web|The Agentic Web]], [[Aggregation-Theory|Aggregation Theory]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Capex-vs-Opex|Capex vs Opex]], Cash the Ultimate Commodity (the Google Capital Company), [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Custom-Silicon|Custom Silicon]], [[Data-Asset|Data as a Competitive Asset]], Enshittification, [[Generative-UI|Generative UI (On-Demand Interfaces)]], [[Network-Effects|Network Effects]], Open-Weight Models, [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Shapley-Values|Shapley Values]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Agentic-Commerce|Agentic Commerce]], [[Agentic-Web|The Agentic Web]], [[Aggregation-Theory|Aggregation Theory]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Capex-vs-Opex|Capex vs Opex]], Cash the Ultimate Commodity (the Google Capital Company), [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Custom-Silicon|Custom Silicon]], [[Data-Asset|Data as a Competitive Asset]], Enshittification, [[Generative-UI|Generative UI (On-Demand Interfaces)]], License-and-Hire Deal, [[Network-Effects|Network Effects]], [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Shapley-Values|Shapley Values]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]]

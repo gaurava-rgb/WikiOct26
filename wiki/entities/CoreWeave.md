@@ -3,11 +3,11 @@ type: entity
 title: CoreWeave
 status: developing
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 2
+claim_count: 3
 ---
 
 # CoreWeave
@@ -23,6 +23,10 @@ Neocloud that rents out Nvidia AI chips; Nvidia has invested in it.
 ### 2026-10-08 [[2026-10-08-OpenAI-ARR-Snafu-Highlights-Flawed-Metric|OpenAI ARR Snafu Highlights Flawed Metric]]
 
 - After a Financial Times report of the lower OpenAI revenue figure, stocks of Nvidia, CoreWeave, Nebius and other chip and neocloud firms fell, per CNBC. ([[2026-10-08-OpenAI-ARR-Snafu-Highlights-Flawed-Metric#^clm-84d1ecc42f745796ef9f|cite]])
+
+### 2026-10-11 [[2026-10-11-Amazons-Bargains-Include-Its-Stock|Amazon’s Bargains Include Its Stock]]
+
+- Martin Peers argues AWS should be worth at least $1 trillion given its expected growth and where neoclouds CoreWeave and Nebius trade. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-3a47551ed1aab0e215f7|cite]])
 
 ## Related concepts
 

@@ -3,11 +3,11 @@ type: entity
 title: Sam Altman
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/person
-claim_count: 21
+claim_count: 22
 ---
 
 # Sam Altman
@@ -60,6 +60,10 @@ CEO of OpenAI.
 ### 2026-09-28 [[2026-09-28-Anthropic-Moves-to-Cut-Off-Discounts-When-Customers-Hit-Their-Cap|Anthropic Moves to Cut Off Discounts When Customers Hit Their Cap]]
 
 - OpenAI cut prices of new models 50% for customers buying through intermediaries like OpenRouter and Vercel, and Sam Altman said the new models are half the price per token. ([[2026-09-28-Anthropic-Moves-to-Cut-Off-Discounts-When-Customers-Hit-Their-Cap#^clm-241bf74221f785bc8f66|cite]])
+
+### 2026-10-10 [[2026-10-10-Zuckerbergs-Big-Biotech-Moment|Zuckerberg’s Big Biotech Moment]]
+
+- Per Kevin Roose's book The AGI Chronicles, Sam Altman texted Jeff Bezos just before the January 2025 Project Stargate announcement to check they could use the name, since Amazon owns MGM, which owns the Stargate franchise. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-4c3ff242b1e623b7627b|cite]])
 
 ## Related concepts
 

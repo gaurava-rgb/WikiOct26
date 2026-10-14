@@ -3,11 +3,11 @@ type: entity
 title: AWS
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 112
+claim_count: 119
 ---
 
 # AWS
@@ -176,6 +176,25 @@ Amazon Web Services, Amazon's cloud computing business and the largest cloud pro
 - Securing power has become one of the biggest bottlenecks of the AI data center buildout. ([[2026-10-08-How-Amazon-Rewired-Its-Data-Centers-After-Mississippi-Power-Warning#^clm-02e7e2ee307fd359fa4a|cite]])
 - Amazon's battery backup talks with Dominion in Virginia went nowhere because Dominion fears AWS charging at peak times, per one person; Amazon says it would never charge at peak. ([[2026-10-08-How-Amazon-Rewired-Its-Data-Centers-After-Mississippi-Power-Warning#^clm-892720fc4e5b7a166d32|cite]])
 
+### 2026-10-10 [[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes|GPUs in the Wine Cellar: Why Techies Are Hoarding AI Compute in Their Homes]]
+
+- Flake says owning the machine beat paying AWS or Microsoft monthly cloud fees, even after $10,000 to $20,000 of electrical upgrades and a new cooling system to handle its heat. ([[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes#^clm-605d52746fad376287c2|cite]])
+
+### 2026-10-11 [[2026-10-11-Amazons-Bargains-Include-Its-Stock|Amazon’s Bargains Include Its Stock]]
+
+- Amazon is spending $220 billion on capital expenditures in 2026 to build AI data center capacity, a bet that depends on business demand for AI services taking off. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-fe5dfcbddc9ff566ede1|cite]])
+- Martin Peers argues AWS should be worth at least $1 trillion given its expected growth and where neoclouds CoreWeave and Nebius trade. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-3a47551ed1aab0e215f7|cite]])
+- Prediction: Martin Peers predicts Amazon might one day split into two or three pieces with AWS the most logical to carve off, but not soon, because AWS now needs the shopping business's cash flow to fund its capex. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-3dbd0e8941c38857607b|cite]])
+
+### 2026-10-11 [[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint|The Attractive Economics Behind Anthropic Data Center Sprint]]
+
+- Anthropic has committed to rent or lease about 15 GW of capacity in coming years from AWS, Google, SpaceXAI and more than a dozen others, and has an unannounced multiyear cloud deal with IREN, per people familiar. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-4ad7c497ef90ad71343d|cite]])
+
+### 2026-10-13 [[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts|Microsoft Cloud President Asks Leaders to Find 20% Cost Cuts]]
+
+- Oracle and AWS have also made cuts, including layoffs, despite faster revenue growth, because rising AI data center capital spending hurt their free cash flow. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-a9f9546b460cc79c4f7b|cite]])
+- Azure revenue grew 43% in the June 2026 quarter, while AWS grew 37% that quarter and made nearly $150 billion over the 12 months to June. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-e672a838a0f31ca6e99e|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Capex-vs-Opex|Capex vs Opex]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Custom-Silicon|Custom Silicon]], [[Dollars-Per-Gigawatt|Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)]], [[First-Best-Customer|First and Best Customer (Amazon Primitives)]], [[First-Mover-Advantage|First-Mover Advantage]], Hybrid Cloud and Bursting, [[Network-Effects|Network Effects]], [[Scale-Economies|Scale Economies]], [[Sustainable-Competitive-Advantage|Sustainable Competitive Advantage]], [[Switching-Costs|Switching Costs]], [[Vertical-Integration|Vertical Integration]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Capex-vs-Opex|Capex vs Opex]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], Conglomerate Discount, [[Custom-Silicon|Custom Silicon]], [[Dollars-Per-Gigawatt|Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)]], [[First-Best-Customer|First and Best Customer (Amazon Primitives)]], [[First-Mover-Advantage|First-Mover Advantage]], Hybrid Cloud and Bursting, [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Network-Effects|Network Effects]], [[Scale-Economies|Scale Economies]], [[Sustainable-Competitive-Advantage|Sustainable Competitive Advantage]], [[Switching-Costs|Switching Costs]], [[Vertical-Integration|Vertical Integration]]

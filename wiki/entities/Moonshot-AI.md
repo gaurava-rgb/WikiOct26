@@ -3,11 +3,11 @@ type: entity
 title: Moonshot AI
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 8
+claim_count: 10
 ---
 
 # Moonshot AI
@@ -36,6 +36,14 @@ Chinese AI startup that makes the Kimi open weight models, including Kimi K3.
 
 - A quarter of subscribers use Perplexity and a quarter use DeepSeek models; about one-sixth regularly use Moonshot's Kimi K3. ([[2026-10-08-Chinese-Open-Models-Win-Over-One-in-Five-of-The-Informations-Subscribers#^clm-04295f76ab87fd003470|cite]])
 
+### 2026-10-09 [[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded|China’s AI Model Race Is Just Getting More Crowded]]
+
+- Five Chinese AI startups earn recurring revenue from their own models: Z.ai and MiniMax went public in Hong Kong in January 2026, and DeepSeek, Moonshot AI and StepFun are preparing to go public soon. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-5347f7b2be93258ddac0|cite]])
+
+### 2026-10-12 [[2026-10-12-Researchers-Need-to-Learn-How-AI-Makes-Decisions-Says-Goodfires-Tom-McGrath|Researchers Need to Learn How AI Makes Decisions, Says Goodfire’s Tom McGrath]]
+
+- Goodfire found that open frontier models it studied, including Kimi K3, a big Qwen and a big GLM, hold a fairly coherent internal representation of cheating on a test, which it turned into a very cheap-to-run monitor. ([[2026-10-12-Researchers-Need-to-Learn-How-AI-Makes-Decisions-Says-Goodfires-Tom-McGrath#^clm-06452971368cd694cde3|cite]])
+
 ## Related concepts
 
-[[AI-Compute-Demand|AI Compute Demand vs Supply]], Open-Weight Models, [[Price-Umbrella|Price Umbrella (Price Overhang)]]
+[[AI-Compute-Demand|AI Compute Demand vs Supply]], Mechanistic Interpretability, [[Open-Weight-Models|Open-Weight Models]], [[Price-Umbrella|Price Umbrella (Price Overhang)]], [[Reward-Hacking|Reward Hacking]]

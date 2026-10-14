@@ -3,11 +3,11 @@ type: entity
 title: ChatGPT
 status: developing
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/product
-claim_count: 9
+claim_count: 11
 ---
 
 # ChatGPT
@@ -31,6 +31,14 @@ OpenAI's consumer AI chatbot, used by more than 1 billion people a month in 2026
 - Over the past year subscribers' use of Anthropic's Claude and Google's Gemini rose at the expense of OpenAI's ChatGPT, though ChatGPT still leads and regained some ground versus Claude. ([[2026-10-08-Chinese-Open-Models-Win-Over-One-in-Five-of-The-Informations-Subscribers#^clm-0b10242c58f41ed6f8dc|cite]])
 - On Oct. 7, 2026, OpenAI launched visual answers in ChatGPT to catch up with a similar Gemini feature that shows videos or images in answers. ([[2026-10-08-Chinese-Open-Models-Win-Over-One-in-Five-of-The-Informations-Subscribers#^clm-a3cbe73ac4f2868aa7b8|cite]])
 
+### 2026-10-12 [[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella|How Microsoft’s New Office Chief Fixed Copilot and Won Over Nadella]]
+
+- National Life Group's CIO said Copilot was essentially useless in 2023 and much improved in spring 2026, but most of his staff use ChatGPT and will not switch back. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-05e8d3285703b0c3e7d8|cite]])
+
+### 2026-10-12 [[2026-10-12-OpenAIs-Plan-To-Revive-Sora|OpenAI’s Plan To Revive Sora]]
+
+- Sora cost so much to build and run that OpenAI moved its resources to its regular large language models and ChatGPT, which are more economically viable. ([[2026-10-12-OpenAIs-Plan-To-Revive-Sora#^clm-be1086160c1cc8ce51bc|cite]])
+
 ## Related concepts
 
-[[Channel-Conflict|Channel Conflict]]
+[[Channel-Conflict|Channel Conflict]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]]

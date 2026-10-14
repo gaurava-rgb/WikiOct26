@@ -3,7 +3,7 @@ type: entity
 title: Thinking Machines
 status: developing
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
 claim_count: 2
@@ -23,4 +23,4 @@ claim_count: 2
 
 ## Related concepts
 
-Open-Weight Models
+[[Open-Weight-Models|Open-Weight Models]]

@@ -3,11 +3,11 @@ type: entity
 title: AMD
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 12
+claim_count: 15
 ---
 
 # AMD
@@ -55,6 +55,18 @@ Chipmaker; owns Xilinx.
 
 - Founded in 2021, Eliyan has raised more than $250 million from backers including AMD, Cisco, Meta, Seligman Ventures and Tiger Global Management. ([[2026-10-08-Networking-Startup-Eliyan-Draws-Takeover-Interest-Held-Early-Talks-With-Arm#^clm-a46892086a06cd20ff8e|cite]])
 
+### 2026-10-09 [[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded|China’s AI Model Race Is Just Getting More Crowded]]
+
+- Big AI acquisitions like AMD's $8 billion purchase of Fei-Fei Li's World Labs or SpaceX's $60 billion takeover of Cursor are unheard of in China; Alibaba and Tencent take minority stakes in Chinese AI labs but buy none. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-d981189ee40e220b35c7|cite]])
+
+### 2026-10-10 [[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes|GPUs in the Wine Cellar: Why Techies Are Hoarding AI Compute in Their Homes]]
+
+- The YouTuber Digital Spaceport runs a garage home data center with five AMD GPUs, running Alibaba's open model Qwen 3.8 27B to edit and analyze his videos. ([[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes#^clm-dc478aa8b6b3f0f993f3|cite]])
+
+### 2026-10-12 [[2026-10-12-Andreessen-Horowitz-General-Catalyst-Race-to-Secure-the-Chips-Their-Startups-Need|Andreessen Horowitz, General Catalyst Race to Secure the Chips Their Startups Need]]
+
+- In early October 2026 Kearny Jackson general partner Sriram Krishnan offered hundreds of AMD MI350 chips for lease or purchase and was flooded with founder requests. ([[2026-10-12-Andreessen-Horowitz-General-Catalyst-Race-to-Secure-the-Chips-Their-Startups-Need#^clm-522e01da50f1b543d34f|cite]])
+
 ## Related concepts
 
-[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Custom-Silicon|Custom Silicon]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Vertical-Integration|Vertical Integration]]
+[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Custom-Silicon|Custom Silicon]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Open-Weight-Models|Open-Weight Models]], [[Vertical-Integration|Vertical Integration]]

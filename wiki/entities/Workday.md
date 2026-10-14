@@ -3,11 +3,11 @@ type: entity
 title: Workday
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 19
+claim_count: 23
 ---
 
 # Workday
@@ -43,6 +43,13 @@ Enterprise HR and finance SaaS company.
 - Workday CTO Gabe Monroy says the focus is adoption, and he is leading work to make its in-house XpressO code language usable by AI coding tools. ([[2026-10-06-Why-the-SaaSpocalypse-Isnt-Over-For-Workday#^clm-2b6e59c3ba999b193a53|cite]])
 - Adviser Raphaelle D'Ornano summed up the situation: Workday is called, not visited, and the toll is waived. ([[2026-10-06-Why-the-SaaSpocalypse-Isnt-Over-For-Workday#^clm-a190c2da765eb557fe54|cite]])
 - The earlier fear that AI kills enterprise apps outright has faded and Workday shares partly recovered; the new worry is slower growth and lost pricing power. ([[2026-10-06-Why-the-SaaSpocalypse-Isnt-Over-For-Workday#^clm-5c9debb06e561fdd11da|cite]])
+
+### 2026-10-13 [[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off|Why Companies Can't Prove Their AI Spending Pays Off]]
+
+- On October 13, 2026 Workday unveiled tools letting customers use AI agents from Anthropic, Microsoft and OpenAI to automate tasks in Workday, similar to Salesforce's SIforce, earlier called AIforce and Headless 360. ([[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off#^clm-e173711615ae09d3702d|cite]])
+- Some employees and investors fear these headless tools turn Workday and Salesforce into dumb infrastructure, basically glorified databases, while their leaders say they will still make plenty of money. ([[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off#^clm-295717aa76ad0220d408|cite]])
+- Workday CEO Aneel Bhusri said Workday is giving customers choice, and that headless use through other companies' AI will be equally good for Workday, though he prefers its own interface. ([[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off#^clm-6440c2b7a83e5192c4e4|cite]])
+- Starting in February 2027, after a fee-free grace period, Workday will charge customers based on how often AI agents tap connectors and take actions in Workday. ([[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off#^clm-abc24be218565eca8040|cite]])
 
 ## Related concepts
 

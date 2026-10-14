@@ -3,10 +3,10 @@ type: concept
 title: Seats Plus Consumption (Per-User Plus Usage Pricing)
 status: developing
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - concept
-source_count: 3
+source_count: 5
 ---
 
 # Seats Plus Consumption (Per-User Plus Usage Pricing)
@@ -33,3 +33,11 @@ Microsoft's 2026 description of how its software will be sold once AI agents do 
 
 - At one consultancy with more than 400 Workday customers, about half signed deals with usage-based AI access but only 10% to 20% actively use Workday AI, and none use Sana Enterprise. ([[2026-10-06-Why-the-SaaSpocalypse-Isnt-Over-For-Workday#^clm-1462478c222ad2b8769e|cite]])
 - Workday will charge when outside AI reads or changes its data, but it waived API overage fees from May 2026 to February 2027. ([[2026-10-06-Why-the-SaaSpocalypse-Isnt-Over-For-Workday#^clm-38585545f942c563a8ac|cite]])
+
+### 2026-10-12 [[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella|How Microsoft’s New Office Chief Fixed Copilot and Won Over Nadella]]
+
+- In early October 2026 Microsoft launched a revamped Copilot super-app combining 365 Copilot with Autopilot and Copilot Cowork, which cost extra based on usage. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-c25fa2ccaf136fb2a7a7|cite]])
+
+### 2026-10-13 [[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off|Why Companies Can't Prove Their AI Spending Pays Off]]
+
+- Starting in February 2027, after a fee-free grace period, Workday will charge customers based on how often AI agents tap connectors and take actions in Workday. ([[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off#^clm-abc24be218565eca8040|cite]])

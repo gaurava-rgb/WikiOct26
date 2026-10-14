@@ -3,11 +3,11 @@ type: entity
 title: Dell
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 6
+claim_count: 8
 ---
 
 # Dell
@@ -31,6 +31,11 @@ PC maker once known for vertically integrated build-to-order manufacturing.
 - Dell said revenue from AI-optimized servers doubled in its second quarter to $16.4 billion, helping overall revenue grow 58%. ([[2026-09-13-Nvidias-Growing-Dependence-On-a-Few-Big-Customers#^clm-722f864419455e322f73|cite]])
 - Dell's accounts payable jumped 48% in the first half to $49.7 billion at the end of July, and the article says Dell likely owes much of that to Nvidia. ([[2026-09-13-Nvidias-Growing-Dependence-On-a-Few-Big-Customers#^clm-08395cb3ac90cff0dc52|cite]])
 
+### 2026-10-10 [[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes|GPUs in the Wine Cellar: Why Techies Are Hoarding AI Compute in Their Homes]]
+
+- In September 2026 Shopify CEO Tobi Lütke went viral with a photo of three racks of AI gear in his Toronto wine cellar, including a Dell computer with an Nvidia GPU marketed as the ultimate deskside supercomputer. ([[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes#^clm-3399b95c98f4ff41d3c5|cite]])
+- Dell says it sees huge growth from the home AI community, and Dell engineer Marc Hammons said sales grew explosively after OpenClaw appeared earlier in 2026. ([[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes#^clm-4c5df0f705cfd29eaa4b|cite]])
+
 ## Related concepts
 
-[[Sustainable-Competitive-Advantage|Sustainable Competitive Advantage]], [[Vertical-Integration|Vertical Integration]]
+[[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Sustainable-Competitive-Advantage|Sustainable Competitive Advantage]], [[Vertical-Integration|Vertical Integration]]

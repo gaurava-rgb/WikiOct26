@@ -3,11 +3,11 @@ type: entity
 title: xAI
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 45
+claim_count: 48
 ---
 
 # xAI
@@ -93,6 +93,18 @@ Elon Musk's AI company, a partner in the Terafab chip factory project.
 - xAI's first two data centers had only a fraction of the redundancy of other hyperscalers and relied on dozens of temporary gas turbines. ([[2026-09-10-SpaceX-Overhauls-Data-Center-Build-Out-Potentially-Slowing-Expansion#^clm-2d98ee575aa2bcf783a6|cite]])
 - Letting team members buy equipment as needed created a mix of different parts instead of uniform racks and servers, which may hurt reliability. ([[2026-09-10-SpaceX-Overhauls-Data-Center-Build-Out-Potentially-Slowing-Expansion#^clm-399fe10b267298a796f0|cite]])
 - SpaceX closed its acquisition of xAI in February 2026 while xAI was burning cash heavily. ([[2026-09-10-SpaceX-Overhauls-Data-Center-Build-Out-Potentially-Slowing-Expansion#^clm-e6a0cd0cffdc3c82dd82|cite]])
+
+### 2026-10-09 [[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded|China’s AI Model Race Is Just Getting More Crowded]]
+
+- Xiaomi's flagship MiMo-V2.6-Pro, released in September 2026, ranks ninth on the Artificial Analysis Intelligence Index, on par with xAI's Grok 4.7 and ahead of the flagships Alibaba and Z.ai launched weeks earlier. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-3ab0c87a5cd99e1c7bc0|cite]])
+
+### 2026-10-11 [[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint|The Attractive Economics Behind Anthropic Data Center Sprint]]
+
+- Anthropic has committed to rent or lease about 15 GW of capacity in coming years from AWS, Google, SpaceXAI and more than a dozen others, and has an unannounced multiyear cloud deal with IREN, per people familiar. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-4ad7c497ef90ad71343d|cite]])
+
+### 2026-10-12 [[2026-10-12-OpenAIs-Plan-To-Revive-Sora|OpenAI’s Plan To Revive Sora]]
+
+- Earlier in 2026 OpenAI shut down its Sora video model and the TikTok-like app it powered, as part of a wider cull of server-heavy side projects, while xAI and Google kept building video models. ([[2026-10-12-OpenAIs-Plan-To-Revive-Sora#^clm-0002e45cdd119cf09393|cite]])
 
 ## Related concepts
 

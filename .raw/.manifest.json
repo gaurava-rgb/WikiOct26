@@ -338,6 +338,158 @@
       ],
       "source_id": "src-53d3aff88d6f8a32d325"
     },
+    ".raw/captured/2026-10-09 The Information - Chinas AI model race gets more crowded (notes).md": {
+      "hash": "a04bf2ac7a95198df778c79f66c1a8792602bcfa956194d7b82b9fcad5e10d39",
+      "ingested_at": "2026-10-13",
+      "pages_created": [
+        "wiki/sources/2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded.md"
+      ],
+      "source_id": "src-639d8dab9c85622c2d32"
+    },
+    ".raw/captured/2026-10-10 The Information - Techies hoarding AI compute at home (notes).md": {
+      "hash": "2ae5352a15b53747709a9ac89fddd2a90f770f71d6a91d73bf481f5db42ac569",
+      "ingested_at": "2026-10-13",
+      "pages_created": [
+        "wiki/sources/2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes.md"
+      ],
+      "source_id": "src-dad183b16c783724a8a3"
+    },
+    ".raw/captured/2026-10-10 The Information - Zuckerbergs Biohub bets on AI biology (notes).md": {
+      "hash": "25d962cef99548081e4a00e6b9577284b5efb31675a20865bce83fd48db8772d",
+      "ingested_at": "2026-10-13",
+      "pages_created": [
+        "wiki/sources/2026-10-10-Zuckerbergs-Big-Biotech-Moment.md"
+      ],
+      "source_id": "src-e65a1de794bf0e8aba93"
+    },
+    ".raw/captured/2026-10-11 The Information - Amazon stock looks cheap next to its parts (notes).md": {
+      "hash": "4cb6b1d76bf9b35ce405f11a18886e0c4eb202c11eaad3390e4fa79f309438db",
+      "ingested_at": "2026-10-13",
+      "pages_created": [
+        "wiki/sources/2026-10-11-Amazons-Bargains-Include-Its-Stock.md"
+      ],
+      "source_id": "src-7cc081c3f629bbf06d06"
+    },
+    ".raw/captured/2026-10-11 The Information - Anthropic data center sprint economics (notes).md": {
+      "hash": "27e58d1cd30f450963d152f01ada54350865ef6956f017196172a20f2a89cf3e",
+      "ingested_at": "2026-10-13",
+      "pages_created": [
+        "wiki/sources/2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint.md"
+      ],
+      "source_id": "src-a1ded8336c02e3fbaa42"
+    },
+    ".raw/captured/2026-10-12 The Information - Goodfire chief scientist Tom McGrath on interpretability (notes).md": {
+      "hash": "666b9e1159763f4c811a239020a8b4b6392f3ab771f35f3bd5fb986c41f5f7bb",
+      "ingested_at": "2026-10-13",
+      "pages_created": [
+        "wiki/sources/2026-10-12-Researchers-Need-to-Learn-How-AI-Makes-Decisions-Says-Goodfires-Tom-McGrath.md"
+      ],
+      "source_id": "src-30eee8615989a096f8ba"
+    },
+    ".raw/captured/2026-10-12 The Information - Meta Muse Wonder joins crowded AI frontier (notes).md": {
+      "hash": "3665e634fc7a10a61f7ed2e6957b3577867e8865ebea80a1d598a5c4b9b651dc",
+      "ingested_at": "2026-10-13",
+      "pages_created": [
+        "wiki/sources/2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care.md"
+      ],
+      "source_id": "src-242f325f833df28dafb2"
+    },
+    ".raw/captured/2026-10-12 The Information - Microsoft Office chief Lamanna fixed Copilot (notes).md": {
+      "hash": "2ef47edbb74a1fef0434021295bcc109ccded0c832a9d4870bb2767bc3302dad",
+      "ingested_at": "2026-10-13",
+      "pages_created": [
+        "wiki/sources/2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella.md"
+      ],
+      "source_id": "src-1bf1eacb571f1415ce2b"
+    },
+    ".raw/captured/2026-10-12 The Information - OpenAI plan to revive Sora (notes).md": {
+      "hash": "3bdff4ed8f4435e5464ab6d52dbf33f555931c4360d46256206b004b9a8eb08e",
+      "ingested_at": "2026-10-13",
+      "pages_created": [
+        "wiki/sources/2026-10-12-OpenAIs-Plan-To-Revive-Sora.md"
+      ],
+      "source_id": "src-30cba1d2a2118fe003a8"
+    },
+    ".raw/captured/2026-10-12 The Information - Trump administration to move AI testing agency officials to White House (notes).md": {
+      "hash": "8709beabe1f9fd56fd3b109f30b23869810c025c2e4fe0865ee8055e5579913e",
+      "ingested_at": "2026-10-13",
+      "pages_created": [
+        "wiki/sources/2026-10-12-Trump-Administration-Plans-to-Move-AI-Testing-Agency-Officials-to-White-House.md"
+      ],
+      "source_id": "src-428ffe36e0e6f8bf7fcf"
+    },
+    ".raw/captured/2026-10-12 The Information - VCs race to secure chips for their startups (notes).md": {
+      "hash": "c1229a0abf8c07e7d5585bcbc979d202f3c3d89721b4b66f8c19c20d5494c194",
+      "ingested_at": "2026-10-13",
+      "pages_created": [
+        "wiki/sources/2026-10-12-Andreessen-Horowitz-General-Catalyst-Race-to-Secure-the-Chips-Their-Startups-Need.md"
+      ],
+      "source_id": "src-f2fd28e574d7f0c500a9"
+    },
+    ".raw/captured/2026-10-13 The Information - Applied Intuition fields offers at 30 billion valuation (notes).md": {
+      "hash": "4b0aeac9f34c939b79148e2998655c00bab923b38531df8d2f9d9b09126b9922",
+      "ingested_at": "2026-10-13",
+      "pages_created": [
+        "wiki/sources/2026-10-13-Applied-Intuition-Fields-Offers-at-30-Billion-Valuation.md"
+      ],
+      "source_id": "src-5b0bb16ab729596dd7aa"
+    },
+    ".raw/captured/2026-10-13 The Information - Applied Materials and Lam Research as overlooked chip equipment stocks (notes).md": {
+      "hash": "226e202b9fbf02a909a59b9f784685408c08bafdeecaeaa19893098724b3431f",
+      "ingested_at": "2026-10-13",
+      "pages_created": [
+        "wiki/sources/2026-10-13-Applied-And-Lam-Are-Overlooked-Chip-Equipment-Stocks.md"
+      ],
+      "source_id": "src-29720e9267f39efa60e2"
+    },
+    ".raw/captured/2026-10-13 The Information - Microsoft Azure president asks for 20 percent cost cuts (notes).md": {
+      "hash": "aaa0e34252eaa27824bc6dcf299537ac91d6cf074ff12ee9d36a5a0e054d8b89",
+      "ingested_at": "2026-10-13",
+      "pages_created": [
+        "wiki/sources/2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts.md"
+      ],
+      "source_id": "src-607aae191e107a3c24a4"
+    },
+    ".raw/captured/2026-10-13 The Information - OpenAI bug and Bumble AI-powered exit (notes).md": {
+      "hash": "554a5b1c1fb7b601e4daec7312b40f66a6487d3678343388ee9183744b2f3ad7",
+      "ingested_at": "2026-10-13",
+      "pages_created": [
+        "wiki/sources/2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit.md"
+      ],
+      "source_id": "src-6f47528841868907a86f"
+    },
+    ".raw/captured/2026-10-13 The Information - OpenAI eyes buying security firm Trail of Bits (notes).md": {
+      "hash": "a21987866d4446a0be060e06cc553c270c4e0e522588e5c15169980eda50d367",
+      "ingested_at": "2026-10-13",
+      "pages_created": [
+        "wiki/sources/2026-10-13-OpenAI-Eyes-Acquisition-That-Could-Boost-Cybersecurity-Business.md"
+      ],
+      "source_id": "src-cb3587753b6d3f4aa0fa"
+    },
+    ".raw/captured/2026-10-13 The Information - OpenAI scrambles to fix safety issues before next flagship model (notes).md": {
+      "hash": "46c9ca3f9cacb117ee84e4f56ab4537b1164325aa3d4a22850a0c574784d5060",
+      "ingested_at": "2026-10-13",
+      "pages_created": [
+        "wiki/sources/2026-10-13-OpenAI-Scrambles-to-Fix-Safety-Issues-Before-Shipping-Its-Next-Flagship-Model.md"
+      ],
+      "source_id": "src-90cd268ec8c72eddb94d"
+    },
+    ".raw/captured/2026-10-13 The Information - Prime Intellect acquires Moondream to speed up inference (notes).md": {
+      "hash": "beeccfcd113169f20546e9ec62d702c2c8c238c5b1303f2031b379bd07852826",
+      "ingested_at": "2026-10-13",
+      "pages_created": [
+        "wiki/sources/2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference.md"
+      ],
+      "source_id": "src-e0e5b6483f374b72effd"
+    },
+    ".raw/captured/2026-10-13 The Information - Why companies cannot prove AI spending pays off (notes).md": {
+      "hash": "ac618b0f5074f7e104ea327258b3b29ed6c8fa29dd97200da12f7eb8dbe7f283",
+      "ingested_at": "2026-10-13",
+      "pages_created": [
+        "wiki/sources/2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off.md"
+      ],
+      "source_id": "src-f14243f9d469a2f93102"
+    },
     ".raw/captured/2026.28_ XBOX On the Rocks.md": {
       "hash": "952790fa551289ee6883b864241796a4d483817fa6f376ff40e8fad1aec4a082",
       "ingested_at": "2026-09-29",

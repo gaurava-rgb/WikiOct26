@@ -3,11 +3,11 @@ type: entity
 title: Salesforce
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 7
+claim_count: 9
 ---
 
 # Salesforce
@@ -40,6 +40,11 @@ US maker of customer relationship software (CRM) for businesses; hosts the Dream
 ### 2026-09-28 [[2026-09-28-Apps-Agents-and-Aggregation|Apps, Agents, and Aggregation]]
 
 - Prediction: Thompson predicts computer use will mean humans no longer touch enterprise UI, even as Salesforce plans a three-digit premium to make its product a Claude plugin. ([[2026-09-28-Apps-Agents-and-Aggregation#^clm-3d9bc71b823bc877549d|cite]])
+
+### 2026-10-13 [[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off|Why Companies Can't Prove Their AI Spending Pays Off]]
+
+- On October 13, 2026 Workday unveiled tools letting customers use AI agents from Anthropic, Microsoft and OpenAI to automate tasks in Workday, similar to Salesforce's SIforce, earlier called AIforce and Headless 360. ([[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off#^clm-e173711615ae09d3702d|cite]])
+- Some employees and investors fear these headless tools turn Workday and Salesforce into dumb infrastructure, basically glorified databases, while their leaders say they will still make plenty of money. ([[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off#^clm-295717aa76ad0220d408|cite]])
 
 ## Related concepts
 

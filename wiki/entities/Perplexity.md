@@ -3,11 +3,11 @@ type: entity
 title: Perplexity
 status: developing
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 2
+claim_count: 3
 ---
 
 # Perplexity
@@ -24,6 +24,10 @@ AI answer engine startup led by Aravind Srinivas.
 
 - A quarter of subscribers use Perplexity and a quarter use DeepSeek models; about one-sixth regularly use Moonshot's Kimi K3. ([[2026-10-08-Chinese-Open-Models-Win-Over-One-in-Five-of-The-Informations-Subscribers#^clm-04295f76ab87fd003470|cite]])
 
+### 2026-10-13 [[2026-10-13-Applied-Intuition-Fields-Offers-at-30-Billion-Valuation|Applied Intuition Fields Offers at $30 Billion Valuation]]
+
+- After three years in which AI labs like OpenAI, Anthropic and xAI took most investor attention, more AI app and agent startups are reaching valuations of $20 billion or higher, including Cognition and Perplexity. ([[2026-10-13-Applied-Intuition-Fields-Offers-at-30-Billion-Valuation#^clm-62b6c599f760e2a33c09|cite]])
+
 ## Related concepts
 
-Open-Weight Models
+[[Open-Weight-Models|Open-Weight Models]]

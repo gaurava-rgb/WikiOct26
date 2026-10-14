@@ -3,11 +3,11 @@ type: entity
 title: Microsoft
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 88
+claim_count: 130
 ---
 
 # Microsoft
@@ -212,6 +212,78 @@ US software and cloud company (Windows, Office, Azure, Xbox); a major OpenAI inv
 
 - The U.S. government is limiting Microsoft's ability to sponsor visas for some immigrant workers, citing an investigation into claims it laid off Americans while hiring immigrants. ([[2026-10-08-OpenAI-ARR-Snafu-Highlights-Flawed-Metric#^clm-5496acf2ca52d2f68603|cite]])
 
+### 2026-10-10 [[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes|GPUs in the Wine Cellar: Why Techies Are Hoarding AI Compute in Their Homes]]
+
+- Flake says owning the machine beat paying AWS or Microsoft monthly cloud fees, even after $10,000 to $20,000 of electrical upgrades and a new cooling system to handle its heat. ([[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes#^clm-605d52746fad376287c2|cite]])
+
+### 2026-10-11 [[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint|The Attractive Economics Behind Anthropic Data Center Sprint]]
+
+- Prediction: Measured AI projects Anthropic's compute capacity at 1.4 GW in 2025, 5 GW in 2026, 9.5 GW in 2027 and over 15 GW in 2028; Microsoft's whole Azure cloud ran at about 5 GW at the end of 2023. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-a1430578fa76dad07f6a|cite]])
+
+### 2026-10-12 [[2026-10-12-Andreessen-Horowitz-General-Catalyst-Race-to-Secure-the-Chips-Their-Startups-Need|Andreessen Horowitz, General Catalyst Race to Secure the Chips Their Startups Need]]
+
+- Earlier in 2026 the chip shortage led Microsoft and other large cloud providers to divert GPUs to internal teams or bigger customers, making supply harder for smaller startups. ([[2026-10-12-Andreessen-Horowitz-General-Catalyst-Race-to-Secure-the-Chips-Their-Startups-Need#^clm-4dd8806082749cc010dd|cite]])
+
+### 2026-10-12 [[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella|How Microsoft’s New Office Chief Fixed Copilot and Won Over Nadella]]
+
+- In summer 2025 Charles Lamanna proposed to Satya Nadella that Microsoft pay for Anthropic models to fix Copilot, which customers called buggy and weak at automating Excel and PowerPoint work. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-54e1da4c6315bfaa6136|cite]])
+- Microsoft commercial chief Judson Althoff was skeptical of adding Anthropic models because they cost far more than OpenAI's, which Microsoft can use at no extra cost under its partnership. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-042198972950ca7e393d|cite]])
+- Lamanna won Nadella over with demos showing Anthropic models were then better than OpenAI's at the math Excel needs and at making good-looking PowerPoints. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-2c2e4a6dd2aeabf81b98|cite]])
+- Lamanna argued Copilot had been built assuming one model maker, OpenAI, and that this model monogamy would bake in dependence on one model's behavior and make adding new models very hard. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-674e68ee36442ab74b53|cite]])
+- Microsoft Copilot's corporate users more than doubled from the start of 2026 to over 30 million by October 2026. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-37a9a908376e5c604466|cite]])
+- In March 2026 Nadella named Lamanna executive vice president over Copilot engineering reporting directly to him, unifying the separate Copilot engineering groups; Jacob Andreou shares Copilot oversight. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-ecd00f2c82882749c5cc|cite]])
+- In October 2026 Nadella put Lamanna in charge of Office as well, after the July 2026 retirement of Rajesh Jha, who had run Office and Windows. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-c96f2e881844cdec6868|cite]])
+- Lamanna's organization, including Office, Copilot and Teams, is about 25,000 people, more than triple a year earlier; Microsoft has over 220,000 employees, with sales and Azure each over 60,000. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-0bad5319405b1e637d81|cite]])
+- Multiple senior Microsoft executives see Lamanna as a possible successor to Nadella, and some read Nadella bringing him, Andreou, Asha Sharma, Hayete Gallot and Arun Ulag to board meetings as introducing successor candidates. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-95136aa939f3370ce4fa|cite]])
+- Before Lamanna took over, separate Windows and Office groups built their own Copilot features and Rajesh Jha rewarded fast-adopted ones by adding them to every Copilot, which employees called a tangled mess that caused infighting. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-7c243aa83b678c27ffa0|cite]])
+- Microsoft's Office engineers built Copilot agent mode, which makes OpenAI and Anthropic models reason longer on Office tasks; Lamanna made it the default by spring 2026, and internal customer satisfaction then rose sharply. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-ac605a7b0280cb3b77ed|cite]])
+- AT&T says its staff use Copilot for most personal productivity automation and it grew its Copilot licenses over the past year to about 18,000 seats. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-36e18358183050b7ba84|cite]])
+- National Life Group's CIO said Copilot was essentially useless in 2023 and much improved in spring 2026, but most of his staff use ChatGPT and will not switch back. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-05e8d3285703b0c3e7d8|cite]])
+- Over the six months to October 2026, as OpenAI models caught back up to Anthropic's, Lamanna had Copilot agent mode rely more on OpenAI models, improving margins because Microsoft runs OpenAI models for free. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-fff4d53fdb3947acf1fe|cite]])
+- Microsoft engineers built a Copilot model router using a homegrown LLM that picks the cheapest model able to do a task, and the vast majority of Office Copilot users use its auto mode. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-f7eb61b95b8a1e9ed002|cite]])
+- Microsoft's payments to Anthropic for customer Copilot use grew in 2026 and are on track to exceed $2 billion a year, though swapping in OpenAI models has slowed that growth. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-ee8150521a3f48dc09b6|cite]])
+- Lamanna has told staff Microsoft should be the Costco of AI, offering the best value at the best price to everyone rather than a high-priced boutique for top coders. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-cdf888eb53ef6b98aea5|cite]])
+- Lamanna led Copilot Cowork, which resembles Anthropic's Claude Cowork, and the Autopilot agent, inspired by OpenClaw, which aims to be an always-on agent using other vendors' tools like Workday. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-a70bb2789ddc6836e406|cite]])
+- In early October 2026 Microsoft launched a revamped Copilot super-app combining 365 Copilot with Autopilot and Copilot Cowork, which cost extra based on usage. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-c25fa2ccaf136fb2a7a7|cite]])
+
+### 2026-10-12 [[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches AI’s Crowded Frontier—Will Users Care?]]
+
+- Microsoft announced its latest homegrown AI chip, Maia 300, on October 12, 2026, and plans multigigawatt deployments starting in 2027. ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care#^clm-f1a05b4097044cd75508|cite]])
+
+### 2026-10-12 [[2026-10-12-OpenAIs-Plan-To-Revive-Sora|OpenAI’s Plan To Revive Sora]]
+
+- Vice President J.D. Vance said the U.S. government is limiting Microsoft's ability to sponsor visas for some immigrant workers, citing an investigation into claims Microsoft laid off Americans while hiring more immigrants. ([[2026-10-12-OpenAIs-Plan-To-Revive-Sora#^clm-a72b6e7d7865acd17ef7|cite]])
+
+### 2026-10-13 [[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts|Microsoft Cloud President Asks Leaders to Find 20% Cost Cuts]]
+
+- Azure president Girish Bablani asked senior leaders in his roughly 11,500-person unit to find ideas to cut costs at least 20%, per one person; it is unclear if this includes layoffs. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-afb59ed60104461f9af8|cite]])
+- Microsoft denied the report, saying Azure leadership has not directed teams to develop cost-cutting plans and calling it inaccurate and careless reporting. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-6e1c9006b82478cfc484|cite]])
+- Bablani's unit builds software for the cloud server business and is separate from the Azure data center team; Microsoft's broader cloud division has about 60,000 employees. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-1dc801bd930fcf95cd73|cite]])
+- The Information reads the Azure cost talks, which come as Azure growth accelerates, as a sign of how heavily data center spending weighs on Microsoft's finances. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-9a40b66aa244ed0f3e38|cite]])
+- Some Azure leaders cite talent retention as another reason for cuts, since Anthropic and Meta have hired or tried to hire Microsoft staff and Microsoft has had to match offers. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-8a780addc9d2a4f9575b|cite]])
+- Cloud chief Scott Guthrie has discussed raising AI spending budgets for existing Microsoft employees as the company automates more work, and Microsoft has been raising AI spend per employee in recent months. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-b0c57c0c383ce1da1e5d|cite]])
+- Microsoft's total headcount in June 2026 was slightly lower than a year earlier, after several waves of job cuts and voluntary buyouts. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-23f013d0ccbffa751137|cite]])
+- Microsoft is reorganizing its cloud unit around Arun Ulag, who now also oversees Azure Core executives including Bablani and Mark Russinovich; Azure Core provides computing power to customers such as OpenAI. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-24b26ad26c1a91b28eea|cite]])
+- Scott Guthrie announced the Azure reorg internally on 2026-10-12, with Ulag still reporting to him; Charlie Bell joins Ulag's leadership team while still reporting to Satya Nadella. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-32c7de014fac85bd0081|cite]])
+- Microsoft began reporting Azure revenue in dollars in September 2026: $101.9 billion in the 12 months to June 2026, up 40% from a year earlier. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-69849583cb98ac093963|cite]])
+- Azure revenue grew 43% in the June 2026 quarter, while AWS grew 37% that quarter and made nearly $150 billion over the 12 months to June. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-e672a838a0f31ca6e99e|cite]])
+- Azure's growth was held back by Microsoft's decision at the start of 2025 to pause many data center projects, per earlier reporting by The Information. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-971f4040b2b7a954d86f|cite]])
+- Azure is now about 31% of Microsoft's total revenue. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-a19c8b5d7e1b1fd081e6|cite]])
+- Microsoft generated $20 billion of free cash flow in the June 2026 quarter, up more than $4 billion from the first quarter but down 20% from a year earlier, as AI data center spending takes a toll. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-108b71e0eb721138e521|cite]])
+
+### 2026-10-13 [[2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference|Neocloud Prime Intellect Acquires Startup To Speed Up Inference]]
+
+- Microsoft announced the Maia 300, its latest homegrown AI chip, and plans multi-gigawatt deployments of it starting in 2027. ([[2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference#^clm-ac04bb04cbe7a08b9a3c|cite]])
+
+### 2026-10-13 [[2026-10-13-OpenAI-Scrambles-to-Fix-Safety-Issues-Before-Shipping-Its-Next-Flagship-Model|OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model]]
+
+- In early October 2026 Microsoft accidentally confirmed in a blog post that OpenAI's GPT-6.1 Sol, launched that month as nearly as good as GPT-6 Astra at a much lower price, uses loop transformers; Microsoft then edited the post to remove it. ([[2026-10-13-OpenAI-Scrambles-to-Fix-Safety-Issues-Before-Shipping-Its-Next-Flagship-Model#^clm-c6ce97693eaeb0de5b38|cite]])
+- Microsoft's deleted text said GPT-6.1 Sol uses the same base model weights as GPT-6 Sol with two inference passes instead of three; a person with direct knowledge said this matched what OpenAI privately shared with Microsoft, which has access to OpenAI's intellectual property. ([[2026-10-13-OpenAI-Scrambles-to-Fix-Safety-Issues-Before-Shipping-Its-Next-Flagship-Model#^clm-7e29c202fc0a2b4f0db8|cite]])
+
+### 2026-10-13 [[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit|OpenAI’s Bug and Bumble’s AI-Powered Exit]]
+
+- The Google and Character.AI deal was one of several 2024 license-and-hire deals, with Microsoft and Inflection AI and Amazon and Adept, structured as licenses rather than acquisitions to avoid antitrust scrutiny; many were investigated anyway. ([[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit#^clm-d3505e2e9e26cd7d984d|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Aggregation-Theory|Aggregation Theory]], [[Bundling|Bundling]], [[Capex-vs-Opex|Capex vs Opex]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Custom-Silicon|Custom Silicon]], [[Data-Asset|Data as a Competitive Asset]], [[First-Mover-Advantage|First-Mover Advantage]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Scale-Economies|Scale Economies]], [[Seats-Plus-Consumption|Seats Plus Consumption (Per-User Plus Usage Pricing)]], [[Switching-Costs|Switching Costs]], [[Zero-Data-Retention|Zero Data Retention]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Aggregation-Theory|Aggregation Theory]], [[Bundling|Bundling]], [[Capex-vs-Opex|Capex vs Opex]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Custom-Silicon|Custom Silicon]], [[Data-Asset|Data as a Competitive Asset]], [[First-Mover-Advantage|First-Mover Advantage]], License-and-Hire Deal, [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Scale-Economies|Scale Economies]], [[Seats-Plus-Consumption|Seats Plus Consumption (Per-User Plus Usage Pricing)]], [[Switching-Costs|Switching Costs]], [[Zero-Data-Retention|Zero Data Retention]]

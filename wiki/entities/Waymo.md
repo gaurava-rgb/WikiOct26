@@ -3,11 +3,11 @@ type: entity
 title: Waymo
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 9
+claim_count: 11
 ---
 
 # Waymo
@@ -36,6 +36,11 @@ Alphabet's self-driving car and robotaxi company.
 ### 2026-10-08 [[2026-10-08-OpenAI-ARR-Snafu-Highlights-Flawed-Metric|OpenAI ARR Snafu Highlights Flawed Metric]]
 
 - Waymo finalized a $5 billion term loan, its first debt financing round. ([[2026-10-08-OpenAI-ARR-Snafu-Highlights-Flawed-Metric#^clm-b04713a906e720a20583|cite]])
+
+### 2026-10-13 [[2026-10-13-Applied-Intuition-Fields-Offers-at-30-Billion-Valuation|Applied Intuition Fields Offers at $30 Billion Valuation]]
+
+- Applied Intuition focuses on the software side of self-driving instead of also building and running the cars, and the new valuation would back that choice. ([[2026-10-13-Applied-Intuition-Fields-Offers-at-30-Billion-Valuation#^clm-09e3d948ea6187b9d43d|cite]])
+- Waymo's expansion of commercial service across the U.S. is encouraging investors to back self-driving startups. ([[2026-10-13-Applied-Intuition-Fields-Offers-at-30-Billion-Valuation#^clm-7fecd9b7813f8c02807d|cite]])
 
 ## Related concepts
 

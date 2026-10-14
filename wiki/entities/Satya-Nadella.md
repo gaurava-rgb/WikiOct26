@@ -3,11 +3,11 @@ type: entity
 title: Satya Nadella
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/person
-claim_count: 8
+claim_count: 12
 ---
 
 # Satya Nadella
@@ -38,6 +38,13 @@ CEO of Microsoft.
 ### 2026-09-28 [[2026-09-28-Apps-Agents-and-Aggregation|Apps, Agents, and Aggregation]]
 
 - Thompson argues the new Copilot continues Microsoft's long strategy of being the OS for work, as Teams was its OS for SaaS. ([[2026-09-28-Apps-Agents-and-Aggregation#^clm-408de1a974e93bfc2811|cite]])
+
+### 2026-10-12 [[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella|How Microsoft’s New Office Chief Fixed Copilot and Won Over Nadella]]
+
+- In summer 2025 Charles Lamanna proposed to Satya Nadella that Microsoft pay for Anthropic models to fix Copilot, which customers called buggy and weak at automating Excel and PowerPoint work. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-54e1da4c6315bfaa6136|cite]])
+- In March 2026 Nadella named Lamanna executive vice president over Copilot engineering reporting directly to him, unifying the separate Copilot engineering groups; Jacob Andreou shares Copilot oversight. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-ecd00f2c82882749c5cc|cite]])
+- In October 2026 Nadella put Lamanna in charge of Office as well, after the July 2026 retirement of Rajesh Jha, who had run Office and Windows. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-c96f2e881844cdec6868|cite]])
+- Multiple senior Microsoft executives see Lamanna as a possible successor to Nadella, and some read Nadella bringing him, Andreou, Asha Sharma, Hayete Gallot and Arun Ulag to board meetings as introducing successor candidates. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-95136aa939f3370ce4fa|cite]])
 
 ## Related concepts
 

@@ -3,11 +3,11 @@ type: entity
 title: Apple
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 168
+claim_count: 172
 ---
 
 # Apple
@@ -250,6 +250,19 @@ US maker of the iPhone, Mac, and wearables; integrates hardware and software.
 - Linda Sui argues Apple will educate the market and drive up foldable adoption in the US, including for cheaper rivals. ([[2026-09-20-Why-Apple-Is-Betting-on-Foldable-iPhones#^clm-83276c425ce34ebd09ae|cite]])
 - The notes argue Apple is again entering a category late, after Samsung went first in 2019, and is expected to expand it rather than invent it. ([[2026-09-20-Why-Apple-Is-Betting-on-Foldable-iPhones#^clm-5a62db3a884a9db6ad17|cite]])
 
+### 2026-10-09 [[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded|China’s AI Model Race Is Just Getting More Crowded]]
+
+- Xiaomi builds the AI for its devices in-house, with CEO Lei Jun planning to put its MiMo models into gadgets and cars, unlike Apple, which partnered with Google for the models behind Apple Intelligence. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-78a4856a0ace5daf7a53|cite]])
+
+### 2026-10-10 [[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes|GPUs in the Wine Cellar: Why Techies Are Hoarding AI Compute in Their Homes]]
+
+- As of October 2026 Apple is seeing booming sales of its Mac mini and Mac Studio, both favorites of AI agent developers running machines at home. ([[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes#^clm-9340c5a0271c016edb71|cite]])
+- Crazy Egg CEO Hiten Shah, who mined Ethereum on eight home GPUs in 2020, now runs 18 computers at home for AI development, including 14 Mac minis and Mac Studios. ([[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes#^clm-89bbcbc153d8e4b8e1e8|cite]])
+
+### 2026-10-13 [[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit|OpenAI’s Bug and Bumble’s AI-Powered Exit]]
+
+- Apple is launching HomeView, a $299 tablet-like smart home device with a 7-inch screen for kitchen counters or walls, as part of a renewed push into the home. ([[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit#^clm-22c841cd9284d18829da|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[Agentic-Web|The Agentic Web]], [[Aggregation-Theory|Aggregation Theory]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], Application Layer Bridge (Computing Paradigms), [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Contract-Manufacturing|Contract Manufacturing]], The Cook Doctrine, [[Custom-Silicon|Custom Silicon]], [[First-Mover-Advantage|First-Mover Advantage]], Intelligent Personal Hub, [[LLM-Inflection-Points|Three LLM Inflection Points]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Scale-Economies|Scale Economies]], [[Sustaining-vs-Disruptive-Innovation|Sustaining vs Disruptive Innovation]], [[Switching-Costs|Switching Costs]], [[VR-vs-AR|Virtual vs Augmented Reality]], [[Vertical-Integration|Vertical Integration]], Wholesale vs Agency Pricing
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Agentic-Web|The Agentic Web]], [[Aggregation-Theory|Aggregation Theory]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], Application Layer Bridge (Computing Paradigms), [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Contract-Manufacturing|Contract Manufacturing]], The Cook Doctrine, [[Custom-Silicon|Custom Silicon]], [[First-Mover-Advantage|First-Mover Advantage]], Intelligent Personal Hub, [[LLM-Inflection-Points|Three LLM Inflection Points]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Scale-Economies|Scale Economies]], [[Sustaining-vs-Disruptive-Innovation|Sustaining vs Disruptive Innovation]], [[Switching-Costs|Switching Costs]], [[VR-vs-AR|Virtual vs Augmented Reality]], [[Vertical-Integration|Vertical Integration]], Wholesale vs Agency Pricing

@@ -3,11 +3,11 @@ type: entity
 title: SoftBank
 status: developing
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 3
+claim_count: 4
 ---
 
 # SoftBank
@@ -27,3 +27,7 @@ Japanese investment group and one of OpenAI's largest investors.
 ### 2026-10-08 [[2026-10-08-Networking-Startup-Eliyan-Draws-Takeover-Interest-Held-Early-Talks-With-Arm|Networking Startup Eliyan Draws Takeover Interest, Held Early Talks With Arm]]
 
 - Arm, owned by SoftBank and an existing Eliyan investor, held early talks about buying Eliyan but did not bid and would be unlikely to at that valuation. ([[2026-10-08-Networking-Startup-Eliyan-Draws-Takeover-Interest-Held-Early-Talks-With-Arm#^clm-9e6e06af7fb7da6a8b2e|cite]])
+
+### 2026-10-11 [[2026-10-11-Amazons-Bargains-Include-Its-Stock|Amazon’s Bargains Include Its Stock]]
+
+- SoftBank CEO Masayoshi Son is looking to raise up to $100 billion from Gulf investors to fund his AI investments, per the Financial Times. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-618275d9d09290365c82|cite]])

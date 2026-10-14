@@ -3,11 +3,11 @@ type: entity
 title: Amazon
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 333
+claim_count: 349
 ---
 
 # Amazon
@@ -421,6 +421,34 @@ US e-commerce, logistics, and cloud company (AWS). Known for long-term, capital-
 
 - In August 2026 Amazon said Nvidia GPUs and Trainium chips could run in the same data center with similar racks, and Trainium would use Nvidia networking and memory hardware. ([[2026-10-08-Nvidia-to-Invest-in-Chip-Rival-d-Matrix-as-Its-Challengers-Choose-Partnership#^clm-ce539863f6b1ec8d2bde|cite]])
 
+### 2026-10-10 [[2026-10-10-Zuckerbergs-Big-Biotech-Moment|Zuckerberg’s Big Biotech Moment]]
+
+- Per Kevin Roose's book The AGI Chronicles, Sam Altman texted Jeff Bezos just before the January 2025 Project Stargate announcement to check they could use the name, since Amazon owns MGM, which owns the Stargate franchise. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-4c3ff242b1e623b7627b|cite]])
+
+### 2026-10-11 [[2026-10-11-Amazons-Bargains-Include-Its-Stock|Amazon’s Bargains Include Its Stock]]
+
+- Amazon is spending $220 billion on capital expenditures in 2026 to build AI data center capacity, a bet that depends on business demand for AI services taking off. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-fe5dfcbddc9ff566ede1|cite]])
+- Amazon has traded at a discount to Walmart for about 18 months: as of October 2026 it trades at about 29 times forward earnings versus 37 for Walmart, per Koyfin, though Walmart's expected 2026 revenue growth of about 5.6% is a third of Amazon's. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-97aad8388ffde3454b2f|cite]])
+- Martin Peers argues investor enthusiasm for chip stocks and blue-sky vision firms like SpaceX has pulled money out of established tech stocks, leaving Amazon at a bargain price. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-69c69c2f02daea6cfa6a|cite]])
+- Amazon's online retail sales alone grew 13% in the first half of 2026, and Amazon had a market capitalization of $2.8 trillion in October 2026. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-cc0430e0bfcde25cb534|cite]])
+- Martin Peers argues AWS should be worth at least $1 trillion given its expected growth and where neoclouds CoreWeave and Nebius trade. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-3a47551ed1aab0e215f7|cite]])
+- Martin Peers argues Amazon's film and TV studio should be worth at least as much as Netflix, which has a $300 billion market capitalization. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-8944ca996a8a3111530c|cite]])
+- Amazon's online sales and merchant services, excluding ads and subscriptions, made $468 billion in revenue in the 12 months to June 2026, growing about 12%, and could reach $500 billion in 2026. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-0d011a9686e83df3930d|cite]])
+- Applying Amazon's forward revenue multiple of 3.3 to its online sales and merchant services revenue values the online shopping side at about $1.7 trillion, per Martin Peers. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-62146370e1260c111fee|cite]])
+- Amazon's ad business brings in $80 billion a year as of October 2026 and grows 20% to 25% a year, though it is mostly merchants' promotional spending on Amazon's own platform, making it less valuable than ads on Meta or Google. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-3771fb17b114f78aad81|cite]])
+- At Goldman Sachs' Communicopia conference in 2026, analyst Eric Sheridan argued Amazon should be among the best-placed companies to benefit from robots automating logistics and delivery and lifting margins. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-a933a591c10c69ca1205|cite]])
+- Prediction: Martin Peers warns that if AI agent traffic largely replaces humans scrolling on Amazon, its ad business could be wiped out. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-cb3e55a4804a689e59e4|cite]])
+- Martin Peers argues Amazon's status as a conglomerate likely dooms its stock to always trade below its real value. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-edf959954cc568e04229|cite]])
+- Prediction: Martin Peers predicts Amazon might one day split into two or three pieces with AWS the most logical to carve off, but not soon, because AWS now needs the shopping business's cash flow to fund its capex. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-3dbd0e8941c38857607b|cite]])
+
+### 2026-10-12 [[2026-10-12-OpenAIs-Plan-To-Revive-Sora|OpenAI’s Plan To Revive Sora]]
+
+- Amazon is in talks to buy Israeli AI startup Decart, whose software helps developers switch between AI chips, at around $7 billion, per the Wall Street Journal. ([[2026-10-12-OpenAIs-Plan-To-Revive-Sora#^clm-9f511388c14bd1abe3fa|cite]])
+
+### 2026-10-13 [[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit|OpenAI’s Bug and Bumble’s AI-Powered Exit]]
+
+- The Google and Character.AI deal was one of several 2024 license-and-hire deals, with Microsoft and Inflection AI and Amazon and Adept, structured as licenses rather than acquisitions to avoid antitrust scrutiny; many were investigated anyway. ([[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit#^clm-d3505e2e9e26cd7d984d|cite]])
+
 ## Related concepts
 
-[[A-B-Testing|A/B Testing]], [[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Agentic-Commerce|Agentic Commerce]], [[Aggregation-Theory|Aggregation Theory]], [[Bundling|Bundling]], [[Capex-vs-Opex|Capex vs Opex]], [[Cash-Conversion-Cycle|Cash Conversion Cycle]], [[Channel-Conflict|Channel Conflict]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Custom-Silicon|Custom Silicon]], [[Data-Asset|Data as a Competitive Asset]], [[Data-Center-Opposition|Local Opposition to Data Centers]], [[Dynamic-Pricing|Dynamic Pricing]], Enshittification, [[First-Best-Customer|First and Best Customer (Amazon Primitives)]], [[First-Mover-Advantage|First-Mover Advantage]], Flywheel (Virtuous Cycle), Gamification, The Long Tail, [[Network-Effects|Network Effects]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Scale-Economies|Scale Economies]], [[Sustainable-Competitive-Advantage|Sustainable Competitive Advantage]], [[Switching-Costs|Switching Costs]], Two-Pizza Teams, [[Two-Sided-Marketplace|Two-Sided Marketplace (Platform)]], The Unified Content Business Model, [[Vertical-Integration|Vertical Integration]], Wholesale vs Agency Pricing
+[[A-B-Testing|A/B Testing]], [[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Agentic-Commerce|Agentic Commerce]], [[Aggregation-Theory|Aggregation Theory]], [[Bundling|Bundling]], [[Capex-vs-Opex|Capex vs Opex]], [[Cash-Conversion-Cycle|Cash Conversion Cycle]], [[Channel-Conflict|Channel Conflict]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], Conglomerate Discount, [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Custom-Silicon|Custom Silicon]], [[Data-Asset|Data as a Competitive Asset]], [[Data-Center-Opposition|Local Opposition to Data Centers]], [[Dynamic-Pricing|Dynamic Pricing]], Enshittification, [[First-Best-Customer|First and Best Customer (Amazon Primitives)]], [[First-Mover-Advantage|First-Mover Advantage]], Flywheel (Virtuous Cycle), Gamification, License-and-Hire Deal, The Long Tail, [[Network-Effects|Network Effects]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Scale-Economies|Scale Economies]], [[Sustainable-Competitive-Advantage|Sustainable Competitive Advantage]], [[Switching-Costs|Switching Costs]], Two-Pizza Teams, [[Two-Sided-Marketplace|Two-Sided Marketplace (Platform)]], The Unified Content Business Model, [[Vertical-Integration|Vertical Integration]], Wholesale vs Agency Pricing

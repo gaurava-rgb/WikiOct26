@@ -3,11 +3,11 @@ type: entity
 title: Nvidia
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 167
+claim_count: 180
 ---
 
 # Nvidia
@@ -288,6 +288,37 @@ US chip designer whose GPUs (graphics processors) dominate AI training and infer
 
 - After a Financial Times report of the lower OpenAI revenue figure, stocks of Nvidia, CoreWeave, Nebius and other chip and neocloud firms fell, per CNBC. ([[2026-10-08-OpenAI-ARR-Snafu-Highlights-Flawed-Metric#^clm-84d1ecc42f745796ef9f|cite]])
 
+### 2026-10-09 [[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded|China’s AI Model Race Is Just Getting More Crowded]]
+
+- miHoYo is trying to get access to Nvidia's Blackwell chips to train more competitive models, like leading Chinese AI firms do, per a person with direct knowledge. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-ddae05e3b2dd3e68e31e|cite]])
+
+### 2026-10-10 [[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes|GPUs in the Wine Cellar: Why Techies Are Hoarding AI Compute in Their Homes]]
+
+- Former Microsoft executive Gary Flake built a home computer with seven Nvidia GPUs from discounted parts for under $6,000 to train AI models on terabytes of brain-scan (EEG) data. ([[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes#^clm-aa19f4786540bd177cfa|cite]])
+- The Information says running AI in attics, basements and home offices is an unexpected outcome of the AI boom, while leading AI firms run models in data centers with tens of thousands of GPUs. ([[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes#^clm-7256df866c5a353f6878|cite]])
+- In September 2026 Shopify CEO Tobi Lütke went viral with a photo of three racks of AI gear in his Toronto wine cellar, including a Dell computer with an Nvidia GPU marketed as the ultimate deskside supercomputer. ([[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes#^clm-3399b95c98f4ff41d3c5|cite]])
+- Home AI rigs follow a decades-old homelab tradition: early-2000s media servers for MP3 and video files, then home crypto mining rigs that drove demand for powerful GPUs. ([[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes#^clm-9b70bde02cf52603e36d|cite]])
+- YouTuber 0xSero moved his four Nvidia 6000 GPUs from his home office to the attic in Poland because they were noisy and ran so hot they dried out the room. ([[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes#^clm-6ca746675e402bb5befd|cite]])
+
+### 2026-10-11 [[2026-10-11-Amazons-Bargains-Include-Its-Stock|Amazon’s Bargains Include Its Stock]]
+
+- Nvidia-backed AI cloud company Firmus Grid pulled what would have been Australia's biggest IPO in almost 30 years, a planned raise of nearly $5 billion at above a $30 billion valuation, citing market volatility. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-59fa5dfe8da1a975683e|cite]])
+
+### 2026-10-12 [[2026-10-12-Andreessen-Horowitz-General-Catalyst-Race-to-Secure-the-Chips-Their-Startups-Need|Andreessen Horowitz, General Catalyst Race to Secure the Chips Their Startups Need]]
+
+- In 2023 Daniel Gross and Nat Friedman pooled advanced Nvidia chips into the Andromeda Cluster and offered them to portfolio companies at a discount; it has since pivoted to matching compute buyers and sellers. ([[2026-10-12-Andreessen-Horowitz-General-Catalyst-Race-to-Secure-the-Chips-Their-Startups-Need#^clm-a89a122dcd3b4c5b6dc6|cite]])
+- In May 2026 General Catalyst hired Alexis Black Björlin, who formerly helped run Nvidia's cloud computing division, as chief strategy officer focused on infrastructure. ([[2026-10-12-Andreessen-Horowitz-General-Catalyst-Race-to-Secure-the-Chips-Their-Startups-Need#^clm-5f89af033eb4a84d5057|cite]])
+- Crucible Capital built a 576-chip Nvidia B300 cluster as an experiment and now sells part of the capacity to a frontier lab while its startups use it for tests and pilots. ([[2026-10-12-Andreessen-Horowitz-General-Catalyst-Race-to-Secure-the-Chips-Their-Startups-Need#^clm-9be48f0650cb834f91b6|cite]])
+
+### 2026-10-12 [[2026-10-12-OpenAIs-Plan-To-Revive-Sora|OpenAI’s Plan To Revive Sora]]
+
+- Nvidia is in early talks to buy, or invest more in, Reflection AI, an open-weight model maker valued at about $25 billion, per the Financial Times. ([[2026-10-12-OpenAIs-Plan-To-Revive-Sora#^clm-bb564d43693ccdec06ee|cite]])
+- Firmus, a Nvidia-backed Australian AI data center firm, withdrew its planned IPO at a valuation above $30 billion and is exploring a $2 billion to $3 billion private round instead. ([[2026-10-12-OpenAIs-Plan-To-Revive-Sora#^clm-ecf4c2745610001ce9b9|cite]])
+
+### 2026-10-13 [[2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference|Neocloud Prime Intellect Acquires Startup To Speed Up Inference]]
+
+- Prime Intellect, a San Francisco neocloud valued at $1 billion in a July 2026 equity financing, is acquiring Moondream to make open models run faster and cheaper on its Nvidia servers. ([[2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference#^clm-ee769de8b8b34804e2e8|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Commoditize-Your-Complements|Commoditize Your Complements]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Custom-Silicon|Custom Silicon]], [[Dollars-Per-Gigawatt|Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)]], [[Export-Controls|Chip Export Controls]], [[LLM-Inflection-Points|Three LLM Inflection Points]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], Open-Weight Models, [[Scale-Economies|Scale Economies]], [[Switching-Costs|Switching Costs]], [[Vertical-Integration|Vertical Integration]], [[Zero-Data-Retention|Zero Data Retention]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Commoditize-Your-Complements|Commoditize Your Complements]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Custom-Silicon|Custom Silicon]], [[Dollars-Per-Gigawatt|Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)]], [[Export-Controls|Chip Export Controls]], [[LLM-Inflection-Points|Three LLM Inflection Points]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Open-Weight-Models|Open-Weight Models]], [[Scale-Economies|Scale Economies]], [[Switching-Costs|Switching Costs]], [[Vertical-Integration|Vertical Integration]], [[Zero-Data-Retention|Zero Data Retention]]

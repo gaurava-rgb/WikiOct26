@@ -3,11 +3,11 @@ type: entity
 title: OpenRouter
 status: developing
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 3
+claim_count: 5
 ---
 
 # OpenRouter
@@ -27,3 +27,12 @@ Service that sits between developers and AI model providers; being bought by Str
 ### 2026-10-07 [[2026-10-07-Where-Nvidias-100-Billion-Dealmaking-Juggernaut-Will-Go-Next|Where Nvidia's $100 Billion Dealmaking Juggernaut Will Go Next]]
 
 - In July 2026 Nvidia was interested in buying AI model marketplace OpenRouter but asked for more time; the founders would not wait and Stripe won with an $8 billion bid, per a person with knowledge. ([[2026-10-07-Where-Nvidias-100-Billion-Dealmaking-Juggernaut-Will-Go-Next#^clm-f6164c5f5b50d1b7bd14|cite]])
+
+### 2026-10-12 [[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches AI’s Crowded Frontier—Will Users Care?]]
+
+- Only 14% of AI model usage via OpenRouter ran through the 10 highest-quality models in Q3 2026, down from 55% in Q1 2025, per The Information. ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care#^clm-14cf1cd1539007e7dcea|cite]])
+- The Information attributes the drop in top-model share on OpenRouter to the falling cost of less advanced models that are good enough for most tasks. ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care#^clm-036f3245059f99d0fd7a|cite]])
+
+## Related concepts
+
+[[Sustaining-vs-Disruptive-Innovation|Sustaining vs Disruptive Innovation]]

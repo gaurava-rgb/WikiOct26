@@ -3,11 +3,11 @@ type: entity
 title: Netflix
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 61
+claim_count: 62
 ---
 
 # Netflix
@@ -97,6 +97,10 @@ Video streaming service; an AWS customer that competes with Amazon Prime Video.
 
 - Craig Federighi said Apple made it easy for developers to adapt their apps for the iPhone Duo with new and updated APIs, showing Zoom, Slack, and Netflix apps built for the larger screen. ([[2026-09-10-The-iPhone-Duo-The-Intelligent-Personal-Hub-Apple-Watch-Audio-Intelligence#^clm-5d0e159f9ee86f5d4954|cite]])
 - Thompson argues Netflix featuring in the iPhone Duo launch, after refusing to support the Vision Pro, shows app developers work with Apple purely out of self-interest, not affection, since Apple will sell far more Duos than Vision Pros. ([[2026-09-10-The-iPhone-Duo-The-Intelligent-Personal-Hub-Apple-Watch-Audio-Intelligence#^clm-478f5be0990a6fa45ee1|cite]])
+
+### 2026-10-11 [[2026-10-11-Amazons-Bargains-Include-Its-Stock|Amazon’s Bargains Include Its Stock]]
+
+- Martin Peers argues Amazon's film and TV studio should be worth at least as much as Netflix, which has a $300 billion market capitalization. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-8944ca996a8a3111530c|cite]])
 
 ## Related concepts
 

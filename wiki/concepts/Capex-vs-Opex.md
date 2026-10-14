@@ -3,10 +3,10 @@ type: concept
 title: Capex vs Opex
 status: developing
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - concept
-source_count: 6
+source_count: 10
 ---
 
 # Capex vs Opex
@@ -43,3 +43,21 @@ Two budgets a company spends from. Capex (capital spending) is a big up-front pa
 ### 2026-09-30 [[2026-09-30-Cracks-Emerge-in-AIs-Debt-Fueled-Data-Center-Boom|Cracks Emerge in AI's Debt-Fueled Data Center Boom]]
 
 - Amazon, Google and Microsoft together will spend about $700 billion on capital expenditures in 2026 and around that level for the next few years. ([[2026-09-30-Cracks-Emerge-in-AIs-Debt-Fueled-Data-Center-Boom#^clm-aa970b50d3289beb99b4|cite]])
+
+### 2026-10-10 [[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes|GPUs in the Wine Cellar: Why Techies Are Hoarding AI Compute in Their Homes]]
+
+- Flake says owning the machine beat paying AWS or Microsoft monthly cloud fees, even after $10,000 to $20,000 of electrical upgrades and a new cooling system to handle its heat. ([[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes#^clm-605d52746fad376287c2|cite]])
+
+### 2026-10-12 [[2026-10-12-Andreessen-Horowitz-General-Catalyst-Race-to-Secure-the-Chips-Their-Startups-Need|Andreessen Horowitz, General Catalyst Race to Secure the Chips Their Startups Need]]
+
+- Large VC funds could finance data center pushes through side vehicles, loan guarantees, or lease commitments that let a partner raise the money, and could profit from them. ([[2026-10-12-Andreessen-Horowitz-General-Catalyst-Race-to-Secure-the-Chips-Their-Startups-Need#^clm-be343117bed9e996b2d2|cite]])
+
+### 2026-10-13 [[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts|Microsoft Cloud President Asks Leaders to Find 20% Cost Cuts]]
+
+- The Information reads the Azure cost talks, which come as Azure growth accelerates, as a sign of how heavily data center spending weighs on Microsoft's finances. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-9a40b66aa244ed0f3e38|cite]])
+- Oracle and AWS have also made cuts, including layoffs, despite faster revenue growth, because rising AI data center capital spending hurt their free cash flow. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-a9f9546b460cc79c4f7b|cite]])
+- Microsoft generated $20 billion of free cash flow in the June 2026 quarter, up more than $4 billion from the first quarter but down 20% from a year earlier, as AI data center spending takes a toll. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-108b71e0eb721138e521|cite]])
+
+### 2026-10-13 [[2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference|Neocloud Prime Intellect Acquires Startup To Speed Up Inference]]
+
+- Tencent is preparing to raise at least $4.5 billion in US dollar and offshore yuan bonds, mainly to fund AI capital spending, chiefly chip purchases. ([[2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference#^clm-959939f0117a9a6cd1cf|cite]])
