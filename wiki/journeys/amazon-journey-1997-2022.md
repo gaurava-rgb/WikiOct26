@@ -3,7 +3,7 @@ type: journey
 title: "Amazon, 1997 to 2022: building the tools"
 status: developing
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-13
 tags:
   - journey
   - amazon
@@ -11,7 +11,7 @@ tags:
 
 # Amazon, 1997 to 2022: building the tools
 
-**Thesis:** Amazon keeps building giant tools for its own use (warehouses, servers, planes, chips), then rents those same tools to everyone else, rivals included. This era is the building. Part of the [[journeys/amazon-journey|Amazon journey]]; next era: [[journeys/amazon-journey-2023-2026|Amazon, 2023 to 2026]].
+**Thesis:** Amazon keeps building giant tools for its own use (warehouses, servers, planes, chips), then rents those same tools to everyone else, rivals included. This era is the building. Part of the [[journeys/amazon-journey|Amazon journey]]; next era: [[journeys/amazon-journey-2023-2026|Amazon, 2023 to 2025: the AI bet, Bedrock and the rivals]].
 
 ## The story so far
 
@@ -95,10 +95,11 @@ Walmart's systems moved pallets to stores, not single boxes to homes ([[2025-Gal
 - Annapurna, Amazon's chip designer: bought in 2016 per the book (p.291), in 2015 per [[2026-05-05-Amazons-Durability|Amazon's Durability]].
 - Jet.com price: $3.3 billion in §17.7 (p.647), $3 billion in ch.8 (p.256).
 
-See also: [[journeys/amazon-journey|Amazon journey (hub)]], [[journeys/amazon-journey-2023-2026|Amazon, 2023 to 2026]], [[stories/retail-stores-boxes-agents|Retail, from stores to boxes to agents]], [[what-changed]].
+See also: [[journeys/amazon-journey|Amazon journey (hub)]], [[journeys/amazon-journey-2023-2026|Amazon, 2023 to 2025: the AI bet, Bedrock and the rivals]], [[journeys/amazon-journey-2026|Amazon, 2026: chips, power and money]], [[stories/retail-stores-boxes-agents|Retail, from stores to boxes to agents]], [[what-changed]].
 
 ## Change log
 
 - 2026-10-08: Split from amazon-journey.md on 2026-10-08 (proposal 2026-10-08). Text moved unchanged; added a story-so-far, a third "why?" question and the era links from existing cited text.
+- 2026-10-13: next-era link retitled and the new 2026 era added to See also per proposal 2026-10-13.
 
 <!-- claims: clm-721998298bef0c547184, clm-890f584ea2f3b3b4e6ee, clm-c3f9f5f964575520904f, clm-b09ff17ea5e21b34e5cd, clm-2143b1d5ef230745091f, clm-df00b039f8f98c3daf60, clm-d67e5b8cb5cc20549416, clm-218195a1b14cb2747fcb, clm-01f2b9346843e0ba3418, clm-abf3348a19c6e16551e1, clm-90b8ee6099abe799c809, clm-840cb7241fe67482328b, clm-c1850bd8983dcd240acf, clm-2a24f0930fd5e88ae05a, clm-708b6e6073946f607c4a, clm-bd0a33cfd7b85b11f8ff, clm-344effddeb146ff7f8b3, clm-ce7ea73c8412103d3f7d, clm-2fc23ef5f6f78d8ed7f1, clm-d02fe0507d9c6035e123, clm-784a7d59f2e9f955e49a, clm-42e4175e56e99f8a5305, clm-90934c886b39ad4016d2, clm-d54691e27df63ed0bdc9, clm-17af8ffd01b0c2bb7964, clm-7df1f80333900a6f2e58, clm-a3da4f5c495215e58bfb, clm-18c773f21986205b3f04, clm-1264697facd951fcc097, clm-8191fb79eb858069886f, clm-4edc2826a70fb50a658c, clm-67c0b6a739fa16cb30a1, clm-0d51d23348d6ea00b93b, clm-1b4fed1e952af5466ad1, clm-132849342d8d16290686, clm-3fdba35f04dc8c462986, clm-9af9229107d6d938e48d, clm-8527a891e224136950ff, clm-57d0c29a296e89ef82da, clm-b043c1e17b39ba9e9472, clm-f772085daff1853be9b6, clm-56b7665f8d4694156dd8, clm-9930ce3618b6b95ffb6f, clm-207c09d3bee3b4dd3719, clm-e88d546d108de99f3257, clm-9c1addfa2d999076ba28, clm-473bd2d654305d469733, clm-b8f83714a8fc08077528, clm-b5fe25ecdf562e234a62, clm-2c1025f3a16bf3dd62ee, clm-cbe37b09910030bc62ae, clm-f3820d68aae2a553bf8b, clm-db445fc62f7860041c35, clm-249e7fd5715485171fa8, clm-7658105bf0c043a304c8, clm-17d6df585ac0fb0232e2, clm-29189d0de64da315ab4d, clm-7cbe960648324f6453cd, clm-3dcfefdf73cabd158a86, clm-13482e342484d2624b6d, clm-c0f5c066b7a3d31a8a26, clm-e629fa6598d732768f7c, clm-64b99ccecac84c3d435a, clm-040d6119909321d24b3c, clm-f0229615c05f95c760be, clm-41e1b0fbffc6fee1f5fb, clm-50f6b5977ea30cb1e4a7, clm-44b71fd2e0e60c30a644, clm-396423cff5aec9fc5934, clm-5da871ca1ec6a2bd9b0f, clm-136a5e454021713ca30f, clm-7bc16eb02700e33c12c4, clm-e3780eb0cba8d69b8207, clm-8648de40861ab5761c49, clm-1a08fa5a0bf55e60eecb, clm-d47e5d02aace123f5413 -->

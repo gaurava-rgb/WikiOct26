@@ -13,6 +13,10 @@ tags:
 
 Newest completed operations appear first.
 
+## 2026-10-13 markdown-20261013-proposal-build
+
+- Built proposal 2026-10-13 (all approved): new Microsoft journey; split OpenAI, Anthropic, Google and Nvidia into hub plus two era pages; split Amazon 2023-2026 (new amazon-journey-2026) and Meta late 2026 (new meta-journey-oct-2026); 7 idea cards (Local-Inference, Reward-Hacking, Open-Weight-Models, Export-Controls, Seats-Plus-Consumption, Zero-Data-Retention, Capex-vs-Opex).
+
 ## 2026-10-13 editor-update-20261013-b22-b23
 
 - Editor update: slotted 19 The Information articles (batches b22 and b23, Oct 9-13) into the AI shift story and the OpenAI, Anthropic, Google, Meta (late 2026), Amazon 2023-2026, Nvidia and Apple 2025-2026 journeys; 7 what-changed entries.

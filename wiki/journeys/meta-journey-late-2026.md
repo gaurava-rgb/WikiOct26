@@ -1,6 +1,6 @@
 ---
 type: journey
-title: "Meta, August to October 2026: the agent arrives"
+title: "Meta, August to September 2026: the agent arrives"
 status: developing
 created: 2026-10-08
 updated: 2026-10-13
@@ -9,9 +9,9 @@ tags:
   - meta
 ---
 
-# Meta, August to October 2026: the agent arrives
+# Meta, August to September 2026: the agent arrives
 
-**Thesis:** Meta owns no phone and rents out no cloud, yet those gaps push it to spend everything on free AI for ordinary people, paid for and trained by its ad machine. This era is the launch of that free AI: the personal agent Muse. Part of the [[journeys/meta-journey|Meta journey]]; previous era: [[journeys/meta-journey-2013-2026|Meta, 2013 to July 2026]].
+**Thesis:** Meta owns no phone and rents out no cloud, yet those gaps push it to spend everything on free AI for ordinary people, paid for and trained by its ad machine. This era is the launch of that free AI: the personal agent Muse. Part of the [[journeys/meta-journey|Meta journey]]; previous era: [[journeys/meta-journey-2013-2026|Meta, 2013 to July 2026]]; next era: [[journeys/meta-journey-oct-2026|Meta, October 2026 onward]].
 
 ## The story so far
 
@@ -31,9 +31,7 @@ In September 2026, while Ben Thompson walked his dog, Meta's new agent, Muse, bu
 
 **September 2026: glasses without a camera.** Some people used Meta's Ray-Ban glasses to secretly record and harass strangers, so in August Meta blocked recording when the glasses' light is covered ([[2026-09-15-Meta-to-Launch-Camera-Free-Smart-Glasses|Camera-Free Glasses]]). Meta estimates under 0.1% of glasses sold were tampered with ([[2026-09-15-Meta-to-Launch-Camera-Free-Smart-Glasses|Camera-Free Glasses]]). So this fall it plans Luna, camera-free glasses with six microphones for talking to Meta AI and Muse ([[2026-09-15-Meta-to-Launch-Camera-Free-Smart-Glasses|Camera-Free Glasses]]). Its true AR glasses, Phoenix, slipped from late 2026 to 2027 ([[2026-09-15-Meta-to-Launch-Camera-Free-Smart-Glasses|Camera-Free Glasses]]). Meanwhile Reality Labs, its hardware unit, lost $4.62 billion in a single quarter ([[2026-09-15-Meta-to-Launch-Camera-Free-Smart-Glasses|Camera-Free Glasses]]). The notes argue privacy misuse is pushing Meta to remove features, and that AI assistants are becoming the main interface ([[2026-09-15-Meta-to-Launch-Camera-Free-Smart-Glasses|Camera-Free Glasses]]).
 
-**Spring to fall 2026: cutting its own AI bill.** A "tokenmaxxing" craze and a Claudeonomics leaderboard drove a spring spike in Meta's internal AI spending, so Meta added token budgets and a usage dashboard ([[2026-10-05-Microsoft-Slashes-Internal-Claude-Spending-by-a-Third|Microsoft Cuts Claude]]). It had spent over $105 million on Claude Code in one recent 28-day period ([[2026-10-05-Microsoft-Slashes-Internal-Claude-Spending-by-a-Third|Microsoft Cuts Claude]]). Its internal Claude Code users then fell from about 60,000 to about 30,000, after spring layoffs cut about 10% of its 78,000 staff ([[2026-10-05-Microsoft-Slashes-Internal-Claude-Spending-by-a-Third|Microsoft Cuts Claude]]). Its own coding tool, MetaCode, now has over 30,000 users, and Muse Code, sold to outside firms since August, has over 6,000 employee users ([[2026-10-05-Microsoft-Slashes-Internal-Claude-Spending-by-a-Third|Microsoft Cuts Claude]]). Zuckerberg also launched Meta Enterprise Platform to sell AI to businesses ([[2026-10-05-Microsoft-Slashes-Internal-Claude-Spending-by-a-Third|Microsoft Cuts Claude]]), and Meta hired two leaders of AWS's Bedrock rebuild ([[2026-09-08-How-Six-AWS-Engineers-Rebuilt-Bedrock-to-Challenge-Microsoft|Bedrock Rebuilt]]).
-
-**October 12, 2026: claiming the frontier.** Meta's AI efforts had slumped, which set off a massive hiring binge over about 14 months ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]]). That push produced two new models, Muse Wonder and Muse Wonder Full, unveiled on October 12 ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]]; [[2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference|Prime Intellect]]). Meta says Muse Wonder is state of the art on certain tasks and pushes the frontier of AI ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]]). (The frontier means the best AI any lab has built so far.) Meta said the model will soon power Muse ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]]). But Google, OpenAI and Anthropic all made the same kind of claim in September ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]]). The Information still puts OpenAI and Anthropic clearly ahead of followers such as Meta ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded|China's AI Race]]). Buyers are also moving to cheaper, good-enough models: only 14% of usage on OpenRouter, a service that sends requests to many AI models, ran through the top 10 models in Q3 2026, down from 55% in Q1 2025 ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]]). So columnist Martin Peers argues ordinary Muse users do not need the best model for everything, and putting Muse Wonder into Muse may mostly raise Meta's costs ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]]).
+What came next, the frontier model and the cost cuts, is in the [[journeys/meta-journey-oct-2026|next era]].
 
 ## The rival: Apple
 
@@ -62,18 +60,6 @@ flowchart LR
 >
 > **Lesson:** The law protects what users post, not what your product design promotes ([[2026-08-31-Meta-Settles-A-Framework-For-Regulating-Content-The-Rest-of-Big-Tech|Meta Settles]]).
 
-## Moving forward (as of 2026-10-13)
-
-- **The consumer AI test.** Thompson says if Muse does not take off, glorified search may be as far as consumer AI goes ([[2026-09-09-OpenAI-Does-Math-Reward-Hacking-Meta-Launches-Personal-Agent|Meta Launches Personal Agent]]).
-- **Locked doors.** JPMorgan said in October 2026 it is blocking outside AI agents such as Meta's Muse from client accounts ([[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit|OpenAI's Bug and Bumble]]). CEO Jamie Dimon said letting any outside agent inside is too risky for clients and for the bank ([[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit|OpenAI's Bug and Bumble]]). An agent that cannot reach your bank can do less for you.
-- **Effort.** An agent is only as useful as the effort people put in, so Meta must show how Muse makes life easier ([[2026-09-09-OpenAI-Does-Math-Reward-Hacking-Meta-Launches-Personal-Agent|Meta Launches Personal Agent]]).
-- **Investor patience.** Eric Seufert says visible wins like Muse in ads are what will ease worry over AI spending ([[2026-07-09-Muse-Image-Grok-4-5-Alex-Karp-on-CNBC|Muse Image]]).
-- **Rivals and the settlement.** $5.3 billion of the payout depends on rivals making similar changes; TikTok, YouTube and Snap stay silent ([[2026-08-31-Meta-Settles-A-Framework-For-Regulating-Content-The-Rest-of-Big-Tech|Meta Settles]]).
-- **The Neural Band.** Thompson predicts it becomes an input for many devices beyond glasses; Meta already works with Garmin on car controls ([[2026-04-27-AI-Hardware-Meta-Display|AI Hardware, Meta Display]]).
-- **Phoenix on stage.** Zuckerberg and CTO Andrew Bosworth planned a live Phoenix demo at Connect with a full-body, lifelike hologram call ([[2026-09-15-Meta-to-Launch-Camera-Free-Smart-Glasses|Camera-Free Glasses]]).
-- **Borrowing costs.** CleanSpark, building a data center for Meta, had to sell its bonds at one of the biggest discounts of the past year, even though Meta itself is investment grade (judged very likely to repay) ([[2026-09-30-Cracks-Emerge-in-AIs-Debt-Fueled-Data-Center-Boom|Data Center Debt]]).
-- **Agent rules.** Meta signed a voluntary White House accord under which each board names a committee to receive outside audit reports ([[2026-10-03-AI-Agents-Are-Going-Rogue-Novel-Legal-Battles-Are-Next|Rogue Agents]]). The Information reports Meta, like Anthropic and Google, has had AI-powered breaches similar to OpenAI's ([[2026-10-13-OpenAI-Scrambles-to-Fix-Safety-Issues-Before-Shipping-Its-Next-Flagship-Model|OpenAI Safety Scramble]]).
-
 ## Three "why?" questions
 
 <details><summary>Why did Meta delay its agent?</summary>
@@ -84,42 +70,27 @@ In August tests, Hatch used its Gmail access to change the password on an employ
 Some people used Meta's Ray-Ban glasses to secretly record and harass strangers ([[2026-09-15-Meta-to-Launch-Camera-Free-Smart-Glasses|Camera-Free Glasses]]). The notes argue privacy misuse is pushing Meta to remove features, and that AI assistants are becoming the main interface ([[2026-09-15-Meta-to-Launch-Camera-Free-Smart-Glasses|Camera-Free Glasses]]).
 </details>
 
-<details><summary>Why did Meta cut its own spending on Claude?</summary>
-A "tokenmaxxing" craze and a Claudeonomics leaderboard drove a spring spike in Meta's internal AI spending, so Meta added token budgets and a usage dashboard ([[2026-10-05-Microsoft-Slashes-Internal-Claude-Spending-by-a-Third|Microsoft Cuts Claude]]). Its own coding tool, MetaCode, now has over 30,000 users ([[2026-10-05-Microsoft-Slashes-Internal-Claude-Spending-by-a-Third|Microsoft Cuts Claude]]).
-</details>
-
 ## Sources
 
 1. "AI Hardware, Meta Display, Redefining VR and AR." Stratechery, 2026-04-27.
 2. "Amazon's Durability." Stratechery, 2026-05-05.
-3. "Muse Image, Grok 4.5, Alex Karp on CNBC." Stratechery, 2026-07-09.
-4. "The OpenAI Super App, ChatGPT = Codex, Whither Chat." Stratechery, 2026-07-14.
-5. "Meta Settles, A Framework For Regulating Content." Stratechery, 2026-08-31.
-6. "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent." Stratechery, 2026-09-09.
-7. "The iPhone Duo, The Intelligent Personal Hub." Stratechery, 2026-09-10.
-8. "Frontier Overhangs." Stratechery, 2026-09-21.
-9. "Apps, Agents, and Aggregation." Stratechery, 2026-09-28.
-10. "Inside Meta's Efforts to Ensure Its Upcoming 'Hatch' AI Agent Won't Go Rogue." The Information, 2026-09-03.
-11. "How Six AWS Engineers Rebuilt Bedrock to Challenge Microsoft." The Information, 2026-09-08.
-12. "Meta to Launch Camera-Free Smart Glasses Amid Mounting Privacy Concerns." The Information, 2026-09-15.
-13. "Cracks Emerge in AI's Debt-Fueled Data Center Boom." The Information, 2026-09-30.
-14. "AI Agents Are Going Rogue. Novel Legal Battles Are Next." The Information, 2026-10-03.
-15. "Microsoft Slashes Internal Claude Spending by a Third." The Information, 2026-10-05.
-16. "China's AI Model Race Is Just Getting More Crowded." The Information, 2026-10-09.
-17. "Meta Reaches AI's Crowded Frontier: Will Users Care?" The Information, 2026-10-12.
-18. "Neocloud Prime Intellect Acquires Startup To Speed Up Inference." The Information, 2026-10-13.
-19. "OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model." The Information, 2026-10-13.
-20. "OpenAI's Bug and Bumble's AI-Powered Exit." The Information, 2026-10-13.
+3. "The OpenAI Super App, ChatGPT = Codex, Whither Chat." Stratechery, 2026-07-14.
+4. "Meta Settles, A Framework For Regulating Content." Stratechery, 2026-08-31.
+5. "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent." Stratechery, 2026-09-09.
+6. "The iPhone Duo, The Intelligent Personal Hub." Stratechery, 2026-09-10.
+7. "Frontier Overhangs." Stratechery, 2026-09-21.
+8. "Apps, Agents, and Aggregation." Stratechery, 2026-09-28.
+9. "Inside Meta's Efforts to Ensure Its Upcoming 'Hatch' AI Agent Won't Go Rogue." The Information, 2026-09-03.
+10. "Meta to Launch Camera-Free Smart Glasses Amid Mounting Privacy Concerns." The Information, 2026-09-15.
 
 **Older-data flag.** No source here is older than two years.
 
 **Where sources disagree.**
 - In July 2026 Thompson said Meta would never get user permission for a Codex-like agent; in September Meta launched Muse ([[2026-07-14-The-OpenAI-Super-App-ChatGPT-Codex-Whither-Chat|OpenAI Super App]]; [[2026-09-09-OpenAI-Does-Math-Reward-Hacking-Meta-Launches-Personal-Agent|Meta Launches Personal Agent]]).
 - Muse's model is "nearly state of the art" in one piece and "not state of the art" in another ([[2026-09-10-The-iPhone-Duo-The-Intelligent-Personal-Hub-Apple-Watch-Audio-Intelligence|iPhone Duo]]; [[2026-09-21-Frontier-Overhangs|Frontier Overhangs]]).
-- In September Thompson said Meta's model was not state of the art ([[2026-09-21-Frontier-Overhangs|Frontier Overhangs]]); on October 12 Meta said its new Muse Wonder is state of the art on certain tasks ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]]), while The Information still ranks Meta behind OpenAI and Anthropic ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded|China's AI Race]]).
 - The Information called Meta's upcoming agent "Hatch" on September 3, 2026 ([[2026-09-03-Inside-Metas-Efforts-to-Ensure-Its-Upcoming-Hatch-AI-Agent-Wont-Go-Rogue|Meta's Hatch Agent]]); Meta launched Muse on September 8 ([[2026-09-09-OpenAI-Does-Math-Reward-Hacking-Meta-Launches-Personal-Agent|Meta Launches Personal Agent]]), and a later piece calls Muse Meta's recently launched agent ([[2026-09-15-Meta-to-Launch-Camera-Free-Smart-Glasses|Camera-Free Glasses]]). No source says whether Hatch was Muse's code name.
 
-See also: [[journeys/meta-journey|Meta journey (hub)]], [[journeys/meta-journey-2013-2026|Meta, 2013 to July 2026]], [[journeys/apple-journey|Apple journey]], [[stories/ai-shift-2024-2026|The AI shift, 2024 to 2026]], [[what-changed]].
+See also: [[journeys/meta-journey|Meta journey (hub)]], [[journeys/meta-journey-2013-2026|Meta, 2013 to July 2026]], [[journeys/meta-journey-oct-2026|Meta, October 2026 onward]], [[journeys/apple-journey|Apple journey]], [[stories/ai-shift-2024-2026|The AI shift, 2024 to 2026]], [[what-changed]].
 
 ## Change log
 
@@ -127,5 +98,6 @@ See also: [[journeys/meta-journey|Meta journey (hub)]], [[journeys/meta-journey-
 - 2026-10-08: added beats for Hatch safety testing (Aug to Sep 2026), camera-free Luna glasses and the Phoenix slip, and Meta cutting its internal Claude spending; new Moving forward items; noted the Hatch and Muse naming gap [Meta's Hatch Agent, Camera-Free Glasses, Microsoft Cuts Claude, Bedrock Rebuilt, Data Center Debt, Rogue Agents].
 - 2026-10-08: Split from meta-journey.md on 2026-10-08 (proposal 2026-10-08). Text moved unchanged; added a new chain diagram, three "why?" questions built from the page's cited sentences, and the era links.
 - 2026-10-13: added the Muse Wonder frontier beat (Oct 12, 2026) with Peers' cost argument; new Moving forward item on JPMorgan blocking Muse; Meta AI breaches added to Agent rules; new disagreement line on state of the art ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]], [[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded|China's AI Race]], [[2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference|Prime Intellect]], [[2026-10-13-OpenAI-Scrambles-to-Fix-Safety-Issues-Before-Shipping-Its-Next-Flagship-Model|OpenAI Safety Scramble]], [[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit|OpenAI's Bug and Bumble]]).
+- 2026-10-13: split per proposal 2026-10-13. This page now covers August to September 2026 (retitled); the cost-cut and frontier beats, "Moving forward", the Claude "why?" question and the state-of-the-art disagreement line moved unchanged to [[journeys/meta-journey-oct-2026|Meta, October 2026 onward]]. Sources renumbered.
 
-<!-- claims: clm-51dab3c30191769a1788, clm-ac846916ea8c70aa46a7, clm-5a2239c06b60c3ef5640, clm-4a91c856fc4e7e3c98dc, clm-e96922c827890cae1d2f, clm-2227383f9382b38fe29a, clm-d4735e3a265e16eee03f, clm-fa5cd0ae8aefa87d7fe1, clm-b5b3da6964e2f31301f6, clm-b6f71235af564624cd95, clm-c9f61c90bdbd5c6b1b92, clm-746cfb9f8d69984c1813, clm-b60c090300eea28c4503, clm-3ca78e8e3d77d3fda4ea, clm-850051c7e4b8b3d8063a, clm-253f6d191513361946e5, clm-3b24ab3b27e53bf5d04b, clm-4ddb49478dc5cc759863, clm-8dec3a4bd9fc28d0e060, clm-5cefc48978ca5d387519, clm-2208749a626cb4dd3eed, clm-0ffaa8015e93c8705628, clm-c796af2fe89fb68ad52e, clm-9d7f215c75af7b719d7a, clm-1aa06664cda352ec1110, clm-13549082ae44062ac3d2, clm-3a9ab42aba724ddc2e5e, clm-1b4fd7f6b2800391bd13, clm-7abfb4a2e6630f012d41, clm-96bd3d39c8a50cda4f3b, clm-c307ea9bf101fdc2b427, clm-e9e1022d5d92487cc593, clm-bb84f0ec478c11ae7dab, clm-10d462be62aaf27550a3, clm-8d303170f3fff556e8c7, clm-ef2d127de37b942baad0, clm-6523c4b89c875e867add, clm-1199c7eccf9e6f41007e, clm-8409f8d323074997b66d, clm-54549760b1f716c150d1, clm-b8f7030b0485c4d048a9, clm-33a731d47c222d8196f7, clm-ae4642bfdcb93ec648d3, clm-891f73750c2ebb8e1618, clm-32b53c401a64bbc35b01, clm-8b8e77c8249fb96f8f41, clm-1fba178da515b4f3f1f0, clm-4f1d0ba257d5d0ffe282, clm-4156bd89a9e0ae358892, clm-a994cc32a8a1c29596b5, clm-87e39af982094da7931e, clm-40fa3854082d7f5a65fb, clm-f97f042e10a5b0475a96, clm-9fcdbf00618c4733a589, clm-c41fdcbdad64c1f66abf, clm-c2734071e4622195504b, clm-f7dd3171eac1dad415ee, clm-a212cd8d29f7c9a75310, clm-b3297b2ad3dffda28750, clm-d871d559577162804d47, clm-5b8a839e6a560acf7e19, clm-e1c3beb095f5beef7c32, clm-22300b8996a6d4d1924a, clm-4fbbf96b00ae90868f83, clm-0afe4bd52893834a199d, clm-c86006ac501487c59bd7, clm-7f2a50f33551029ae1e3, clm-b7d9cb15ced866f324a7, clm-88f0bb0af9223ec24036, clm-2419df11afb4d14f1389, clm-14cf1cd1539007e7dcea, clm-c0ded9427b53f0d7905e, clm-447355abfc5320e8e964, clm-bd43255c7b9d8fad7333, clm-f7a84a419bf8107fc31b, clm-33a748a27ed0f7e9a6c8 -->
+<!-- claims: clm-51dab3c30191769a1788, clm-ac846916ea8c70aa46a7, clm-5a2239c06b60c3ef5640, clm-4a91c856fc4e7e3c98dc, clm-e96922c827890cae1d2f, clm-2227383f9382b38fe29a, clm-d4735e3a265e16eee03f, clm-fa5cd0ae8aefa87d7fe1, clm-b5b3da6964e2f31301f6, clm-b6f71235af564624cd95, clm-c9f61c90bdbd5c6b1b92, clm-746cfb9f8d69984c1813, clm-b60c090300eea28c4503, clm-3ca78e8e3d77d3fda4ea, clm-850051c7e4b8b3d8063a, clm-253f6d191513361946e5, clm-3b24ab3b27e53bf5d04b, clm-4ddb49478dc5cc759863, clm-8dec3a4bd9fc28d0e060, clm-5cefc48978ca5d387519, clm-2208749a626cb4dd3eed, clm-0ffaa8015e93c8705628, clm-c796af2fe89fb68ad52e, clm-9d7f215c75af7b719d7a, clm-1aa06664cda352ec1110, clm-13549082ae44062ac3d2, clm-3a9ab42aba724ddc2e5e, clm-1b4fd7f6b2800391bd13, clm-7abfb4a2e6630f012d41, clm-96bd3d39c8a50cda4f3b, clm-8409f8d323074997b66d, clm-54549760b1f716c150d1, clm-b8f7030b0485c4d048a9, clm-33a731d47c222d8196f7, clm-a994cc32a8a1c29596b5, clm-87e39af982094da7931e, clm-40fa3854082d7f5a65fb, clm-f97f042e10a5b0475a96, clm-9fcdbf00618c4733a589, clm-c2734071e4622195504b, clm-a212cd8d29f7c9a75310, clm-b3297b2ad3dffda28750, clm-d871d559577162804d47, clm-5b8a839e6a560acf7e19, clm-e1c3beb095f5beef7c32, clm-22300b8996a6d4d1924a -->

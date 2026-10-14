@@ -3,7 +3,7 @@ type: journey
 title: "Meta, 2013 to July 2026: the ad machine turns to AI"
 status: developing
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-13
 tags:
   - journey
   - meta
@@ -11,7 +11,7 @@ tags:
 
 # Meta, 2013 to July 2026: the ad machine turns to AI
 
-**Thesis:** Meta owns no phone and rents out no cloud, yet those gaps push it to spend everything on free AI for ordinary people, paid for and trained by its ad machine. This era builds the ad machine and points it at AI. Part of the [[journeys/meta-journey|Meta journey]]; next era: [[journeys/meta-journey-late-2026|Meta, August to October 2026]].
+**Thesis:** Meta owns no phone and rents out no cloud, yet those gaps push it to spend everything on free AI for ordinary people, paid for and trained by its ad machine. This era builds the ad machine and points it at AI. Part of the [[journeys/meta-journey|Meta journey]]; next era: [[journeys/meta-journey-late-2026|Meta, August to September 2026]].
 
 ## The story so far
 
@@ -91,10 +91,11 @@ Orion's eye tracking demands your full focus, which makes it virtual reality; th
 - Thompson calls Meta's lack of a cloud an advantage, yet says Meta sells spare compute to Anthropic ([[2026-05-04-Google-Earnings-Meta-Earnings|Google and Meta Earnings]]; [[2026-07-20-Whos-Afraid-of-Chinese-Models|Chinese Models]]).
 - Wall Street sold Meta's stock after earnings; Thompson calls Meta's ad base anti-fragile, with an "astronomical" runway even with zero AI progress ([[2026-05-04-Google-Earnings-Meta-Earnings|Google and Meta Earnings]]; [[2026-05-14-Interview-Ben-Thompson-MoffettNathanson|MoffettNathanson interview]]).
 
-See also: [[journeys/meta-journey|Meta journey (hub)]], [[journeys/meta-journey-late-2026|Meta, August to October 2026]], [[journeys/apple-journey|Apple journey]], [[stories/ai-shift-2024-2026|The AI shift, 2024 to 2026]], [[what-changed]].
+See also: [[journeys/meta-journey|Meta journey (hub)]], [[journeys/meta-journey-late-2026|Meta, August to September 2026]], [[journeys/apple-journey|Apple journey]], [[stories/ai-shift-2024-2026|The AI shift, 2024 to 2026]], [[what-changed]].
 
 ## Change log
 
 - 2026-10-08: Split from meta-journey.md on 2026-10-08 (proposal 2026-10-08). Text moved unchanged; added the era links.
+- 2026-10-13: next-era link retitled to "Meta, August to September 2026" after that era was split per proposal 2026-10-13.
 
 <!-- claims: clm-94f2e127d9808ed908c8, clm-74555c4c9397e4a9ed34, clm-51dab3c30191769a1788, clm-ac846916ea8c70aa46a7, clm-5a2239c06b60c3ef5640, clm-4a91c856fc4e7e3c98dc, clm-e96922c827890cae1d2f, clm-2227383f9382b38fe29a, clm-4eb424d7feb3c734f0a2, clm-115a00f7f523e8b21978, clm-9fcf0ce469f2466dea8c, clm-f3c0925125f7d16ba984, clm-32ec2486de274f9582fe, clm-2eb901aed17c91b0284f, clm-3e75258328653374f736, clm-d4735e3a265e16eee03f, clm-fa5cd0ae8aefa87d7fe1, clm-b5b3da6964e2f31301f6, clm-b6f71235af564624cd95, clm-095d45fcbd5dcd2f81d9, clm-ccd1eaba5800ad8e197a, clm-4ceda1aed256e376764b, clm-d8f0d9f1d558a3c8c29a, clm-9f1f998d3e7fb3673496, clm-c9f61c90bdbd5c6b1b92, clm-746cfb9f8d69984c1813, clm-b60c090300eea28c4503, clm-850051c7e4b8b3d8063a, clm-253f6d191513361946e5, clm-4ddb49478dc5cc759863, clm-8dec3a4bd9fc28d0e060, clm-1a208b189dc0f2046370, clm-79871d5821c65ec3ce0c, clm-2208749a626cb4dd3eed, clm-0ffaa8015e93c8705628, clm-c796af2fe89fb68ad52e, clm-c307ea9bf101fdc2b427, clm-e9e1022d5d92487cc593, clm-bb84f0ec478c11ae7dab, clm-8d303170f3fff556e8c7, clm-ef2d127de37b942baad0, clm-c880db3bb94e35379928, clm-6523c4b89c875e867add, clm-1199c7eccf9e6f41007e, clm-0b84a1148e96291cce69, clm-a8c718796b30f9c80d21, clm-b8f7030b0485c4d048a9, clm-33a731d47c222d8196f7 -->
