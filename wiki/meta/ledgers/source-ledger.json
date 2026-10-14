@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T03:25:01Z",
+  "generated_at": "2026-10-14T04:01:51Z",
   "schema": "claude-obsidian.source-ledger.v1",
   "sources": {
     "src-a3fe751aca2f987ed6fc": {
@@ -2801,6 +2801,31 @@
       "url": "https://www.theinformation.com/articles/companies-prove-ai-spending-pays",
       "form": "article",
       "summary": "A Wharton and GBK Collective survey of 1,400 employees at large U.S. firms finds most companies measure AI returns as hours saved and fewer errors, not new revenue, and that hard financial impact is very difficult to find. Some 80% of managers report positive returns, but the strongest returns come at firms that track growth outcomes. AI spending is still rising in 2026, though fewer managers expect substantial budget increases in 2027. Separately, Workday followed Salesforce in letting outside AI agents operate inside its software, and will charge per agent action from February 2027."
+    },
+    "src-aa62d5ad61d097e1e91b": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular.md"
+      },
+      "content_kind": "document",
+      "title": "SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular",
+      "authority": "secondary",
+      "content_sha256": "2a675d0fc67cc6148a6cc3f3ccebf5d6390fbdbf9f3aba208a2728cf97689fc7",
+      "ingested_at": "2026-10-13",
+      "retrieved_at": "2026-10-13",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "Stratechery",
+      "pages": [
+        "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md"
+      ],
+      "supersedes": null,
+      "author": "Ben Thompson",
+      "published": "2026-10-13",
+      "publisher": "Stratechery",
+      "url": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/",
+      "form": "update",
+      "summary": "Thompson analyzes SpaceX's $8 billion cash purchase of 800-megahertz cellular spectrum licenses from Grain Management. While carrier shares sink on the news, Thompson connects this low-band purchase to SpaceX's earlier EchoStar spectrum deals and Gwynne Shotwell's comments on deploying femtocell base stations on customer Starlink dishes. Instead of spending billions building traditional cell towers, Starlink aims to build a distributed cellular mesh using rooftop dishes for space backhaul and low-band spectrum for indoor wall penetration. Thompson argues this fits Elon Musk's broader strategy of reshaping market structure to make his company's victory inevitable, even when competitors and partners like Delta Air Lines refuse to work with him personally."
     }
   }
 }

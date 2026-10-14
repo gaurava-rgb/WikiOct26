@@ -7,7 +7,7 @@ updated: 2026-10-13
 tags:
   - entity
   - entity/person
-claim_count: 24
+claim_count: 28
 ---
 
 # Elon Musk
@@ -73,6 +73,13 @@ CEO of Tesla and SpaceX; bought Twitter in 2022.
 
 - SpaceX agreed to buy nationwide low-band spectrum that Elon Musk called the last piece needed for complete U.S. phone coverage; Verizon, T-Mobile and AT&T shares fell 6% to 7% after hours. ([[2026-10-08-OpenAI-ARR-Snafu-Highlights-Flawed-Metric#^clm-a0fdec139105098f635a|cite]])
 
+### 2026-10-13 [[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular|SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular]]
+
+- Thompson argues major telecommunications carriers and tech companies avoided partnering with Starlink because none wanted to become beholden to Elon Musk. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-ef44a14e0660782fa397|cite]])
+- Delta Air Lines CEO Ed Bastian stated that Delta tested Starlink in-flight internet but chose not to partner with it due to personal reluctance to work with Elon Musk. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-6225bc579eecd105c82a|cite]])
+- Thompson argues Elon Musk approaches industries by seeking to reshape market structure so that his companies' victory becomes inevitable regardless of customer or rival personal sentiment. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-c39aca871ca937bdba11|cite]])
+- Elon Musk stated SpaceX plans to deploy small cellular base stations on rooftop Starlink antennas across homes and businesses, avoiding the expensive buildout of large cell towers. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-71461a9375419d0cec84|cite]])
+
 ## Related concepts
 
-[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Scale-Economies|Scale Economies]]
+[[AI-Compute-Demand|AI Compute Demand vs Supply]], Distributed Cellular, [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Scale-Economies|Scale Economies]]

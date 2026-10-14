@@ -794,6 +794,14 @@
       ],
       "source_id": "src-120dea6271efde02571e"
     },
+    ".raw/captured/SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular.md": {
+      "hash": "2a675d0fc67cc6148a6cc3f3ccebf5d6390fbdbf9f3aba208a2728cf97689fc7",
+      "ingested_at": "2026-10-13",
+      "pages_created": [
+        "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md"
+      ],
+      "source_id": "src-aa62d5ad61d097e1e91b"
+    },
     ".raw/captured/SpaceX and Anthropic, xAI’s Two Companies, Elon Musk and SpaceXAI’s Future.md": {
       "hash": "248ae2aff627ecd8f5b54b8109a3326efb5c14a315fdf3c630c798bce8300178",
       "ingested_at": "2026-09-29",

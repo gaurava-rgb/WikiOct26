@@ -132,6 +132,10 @@
       "definition": "Training your own AI model on the answers produced by a stronger model, so the student learns to imitate the teacher without the teacher's huge training cost. Chinese labs use outputs from frontier models such as those of OpenAI and Anthropic this way, partly because U.S. chip export controls limit their compute. It is a fast shortcut, but it can leave the copy jagged and hard to tell apart from rivals that use the same teachers.",
       "title": "Distillation (Training on Another Model's Outputs)"
     },
+    "Distributed-Cellular": {
+      "definition": "A mobile network architecture that uses satellite dish customer premises equipment on homes and businesses as cellular base stations and femtocells, rather than constructing dedicated cell towers. Backhaul is routed through satellite constellations, and low-band spectrum fills coverage gaps between buildings to penetrate walls.",
+      "title": "Distributed Cellular"
+    },
     "Dollars-Per-Gigawatt": {
       "definition": "A way to measure how much of a data center's spending one supplier captures, stated as revenue per gigawatt of power the data center uses. Because power is the hard limit on how many AI data centers get built, a supplier grows by selling more of the parts inside each gigawatt (GPUs, CPUs, networking, systems). Nvidia uses it to argue its opportunity per gigawatt rose from about $18 billion with Hopper to $40 billion with Vera Rubin.",
       "title": "Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)"
@@ -758,6 +762,10 @@
       "blurb": "PC maker once known for vertically integrated build-to-order manufacturing.",
       "kind": "company"
     },
+    "Delta Air Lines": {
+      "blurb": "Major U.S. network airline.",
+      "kind": "company"
+    },
     "Demis Hassabis": {
       "blurb": "Co-founder and CEO of Google DeepMind.",
       "kind": "person"
@@ -796,6 +804,10 @@
     },
     "EY": {
       "blurb": "Global accounting and consulting firm.",
+      "kind": "company"
+    },
+    "EchoStar": {
+      "blurb": "Satellite communications and telecommunications provider that owns satellite spectrum assets.",
       "kind": "company"
     },
     "El Puerto de Liverpool": {
@@ -966,6 +978,10 @@
       "blurb": "Google's AI research lab, led by Demis Hassabis, which builds the Gemini models.",
       "kind": "company"
     },
+    "Grain Management": {
+      "blurb": "Private equity firm focused on broadband and wireless communications infrastructure.",
+      "kind": "company"
+    },
     "Greg Peters": {
       "blurb": "Co-CEO of Netflix.",
       "kind": "person"
@@ -973,6 +989,10 @@
     "Groq": {
       "blurb": "AI chip company whose LPU inference chip Nvidia now sells as part of its Vera Rubin platform.",
       "kind": "company"
+    },
+    "Gwynne Shotwell": {
+      "blurb": "President and Chief Operating Officer of SpaceX.",
+      "kind": "person"
     },
     "H&M": {
       "blurb": "Swedish fashion retailer; world's number two clothing retailer and Zara's nearest rival.",
@@ -1796,6 +1816,10 @@
     },
     "United Airlines": {
       "blurb": "US airline that moved its core systems off legacy mainframes to the cloud.",
+      "kind": "company"
+    },
+    "Verizon": {
+      "blurb": "Major American wireless network operator and telecommunications conglomerate.",
       "kind": "company"
     },
     "Vincent Weisser": {

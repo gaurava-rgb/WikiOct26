@@ -7,7 +7,7 @@ updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 349
+claim_count: 351
 ---
 
 # Amazon
@@ -448,6 +448,11 @@ US e-commerce, logistics, and cloud company (AWS). Known for long-term, capital-
 ### 2026-10-13 [[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit|OpenAI’s Bug and Bumble’s AI-Powered Exit]]
 
 - The Google and Character.AI deal was one of several 2024 license-and-hire deals, with Microsoft and Inflection AI and Amazon and Adept, structured as licenses rather than acquisitions to avoid antitrust scrutiny; many were investigated anyway. ([[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit#^clm-d3505e2e9e26cd7d984d|cite]])
+
+### 2026-10-13 [[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular|SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular]]
+
+- Rather than partnering with Starlink, AT&T and Verizon doubled down on AST SpaceMobile for satellite connectivity, while Apple allied with Amazon through its Globalstar purchase. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-16b9f357b6f2a89c16ad|cite]])
+- Thompson argues Delta risks undermining its premium airline positioning by enduring inferior connectivity while awaiting Amazon Leo as competitors deploy fast Starlink WiFi. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-f4dbbd0618cc864fe610|cite]])
 
 ## Related concepts
 

@@ -7,7 +7,7 @@ updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 79
+claim_count: 96
 ---
 
 # SpaceX
@@ -158,6 +158,26 @@ Elon Musk's rocket and satellite company; now owns X and xAI.
 
 - At the start of 2026 Anthropic projected its model-training costs would be more than twice its inference spending, and its 2026 server rentals from SpaceX and others will depress margins. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-a62d80bd14ff7e9ac38a|cite]])
 
+### 2026-10-13 [[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular|SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular]]
+
+- SpaceX agreed to buy U.S. cellular spectrum licenses from investment firm Grain Management for about $8 billion in cash to move into the wireless market. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-4704bb519fd75ef01d8e|cite]])
+- The licenses SpaceX acquired from Grain Management are in the 800-megahertz band, tailored for wireless service from cellphone towers rather than satellites. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-03cf344f410a7b42f764|cite]])
+- Following news of SpaceX's spectrum purchase, shares in AT&T, Verizon and T-Mobile each fell more than 6% in post-close trading, while SpaceX shares gained roughly 3% to $165.10 after hours. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-2faad048137f0f8aeff6|cite]])
+- In September 2025 SpaceX acquired H-Block and AWS-4 spectrum from EchoStar, which faced coverage hurdles because AWS-4 was not approved for satellite-to-handset communication and EchoStar had configured uplink bands for downlink. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-a79f59e1f2d38dab261f|cite]])
+- Thompson argues major telecommunications carriers and tech companies avoided partnering with Starlink because none wanted to become beholden to Elon Musk. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-ef44a14e0660782fa397|cite]])
+- In November 2025 SpaceX bought the AWS-3 spectrum block from EchoStar to secure expansive uplink capacity matching its AWS-4 purchase, awaiting satellite-to-handset regulatory approval. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-5a5a5236fee6dcffd8fb|cite]])
+- Thompson argues Elon Musk approaches industries by seeking to reshape market structure so that his companies' victory becomes inevitable regardless of customer or rival personal sentiment. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-c39aca871ca937bdba11|cite]])
+- SpaceX President Gwynne Shotwell stated that SpaceX intends to build out a terrestrial mobile component by mounting cellular base stations directly onto the gear holding Starlink broadband dishes. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-0d1100ec9d35fb841e67|cite]])
+- Shotwell stated that deploying femtocell base stations on customer Starlink dish mounts allows SpaceX to expand terrestrial mobile coverage as needed without spending billions upfront on low-band spectrum. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-72aa97b9f9f622f569a9|cite]])
+- Elon Musk stated SpaceX plans to deploy small cellular base stations on rooftop Starlink antennas across homes and businesses, avoiding the expensive buildout of large cell towers. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-71461a9375419d0cec84|cite]])
+- Thompson argues Starlink's satellite constellation gives its network ubiquitous backhaul everywhere, enabling a mesh network of small-scale rooftop access points rather than costly fiber-linked towers. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-ec75e662d96d2296663b|cite]])
+- SpaceX's purchased 800-megahertz spectrum licenses were previously utilized for Sprint's old Nextel push-to-talk network, providing low frequencies that penetrate building walls. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-4a697ca4cf41027ad1eb|cite]])
+- Thompson argues low-band 800-megahertz spectrum fills coverage gaps between rooftop dish access points where SpaceX cannot mount antennas on every building. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-8183064b4ed24090c318|cite]])
+- SpaceX announced Starlink Mobile will combine its 2-gigahertz mid-band satellite constellation in space with low-band terrestrial spectrum to ensure indoor and outdoor cellular coverage. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-63d732acc11f78c2c531|cite]])
+- SpaceX noted that most existing mobile handsets already support the underused 800-megahertz low-band spectrum without needing hardware alterations. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-fa1bece621727eb9f35f|cite]])
+- Thompson argues SpaceX applies its low-orbit satellite swarm strategy to mobile networks by deploying large numbers of lower-capacity ground access points linked by software and space backhaul. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-825d5c168203a681095b|cite]])
+- Thompson notes that unlike in-flight satellite broadband where airlines select providers, consumer mobile wireless requires SpaceX to win over individual retail customers from entrenched carriers. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-6fb25c8c33e2036deb83|cite]])
+
 ## Related concepts
 
-[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Custom-Silicon|Custom Silicon]], [[Data-Center-Opposition|Local Opposition to Data Centers]], [[Dollars-Per-Gigawatt|Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)]], Down-Round, [[First-Best-Customer|First and Best Customer (Amazon Primitives)]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Scale-Economies|Scale Economies]], [[Vertical-Integration|Vertical Integration]]
+[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Capex-vs-Opex|Capex vs Opex]], [[Custom-Silicon|Custom Silicon]], [[Data-Center-Opposition|Local Opposition to Data Centers]], Distributed Cellular, [[Dollars-Per-Gigawatt|Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)]], Down-Round, [[First-Best-Customer|First and Best Customer (Amazon Primitives)]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Scale-Economies|Scale Economies]], [[Vertical-Integration|Vertical Integration]]

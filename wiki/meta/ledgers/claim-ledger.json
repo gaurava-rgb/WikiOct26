@@ -73642,8 +73642,668 @@
       "concepts": [
         "Seats-Plus-Consumption"
       ]
+    },
+    "clm-4704bb519fd75ef01d8e": {
+      "text": "SpaceX agreed to buy U.S. cellular spectrum licenses from investment firm Grain Management for about $8 billion in cash to move into the wireless market.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-4704bb519fd75ef01d8e"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ SpaceX Buys More Spectrum: “SpaceX reached a deal to buy cellular spectrum licenses from investment firm Grain Management”"
+        }
+      ],
+      "notes": "Updates clm-a0fdec139105098f635a: specifies seller Grain Management and $8 billion cash transaction price.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "SpaceX",
+        "Grain Management"
+      ],
+      "concepts": []
+    },
+    "clm-03cf344f410a7b42f764": {
+      "text": "The licenses SpaceX acquired from Grain Management are in the 800-megahertz band, tailored for wireless service from cellphone towers rather than satellites.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-03cf344f410a7b42f764"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ SpaceX Buys More Spectrum: “The U.S. licenses, which are in the 800-megahertz band, are tailored for wireless service from cellphone towers rather than satellites.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "SpaceX",
+        "Grain Management",
+        "Starlink"
+      ],
+      "concepts": []
+    },
+    "clm-2faad048137f0f8aeff6": {
+      "text": "Following news of SpaceX's spectrum purchase, shares in AT&T, Verizon and T-Mobile each fell more than 6% in post-close trading, while SpaceX shares gained roughly 3% to $165.10 after hours.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-2faad048137f0f8aeff6"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ SpaceX Buys More Spectrum: “Shares in AT&T, Verizon and T-Mobile all fell more than 6% in post-close trading.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "SpaceX",
+        "AT&T",
+        "Verizon",
+        "T-Mobile"
+      ],
+      "concepts": []
+    },
+    "clm-a79f59e1f2d38dab261f": {
+      "text": "In September 2025 SpaceX acquired H-Block and AWS-4 spectrum from EchoStar, which faced coverage hurdles because AWS-4 was not approved for satellite-to-handset communication and EchoStar had configured uplink bands for downlink.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-a79f59e1f2d38dab261f"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ SpaceX Buys More Spectrum: “SpaceX acquired H-Block and AWS-4 spectrum from EchoStar”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2025-09",
+      "subjects": [
+        "SpaceX",
+        "EchoStar"
+      ],
+      "concepts": []
+    },
+    "clm-16b9f357b6f2a89c16ad": {
+      "text": "Rather than partnering with Starlink, AT&T and Verizon doubled down on AST SpaceMobile for satellite connectivity, while Apple allied with Amazon through its Globalstar purchase.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-16b9f357b6f2a89c16ad"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ SpaceX Buys More Spectrum: “AT&T and Verizon doubled down on AST SpaceMobile”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [
+        "AT&T",
+        "Verizon",
+        "AST SpaceMobile",
+        "Apple",
+        "Amazon",
+        "Globalstar"
+      ],
+      "concepts": []
+    },
+    "clm-ef44a14e0660782fa397": {
+      "text": "Thompson argues major telecommunications carriers and tech companies avoided partnering with Starlink because none wanted to become beholden to Elon Musk.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-ef44a14e0660782fa397"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ SpaceX Buys More Spectrum: “none of the companies wanted to be beholden to Elon Musk.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10",
+      "subjects": [
+        "SpaceX",
+        "Elon Musk",
+        "Starlink",
+        "Ben Thompson"
+      ],
+      "concepts": []
+    },
+    "clm-5a5a5236fee6dcffd8fb": {
+      "text": "In November 2025 SpaceX bought the AWS-3 spectrum block from EchoStar to secure expansive uplink capacity matching its AWS-4 purchase, awaiting satellite-to-handset regulatory approval.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-5a5a5236fee6dcffd8fb"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ Musk and Market Structure: “the company bought the AWS-3 spectrum block from EchoStar that provided much more expansive uplink capacity”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2025-11",
+      "subjects": [
+        "SpaceX",
+        "EchoStar"
+      ],
+      "concepts": []
+    },
+    "clm-6225bc579eecd105c82a": {
+      "text": "Delta Air Lines CEO Ed Bastian stated that Delta tested Starlink in-flight internet but chose not to partner with it due to personal reluctance to work with Elon Musk.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-6225bc579eecd105c82a"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ Musk and Market Structure: “Ed also said that DL did test with starlink, but did not want to partner with Elon.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026",
+      "subjects": [
+        "Delta Air Lines",
+        "Ed Bastian",
+        "Starlink",
+        "Elon Musk"
+      ],
+      "concepts": []
+    },
+    "clm-889762c9db7130b2fa35": {
+      "text": "United Airlines had completed 41% of its Starlink in-flight internet installation rollout across its fleet as of October 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-889762c9db7130b2fa35"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ Musk and Market Structure: “United rollout is only 41% complete.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "United Airlines",
+        "Starlink"
+      ],
+      "concepts": []
+    },
+    "clm-ca2af16c592865cbddef": {
+      "text": "Southwest Airlines began installing Starlink satellite internet on its aircraft as part of its passenger experience upgrades.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-ca2af16c592865cbddef"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ Musk and Market Structure: “Southwest has started its Starlink installation”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [
+        "Southwest Airlines",
+        "Starlink"
+      ],
+      "concepts": []
+    },
+    "clm-09a0a8d61c97ac5313bc": {
+      "text": "American Airlines expanded its Starlink satellite internet commitment to cover its entire mainline jet fleet.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-09a0a8d61c97ac5313bc"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ Musk and Market Structure: “American Airlines has upped its Starlink commitment”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [
+        "American Airlines",
+        "Starlink"
+      ],
+      "concepts": []
+    },
+    "clm-f4dbbd0618cc864fe610": {
+      "text": "Thompson argues Delta risks undermining its premium airline positioning by enduring inferior connectivity while awaiting Amazon Leo as competitors deploy fast Starlink WiFi.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-f4dbbd0618cc864fe610"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ Musk and Market Structure: “Delta has to endure the messy middle where some flights are awesome and some aren’t.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10",
+      "subjects": [
+        "Delta Air Lines",
+        "Starlink",
+        "Amazon",
+        "Ben Thompson"
+      ],
+      "concepts": []
+    },
+    "clm-c39aca871ca937bdba11": {
+      "text": "Thompson argues Elon Musk approaches industries by seeking to reshape market structure so that his companies' victory becomes inevitable regardless of customer or rival personal sentiment.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-c39aca871ca937bdba11"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ Musk and Market Structure: “his goal is to fundamentally reshape the market structure such that his companies’ victory is inevitable”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10",
+      "subjects": [
+        "Elon Musk",
+        "SpaceX",
+        "Ben Thompson"
+      ],
+      "concepts": []
+    },
+    "clm-0d1100ec9d35fb841e67": {
+      "text": "SpaceX President Gwynne Shotwell stated that SpaceX intends to build out a terrestrial mobile component by mounting cellular base stations directly onto the gear holding Starlink broadband dishes.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-0d1100ec9d35fb841e67"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ Distributed Cellular: “you could put a base station, a cellular base station on the — basically the gear that holds a Starlink broadband dish.”"
+        }
+      ],
+      "notes": "Conflict with clm-203e7cb2348547cb6706: Shotwell explains SpaceX can mount small base stations on dishes rather than building traditional cell towers.",
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-08",
+      "subjects": [
+        "Gwynne Shotwell",
+        "SpaceX",
+        "Starlink"
+      ],
+      "concepts": [
+        "Distributed-Cellular"
+      ]
+    },
+    "clm-72aa97b9f9f622f569a9": {
+      "text": "Shotwell stated that deploying femtocell base stations on customer Starlink dish mounts allows SpaceX to expand terrestrial mobile coverage as needed without spending billions upfront on low-band spectrum.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-72aa97b9f9f622f569a9"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ Distributed Cellular: “You don’t have to necessarily spend many billions of dollars in low-band spectrum all upfront before you deploy your system.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-08",
+      "subjects": [
+        "Gwynne Shotwell",
+        "SpaceX",
+        "Starlink"
+      ],
+      "concepts": [
+        "Capex-vs-Opex",
+        "Distributed-Cellular"
+      ]
+    },
+    "clm-71461a9375419d0cec84": {
+      "text": "Elon Musk stated SpaceX plans to deploy small cellular base stations on rooftop Starlink antennas across homes and businesses, avoiding the expensive buildout of large cell towers.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-71461a9375419d0cec84"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ Distributed Cellular: “Instead of having to deploy these very expensive and difficult-to-locate large cellular base stations, we feel reasonably confident that we can deploy a large number of sort of small stations.”"
+        }
+      ],
+      "notes": "Conflict with clm-203e7cb2348547cb6706: Musk explains SpaceX avoids large cell towers by deploying small stations on rooftop Starlink antennas.",
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-08",
+      "subjects": [
+        "Elon Musk",
+        "SpaceX",
+        "Starlink"
+      ],
+      "concepts": [
+        "Distributed-Cellular"
+      ]
+    },
+    "clm-ec75e662d96d2296663b": {
+      "text": "Thompson argues Starlink's satellite constellation gives its network ubiquitous backhaul everywhere, enabling a mesh network of small-scale rooftop access points rather than costly fiber-linked towers.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-ec75e662d96d2296663b"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ Distributed Cellular: “Thanks to the company’s satellite constellation its future network basically has backhaul everywhere; the way to leverage that is not with ultra-powerful nodes but rather what is basically a mesh network of smaller scale access points.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10",
+      "subjects": [
+        "SpaceX",
+        "Starlink",
+        "Ben Thompson"
+      ],
+      "concepts": [
+        "Distributed-Cellular"
+      ]
+    },
+    "clm-4a697ca4cf41027ad1eb": {
+      "text": "SpaceX's purchased 800-megahertz spectrum licenses were previously utilized for Sprint's old Nextel push-to-talk network, providing low frequencies that penetrate building walls.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-4a697ca4cf41027ad1eb"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ Distributed Cellular: “This latest spectrum purchase was previously used for Sprint’s old Nextel push-to-talk network.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "SpaceX",
+        "Grain Management"
+      ],
+      "concepts": [
+        "Distributed-Cellular"
+      ]
+    },
+    "clm-8183064b4ed24090c318": {
+      "text": "Thompson argues low-band 800-megahertz spectrum fills coverage gaps between rooftop dish access points where SpaceX cannot mount antennas on every building.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-8183064b4ed24090c318"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ Distributed Cellular: “still, it can’t have access points on every building, so this spectrum purchase fills in the gaps in letting those sites reach more places.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10",
+      "subjects": [
+        "SpaceX",
+        "Starlink",
+        "Ben Thompson"
+      ],
+      "concepts": [
+        "Distributed-Cellular"
+      ]
+    },
+    "clm-63d732acc11f78c2c531": {
+      "text": "SpaceX announced Starlink Mobile will combine its 2-gigahertz mid-band satellite constellation in space with low-band terrestrial spectrum to ensure indoor and outdoor cellular coverage.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-63d732acc11f78c2c531"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ Distributed Cellular: “Starlink Mobile will deploy a flexible architecture combining our satellite-to-mobile constellation in space with an advanced terrestrial deployment that can seamlessly connect devices everywhere.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "SpaceX",
+        "Starlink"
+      ],
+      "concepts": [
+        "Distributed-Cellular"
+      ]
+    },
+    "clm-fa1bece621727eb9f35f": {
+      "text": "SpaceX noted that most existing mobile handsets already support the underused 800-megahertz low-band spectrum without needing hardware alterations.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-fa1bece621727eb9f35f"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ Distributed Cellular: “Critically, most existing mobile devices already support this underused band.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "SpaceX",
+        "Starlink"
+      ],
+      "concepts": []
+    },
+    "clm-825d5c168203a681095b": {
+      "text": "Thompson argues SpaceX applies its low-orbit satellite swarm strategy to mobile networks by deploying large numbers of lower-capacity ground access points linked by software and space backhaul.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-825d5c168203a681095b"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ Distributed Cellular: “the company’s approach to mobile is in the same vein, leveraging its satellite advantage to build out massively more ground access points with relatively lower capacity”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10",
+      "subjects": [
+        "SpaceX",
+        "Starlink",
+        "Ben Thompson"
+      ],
+      "concepts": [
+        "Distributed-Cellular",
+        "Scale-Economies"
+      ]
+    },
+    "clm-6fb25c8c33e2036deb83": {
+      "text": "Thompson notes that unlike in-flight satellite broadband where airlines select providers, consumer mobile wireless requires SpaceX to win over individual retail customers from entrenched carriers.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-13",
+      "location": {
+        "path": "wiki/sources/2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular.md",
+        "anchor": "^clm-6fb25c8c33e2036deb83"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aa62d5ad61d097e1e91b",
+          "relation": "supports",
+          "locator": "§ Distributed Cellular: “when it comes to consumer cellular services, the decision makers are not airline executives but individual customers.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10",
+      "subjects": [
+        "SpaceX",
+        "Starlink",
+        "Ben Thompson"
+      ],
+      "concepts": []
     }
   },
-  "generated_at": "2026-10-14T03:25:01Z",
+  "generated_at": "2026-10-14T04:01:51Z",
   "schema": "claude-obsidian.claim-ledger.v1"
 }

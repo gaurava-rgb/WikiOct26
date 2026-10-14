@@ -7,7 +7,7 @@ updated: 2026-10-13
 tags:
   - entity
   - entity/product
-claim_count: 9
+claim_count: 25
 ---
 
 # Starlink
@@ -33,3 +33,26 @@ SpaceX's satellite Internet service, its consumer-facing business.
 ### 2026-09-10 [[2026-09-10-SpaceX-Overhauls-Data-Center-Build-Out-Potentially-Slowing-Expansion|SpaceX Overhauls Data Center Build-Out, Potentially Slowing Expansion]]
 
 - More than 1,300 SpaceX rocket and Starlink engineers volunteered for 6 to 8 week data center rotations, and over 300 joined in the past month. ([[2026-09-10-SpaceX-Overhauls-Data-Center-Build-Out-Potentially-Slowing-Expansion#^clm-837a8e958750782db841|cite]])
+
+### 2026-10-13 [[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular|SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular]]
+
+- The licenses SpaceX acquired from Grain Management are in the 800-megahertz band, tailored for wireless service from cellphone towers rather than satellites. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-03cf344f410a7b42f764|cite]])
+- Thompson argues major telecommunications carriers and tech companies avoided partnering with Starlink because none wanted to become beholden to Elon Musk. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-ef44a14e0660782fa397|cite]])
+- Delta Air Lines CEO Ed Bastian stated that Delta tested Starlink in-flight internet but chose not to partner with it due to personal reluctance to work with Elon Musk. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-6225bc579eecd105c82a|cite]])
+- United Airlines had completed 41% of its Starlink in-flight internet installation rollout across its fleet as of October 2026. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-889762c9db7130b2fa35|cite]])
+- Southwest Airlines began installing Starlink satellite internet on its aircraft as part of its passenger experience upgrades. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-ca2af16c592865cbddef|cite]])
+- American Airlines expanded its Starlink satellite internet commitment to cover its entire mainline jet fleet. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-09a0a8d61c97ac5313bc|cite]])
+- Thompson argues Delta risks undermining its premium airline positioning by enduring inferior connectivity while awaiting Amazon Leo as competitors deploy fast Starlink WiFi. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-f4dbbd0618cc864fe610|cite]])
+- SpaceX President Gwynne Shotwell stated that SpaceX intends to build out a terrestrial mobile component by mounting cellular base stations directly onto the gear holding Starlink broadband dishes. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-0d1100ec9d35fb841e67|cite]])
+- Shotwell stated that deploying femtocell base stations on customer Starlink dish mounts allows SpaceX to expand terrestrial mobile coverage as needed without spending billions upfront on low-band spectrum. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-72aa97b9f9f622f569a9|cite]])
+- Elon Musk stated SpaceX plans to deploy small cellular base stations on rooftop Starlink antennas across homes and businesses, avoiding the expensive buildout of large cell towers. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-71461a9375419d0cec84|cite]])
+- Thompson argues Starlink's satellite constellation gives its network ubiquitous backhaul everywhere, enabling a mesh network of small-scale rooftop access points rather than costly fiber-linked towers. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-ec75e662d96d2296663b|cite]])
+- Thompson argues low-band 800-megahertz spectrum fills coverage gaps between rooftop dish access points where SpaceX cannot mount antennas on every building. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-8183064b4ed24090c318|cite]])
+- SpaceX announced Starlink Mobile will combine its 2-gigahertz mid-band satellite constellation in space with low-band terrestrial spectrum to ensure indoor and outdoor cellular coverage. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-63d732acc11f78c2c531|cite]])
+- SpaceX noted that most existing mobile handsets already support the underused 800-megahertz low-band spectrum without needing hardware alterations. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-fa1bece621727eb9f35f|cite]])
+- Thompson argues SpaceX applies its low-orbit satellite swarm strategy to mobile networks by deploying large numbers of lower-capacity ground access points linked by software and space backhaul. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-825d5c168203a681095b|cite]])
+- Thompson notes that unlike in-flight satellite broadband where airlines select providers, consumer mobile wireless requires SpaceX to win over individual retail customers from entrenched carriers. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-6fb25c8c33e2036deb83|cite]])
+
+## Related concepts
+
+[[Capex-vs-Opex|Capex vs Opex]], Distributed Cellular, [[Scale-Economies|Scale Economies]]

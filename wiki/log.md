@@ -13,6 +13,11 @@ tags:
 
 Newest completed operations appear first.
 
+## 2026-10-13 ingest-20261013-b24
+
+- Batch 24: Stratechery (SpaceX spectrum & distributed cellular).
+- Sources: 1; claims added or updated this batch: 23.
+
 ## 2026-10-13 markdown-20261013-proposal-build
 
 - Built proposal 2026-10-13 (all approved): new Microsoft journey; split OpenAI, Anthropic, Google and Nvidia into hub plus two era pages; split Amazon 2023-2026 (new amazon-journey-2026) and Meta late 2026 (new meta-journey-oct-2026); 7 idea cards (Local-Inference, Reward-Hacking, Open-Weight-Models, Export-Controls, Seats-Plus-Consumption, Zero-Data-Retention, Capex-vs-Opex).

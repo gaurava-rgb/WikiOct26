@@ -7,7 +7,7 @@ updated: 2026-10-13
 tags:
   - entity
   - entity/company
-claim_count: 172
+claim_count: 173
 ---
 
 # Apple
@@ -262,6 +262,10 @@ US maker of the iPhone, Mac, and wearables; integrates hardware and software.
 ### 2026-10-13 [[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit|OpenAI’s Bug and Bumble’s AI-Powered Exit]]
 
 - Apple is launching HomeView, a $299 tablet-like smart home device with a 7-inch screen for kitchen counters or walls, as part of a renewed push into the home. ([[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit#^clm-22c841cd9284d18829da|cite]])
+
+### 2026-10-13 [[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular|SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular]]
+
+- Rather than partnering with Starlink, AT&T and Verizon doubled down on AST SpaceMobile for satellite connectivity, while Apple allied with Amazon through its Globalstar purchase. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-16b9f357b6f2a89c16ad|cite]])
 
 ## Related concepts
 
