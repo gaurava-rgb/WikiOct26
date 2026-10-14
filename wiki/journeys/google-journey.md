@@ -3,7 +3,7 @@ type: journey
 title: "Google: the search cash machine that is learning to be a landlord"
 status: developing
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-13
 tags:
   - journey
   - google
@@ -23,7 +23,7 @@ On April 30, 2026, Alphabet stock rose 10 percent after earnings, giving Google 
 
 ## The journey
 
-**2007: paying to stay the default.** Google's deal to be the default search on Apple's Safari began in 2002 and was extended to the iPhone in 2007 ([[2026-04-21-Tim-Cooks-Impeccable-Timing|Tim Cook's Timing]]). Thompson says Google's motive was to keep Apple out of search ([[2026-04-21-Tim-Cooks-Impeccable-Timing|Tim Cook's Timing]]). Because search pulled in users and their data, Google could sell very effective ads ([[2015-07-21-Aggregation-Theory|Aggregation Theory]]).
+**2007: paying to stay the default.** Google's deal to be the default search on Apple's Safari began in 2002 and was extended to the iPhone in 2007 ([[2026-04-21-Tim-Cooks-Impeccable-Timing|Tim Cook's Timing]]). Thompson says Google's motive was to keep Apple out of search ([[2026-04-21-Tim-Cooks-Impeccable-Timing|Tim Cook's Timing]]). Because search pulled in users and their data, Google could sell very effective ads ([[2015-07-21-Aggregation-Theory|Aggregation Theory]]). The tie now reaches AI: Apple partnered with Google for the models behind Apple Intelligence ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded|China's Crowded AI Race]]).
 
 **2008 to 2023: a late, costly cloud.** Google's cloud offering arrived in 2008, two years after AWS ([[2025-Gallaugher-Ch08-Amazon|Gallaugher ch.8]], p.284). (Cloud means renting computers over the internet instead of owning them.) Because it started late, it stayed number three and lost billions for years ([[2025-Gallaugher-Ch08-Amazon|Gallaugher ch.8]], p.284). It turned its first quarterly profit in Q1 2023: $191 million on $7.45 billion of sales ([[2026-05-04-Google-Earnings-Meta-Earnings|Google and Meta Earnings]]).
 
@@ -42,6 +42,8 @@ On April 30, 2026, Alphabet stock rose 10 percent after earnings, giving Google 
 **September 2026: paying publishers.** Google long argued it need not pay sites, because search sent them traffic ([[2026-09-29-Google-Is-Paying-About-100-Digital-Publishers-for-AI-Overviews|Google Pays Publishers]]). But AI Overviews, the AI answers at the top of search, sharply cut that traffic ([[2026-09-29-Google-Is-Paying-About-100-Digital-Publishers-for-AI-Overviews|Google Pays Publishers]]). So Google now pays about 100 publishers based on how much they help AI answers ([[2026-09-29-Google-Is-Paying-About-100-Digital-Publishers-for-AI-Overviews|Google Pays Publishers]]).
 
 **Autumn 2026: Gemini wins users back.** In a September 2026 survey of The Information's subscribers, Gemini use rose at ChatGPT's expense; the writer suggests more enterprise deals or tying Gemini into search as the cause ([[2026-10-08-Chinese-Open-Models-Win-Over-One-in-Five-of-The-Informations-Subscribers|Subscriber Survey]]). So on October 7 OpenAI launched visual answers in ChatGPT to catch up with a similar Gemini feature ([[2026-10-08-Chinese-Open-Models-Win-Over-One-in-Five-of-The-Informations-Subscribers|Subscriber Survey]]).
+
+**Late September 2026: Gemini 4 arrives, but only on paper.** Google unveiled Gemini 4 Argon, saying it delivers frontier performance in complex workflows ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]]). (The frontier means the best models anyone has.) On September 30 Google said it had submitted the model to the White House for voluntary testing ([[2026-10-12-Trump-Administration-Plans-to-Move-AI-Testing-Agency-Officials-to-White-House|AI Testing Moves to White House]]). As of October 12 it still had not widely released the model ([[2026-10-12-Trump-Administration-Plans-to-Move-AI-Testing-Agency-Officials-to-White-House|AI Testing Moves to White House]]). So the claim landed in a crowd: OpenAI and Anthropic made the same kind of claims for their own September models ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]]). The Information still says OpenAI and Anthropic hold a clear technical lead over followers such as Google ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded|China's Crowded AI Race]]).
 
 ## The rival: OpenAI
 
@@ -72,10 +74,11 @@ flowchart LR
 >
 > **Lesson (Thompson's):** a firm whose research chief has other priorities may not win the plain, money-making races like coding ([[2026-05-20-Google-IO-World-Models-IO-Spaghetti|Google I/O]]).
 
-## Moving forward (as of 2026-10-09)
+## Moving forward (as of 2026-10-13)
 
-- **Gemini 4.** Google is close to releasing it, and its engineers already use it internally ([[2026-09-23-Google-Nears-Release-of-Flagship-Gemini-4-AI-Model|Gemini 4 Nears]]).
-- **Landlord to a rival.** Amazon and Google remain Anthropic's biggest suppliers, with 11 gigawatts costing over $300 billion across about 10 years ([[2026-09-06-How-Anthropic-Clinched-517-Billion-in-Compute-Deals-in-11-Months|Anthropic's $517 Billion]]).
+- **Gemini 4.** On September 23 Google was close to releasing it, and its engineers already used it internally ([[2026-09-23-Google-Nears-Release-of-Flagship-Gemini-4-AI-Model|Gemini 4 Nears]]). It has since been unveiled as Gemini 4 Argon ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]]), but as of October 12 it was submitted for White House testing and not widely released ([[2026-10-12-Trump-Administration-Plans-to-Move-AI-Testing-Agency-Officials-to-White-House|AI Testing Moves to White House]]). The open question is when users get it.
+- **Landlord to a rival.** Amazon and Google remain Anthropic's biggest suppliers, with 11 gigawatts costing over $300 billion across about 10 years ([[2026-09-06-How-Anthropic-Clinched-517-Billion-in-Compute-Deals-in-11-Months|Anthropic's $517 Billion]]). The rent now reaches other people's buildings: from Q2 2027 Anthropic will run Google's chips at a 330-megawatt site in Louisiana, leased and operated by Fluidstack on land from Hut 8 ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint|Anthropic Data Center Sprint]]). Hut 8 still runs a bitcoin mining business ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint|Anthropic Data Center Sprint]]).
+- **Power.** Google is unlocking about 890 megawatts by paying for upgrades at 11 nuclear reactors, and contracting another 2.7 gigawatts from Constellation Energy ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint|Anthropic Data Center Sprint]]). (890 megawatts is close to one gigawatt, the output of a large power plant.)
 - **Margin question.** Thompson says Google will probably succeed in AI no matter what; the open question is its margin, the share of each sale kept as profit ([[2026-05-14-Interview-Ben-Thompson-MoffettNathanson|Thompson at MoffettNathanson]]).
 - **Publishers and regulators.** The EU opened a probe in December 2025 into whether Google uses publisher content without fair pay ([[2026-09-29-Google-Is-Paying-About-100-Digital-Publishers-for-AI-Overviews|Google Pays Publishers]]).
 
@@ -110,12 +113,17 @@ Thompson admits he is always wrong about Google, and its ability to wring money 
 13. [[2026-09-23-Google-Nears-Release-of-Flagship-Gemini-4-AI-Model|Gemini 4 Nears]] (The Information, 2026-09-23).
 14. [[2026-09-29-Google-Is-Paying-About-100-Digital-Publishers-for-AI-Overviews|Google Pays Publishers]] (The Information, 2026-09-29).
 15. [[2026-10-08-Chinese-Open-Models-Win-Over-One-in-Five-of-The-Informations-Subscribers|Subscriber Survey]] (The Information, 2026-10-08).
+16. [[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded|China's Crowded AI Race]] (The Information, 2026-10-09).
+17. [[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint|Anthropic Data Center Sprint]] (The Information, 2026-10-11).
+18. [[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]] (The Information, 2026-10-12).
+19. [[2026-10-12-Trump-Administration-Plans-to-Move-AI-Testing-Agency-Officials-to-White-House|AI Testing Moves to White House]] (The Information, 2026-10-12).
 
 **Older than 2 years.** The ads logic rests on the 2015 [[2015-07-21-Aggregation-Theory|Aggregation Theory]]. The book's cloud ranking, chip and Anthropic facts describe 2023 or earlier.
 
 **Where sources disagree.**
 - Google Cloud's first profit: Q1 2023 per [[2026-05-04-Google-Earnings-Meta-Earnings|Google and Meta Earnings]] and [[2026-06-02-The-Google-Capital-Company|The Google Capital Company]]; Q2 2023 per the book ([[2025-Gallaugher-Ch08-Amazon|Gallaugher ch.8]], p.284).
 - Gemini 3.5 Pro: "due within weeks" per [[2026-05-20-Google-IO-World-Models-IO-Spaghetti|Google I/O]]; never shipped per [[2026-09-23-Google-Nears-Release-of-Flagship-Gemini-4-AI-Model|Gemini 4 Nears]].
+- Gemini 4: "close to release" per [[2026-09-23-Google-Nears-Release-of-Flagship-Gemini-4-AI-Model|Gemini 4 Nears]]; unveiled as Argon per [[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]]; still not widely released on October 12 per [[2026-10-12-Trump-Administration-Plans-to-Move-AI-Testing-Agency-Officials-to-White-House|AI Testing Moves to White House]]. The newer sources update the older one.
 
 See also: [[journeys/anthropic-journey|Anthropic journey]], [[journeys/openai-journey|OpenAI journey]], [[journeys/nvidia-journey|Nvidia journey]], [[stories/ai-shift-2024-2026|The AI shift, 2024 to 2026]].
 
@@ -123,5 +131,6 @@ See also: [[journeys/anthropic-journey|Anthropic journey]], [[journeys/openai-jo
 
 - 2026-10-08: first build from proposal 2026-10-08.
 - 2026-10-09: added Autumn 2026 beat: Gemini gains on ChatGPT in subscriber survey, OpenAI copies its visual answers [Subscriber Survey, 2026-10-08]
+- 2026-10-13: added Late September 2026 beat (Gemini 4 Argon unveiled, held in White House testing, rivals still lead); Apple Intelligence tie; updated Moving forward (Gemini 4, Hut 8 Louisiana site, nuclear power) and Where sources disagree [China's Crowded AI Race, 2026-10-09; Anthropic Data Center Sprint, 2026-10-11; Meta Reaches the Frontier, 2026-10-12; AI Testing Moves to White House, 2026-10-12]
 
-<!-- claims: clm-e05bd1882f94eb6c6fb0, clm-e33c937d8f146e6575b7, clm-bd0a33cfd7b85b11f8ff, clm-9d8de97fff58a658a6a3, clm-bbe2a34738e1e2674044, clm-32c681241217d6bbf32e, clm-115a00f7f523e8b21978, clm-1b4fed1e952af5466ad1, clm-f7092ff1b588384d2513, clm-ec806a6fa0cdab5e4077, clm-243201859c5b98438bea, clm-41430cee6346602c5bd0, clm-8dd38ead112a81582a5c, clm-ee542fdfc04b5ff8358a, clm-9b462387a7f2f6ae3c68, clm-d8779378a425f96443b0, clm-4fb66734e15d91957985, clm-8264bdab2b36f95e1611, clm-5c87b9cd80d50d0e66eb, clm-61bd86f911f44f6eaf58, clm-de6d44502f9e7d9417fa, clm-f862b5b438e4a71d52c7, clm-4965a19ddf180c9f3553, clm-eb61e9d62a4bcf348754, clm-e83ea5215438a04a2692, clm-5d252025fb9b98068fba, clm-b11dfd166d318690a9b8, clm-304f2183b2c60e2fb611, clm-587a6ff7a88988a5b37d, clm-8409f8d323074997b66d, clm-37a06c8b86bca54338e9, clm-e395ebd23b95d977ed81, clm-7a4f9b7f20fba95a7f1b, clm-8572a3ad48de70e32b7b, clm-894de43f68de903889a8, clm-d3e7a57b11f54551b4e6, clm-db5b5dde3ae522f54eb5, clm-78be174ab0c9d9c3b801, clm-452b64e03dbe4f90dba5, clm-acb1a2bdf306aeef6eb1, clm-ec31a5ec50407beead90, clm-ce3b89243008384860dd, clm-19dbb9143fdac36cda79, clm-740079675b73379fc161, clm-5c5505799464fec13b4a, clm-92298a5570a30c7895da, clm-d8f0d9f1d558a3c8c29a, clm-aea040929117cd2e819f, clm-4939df748bc03825bda6, clm-0b10242c58f41ed6f8dc, clm-9292565290f12fdac514, clm-a3cbe73ac4f2868aa7b8 -->
+<!-- claims: clm-e05bd1882f94eb6c6fb0, clm-e33c937d8f146e6575b7, clm-bd0a33cfd7b85b11f8ff, clm-9d8de97fff58a658a6a3, clm-bbe2a34738e1e2674044, clm-32c681241217d6bbf32e, clm-115a00f7f523e8b21978, clm-1b4fed1e952af5466ad1, clm-f7092ff1b588384d2513, clm-ec806a6fa0cdab5e4077, clm-243201859c5b98438bea, clm-41430cee6346602c5bd0, clm-8dd38ead112a81582a5c, clm-ee542fdfc04b5ff8358a, clm-9b462387a7f2f6ae3c68, clm-d8779378a425f96443b0, clm-4fb66734e15d91957985, clm-8264bdab2b36f95e1611, clm-5c87b9cd80d50d0e66eb, clm-61bd86f911f44f6eaf58, clm-de6d44502f9e7d9417fa, clm-f862b5b438e4a71d52c7, clm-4965a19ddf180c9f3553, clm-eb61e9d62a4bcf348754, clm-e83ea5215438a04a2692, clm-5d252025fb9b98068fba, clm-b11dfd166d318690a9b8, clm-304f2183b2c60e2fb611, clm-587a6ff7a88988a5b37d, clm-8409f8d323074997b66d, clm-37a06c8b86bca54338e9, clm-e395ebd23b95d977ed81, clm-7a4f9b7f20fba95a7f1b, clm-8572a3ad48de70e32b7b, clm-894de43f68de903889a8, clm-d3e7a57b11f54551b4e6, clm-db5b5dde3ae522f54eb5, clm-78be174ab0c9d9c3b801, clm-452b64e03dbe4f90dba5, clm-acb1a2bdf306aeef6eb1, clm-ec31a5ec50407beead90, clm-ce3b89243008384860dd, clm-19dbb9143fdac36cda79, clm-740079675b73379fc161, clm-5c5505799464fec13b4a, clm-92298a5570a30c7895da, clm-d8f0d9f1d558a3c8c29a, clm-aea040929117cd2e819f, clm-4939df748bc03825bda6, clm-0b10242c58f41ed6f8dc, clm-9292565290f12fdac514, clm-a3cbe73ac4f2868aa7b8, clm-b7d9cb15ced866f324a7, clm-0dfb9e274d88634f411b, clm-447355abfc5320e8e964, clm-78a4856a0ace5daf7a53, clm-5cb298e48431540be7c9, clm-713abb6162afe37e0051, clm-5870ba442165a015b953, clm-88f0bb0af9223ec24036, clm-2419df11afb4d14f1389 -->

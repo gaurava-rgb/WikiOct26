@@ -13,6 +13,10 @@ tags:
 
 Newest completed operations appear first.
 
+## 2026-10-13 editor-update-20261013-b22-b23
+
+- Editor update: slotted 19 The Information articles (batches b22 and b23, Oct 9-13) into the AI shift story and the OpenAI, Anthropic, Google, Meta (late 2026), Amazon 2023-2026, Nvidia and Apple 2025-2026 journeys; 7 what-changed entries.
+
 ## 2026-10-13 ingest-20261013-b23
 
 - Batch 23: TI Oct 13.
