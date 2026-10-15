@@ -13,6 +13,10 @@ tags:
 
 Newest completed operations appear first.
 
+## 2026-10-15 editor-update-20261015-b27
+
+- Editor update: slotted 3 The Information articles (batch b27) into the AI shift story, Anthropic 2026 journey, and OpenAI late 2026 journey; 3 what-changed entries on neocloud debt, Anthropic growth and distillation, and Cursor agent data leakage.
+
 ## 2026-10-15 ingest-20261015-b27
 
 - Batch 27: TI Oct 14-15 (Anthropic Q3 & IPO, CoreWeave stock sales & neocloud debt, Cursor data leak & SpaceX Grok Bot).
