@@ -13,6 +13,10 @@ tags:
 
 Newest completed operations appear first.
 
+## 2026-10-14 editor-update-20261014-b26
+
+- Editor update: slotted Lenny's Newsletter metric benchmarking (batch b26) into retail story and what-changed page.
+
 ## 2026-10-14 ingest-20261014-b26
 
 - Batch 26: Lenny's Newsletter (metric benchmarking).
