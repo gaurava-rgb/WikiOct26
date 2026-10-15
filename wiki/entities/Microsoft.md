@@ -3,7 +3,7 @@ type: entity
 title: Microsoft
 status: developing
 created: 2026-09-29
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
@@ -290,4 +290,4 @@ US software and cloud company (Windows, Office, Azure, Xbox); a major OpenAI inv
 
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Aggregation-Theory|Aggregation Theory]], [[Bundling|Bundling]], [[Capex-vs-Opex|Capex vs Opex]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Custom-Silicon|Custom Silicon]], [[Data-Asset|Data as a Competitive Asset]], [[First-Mover-Advantage|First-Mover Advantage]], License-and-Hire Deal, [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Scale-Economies|Scale Economies]], [[Seats-Plus-Consumption|Seats Plus Consumption (Per-User Plus Usage Pricing)]], [[Switching-Costs|Switching Costs]], [[Zero-Data-Retention|Zero Data Retention]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Aggregation-Theory|Aggregation Theory]], [[Bundling|Bundling]], [[Capex-vs-Opex|Capex vs Opex]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Custom-Silicon|Custom Silicon]], [[Data-Asset|Data as a Competitive Asset]], [[First-Mover-Advantage|First-Mover Advantage]], [[License-and-Hire|License-and-Hire Deal]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Scale-Economies|Scale Economies]], [[Seats-Plus-Consumption|Seats Plus Consumption (Per-User Plus Usage Pricing)]], [[Switching-Costs|Switching Costs]], [[Zero-Data-Retention|Zero Data Retention]]

@@ -3,7 +3,7 @@ type: entity
 title: Disney
 status: developing
 created: 2026-10-13
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
@@ -26,4 +26,4 @@ Entertainment company with large film and TV libraries.
 
 ## Related concepts
 
-License-and-Hire Deal
+[[License-and-Hire|License-and-Hire Deal]]

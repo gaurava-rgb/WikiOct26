@@ -3,11 +3,11 @@ type: entity
 title: Anthropic
 status: developing
 created: 2026-09-29
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
-claim_count: 310
+claim_count: 323
 ---
 
 # Anthropic
@@ -548,6 +548,25 @@ AI lab that makes the Claude models and Claude Code; focused on enterprise custo
 - In July 2026, Anthropic published research that largely broke a post-quantum algorithm proposed to NIST, sharing its findings in advance with the U.S. government. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-7e456e3a0353cb58b6d5|cite]])
 - Dario Amodei pushed OpenAI on information hazard risks before leaving in 2021, writing memos on an air-gapped computer disconnected from networks to avoid foreign espionage. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-d3b7b3426edcbc25c0d0|cite]])
 
+### 2026-10-14 [[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation|Anthropic’s Rapid But Slowing Growth Could Weigh on IPO Valuation]]
+
+- Anthropic's revenue reached $16.8 billion in the third quarter of 2026, rising about 45% from the second quarter, per people briefed on the numbers. ([[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation#^clm-ed2eee7102d53db2be7f|cite]])
+- Anthropic's third-quarter revenue of $16.8 billion was more than 3.6 times its total revenue for all of 2025. ([[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation#^clm-090d16732cf8de245cd0|cite]])
+- Anthropic's 45% quarterly revenue growth in the third quarter marked a slowdown from the second quarter, when Claude Code drove revenue up over 140% from the first quarter. ([[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation#^clm-e3bd260d987a621a092b|cite]])
+- Anthropic reported an adjusted operating margin of 11% for 2026 through the third quarter, excluding stock-based compensation, indicating progress toward profitability. ([[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation#^clm-050ac743ad4f435b812b|cite]])
+- Anthropic disclosed that 5% to 7% of its revenue comes from model distillation, in which third-party firms train models using Anthropic outputs. ([[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation#^clm-34e874a222abc86eac2a|cite]])
+- Anthropic warned investors that distillation revenue will decline and weigh on results in the current quarter as the company combats unauthorized distillation by Chinese labs. ([[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation#^clm-559be22f39d3bd9a8807|cite]])
+- Anthropic's private market valuation reached $965 billion in May 2026, rising from less than $20 billion two years earlier. ([[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation#^clm-069a4fc13787763bfa68|cite]])
+- Decelerating growth and tighter market conditions led some investor attendees to expect bankers to lower Anthropic's IPO valuation target to less than $1.5 trillion, down from private discussions of $2 trillion. ([[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation#^clm-3e6b42103f23e124f52c|cite]])
+- Anthropic plans to conduct its initial public offering in November 2026 before the Thanksgiving holiday. ([[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation#^clm-d9774e86ec2afe186f6a|cite]])
+- After Anthropic passed OpenAI in revenue earlier in 2026, OpenAI responded by expanding its enterprise AI offerings and pricing below Anthropic. ([[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation#^clm-b6a6b68806d65f7fa62c|cite]])
+- Corporate AI customers facing rising compute expenses are increasingly adopting lower-cost options, including open source models. ([[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation#^clm-9025a0c317ee1ad8cf18|cite]])
+- Anthropic withheld an updated annualized revenue figure at its October investor meeting, after the metric reached $65 billion in July 2026 but drew market scrutiny. ([[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation#^clm-e557855a0924f288f3cf|cite]])
+
+### 2026-10-14 [[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence|CoreWeave Co-Founders’ Stock Sales Aren’t Helping Investor Confidence]]
+
+- Anthropic agreed to license technology and hire engineers from startup Opaque Systems to secure confidential enterprise data used with AI agents. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-6180963be726e2c226aa|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Aggregation-Theory|Aggregation Theory]], [[Annualized-Revenue|Annualized Revenue (ARR)]], [[Capex-vs-Opex|Capex vs Opex]], [[Channel-Conflict|Channel Conflict]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], Compute Heat Rate, [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], Constitutional AI, [[Custom-Silicon|Custom Silicon]], [[Data-Center-Opposition|Local Opposition to Data Centers]], Distillation (Training on Another Model's Outputs), [[Dollars-Per-Gigawatt|Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)]], Enterprise Philosophy (Tech's Third Philosophy), [[Export-Controls|Chip Export Controls]], [[LLM-Inflection-Points|Three LLM Inflection Points]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], Mechanistic Interpretability, [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Price-Umbrella|Price Umbrella (Price Overhang)]], [[Seats-Plus-Consumption|Seats Plus Consumption (Per-User Plus Usage Pricing)]], [[Switching-Costs|Switching Costs]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Vertical-Integration|Vertical Integration]], World Models, [[Zero-Data-Retention|Zero Data Retention]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Aggregation-Theory|Aggregation Theory]], [[Annualized-Revenue|Annualized Revenue (ARR)]], [[Capex-vs-Opex|Capex vs Opex]], [[Channel-Conflict|Channel Conflict]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], Compute Heat Rate, [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], Constitutional AI, [[Custom-Silicon|Custom Silicon]], [[Data-Center-Opposition|Local Opposition to Data Centers]], [[Distillation|Distillation (Training on Another Model's Outputs)]], [[Dollars-Per-Gigawatt|Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)]], Enterprise Philosophy (Tech's Third Philosophy), [[Export-Controls|Chip Export Controls]], [[LLM-Inflection-Points|Three LLM Inflection Points]], [[License-and-Hire|License-and-Hire Deal]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], Mechanistic Interpretability, [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Price-Umbrella|Price Umbrella (Price Overhang)]], [[Seats-Plus-Consumption|Seats Plus Consumption (Per-User Plus Usage Pricing)]], [[Switching-Costs|Switching Costs]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Vertical-Integration|Vertical Integration]], World Models, [[Zero-Data-Retention|Zero Data Retention]]

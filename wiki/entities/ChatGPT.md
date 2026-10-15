@@ -3,7 +3,7 @@ type: entity
 title: ChatGPT
 status: developing
 created: 2026-10-08
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/product

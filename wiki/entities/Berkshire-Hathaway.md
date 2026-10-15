@@ -3,11 +3,11 @@ type: entity
 title: Berkshire Hathaway
 status: developing
 created: 2026-09-29
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
-claim_count: 10
+claim_count: 11
 ---
 
 # Berkshire Hathaway
@@ -28,6 +28,10 @@ Warren Buffett's holding company; invested $10 billion in Alphabet equity in Jun
 - Thompson argues Greg Abel is replaying Buffett's strategy, with Berkshire Hathaway now playing See's Candies (the cash machine) and Google playing BNSF Railway (the capital-hungry business that earns large absolute profits). ([[2026-06-02-The-Google-Capital-Company#^clm-e83ea5215438a04a2692|cite]])
 - Thompson argues the $10 billion Berkshire deal is small for both companies and is mainly a signal: Google expects demand far greater than anyone thinks and will fund supply by any means, including equity, and Berkshire's money endorses that view. ([[2026-06-02-The-Google-Capital-Company#^clm-740079675b73379fc161|cite]])
 - Prediction: Thompson asks what happens if there is not enough compute in the world to buy: the battle for compute may become who can bring the most cash to bear, compounding into more compute and more cash, and Berkshire Hathaway is betting that company is Google. ([[2026-06-02-The-Google-Capital-Company#^clm-bc216972430f231ad37b|cite]])
+
+### 2026-10-14 [[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence|CoreWeave Co-Founders’ Stock Sales Aren’t Helping Investor Confidence]]
+
+- Berkshire Hathaway agreed to invest $330 million in Italian digital conglomerate Bending Spoons at $33 per share, adding to a 4% stake acquired during its July IPO. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-08844df0f81c466a5bed|cite]])
 
 ## Related concepts
 

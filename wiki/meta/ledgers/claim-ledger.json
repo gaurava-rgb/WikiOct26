@@ -75473,8 +75473,1127 @@
       "as_of": "2026",
       "subjects": [],
       "concepts": []
+    },
+    "clm-ed2eee7102d53db2be7f": {
+      "text": "Anthropic's revenue reached $16.8 billion in the third quarter of 2026, rising about 45% from the second quarter, per people briefed on the numbers.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation.md",
+        "anchor": "^clm-ed2eee7102d53db2be7f"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27629e69984c9b69c7d6",
+          "relation": "supports",
+          "locator": "§ The core story: “Revenue reached $16.8 billion in the third quarter of 2026, rising approximately 45% from the second quarter”"
+        }
+      ],
+      "notes": "Updates clm-4182d4bfe2aa9f958d4e: Q2 slight profit followed by Q3 revenue of $16.8 billion.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-Q3",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-090d16732cf8de245cd0": {
+      "text": "Anthropic's third-quarter revenue of $16.8 billion was more than 3.6 times its total revenue for all of 2025.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation.md",
+        "anchor": "^clm-090d16732cf8de245cd0"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27629e69984c9b69c7d6",
+          "relation": "supports",
+          "locator": "§ The core story: “revenue was more than 3.6 times Anthropic's total revenue for the entire year of 2025”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-Q3",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-e3bd260d987a621a092b": {
+      "text": "Anthropic's 45% quarterly revenue growth in the third quarter marked a slowdown from the second quarter, when Claude Code drove revenue up over 140% from the first quarter.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation.md",
+        "anchor": "^clm-e3bd260d987a621a092b"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27629e69984c9b69c7d6",
+          "relation": "supports",
+          "locator": "§ The core story: “slowdown from the second quarter, when demand for Claude Code propelled revenue up more than 140%”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-Q3",
+      "subjects": [
+        "Anthropic",
+        "Claude Code"
+      ],
+      "concepts": []
+    },
+    "clm-050ac743ad4f435b812b": {
+      "text": "Anthropic reported an adjusted operating margin of 11% for 2026 through the third quarter, excluding stock-based compensation, indicating progress toward profitability.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation.md",
+        "anchor": "^clm-050ac743ad4f435b812b"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27629e69984c9b69c7d6",
+          "relation": "supports",
+          "locator": "§ Financial margins and distillation revenue: “adjusted operating margin of 11% for 2026 through the third quarter, per one person briefed on the figures”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-Q3",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-34e874a222abc86eac2a": {
+      "text": "Anthropic disclosed that 5% to 7% of its revenue comes from model distillation, in which third-party firms train models using Anthropic outputs.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation.md",
+        "anchor": "^clm-34e874a222abc86eac2a"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27629e69984c9b69c7d6",
+          "relation": "supports",
+          "locator": "§ Financial margins and distillation revenue: “disclosed that 5% to 7% of its revenue comes from distillation, where other firms use Anthropic outputs”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-Q3",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": [
+        "Distillation"
+      ]
+    },
+    "clm-559be22f39d3bd9a8807": {
+      "text": "Anthropic warned investors that distillation revenue will decline and weigh on results in the current quarter as the company combats unauthorized distillation by Chinese labs.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation.md",
+        "anchor": "^clm-559be22f39d3bd9a8807"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27629e69984c9b69c7d6",
+          "relation": "supports",
+          "locator": "§ Financial margins and distillation revenue: “Anthropic warned investors that distillation revenue will decline and continue to weigh on financial results”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-14",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": [
+        "Distillation"
+      ]
+    },
+    "clm-069a4fc13787763bfa68": {
+      "text": "Anthropic's private market valuation reached $965 billion in May 2026, rising from less than $20 billion two years earlier.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation.md",
+        "anchor": "^clm-069a4fc13787763bfa68"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27629e69984c9b69c7d6",
+          "relation": "supports",
+          "locator": "§ IPO timing and data center headwinds: “valuation rose to $965 billion in May 2026, compared with less than $20 billion two years earlier”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-05",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-3e6b42103f23e124f52c": {
+      "text": "Decelerating growth and tighter market conditions led some investor attendees to expect bankers to lower Anthropic's IPO valuation target to less than $1.5 trillion, down from private discussions of $2 trillion.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation.md",
+        "anchor": "^clm-3e6b42103f23e124f52c"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27629e69984c9b69c7d6",
+          "relation": "supports",
+          "locator": "§ The core story: “expect bankers will trim Anthropic's IPO valuation target to less than $1.5 trillion, down from earlier private whispers”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-14",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-d9774e86ec2afe186f6a": {
+      "text": "Anthropic plans to conduct its initial public offering in November 2026 before the Thanksgiving holiday.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation.md",
+        "anchor": "^clm-d9774e86ec2afe186f6a"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27629e69984c9b69c7d6",
+          "relation": "supports",
+          "locator": "§ IPO timing and data center headwinds: “plans to stage its initial public offering in November 2026 before the Thanksgiving holiday”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-14",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-b3022a8f4f1f6fe1a8a5": {
+      "text": "Nvidia-backed AI data center operator Firmus Grid cancelled its planned Australian initial public offering due to market volatility as AI data center borrowing costs jumped.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation.md",
+        "anchor": "^clm-b3022a8f4f1f6fe1a8a5"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27629e69984c9b69c7d6",
+          "relation": "supports",
+          "locator": "§ IPO timing and data center headwinds: “Firmus Grid, backed by Nvidia, cancelled its planned Australian initial public offering due to market volatility”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Firmus",
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-b6a6b68806d65f7fa62c": {
+      "text": "After Anthropic passed OpenAI in revenue earlier in 2026, OpenAI responded by expanding its enterprise AI offerings and pricing below Anthropic.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation.md",
+        "anchor": "^clm-b6a6b68806d65f7fa62c"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27629e69984c9b69c7d6",
+          "relation": "supports",
+          "locator": "§ Competitive pressures and revenue metrics: “OpenAI has responded by strengthening its enterprise AI tools and discounting prices below Anthropic”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-14",
+      "subjects": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-9025a0c317ee1ad8cf18": {
+      "text": "Corporate AI customers facing rising compute expenses are increasingly adopting lower-cost options, including open source models.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation.md",
+        "anchor": "^clm-9025a0c317ee1ad8cf18"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27629e69984c9b69c7d6",
+          "relation": "supports",
+          "locator": "§ Competitive pressures and revenue metrics: “corporate buyers are turning to lower-cost options, including open source models”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-14",
+      "subjects": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "concepts": [
+        "Open-Weight-Models"
+      ]
+    },
+    "clm-e557855a0924f288f3cf": {
+      "text": "Anthropic withheld an updated annualized revenue figure at its October investor meeting, after the metric reached $65 billion in July 2026 but drew market scrutiny.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation.md",
+        "anchor": "^clm-e557855a0924f288f3cf"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27629e69984c9b69c7d6",
+          "relation": "supports",
+          "locator": "§ Competitive pressures and revenue metrics: “withheld an updated annualized revenue figure at the meeting. Annualized revenue reached $65 billion in July 2026”"
+        }
+      ],
+      "notes": "Updates clm-1f09345bd5aec832df0e: July 2026 $65B ARR metric withheld in October Q3 meeting.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-14",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": [
+        "Annualized-Revenue"
+      ]
+    },
+    "clm-96bac021aadd33a6cfca": {
+      "text": "CoreWeave shares fell 15.5% on October 14, 2026, amid a broader sell-off in debt-financed neoclouds triggered by inflation data and interest rate hike expectations.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence.md",
+        "anchor": "^clm-96bac021aadd33a6cfca"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2a5a23519558ba03fb41",
+          "relation": "supports",
+          "locator": "§ The core story: “CoreWeave shares plunged 15.5% on October 14, 2026, amid a broader market drop caused by inflation data”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-14",
+      "subjects": [
+        "CoreWeave"
+      ],
+      "concepts": [
+        "Capex-vs-Opex"
+      ]
+    },
+    "clm-f92543f5c2071f79cb82": {
+      "text": "CoreWeave faced market chatter that its bonds declined to distressed levels as investors grew wary of debt-funded AI data center expansion.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence.md",
+        "anchor": "^clm-f92543f5c2071f79cb82"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2a5a23519558ba03fb41",
+          "relation": "supports",
+          "locator": "§ The core story: “Market chatter indicated CoreWeave bonds declined to distressed levels”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-14",
+      "subjects": [
+        "CoreWeave"
+      ],
+      "concepts": []
+    },
+    "clm-53f83eadaa24f346d8d5": {
+      "text": "CoreWeave CEO Michael Intrator sold company shares every week from April through late September 2026, while other co-founders also sold stock regularly.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence.md",
+        "anchor": "^clm-53f83eadaa24f346d8d5"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2a5a23519558ba03fb41",
+          "relation": "supports",
+          "locator": "§ The core story: “CEO Michael Intrator sold company shares every single week from April through late September 2026, per securities filings”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-09",
+      "subjects": [
+        "CoreWeave",
+        "Michael Intrator"
+      ],
+      "concepts": []
+    },
+    "clm-28320267b64634dbf7ba": {
+      "text": "CoreWeave shares slid from $128 in May 2026 to $86 in September and reached $65 following insider sales and market headwinds.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence.md",
+        "anchor": "^clm-28320267b64634dbf7ba"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2a5a23519558ba03fb41",
+          "relation": "supports",
+          "locator": "§ Stock price drop and debt financing: “CoreWeave shares fell to $65 on October 14, down sharply from $86 in September and $128 in May 2026”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-14",
+      "subjects": [
+        "CoreWeave"
+      ],
+      "concepts": []
+    },
+    "clm-9a1e292c5ff8f751dbf9": {
+      "text": "CoreWeave issued $4.2 billion in convertible notes in September 2026 and announced plans to sell up to 35 million shares over time to finance expansion.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence.md",
+        "anchor": "^clm-9a1e292c5ff8f751dbf9"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2a5a23519558ba03fb41",
+          "relation": "supports",
+          "locator": "§ Stock price drop and debt financing: “issuing $4.2 billion in convertible notes in September 2026. CoreWeave also announced plans to sell as many as 35 million additional shares”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-09",
+      "subjects": [
+        "CoreWeave"
+      ],
+      "concepts": []
+    },
+    "clm-a84dc0e414b9bbda78c3": {
+      "text": "CoreWeave co-founder Brannin McBee told the Financial Times that the firm hopes to borrow from insurance companies with unlimited capital, arguing operators must achieve massive scale.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence.md",
+        "anchor": "^clm-a84dc0e414b9bbda78c3"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2a5a23519558ba03fb41",
+          "relation": "supports",
+          "locator": "§ Stock price drop and debt financing: “Brannin McBee told the Financial Times that CoreWeave seeks to borrow from insurance companies with unlimited capital, arguing operators must achieve massive scale”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10-14",
+      "subjects": [
+        "CoreWeave"
+      ],
+      "concepts": [
+        "Scale-Economies"
+      ]
+    },
+    "clm-d302996cdc58df0de16f": {
+      "text": "Less-established neocloud operators Nscale and SB Energy have struggled to complete initial public offerings amid tightening market demand.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence.md",
+        "anchor": "^clm-d302996cdc58df0de16f"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2a5a23519558ba03fb41",
+          "relation": "supports",
+          "locator": "§ Neocloud sector headwinds: “Less-established neocloud operators Nscale and SB Energy have tried to complete initial public offerings without much success”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-14",
+      "subjects": [
+        "Nscale",
+        "SB Energy"
+      ],
+      "concepts": []
+    },
+    "clm-74e17ade997e7801c077": {
+      "text": "Singapore data center operator AirTrunk postponed a planned real estate investment trust public listing due to higher borrowing costs and market volatility.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence.md",
+        "anchor": "^clm-74e17ade997e7801c077"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2a5a23519558ba03fb41",
+          "relation": "supports",
+          "locator": "§ Neocloud sector headwinds: “Singapore data center operator AirTrunk postponed a planned real estate investment trust public listing due to higher borrowing costs”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-14",
+      "subjects": [
+        "AirTrunk"
+      ],
+      "concepts": []
+    },
+    "clm-20aef90bcc17bee80646": {
+      "text": "Morgan Stanley CEO Ted Pick warned that the AI build-out will face bottlenecks and periodic overbuilding, but long-term investment will persist at massive scale.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence.md",
+        "anchor": "^clm-20aef90bcc17bee80646"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2a5a23519558ba03fb41",
+          "relation": "supports",
+          "locator": "§ Neocloud sector headwinds: “Morgan Stanley CEO Ted Pick warned on October 14 that the AI build-out will face bottlenecks and periodic overbuilding”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10-14",
+      "subjects": [
+        "Morgan Stanley"
+      ],
+      "concepts": []
+    },
+    "clm-08844df0f81c466a5bed": {
+      "text": "Berkshire Hathaway agreed to invest $330 million in Italian digital conglomerate Bending Spoons at $33 per share, adding to a 4% stake acquired during its July IPO.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence.md",
+        "anchor": "^clm-08844df0f81c466a5bed"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2a5a23519558ba03fb41",
+          "relation": "supports",
+          "locator": "§ Berkshire Hathaway investment in Bending Spoons: “Berkshire Hathaway agreed to invest $330 million in Bending Spoons through a private placement at $33 per share”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-14",
+      "subjects": [
+        "Berkshire Hathaway",
+        "Bending Spoons"
+      ],
+      "concepts": []
+    },
+    "clm-6180963be726e2c226aa": {
+      "text": "Anthropic agreed to license technology and hire engineers from startup Opaque Systems to secure confidential enterprise data used with AI agents.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence.md",
+        "anchor": "^clm-6180963be726e2c226aa"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2a5a23519558ba03fb41",
+          "relation": "supports",
+          "locator": "§ Industry personnel and tech moves: “Anthropic reached an agreement to license technology and hire engineers from Opaque Systems, a five-year-old startup building security software for confidential data in AI agents”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-14",
+      "subjects": [
+        "Anthropic",
+        "Opaque Systems"
+      ],
+      "concepts": [
+        "License-and-Hire",
+        "AI-Agents",
+        "Zero-Data-Retention"
+      ]
+    },
+    "clm-f4fded2ebdbd41aa3aea": {
+      "text": "Sachin Katti, vice president of compute strategy at OpenAI who joined after four years at Intel, announced he will leave OpenAI on November 15, 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence.md",
+        "anchor": "^clm-f4fded2ebdbd41aa3aea"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2a5a23519558ba03fb41",
+          "relation": "supports",
+          "locator": "§ Industry personnel and tech moves: “Sachin Katti, vice president of compute strategy at OpenAI who joined from Intel, announced he will leave OpenAI on November 15, 2026”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-14",
+      "subjects": [
+        "OpenAI",
+        "Sachin Katti"
+      ],
+      "concepts": []
+    },
+    "clm-01fc01a1d9abec0c4263": {
+      "text": "Defense technology firm Anduril Industries entered talks for an employee share tender valuing the company at about $90 billion at $94.80 per share.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence.md",
+        "anchor": "^clm-01fc01a1d9abec0c4263"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2a5a23519558ba03fb41",
+          "relation": "supports",
+          "locator": "§ Industry personnel and tech moves: “Anduril Industries is in talks for an employee share tender valuing the company at $90 billion, capped at $1.3 billion at $94.80 per share”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-14",
+      "subjects": [
+        "Anduril Industries"
+      ],
+      "concepts": []
+    },
+    "clm-4f48635ea4d110ed08d5": {
+      "text": "OpenAI accused a former employee of sharing unreleased device plans with Apple executives, mirroring allegations Apple made against OpenAI in a July 2026 lawsuit.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence.md",
+        "anchor": "^clm-4f48635ea4d110ed08d5"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2a5a23519558ba03fb41",
+          "relation": "supports",
+          "locator": "§ Industry personnel and tech moves: “OpenAI accused a former employee of leaking unreleased hardware device plans to Apple executives, mirroring allegations Apple made against OpenAI in a July 2026 lawsuit”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-14",
+      "subjects": [
+        "OpenAI",
+        "Apple"
+      ],
+      "concepts": []
+    },
+    "clm-2adb640a521979010524": {
+      "text": "Cursor engineers investigated whether internal testing data containing confidential customer, supplier, and partner records was sent to SpaceX's AI unit for model training.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training.md",
+        "anchor": "^clm-2adb640a521979010524"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5dce1df60966d968fdab",
+          "relation": "supports",
+          "locator": "§ The core story: “Cursor engineers investigated whether internal testing data containing confidential customer, supplier, and partner information had been sent to SpaceX's AI unit”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-07",
+      "subjects": [
+        "Cursor",
+        "SpaceX",
+        "xAI"
+      ],
+      "concepts": [
+        "Zero-Data-Retention",
+        "AI-Agents"
+      ]
+    },
+    "clm-26a36ef1f3dbb424f4a8": {
+      "text": "The data investigation took place in late July 2026, weeks before SpaceX's AI unit publicly launched the Grok Bot autonomous personal agent.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training.md",
+        "anchor": "^clm-26a36ef1f3dbb424f4a8"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5dce1df60966d968fdab",
+          "relation": "supports",
+          "locator": "§ The core story: “investigation occurred in late July 2026, weeks before SpaceX's AI unit (SpaceXSI) launched its Grok Bot autonomous personal agent”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-07",
+      "subjects": [
+        "SpaceX",
+        "Cursor",
+        "Grok Bot"
+      ],
+      "concepts": []
+    },
+    "clm-739d4d0abb6072986296": {
+      "text": "A Cursor attorney warned internal staff that using employee testing data to train AI models could trigger a major trust problem with enterprise customers.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training.md",
+        "anchor": "^clm-739d4d0abb6072986296"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5dce1df60966d968fdab",
+          "relation": "supports",
+          "locator": "§ The core story: “attorney warned employees in internal messages that using this testing data for training could trigger a major customer trust crisis”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-07",
+      "subjects": [
+        "Cursor"
+      ],
+      "concepts": [
+        "Zero-Data-Retention"
+      ]
+    },
+    "clm-820ab47902fe54de9578": {
+      "text": "A Cursor lawyer stated that broad use of Sand meant datasets contained confidential third-party details that the company arguably lacked legal rights to train on.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training.md",
+        "anchor": "^clm-820ab47902fe54de9578"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5dce1df60966d968fdab",
+          "relation": "supports",
+          "locator": "§ The core story: “lawyer noted that broad usage of the tool meant datasets included third-party confidential details that Cursor arguably had no legal right to use for model training”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-07",
+      "subjects": [
+        "Cursor"
+      ],
+      "concepts": [
+        "Zero-Data-Retention"
+      ]
+    },
+    "clm-262f0ba2df95ef9f5104": {
+      "text": "Following the internal investigation, Cursor updated policies to exclude all employee usage data from future AI model training datasets.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training.md",
+        "anchor": "^clm-262f0ba2df95ef9f5104"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5dce1df60966d968fdab",
+          "relation": "supports",
+          "locator": "§ The core story: “company changed policies to exclude employee usage data from future training datasets”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-07",
+      "subjects": [
+        "Cursor"
+      ],
+      "concepts": []
+    },
+    "clm-81dceb348eaef1f5b702": {
+      "text": "Cursor led the development of Grok Bot, an always-on AI workplace assistant, to expand beyond coding tools into general enterprise workflows.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training.md",
+        "anchor": "^clm-81dceb348eaef1f5b702"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5dce1df60966d968fdab",
+          "relation": "supports",
+          "locator": "§ Grok Bot development and internal testing: “Cursor led the development of Grok Bot, an always-on AI workplace assistant intended to expand the startup's footprint into general enterprise workflows”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-08",
+      "subjects": [
+        "Cursor",
+        "SpaceX",
+        "Grok Bot"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-669d171828cadb430c4d": {
+      "text": "Cursor employees tested Sand across sales, recruiting, and research starting in June 2026, giving the autonomous agent access to internal databases and customer communications.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training.md",
+        "anchor": "^clm-669d171828cadb430c4d"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5dce1df60966d968fdab",
+          "relation": "supports",
+          "locator": "§ Grok Bot development and internal testing: “Staff members used the agent across departments including sales, technical recruiting, and market research, granting the tool autonomous access to corporate databases”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-06",
+      "subjects": [
+        "Cursor",
+        "Grok Bot"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-32e0653da36689869691": {
+      "text": "Several Cursor employees accessed Sand using personal email accounts, complicating company efforts to identify and remove their data from training pools.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training.md",
+        "anchor": "^clm-32e0653da36689869691"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5dce1df60966d968fdab",
+          "relation": "supports",
+          "locator": "§ Grok Bot development and internal testing: “employees accessed Sand using personal email accounts, which made it harder to trace and remove their data from training pools”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-07",
+      "subjects": [
+        "Cursor"
+      ],
+      "concepts": []
+    },
+    "clm-a55b8f08571ead3ae096": {
+      "text": "Earlier in 2026, Cursor sales and marketing staff inadvertently exposed confidential enterprise customer records through publicly accessible web pages deployed on Vercel.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training.md",
+        "anchor": "^clm-a55b8f08571ead3ae096"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5dce1df60966d968fdab",
+          "relation": "supports",
+          "locator": "§ Previous customer data leaks on marketing sites: “Cursor sales and marketing staff inadvertently leaked sensitive enterprise customer data through public websites deployed on Vercel”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [
+        "Cursor",
+        "Vercel"
+      ],
+      "concepts": [
+        "Zero-Data-Retention"
+      ]
+    },
+    "clm-1b2c55bfd05a5a7fed86": {
+      "text": "An internal site for managing Verizon exposed managerial org charts, top users, email addresses, and software spending numbers embedded directly in readable front-end code.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training.md",
+        "anchor": "^clm-1b2c55bfd05a5a7fed86"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5dce1df60966d968fdab",
+          "relation": "supports",
+          "locator": "§ Previous customer data leaks on marketing sites: “Verizon portal contained organizational charts of technical managers, lists of top Cursor users, user email addresses, and specific software spending figures”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [
+        "Cursor",
+        "Verizon"
+      ],
+      "concepts": []
+    },
+    "clm-1a7536a8fbbe49a78947": {
+      "text": "Cursor engineers responded to customer data exposures across client portals for Verizon, Bosch, and Coupa by creating an incident channel to take down the leaking sites.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training.md",
+        "anchor": "^clm-1a7536a8fbbe49a78947"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5dce1df60966d968fdab",
+          "relation": "supports",
+          "locator": "§ Previous customer data leaks on marketing sites: “incident response channel titled \"A ton of gtm sites that leak customer/internal data\" to remove the exposed websites”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [
+        "Cursor"
+      ],
+      "concepts": []
+    },
+    "clm-8348b6ff93792bea7340": {
+      "text": "In March 2025, a SpaceXSI employee exposed an internal Grok API key after accidentally uploading a test script to a public GitHub repository.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training.md",
+        "anchor": "^clm-8348b6ff93792bea7340"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5dce1df60966d968fdab",
+          "relation": "supports",
+          "locator": "§ Security track record across SpaceX and xAI: “SpaceXSI employee exposed an internal Grok application programming interface key after accidentally uploading a test script to a public GitHub repository”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2025-03",
+      "subjects": [
+        "SpaceX",
+        "xAI",
+        "GitHub"
+      ],
+      "concepts": []
+    },
+    "clm-2b9491f0c34fc99a05a2": {
+      "text": "In summer 2026, researcher discovery of Grok Build uploading entire Git repositories to Google Cloud storage led xAI to disable uploads and open source the tool.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training.md",
+        "anchor": "^clm-2b9491f0c34fc99a05a2"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5dce1df60966d968fdab",
+          "relation": "supports",
+          "locator": "§ Security track record across SpaceX and xAI: “researcher found that developer tool Grok Build uploaded entire Git code repositories to company Google Cloud storage buckets”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [
+        "xAI",
+        "SpaceX",
+        "Google Cloud"
+      ],
+      "concepts": []
+    },
+    "clm-88a6f62a2e347bc5510a": {
+      "text": "SpaceX completed its $60 billion acquisition of Cursor in mid-August 2026 to accelerate sales of enterprise AI products.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-15",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training.md",
+        "anchor": "^clm-88a6f62a2e347bc5510a"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5dce1df60966d968fdab",
+          "relation": "supports",
+          "locator": "§ Security track record across SpaceX and xAI: “SpaceX completed its $60 billion acquisition of Cursor in mid-August 2026 to push into lucrative enterprise AI markets”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-08",
+      "subjects": [
+        "SpaceX",
+        "Cursor"
+      ],
+      "concepts": []
     }
   },
-  "generated_at": "2026-10-15T02:30:28Z",
+  "generated_at": "2026-10-15T19:55:48Z",
   "schema": "claude-obsidian.claim-ledger.v1"
 }

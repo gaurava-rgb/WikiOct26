@@ -3,11 +3,11 @@ type: entity
 title: Google Cloud
 status: developing
 created: 2026-09-29
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
-claim_count: 43
+claim_count: 44
 ---
 
 # Google Cloud
@@ -79,6 +79,10 @@ Google's cloud computing unit (GCP), which rents computing, AI models, and tools
 ### 2026-09-23 [[2026-09-23-Google-Nears-Release-of-Flagship-Gemini-4-AI-Model|Google Nears Release of Flagship Gemini 4 AI Model]]
 
 - In 2026 Google began selling TPUs directly to customers, not only renting access through Google Cloud, as it competes harder with Nvidia. ([[2026-09-23-Google-Nears-Release-of-Flagship-Gemini-4-AI-Model#^clm-22c8490997fb7940f00b|cite]])
+
+### 2026-10-15 [[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training|Cursor Staff Investigated Whether Confidential Data Reached SpaceX for AI Training]]
+
+- In summer 2026, researcher discovery of Grok Build uploading entire Git repositories to Google Cloud storage led xAI to disable uploads and open source the tool. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-2b9491f0c34fc99a05a2|cite]])
 
 ## Related concepts
 

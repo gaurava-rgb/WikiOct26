@@ -3,11 +3,11 @@ type: entity
 title: SpaceX
 status: developing
 created: 2026-09-29
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
-claim_count: 96
+claim_count: 102
 ---
 
 # SpaceX
@@ -178,6 +178,15 @@ Elon Musk's rocket and satellite company; now owns X and xAI.
 - Thompson argues SpaceX applies its low-orbit satellite swarm strategy to mobile networks by deploying large numbers of lower-capacity ground access points linked by software and space backhaul. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-825d5c168203a681095b|cite]])
 - Thompson notes that unlike in-flight satellite broadband where airlines select providers, consumer mobile wireless requires SpaceX to win over individual retail customers from entrenched carriers. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-6fb25c8c33e2036deb83|cite]])
 
+### 2026-10-15 [[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training|Cursor Staff Investigated Whether Confidential Data Reached SpaceX for AI Training]]
+
+- Cursor engineers investigated whether internal testing data containing confidential customer, supplier, and partner records was sent to SpaceX's AI unit for model training. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-2adb640a521979010524|cite]])
+- The data investigation took place in late July 2026, weeks before SpaceX's AI unit publicly launched the Grok Bot autonomous personal agent. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-26a36ef1f3dbb424f4a8|cite]])
+- Cursor led the development of Grok Bot, an always-on AI workplace assistant, to expand beyond coding tools into general enterprise workflows. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-81dceb348eaef1f5b702|cite]])
+- In March 2025, a SpaceXSI employee exposed an internal Grok API key after accidentally uploading a test script to a public GitHub repository. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-8348b6ff93792bea7340|cite]])
+- In summer 2026, researcher discovery of Grok Build uploading entire Git repositories to Google Cloud storage led xAI to disable uploads and open source the tool. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-2b9491f0c34fc99a05a2|cite]])
+- SpaceX completed its $60 billion acquisition of Cursor in mid-August 2026 to accelerate sales of enterprise AI products. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-88a6f62a2e347bc5510a|cite]])
+
 ## Related concepts
 
-[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Capex-vs-Opex|Capex vs Opex]], [[Custom-Silicon|Custom Silicon]], [[Data-Center-Opposition|Local Opposition to Data Centers]], Distributed Cellular, [[Dollars-Per-Gigawatt|Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)]], Down-Round, [[First-Best-Customer|First and Best Customer (Amazon Primitives)]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Scale-Economies|Scale Economies]], [[Vertical-Integration|Vertical Integration]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Capex-vs-Opex|Capex vs Opex]], [[Custom-Silicon|Custom Silicon]], [[Data-Center-Opposition|Local Opposition to Data Centers]], Distributed Cellular, [[Dollars-Per-Gigawatt|Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)]], Down-Round, [[First-Best-Customer|First and Best Customer (Amazon Primitives)]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Scale-Economies|Scale Economies]], [[Vertical-Integration|Vertical Integration]], [[Zero-Data-Retention|Zero Data Retention]]

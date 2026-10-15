@@ -3,11 +3,11 @@ type: entity
 title: GitHub
 status: developing
 created: 2026-10-08
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
-claim_count: 4
+claim_count: 5
 ---
 
 # GitHub
@@ -31,6 +31,10 @@ Code hosting service and hub for open source software, bought by Microsoft in 20
 ### 2026-10-08 [[2026-10-08-Chinese-Open-Models-Win-Over-One-in-Five-of-The-Informations-Subscribers|Chinese Open Models Win Over One in Five of The Information’s Subscribers]]
 
 - In coding assistants, the early GitHub Copilot and Cursor duopoly is gone: Claude Code now leads, OpenAI's Codex surged in 2026, and Cursor is close behind. ([[2026-10-08-Chinese-Open-Models-Win-Over-One-in-Five-of-The-Informations-Subscribers#^clm-fcd74c1c7540f769cb89|cite]])
+
+### 2026-10-15 [[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training|Cursor Staff Investigated Whether Confidential Data Reached SpaceX for AI Training]]
+
+- In March 2025, a SpaceXSI employee exposed an internal Grok API key after accidentally uploading a test script to a public GitHub repository. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-8348b6ff93792bea7340|cite]])
 
 ## Related concepts
 

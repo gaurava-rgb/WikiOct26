@@ -994,6 +994,10 @@
       "blurb": "Co-CEO of Netflix.",
       "kind": "person"
     },
+    "Grok Bot": {
+      "blurb": "SpaceXSI and Cursor autonomous personal AI agent code-named Sand.",
+      "kind": "product"
+    },
     "Groq": {
       "blurb": "AI chip company whose LPU inference chip Nvidia now sells as part of its Vera Rubin platform.",
       "kind": "company"

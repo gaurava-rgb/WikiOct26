@@ -3,7 +3,7 @@ type: entity
 title: Noam Shazeer
 status: developing
 created: 2026-10-13
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/person
@@ -26,4 +26,4 @@ Co-founder of Character.AI; earlier built Google's LaMDA.
 
 ## Related concepts
 
-License-and-Hire Deal
+[[License-and-Hire|License-and-Hire Deal]]

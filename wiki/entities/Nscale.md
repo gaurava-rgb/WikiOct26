@@ -3,11 +3,11 @@ type: entity
 title: Nscale
 status: developing
 created: 2026-10-08
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
-claim_count: 3
+claim_count: 4
 ---
 
 # Nscale
@@ -27,3 +27,7 @@ UK-based neocloud that rents out GPU capacity.
 ### 2026-10-11 [[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint|The Attractive Economics Behind Anthropic Data Center Sprint]]
 
 - Anthropic's ability to beat OpenAI in the compute race will depend more on former bitcoin firms such as Hut 8, TeraWulf, IREN and Nscale, some of which struggle to raise public money at the valuations they want. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-4f8d6b9ac8c8aa19d852|cite]])
+
+### 2026-10-14 [[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence|CoreWeave Co-Founders’ Stock Sales Aren’t Helping Investor Confidence]]
+
+- Less-established neocloud operators Nscale and SB Energy have struggled to complete initial public offerings amid tightening market demand. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-d302996cdc58df0de16f|cite]])

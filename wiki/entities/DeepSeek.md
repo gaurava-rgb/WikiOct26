@@ -3,7 +3,7 @@ type: entity
 title: DeepSeek
 status: developing
 created: 2026-10-08
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
@@ -57,4 +57,4 @@ Chinese AI lab based in Hangzhou that makes cheap, efficient open models such as
 
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], Distillation (Training on Another Model's Outputs), [[Export-Controls|Chip Export Controls]], [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Distillation|Distillation (Training on Another Model's Outputs)]], [[Export-Controls|Chip Export Controls]], [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]]

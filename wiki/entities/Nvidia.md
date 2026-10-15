@@ -3,11 +3,11 @@ type: entity
 title: Nvidia
 status: developing
 created: 2026-09-29
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
-claim_count: 180
+claim_count: 181
 ---
 
 # Nvidia
@@ -318,6 +318,10 @@ US chip designer whose GPUs (graphics processors) dominate AI training and infer
 ### 2026-10-13 [[2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference|Neocloud Prime Intellect Acquires Startup To Speed Up Inference]]
 
 - Prime Intellect, a San Francisco neocloud valued at $1 billion in a July 2026 equity financing, is acquiring Moondream to make open models run faster and cheaper on its Nvidia servers. ([[2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference#^clm-ee769de8b8b34804e2e8|cite]])
+
+### 2026-10-14 [[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation|Anthropic’s Rapid But Slowing Growth Could Weigh on IPO Valuation]]
+
+- Nvidia-backed AI data center operator Firmus Grid cancelled its planned Australian initial public offering due to market volatility as AI data center borrowing costs jumped. ([[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation#^clm-b3022a8f4f1f6fe1a8a5|cite]])
 
 ## Related concepts
 

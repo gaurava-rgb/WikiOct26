@@ -3,7 +3,7 @@ type: entity
 title: Xbox
 status: developing
 created: 2026-09-29
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company

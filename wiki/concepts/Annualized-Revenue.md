@@ -3,10 +3,10 @@ type: concept
 title: Annualized Revenue (ARR)
 status: developing
 created: 2026-10-13
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - concept
-source_count: 4
+source_count: 5
 ---
 
 # Annualized Revenue (ARR)
@@ -36,3 +36,7 @@ A guess at a full year's sales, usually one month's revenue multiplied by 12. Fa
 
 - Prime Intellect said in July 2026 it had passed $100 million in annualized revenue, a little over $8 million a month. ([[2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference#^clm-827469bb63bec0d0e1f9|cite]])
 - As of October 2026 Fal generated more than $800 million in annualized revenue and Together AI over $1 billion, far more than Prime Intellect. ([[2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference#^clm-2eed0379742ce314e251|cite]])
+
+### 2026-10-14 [[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation|Anthropic’s Rapid But Slowing Growth Could Weigh on IPO Valuation]]
+
+- Anthropic withheld an updated annualized revenue figure at its October investor meeting, after the metric reached $65 billion in July 2026 but drew market scrutiny. ([[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation#^clm-e557855a0924f288f3cf|cite]])

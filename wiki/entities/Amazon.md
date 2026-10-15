@@ -3,7 +3,7 @@ type: entity
 title: Amazon
 status: developing
 created: 2026-09-29
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
@@ -456,4 +456,4 @@ US e-commerce, logistics, and cloud company (AWS). Known for long-term, capital-
 
 ## Related concepts
 
-[[A-B-Testing|A/B Testing]], [[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Agentic-Commerce|Agentic Commerce]], [[Aggregation-Theory|Aggregation Theory]], [[Bundling|Bundling]], [[Capex-vs-Opex|Capex vs Opex]], [[Cash-Conversion-Cycle|Cash Conversion Cycle]], [[Channel-Conflict|Channel Conflict]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], Conglomerate Discount, [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Custom-Silicon|Custom Silicon]], [[Data-Asset|Data as a Competitive Asset]], [[Data-Center-Opposition|Local Opposition to Data Centers]], [[Dynamic-Pricing|Dynamic Pricing]], Enshittification, [[First-Best-Customer|First and Best Customer (Amazon Primitives)]], [[First-Mover-Advantage|First-Mover Advantage]], Flywheel (Virtuous Cycle), Gamification, License-and-Hire Deal, The Long Tail, [[Network-Effects|Network Effects]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Scale-Economies|Scale Economies]], [[Sustainable-Competitive-Advantage|Sustainable Competitive Advantage]], [[Switching-Costs|Switching Costs]], Two-Pizza Teams, [[Two-Sided-Marketplace|Two-Sided Marketplace (Platform)]], The Unified Content Business Model, [[Vertical-Integration|Vertical Integration]], Wholesale vs Agency Pricing
+[[A-B-Testing|A/B Testing]], [[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Agentic-Commerce|Agentic Commerce]], [[Aggregation-Theory|Aggregation Theory]], [[Bundling|Bundling]], [[Capex-vs-Opex|Capex vs Opex]], [[Cash-Conversion-Cycle|Cash Conversion Cycle]], [[Channel-Conflict|Channel Conflict]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], Conglomerate Discount, [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Custom-Silicon|Custom Silicon]], [[Data-Asset|Data as a Competitive Asset]], [[Data-Center-Opposition|Local Opposition to Data Centers]], [[Dynamic-Pricing|Dynamic Pricing]], Enshittification, [[First-Best-Customer|First and Best Customer (Amazon Primitives)]], [[First-Mover-Advantage|First-Mover Advantage]], Flywheel (Virtuous Cycle), Gamification, [[License-and-Hire|License-and-Hire Deal]], The Long Tail, [[Network-Effects|Network Effects]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Scale-Economies|Scale Economies]], [[Sustainable-Competitive-Advantage|Sustainable Competitive Advantage]], [[Switching-Costs|Switching Costs]], Two-Pizza Teams, [[Two-Sided-Marketplace|Two-Sided Marketplace (Platform)]], The Unified Content Business Model, [[Vertical-Integration|Vertical Integration]], Wholesale vs Agency Pricing

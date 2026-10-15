@@ -3,7 +3,7 @@ type: entity
 title: Character.AI
 status: developing
 created: 2026-10-13
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
@@ -32,4 +32,4 @@ Palo Alto startup founded in 2021 by former Google LaMDA builders where users ch
 
 ## Related concepts
 
-License-and-Hire Deal
+[[License-and-Hire|License-and-Hire Deal]]

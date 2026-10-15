@@ -3,11 +3,11 @@ type: entity
 title: Apple
 status: developing
 created: 2026-09-29
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
-claim_count: 174
+claim_count: 175
 ---
 
 # Apple
@@ -270,6 +270,10 @@ US maker of the iPhone, Mac, and wearables; integrates hardware and software.
 ### 2026-10-14 [[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders|OpenAI’s Math Breakthroughs Rattle Cryptography Leaders]]
 
 - In Apple's trade secrets lawsuit against OpenAI, a judge granted Apple expedited access to OpenAI's hiring materials and interview checklists for former Apple employees. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-5e0363a40ced255a0dbf|cite]])
+
+### 2026-10-14 [[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence|CoreWeave Co-Founders’ Stock Sales Aren’t Helping Investor Confidence]]
+
+- OpenAI accused a former employee of sharing unreleased device plans with Apple executives, mirroring allegations Apple made against OpenAI in a July 2026 lawsuit. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-4f48635ea4d110ed08d5|cite]])
 
 ## Related concepts
 

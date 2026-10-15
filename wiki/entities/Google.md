@@ -3,7 +3,7 @@ type: entity
 title: Google
 status: developing
 created: 2026-09-29
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
@@ -337,4 +337,4 @@ Search and advertising giant (Alphabet); builds Gemini models and TPU chips.
 
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Agentic-Commerce|Agentic Commerce]], [[Agentic-Web|The Agentic Web]], [[Aggregation-Theory|Aggregation Theory]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Capex-vs-Opex|Capex vs Opex]], Cash the Ultimate Commodity (the Google Capital Company), [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Custom-Silicon|Custom Silicon]], [[Data-Asset|Data as a Competitive Asset]], Enshittification, [[Generative-UI|Generative UI (On-Demand Interfaces)]], License-and-Hire Deal, [[Network-Effects|Network Effects]], [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Shapley-Values|Shapley Values]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Agentic-Commerce|Agentic Commerce]], [[Agentic-Web|The Agentic Web]], [[Aggregation-Theory|Aggregation Theory]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Capex-vs-Opex|Capex vs Opex]], Cash the Ultimate Commodity (the Google Capital Company), [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Custom-Silicon|Custom Silicon]], [[Data-Asset|Data as a Competitive Asset]], Enshittification, [[Generative-UI|Generative UI (On-Demand Interfaces)]], [[License-and-Hire|License-and-Hire Deal]], [[Network-Effects|Network Effects]], [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Shapley-Values|Shapley Values]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]]

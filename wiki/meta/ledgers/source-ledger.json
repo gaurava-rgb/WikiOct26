@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T02:30:28Z",
+  "generated_at": "2026-10-15T19:55:48Z",
   "schema": "claude-obsidian.source-ledger.v1",
   "sources": {
     "src-a3fe751aca2f987ed6fc": {
@@ -2901,6 +2901,81 @@
       "url": "https://www.lennysnewsletter.com/",
       "form": "newsletter",
       "summary": "Lenny Rachitsky compiles quantitative benchmark targets for good and great startup performance across engagement, retention, and cost efficiency. Metrics include user activation rates, multi-product expansion at firms like Datadog and CrowdStrike, net revenue retention, logo retention, gross margins across software, AI applications, and marketplaces, and customer acquisition payback periods."
+    },
+    "src-27629e69984c9b69c7d6": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-14 The Information - Anthropic slowing growth and IPO valuation (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Anthropic’s Rapid But Slowing Growth Could Weigh on IPO Valuation",
+      "authority": "secondary",
+      "content_sha256": "cd153f739d412a2af3a2b79adfc14bff1eb9ec252168828425e7bfe007a38e89",
+      "ingested_at": "2026-10-15",
+      "retrieved_at": "2026-10-15",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation.md"
+      ],
+      "supersedes": null,
+      "author": "Cory Weinberg",
+      "published": "2026-10-14",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/anthropics-rapid-slowing-growth-weigh-ipo-valuation",
+      "form": "article",
+      "summary": "Anthropic reported revenue in a private San Francisco meeting with prospective IPO investors, showing third-quarter 2026 revenue of $16.8 billion, up about 45% from the second quarter. The 45% quarterly growth slowed from the prior period, when Claude Code lifted revenue by more than 140%. Anthropic reported an 11% adjusted operating margin through the quarter, but disclosed that distillation contributes 5% to 7% of revenue and is expected to fall. Slower expansion and debt market volatility led some attendees to expect bankers to lower Anthropic's planned November 2026 IPO valuation below $1.5 trillion."
+    },
+    "src-2a5a23519558ba03fb41": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-14 The Information - CoreWeave founders stock sales and neocloud debt (notes).md"
+      },
+      "content_kind": "document",
+      "title": "CoreWeave Co-Founders’ Stock Sales Aren’t Helping Investor Confidence",
+      "authority": "secondary",
+      "content_sha256": "19f73444320d8332ae5231722b1a43ba4e48a1a81912e44aa48d77a7701bb7f9",
+      "ingested_at": "2026-10-15",
+      "retrieved_at": "2026-10-15",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence.md"
+      ],
+      "supersedes": null,
+      "author": "Martin Peers",
+      "published": "2026-10-14",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/coreweave-co-founders-stock-sales-helping-investor-confidence",
+      "form": "article",
+      "summary": "CoreWeave shares fell 15.5% to $65 amid an inflation-driven sell-off in AI neocloud stocks and rising worries over debt-funded expansion, after issuing $4.2 billion in convertible notes in September. Filings showed CEO Michael Intrator sold stock every week from April through late September 2026. Smaller neoclouds Nscale and SB Energy struggled with public offerings, while Singapore data center operator AirTrunk postponed its REIT listing. Elsewhere, Berkshire Hathaway invested $330 million in Bending Spoons, Anthropic agreed to license security tech from Opaque Systems, and OpenAI compute strategy VP Sachin Katti announced his departure."
+    },
+    "src-5dce1df60966d968fdab": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-15 The Information - Cursor investigated confidential data sent to SpaceX (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Cursor Staff Investigated Whether Confidential Data Reached SpaceX for AI Training",
+      "authority": "secondary",
+      "content_sha256": "1c47ddf32ab2011bc1ddb6fcaf35280c040ab0a578d1015a68af7f511d3c52e6",
+      "ingested_at": "2026-10-15",
+      "retrieved_at": "2026-10-15",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training.md"
+      ],
+      "supersedes": null,
+      "author": "Grace Kay",
+      "published": "2026-10-15",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/cursor-staff-investigated-whether-confidential-data-reached-spacex-ai-training",
+      "form": "article",
+      "summary": "Cursor engineers investigated whether internal testing of Grok Bot, code-named Sand, sent confidential customer, supplier, and partner records to SpaceX's AI unit for model training in late July 2026. A Cursor attorney warned that using the testing data could cause a major customer trust problem because the company lacked rights to train on enterprise data gathered across sales and recruiting. Cursor subsequently restricted access to corporate emails and barred employee data from model training. The episode followed earlier customer data leaks on Vercel marketing sites for Verizon, Bosch, and Coupa, as well as past security lapses at SpaceX and xAI."
     }
   }
 }

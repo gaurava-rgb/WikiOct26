@@ -490,6 +490,22 @@
       ],
       "source_id": "src-f14243f9d469a2f93102"
     },
+    ".raw/captured/2026-10-14 The Information - Anthropic slowing growth and IPO valuation (notes).md": {
+      "hash": "cd153f739d412a2af3a2b79adfc14bff1eb9ec252168828425e7bfe007a38e89",
+      "ingested_at": "2026-10-15",
+      "pages_created": [
+        "wiki/sources/2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation.md"
+      ],
+      "source_id": "src-27629e69984c9b69c7d6"
+    },
+    ".raw/captured/2026-10-14 The Information - CoreWeave founders stock sales and neocloud debt (notes).md": {
+      "hash": "19f73444320d8332ae5231722b1a43ba4e48a1a81912e44aa48d77a7701bb7f9",
+      "ingested_at": "2026-10-15",
+      "pages_created": [
+        "wiki/sources/2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence.md"
+      ],
+      "source_id": "src-2a5a23519558ba03fb41"
+    },
     ".raw/captured/2026-10-14 The Information - Inside a TPG-backed accounting firms AI plans (notes).md": {
       "hash": "380a34674c93f3fd9d57499ac64f51f74a299fc5822a9d437fd9b2a3cf76770a",
       "ingested_at": "2026-10-14",
@@ -505,6 +521,14 @@
         "wiki/sources/2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders.md"
       ],
       "source_id": "src-0c21d99d9d9003ce3675"
+    },
+    ".raw/captured/2026-10-15 The Information - Cursor investigated confidential data sent to SpaceX (notes).md": {
+      "hash": "1c47ddf32ab2011bc1ddb6fcaf35280c040ab0a578d1015a68af7f511d3c52e6",
+      "ingested_at": "2026-10-15",
+      "pages_created": [
+        "wiki/sources/2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training.md"
+      ],
+      "source_id": "src-5dce1df60966d968fdab"
     },
     ".raw/captured/2026.28_ XBOX On the Rocks.md": {
       "hash": "952790fa551289ee6883b864241796a4d483817fa6f376ff40e8fad1aec4a082",

@@ -3,7 +3,7 @@ type: entity
 title: Inflection
 status: developing
 created: 2026-10-13
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
@@ -27,4 +27,4 @@ Palo Alto AI startup founded in 2022 by Mustafa Suleyman, Karén Simonyan and Re
 
 ## Related concepts
 
-License-and-Hire Deal
+[[License-and-Hire|License-and-Hire Deal]]

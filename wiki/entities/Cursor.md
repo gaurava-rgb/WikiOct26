@@ -3,11 +3,11 @@ type: entity
 title: Cursor
 status: developing
 created: 2026-09-29
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
-claim_count: 17
+claim_count: 29
 ---
 
 # Cursor
@@ -63,6 +63,21 @@ AI coding startup whose editor and agent harness gather large amounts of code us
 
 - 0xSero says Cursor raising its prices in late 2024 was the moment he decided to switch from cloud AI to local AI. ([[2026-10-10-GPUs-in-the-Wine-Cellar-Why-Techies-Are-Hoarding-AI-Compute-in-Their-Homes#^clm-e5827b0d2bf5e01792a3|cite]])
 
+### 2026-10-15 [[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training|Cursor Staff Investigated Whether Confidential Data Reached SpaceX for AI Training]]
+
+- Cursor engineers investigated whether internal testing data containing confidential customer, supplier, and partner records was sent to SpaceX's AI unit for model training. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-2adb640a521979010524|cite]])
+- The data investigation took place in late July 2026, weeks before SpaceX's AI unit publicly launched the Grok Bot autonomous personal agent. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-26a36ef1f3dbb424f4a8|cite]])
+- A Cursor attorney warned internal staff that using employee testing data to train AI models could trigger a major trust problem with enterprise customers. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-739d4d0abb6072986296|cite]])
+- A Cursor lawyer stated that broad use of Sand meant datasets contained confidential third-party details that the company arguably lacked legal rights to train on. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-820ab47902fe54de9578|cite]])
+- Following the internal investigation, Cursor updated policies to exclude all employee usage data from future AI model training datasets. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-262f0ba2df95ef9f5104|cite]])
+- Cursor led the development of Grok Bot, an always-on AI workplace assistant, to expand beyond coding tools into general enterprise workflows. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-81dceb348eaef1f5b702|cite]])
+- Cursor employees tested Sand across sales, recruiting, and research starting in June 2026, giving the autonomous agent access to internal databases and customer communications. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-669d171828cadb430c4d|cite]])
+- Several Cursor employees accessed Sand using personal email accounts, complicating company efforts to identify and remove their data from training pools. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-32e0653da36689869691|cite]])
+- Earlier in 2026, Cursor sales and marketing staff inadvertently exposed confidential enterprise customer records through publicly accessible web pages deployed on Vercel. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-a55b8f08571ead3ae096|cite]])
+- An internal site for managing Verizon exposed managerial org charts, top users, email addresses, and software spending numbers embedded directly in readable front-end code. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-1b2c55bfd05a5a7fed86|cite]])
+- Cursor engineers responded to customer data exposures across client portals for Verizon, Bosch, and Coupa by creating an incident channel to take down the leaking sites. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-1a7536a8fbbe49a78947|cite]])
+- SpaceX completed its $60 billion acquisition of Cursor in mid-August 2026 to accelerate sales of enterprise AI products. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-88a6f62a2e347bc5510a|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[Data-Asset|Data as a Competitive Asset]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Seats-Plus-Consumption|Seats Plus Consumption (Per-User Plus Usage Pricing)]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Vertical-Integration|Vertical Integration]]
+[[AI-Agents|AI Agents]], [[Data-Asset|Data as a Competitive Asset]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Seats-Plus-Consumption|Seats Plus Consumption (Per-User Plus Usage Pricing)]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Vertical-Integration|Vertical Integration]], [[Zero-Data-Retention|Zero Data Retention]]

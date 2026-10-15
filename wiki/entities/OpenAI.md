@@ -3,11 +3,11 @@ type: entity
 title: OpenAI
 status: developing
 created: 2026-09-29
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
-claim_count: 374
+claim_count: 378
 ---
 
 # OpenAI
@@ -615,6 +615,16 @@ AI lab behind ChatGPT, the o1 reasoning models, and Codex.
 - Dario Amodei pushed OpenAI on information hazard risks before leaving in 2021, writing memos on an air-gapped computer disconnected from networks to avoid foreign espionage. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-d3b7b3426edcbc25c0d0|cite]])
 - In Apple's trade secrets lawsuit against OpenAI, a judge granted Apple expedited access to OpenAI's hiring materials and interview checklists for former Apple employees. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-5e0363a40ced255a0dbf|cite]])
 
+### 2026-10-14 [[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation|Anthropic’s Rapid But Slowing Growth Could Weigh on IPO Valuation]]
+
+- After Anthropic passed OpenAI in revenue earlier in 2026, OpenAI responded by expanding its enterprise AI offerings and pricing below Anthropic. ([[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation#^clm-b6a6b68806d65f7fa62c|cite]])
+- Corporate AI customers facing rising compute expenses are increasingly adopting lower-cost options, including open source models. ([[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation#^clm-9025a0c317ee1ad8cf18|cite]])
+
+### 2026-10-14 [[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence|CoreWeave Co-Founders’ Stock Sales Aren’t Helping Investor Confidence]]
+
+- Sachin Katti, vice president of compute strategy at OpenAI who joined after four years at Intel, announced he will leave OpenAI on November 15, 2026. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-f4fded2ebdbd41aa3aea|cite]])
+- OpenAI accused a former employee of sharing unreleased device plans with Apple executives, mirroring allegations Apple made against OpenAI in a July 2026 lawsuit. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-4f48635ea4d110ed08d5|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], AI Sycophancy, [[Agentic-Commerce|Agentic Commerce]], [[Aggregation-Theory|Aggregation Theory]], [[Annualized-Revenue|Annualized Revenue (ARR)]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Chain-of-Thought-Monitoring|Chain-of-Thought Monitoring]], [[Channel-Conflict|Channel Conflict]], [[Commoditize-Your-Complements|Commoditize Your Complements]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], Constitutional AI, [[Custom-Silicon|Custom Silicon]], Distillation (Training on Another Model's Outputs), Enterprise Philosophy (Tech's Third Philosophy), [[Export-Controls|Chip Export Controls]], [[Generative-UI|Generative UI (On-Demand Interfaces)]], [[LLM-Inflection-Points|Three LLM Inflection Points]], License-and-Hire Deal, [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], Mechanistic Interpretability, [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], Paperclip Maximizer (Bostrom), [[Price-Umbrella|Price Umbrella (Price Overhang)]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Reward-Hacking|Reward Hacking]], [[Switching-Costs|Switching Costs]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Zero-Data-Retention|Zero Data Retention]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], AI Sycophancy, [[Agentic-Commerce|Agentic Commerce]], [[Aggregation-Theory|Aggregation Theory]], [[Annualized-Revenue|Annualized Revenue (ARR)]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Chain-of-Thought-Monitoring|Chain-of-Thought Monitoring]], [[Channel-Conflict|Channel Conflict]], [[Commoditize-Your-Complements|Commoditize Your Complements]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], Constitutional AI, [[Custom-Silicon|Custom Silicon]], [[Distillation|Distillation (Training on Another Model's Outputs)]], Enterprise Philosophy (Tech's Third Philosophy), [[Export-Controls|Chip Export Controls]], [[Generative-UI|Generative UI (On-Demand Interfaces)]], [[LLM-Inflection-Points|Three LLM Inflection Points]], [[License-and-Hire|License-and-Hire Deal]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], Mechanistic Interpretability, [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], Paperclip Maximizer (Bostrom), [[Price-Umbrella|Price Umbrella (Price Overhang)]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Reward-Hacking|Reward Hacking]], [[Switching-Costs|Switching Costs]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Zero-Data-Retention|Zero Data Retention]]

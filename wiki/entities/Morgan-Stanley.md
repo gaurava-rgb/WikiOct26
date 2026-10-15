@@ -3,11 +3,11 @@ type: entity
 title: Morgan Stanley
 status: developing
 created: 2026-10-09
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
-claim_count: 2
+claim_count: 3
 ---
 
 # Morgan Stanley
@@ -23,3 +23,7 @@ U.S. investment bank.
 ### 2026-10-08 [[2026-10-08-AIs-Boom-Has-Infrastructure-Investors-Looking-at-Garbage|AI’s Boom Has Infrastructure Investors Looking at Garbage]]
 
 - Morgan Stanley Infrastructure Partners is focusing on waste management for its long-term municipal contracts and low commodity exposure, per a person familiar with the matter. ([[2026-10-08-AIs-Boom-Has-Infrastructure-Investors-Looking-at-Garbage#^clm-ecaf4d4e9891b30ae1bd|cite]])
+
+### 2026-10-14 [[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence|CoreWeave Co-Founders’ Stock Sales Aren’t Helping Investor Confidence]]
+
+- Morgan Stanley CEO Ted Pick warned that the AI build-out will face bottlenecks and periodic overbuilding, but long-term investment will persist at massive scale. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-20aef90bcc17bee80646|cite]])

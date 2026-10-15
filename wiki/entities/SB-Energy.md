@@ -3,11 +3,11 @@ type: entity
 title: SB Energy
 status: developing
 created: 2026-10-08
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
-claim_count: 2
+claim_count: 3
 ---
 
 # SB Energy
@@ -23,6 +23,10 @@ SoftBank-owned power and data center firm building capacity for OpenAI.
 ### 2026-10-07 [[2026-10-07-Where-Nvidias-100-Billion-Dealmaking-Juggernaut-Will-Go-Next|Where Nvidia's $100 Billion Dealmaking Juggernaut Will Go Next]]
 
 - For OpenAI's Ohio data center, Nvidia first discussed $250 billion in credit support, then guaranteed $105 billion for phase one only, plus a $3 billion investment in SB Energy. ([[2026-10-07-Where-Nvidias-100-Billion-Dealmaking-Juggernaut-Will-Go-Next#^clm-89f123836c3cf166975f|cite]])
+
+### 2026-10-14 [[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence|CoreWeave Co-Founders’ Stock Sales Aren’t Helping Investor Confidence]]
+
+- Less-established neocloud operators Nscale and SB Energy have struggled to complete initial public offerings amid tightening market demand. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-d302996cdc58df0de16f|cite]])
 
 ## Related concepts
 

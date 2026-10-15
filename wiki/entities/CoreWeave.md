@@ -3,11 +3,11 @@ type: entity
 title: CoreWeave
 status: developing
 created: 2026-10-09
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
-claim_count: 3
+claim_count: 9
 ---
 
 # CoreWeave
@@ -28,6 +28,15 @@ Neocloud that rents out Nvidia AI chips; Nvidia has invested in it.
 
 - Martin Peers argues AWS should be worth at least $1 trillion given its expected growth and where neoclouds CoreWeave and Nebius trade. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-3a47551ed1aab0e215f7|cite]])
 
+### 2026-10-14 [[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence|CoreWeave Co-Founders’ Stock Sales Aren’t Helping Investor Confidence]]
+
+- CoreWeave shares fell 15.5% on October 14, 2026, amid a broader sell-off in debt-financed neoclouds triggered by inflation data and interest rate hike expectations. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-96bac021aadd33a6cfca|cite]])
+- CoreWeave faced market chatter that its bonds declined to distressed levels as investors grew wary of debt-funded AI data center expansion. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-f92543f5c2071f79cb82|cite]])
+- CoreWeave CEO Michael Intrator sold company shares every week from April through late September 2026, while other co-founders also sold stock regularly. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-53f83eadaa24f346d8d5|cite]])
+- CoreWeave shares slid from $128 in May 2026 to $86 in September and reached $65 following insider sales and market headwinds. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-28320267b64634dbf7ba|cite]])
+- CoreWeave issued $4.2 billion in convertible notes in September 2026 and announced plans to sell up to 35 million shares over time to finance expansion. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-9a1e292c5ff8f751dbf9|cite]])
+- CoreWeave co-founder Brannin McBee told the Financial Times that the firm hopes to borrow from insurance companies with unlimited capital, arguing operators must achieve massive scale. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-a84dc0e414b9bbda78c3|cite]])
+
 ## Related concepts
 
-[[AI-Compute-Demand|AI Compute Demand vs Supply]]
+[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Capex-vs-Opex|Capex vs Opex]], [[Scale-Economies|Scale Economies]]

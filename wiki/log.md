@@ -13,6 +13,11 @@ tags:
 
 Newest completed operations appear first.
 
+## 2026-10-15 ingest-20261015-b27
+
+- Batch 27: TI Oct 14-15 (Anthropic Q3 & IPO, CoreWeave stock sales & neocloud debt, Cursor data leak & SpaceX Grok Bot).
+- Sources: 3; claims added or updated this batch: 41.
+
 ## 2026-10-14 editor-update-20261014-b26
 
 - Editor update: slotted Lenny's Newsletter metric benchmarking (batch b26) into retail story and what-changed page.

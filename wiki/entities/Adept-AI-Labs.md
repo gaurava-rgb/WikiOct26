@@ -3,7 +3,7 @@ type: entity
 title: Adept AI Labs
 status: developing
 created: 2026-10-13
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
@@ -27,4 +27,4 @@ San Francisco AI startup founded in 2021 that built a browser agent for office t
 
 ## Related concepts
 
-[[AI-Agents|AI Agents]], License-and-Hire Deal
+[[AI-Agents|AI Agents]], [[License-and-Hire|License-and-Hire Deal]]

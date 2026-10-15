@@ -3,11 +3,11 @@ type: entity
 title: xAI
 status: developing
 created: 2026-09-29
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - entity
   - entity/company
-claim_count: 48
+claim_count: 51
 ---
 
 # xAI
@@ -106,6 +106,12 @@ Elon Musk's AI company, a partner in the Terafab chip factory project.
 
 - Earlier in 2026 OpenAI shut down its Sora video model and the TikTok-like app it powered, as part of a wider cull of server-heavy side projects, while xAI and Google kept building video models. ([[2026-10-12-OpenAIs-Plan-To-Revive-Sora#^clm-0002e45cdd119cf09393|cite]])
 
+### 2026-10-15 [[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training|Cursor Staff Investigated Whether Confidential Data Reached SpaceX for AI Training]]
+
+- Cursor engineers investigated whether internal testing data containing confidential customer, supplier, and partner records was sent to SpaceX's AI unit for model training. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-2adb640a521979010524|cite]])
+- In March 2025, a SpaceXSI employee exposed an internal Grok API key after accidentally uploading a test script to a public GitHub repository. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-8348b6ff93792bea7340|cite]])
+- In summer 2026, researcher discovery of Grok Build uploading entire Git repositories to Google Cloud storage led xAI to disable uploads and open source the tool. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-2b9491f0c34fc99a05a2|cite]])
+
 ## Related concepts
 
-[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Aggregation-Theory|Aggregation Theory]], [[Data-Asset|Data as a Competitive Asset]], [[Dollars-Per-Gigawatt|Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Scale-Economies|Scale Economies]], [[Switching-Costs|Switching Costs]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Vertical-Integration|Vertical Integration]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Aggregation-Theory|Aggregation Theory]], [[Data-Asset|Data as a Competitive Asset]], [[Dollars-Per-Gigawatt|Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Scale-Economies|Scale Economies]], [[Switching-Costs|Switching Costs]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Vertical-Integration|Vertical Integration]], [[Zero-Data-Retention|Zero Data Retention]]
