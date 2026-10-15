@@ -730,6 +730,14 @@
       ],
       "source_id": "src-877ad11e835c97ea13d2"
     },
+    ".raw/captured/Lenny's Newsletter Metric Benchmarking.md": {
+      "hash": "f093b93066d0bcf94c2992f1224571e964ca907299665e0be1b5b2c02997586c",
+      "ingested_at": "2026-10-14",
+      "pages_created": [
+        "wiki/sources/2026-10-14-Lennys-Newsletter-Metric-Benchmarking.md"
+      ],
+      "source_id": "src-52b5d55b123669213693"
+    },
     ".raw/captured/Meta Settles, A Framework For Regulating Content, The Rest of Big Tech.md": {
       "hash": "a52a32386d3de9f12adcb3e32e22f96e587cb2b3b367b3d75a658189803b0a9f",
       "ingested_at": "2026-09-29",

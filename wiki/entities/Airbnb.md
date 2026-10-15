@@ -7,7 +7,7 @@ updated: 2026-10-14
 tags:
   - entity
   - entity/company
-claim_count: 7
+claim_count: 8
 ---
 
 # Airbnb
@@ -28,6 +28,10 @@ Home-sharing marketplace that connects travelers with hosts renting out their ow
 ### 2015-07-21 [[2015-07-21-Aggregation-Theory|Aggregation Theory]]
 
 - Airbnb and Uber digitized trust (and, for Uber, dispatch) to disrupt industries without a digital product. ([[2015-07-21-Aggregation-Theory#^clm-ac57be0b9bb05a7d7f18|cite]])
+
+### 2026-10-14 [[2026-10-14-Lennys-Newsletter-Metric-Benchmarking|Metric Benchmarking]]
+
+- Online marketplace benchmarks define a gross margin of 70% as good and 80% or higher as great, while heavily managed marketplaces like DoorDash operate with lower margins. ([[2026-10-14-Lennys-Newsletter-Metric-Benchmarking#^clm-6825c42b75e3d2a422fd|cite]])
 
 ## Related concepts
 

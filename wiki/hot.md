@@ -13,20 +13,17 @@ tags:
 
 ## Last Updated
 
-2026-10-14: Batch 25: TI Oct 14 (TPG accounting AI & crypto math).
+2026-10-14: Batch 26: Lenny's Newsletter (metric benchmarking).
 
 ## Key Recent Facts
 
-- Smith + Howard, backed by private equity firm TPG, is preparing a new round of acquisitions, including two deals expected to close by the end of 2026.
-- Smith + Howard plans to use artificial intelligence to expand its business without hiring accountants at its previous pace.
-- OpenAI's release of over 300 math solutions from an internal model sparked concern among cryptographers about potential risks to internet encryption.
-- Cryptographers worry AI advances in mathematics could discover algorithms that crack methods protecting online payments and messaging platforms.
+- Lenny Rachitsky and Yuriy Timen define a good new user activation rate as 35% and a great rate as 50% or higher.
+- Datadog reports that 58% of its customer base uses four or more products, representing strong multi-product account expansion.
 
 ## Recent Changes
 
-- Source: [[2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions|Inside a TPG-Backed Accounting Firm’s Plans for AI and More Acquisitions]]
-- Source: [[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders|OpenAI’s Math Breakthroughs Rattle Cryptography Leaders]]
+- Source: [[2026-10-14-Lennys-Newsletter-Metric-Benchmarking|Metric Benchmarking]]
 
 ## Totals
 
-- Sources: 115; claims: 2714; entity pages: 308; concept pages: 50.
+- Sources: 116; claims: 2726; entity pages: 311; concept pages: 50.

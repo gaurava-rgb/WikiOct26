@@ -75158,8 +75158,323 @@
         "OpenAI"
       ],
       "concepts": []
+    },
+    "clm-b014c863effa3320853d": {
+      "text": "Lenny Rachitsky and Yuriy Timen define a good new user activation rate as 35% and a great rate as 50% or higher.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Lennys-Newsletter-Metric-Benchmarking.md",
+        "anchor": "^clm-b014c863effa3320853d"
+      },
+      "evidence": [
+        {
+          "source_id": "src-52b5d55b123669213693",
+          "relation": "supports",
+          "locator": "§ Engagement and activity metrics: “New user activation rate: Good is 35%, Great is 50%+”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [
+        "Lenny Rachitsky"
+      ],
+      "concepts": []
+    },
+    "clm-017e35f87397c5843bea": {
+      "text": "Datadog reports that 58% of its customer base uses four or more products, representing strong multi-product account expansion.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Lennys-Newsletter-Metric-Benchmarking.md",
+        "anchor": "^clm-017e35f87397c5843bea"
+      },
+      "evidence": [
+        {
+          "source_id": "src-52b5d55b123669213693",
+          "relation": "supports",
+          "locator": "§ Engagement and activity metrics: “Majority of customers using multiple products. For example, Datadog has 58% of customers using 4+ products”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [
+        "Datadog"
+      ],
+      "concepts": [
+        "Switching-Costs"
+      ]
+    },
+    "clm-471c3a414350ad1bf748": {
+      "text": "CrowdStrike reports that 51% of its customer base uses six or more modules, illustrating deep multi-product adoption.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Lennys-Newsletter-Metric-Benchmarking.md",
+        "anchor": "^clm-471c3a414350ad1bf748"
+      },
+      "evidence": [
+        {
+          "source_id": "src-52b5d55b123669213693",
+          "relation": "supports",
+          "locator": "§ Engagement and activity metrics: “CrowdStrike has 51% using 6+ products”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [
+        "CrowdStrike"
+      ],
+      "concepts": [
+        "Switching-Costs"
+      ]
+    },
+    "clm-7359db2021ebe5252d3a": {
+      "text": "Venture benchmarks establish that net revenue retention of 100% is considered good, while 120% or higher is considered great for software companies.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Lennys-Newsletter-Metric-Benchmarking.md",
+        "anchor": "^clm-7359db2021ebe5252d3a"
+      },
+      "evidence": [
+        {
+          "source_id": "src-52b5d55b123669213693",
+          "relation": "supports",
+          "locator": "§ Retention metrics: “Net revenue retention: Good is 100%, Great is 120%+”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [],
+      "concepts": [
+        "Switching-Costs"
+      ]
+    },
+    "clm-eb9f1c5c86ef137652cc": {
+      "text": "SaaS benchmarks define annual gross revenue retention of 90% as good and 95% or higher as top-quartile performance.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Lennys-Newsletter-Metric-Benchmarking.md",
+        "anchor": "^clm-eb9f1c5c86ef137652cc"
+      },
+      "evidence": [
+        {
+          "source_id": "src-52b5d55b123669213693",
+          "relation": "supports",
+          "locator": "§ Retention metrics: “Gross revenue retention: Good is 90%, Great is 95%+”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [],
+      "concepts": [
+        "Switching-Costs"
+      ]
+    },
+    "clm-df0107f04639e7f9f036": {
+      "text": "Venture capital benchmarks define annual logo retention of 85% as good and 95% or higher as best in class.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Lennys-Newsletter-Metric-Benchmarking.md",
+        "anchor": "^clm-df0107f04639e7f9f036"
+      },
+      "evidence": [
+        {
+          "source_id": "src-52b5d55b123669213693",
+          "relation": "supports",
+          "locator": "§ Retention metrics: “Annual logo retention: Good is 85%, Great is 95%+”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [],
+      "concepts": [
+        "Switching-Costs"
+      ]
+    },
+    "clm-6159ca9ef33295044b39": {
+      "text": "Lenny Rachitsky and Casey Winters define good 6-month user retention as 30% for marketplaces and 25% for social networks, and great retention as 50% and 45% respectively.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Lennys-Newsletter-Metric-Benchmarking.md",
+        "anchor": "^clm-6159ca9ef33295044b39"
+      },
+      "evidence": [
+        {
+          "source_id": "src-52b5d55b123669213693",
+          "relation": "supports",
+          "locator": "§ Retention metrics: “6-month user retention: Good is 30% for marketplaces and 25% for social; Great is 50% for marketplaces and 45% for social”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [
+        "Lenny Rachitsky"
+      ],
+      "concepts": []
+    },
+    "clm-e400277714dea0802da3": {
+      "text": "Industrial cost efficiency benchmarks define a healthy cost decline per unit as 15% each time cumulative production volume doubles, with top-tier declines reaching 20% or more.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Lennys-Newsletter-Metric-Benchmarking.md",
+        "anchor": "^clm-e400277714dea0802da3"
+      },
+      "evidence": [
+        {
+          "source_id": "src-52b5d55b123669213693",
+          "relation": "supports",
+          "locator": "§ Cost efficiency metrics: “Cost per unit: decreases each time total volume doubles by 15% for Good, 20%+ for Great”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [],
+      "concepts": [
+        "Scale-Economies"
+      ]
+    },
+    "clm-7477c8b3cbdb633d58b9": {
+      "text": "Cloud software benchmarks establish that a gross margin of 75% is considered healthy, while 80% or higher is considered top quartile.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Lennys-Newsletter-Metric-Benchmarking.md",
+        "anchor": "^clm-7477c8b3cbdb633d58b9"
+      },
+      "evidence": [
+        {
+          "source_id": "src-52b5d55b123669213693",
+          "relation": "supports",
+          "locator": "§ Cost efficiency metrics: “Gross margin for software: Good is 75%, Great is 80%+”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [],
+      "concepts": []
+    },
+    "clm-58d64c8b1451e49fb6cd": {
+      "text": "Venture benchmarks for artificial intelligence applications establish that a gross margin of 50% is considered good and 60% or higher is considered great, reflecting heavy inference costs.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Lennys-Newsletter-Metric-Benchmarking.md",
+        "anchor": "^clm-58d64c8b1451e49fb6cd"
+      },
+      "evidence": [
+        {
+          "source_id": "src-52b5d55b123669213693",
+          "relation": "supports",
+          "locator": "§ Cost efficiency metrics: “Gross margin for AI apps: Good is 50%, Great is 60%+”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [],
+      "concepts": []
+    },
+    "clm-6825c42b75e3d2a422fd": {
+      "text": "Online marketplace benchmarks define a gross margin of 70% as good and 80% or higher as great, while heavily managed marketplaces like DoorDash operate with lower margins.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Lennys-Newsletter-Metric-Benchmarking.md",
+        "anchor": "^clm-6825c42b75e3d2a422fd"
+      },
+      "evidence": [
+        {
+          "source_id": "src-52b5d55b123669213693",
+          "relation": "supports",
+          "locator": "§ Cost efficiency metrics: “Gross margin for marketplaces: Good is 70%, Great is 80%+”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [
+        "DoorDash",
+        "Airbnb",
+        "eBay",
+        "Etsy"
+      ],
+      "concepts": [
+        "Two-Sided-Marketplace"
+      ]
+    },
+    "clm-1789f238d7ab08df198b": {
+      "text": "Software investor benchmarks define a customer acquisition cost payback period under 18 months as good and under 12 months as great.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-14",
+      "location": {
+        "path": "wiki/sources/2026-10-14-Lennys-Newsletter-Metric-Benchmarking.md",
+        "anchor": "^clm-1789f238d7ab08df198b"
+      },
+      "evidence": [
+        {
+          "source_id": "src-52b5d55b123669213693",
+          "relation": "supports",
+          "locator": "§ Cost efficiency metrics: “CAC payback period: Good is under 18 months, Great is under 12 months”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [],
+      "concepts": []
     }
   },
-  "generated_at": "2026-10-14T14:47:54Z",
+  "generated_at": "2026-10-15T02:30:28Z",
   "schema": "claude-obsidian.claim-ledger.v1"
 }

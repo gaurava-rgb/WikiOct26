@@ -13,6 +13,11 @@ tags:
 
 Newest completed operations appear first.
 
+## 2026-10-14 ingest-20261014-b26
+
+- Batch 26: Lenny's Newsletter (metric benchmarking).
+- Sources: 1; claims added or updated this batch: 12.
+
 ## 2026-10-14 editor-update-20261014-b25
 
 - Editor update: slotted 2 Oct 14 The Information articles (batch b25) into the OpenAI and Anthropic 2026 journeys; 2 what-changed entries on crypto math and professional services AI economics.

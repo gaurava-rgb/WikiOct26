@@ -7,7 +7,7 @@ updated: 2026-10-14
 tags:
   - entity
   - entity/company
-claim_count: 12
+claim_count: 13
 ---
 
 # DoorDash
@@ -37,6 +37,10 @@ US food and goods delivery app.
 - DoorDash bookings growth slowed to 19% at the end of 2024 from 36% at the end of 2021, then sped back up to 36% over the past 18 months, much of it from Deliveroo. ([[2026-10-06-Ubers-MA-Blitz#^clm-b150397aadcfedb1c705|cite]])
 - Peers reads both companies as throwing off lots of cash, so when a deal looks promising they just go for it. ([[2026-10-06-Ubers-MA-Blitz#^clm-bf8e6c960152d14a43d5|cite]])
 
+### 2026-10-14 [[2026-10-14-Lennys-Newsletter-Metric-Benchmarking|Metric Benchmarking]]
+
+- Online marketplace benchmarks define a gross margin of 70% as good and 80% or higher as great, while heavily managed marketplaces like DoorDash operate with lower margins. ([[2026-10-14-Lennys-Newsletter-Metric-Benchmarking#^clm-6825c42b75e3d2a422fd|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[Agentic-Commerce|Agentic Commerce]], [[Aggregation-Theory|Aggregation Theory]]
+[[AI-Agents|AI Agents]], [[Agentic-Commerce|Agentic Commerce]], [[Aggregation-Theory|Aggregation Theory]], [[Two-Sided-Marketplace|Two-Sided Marketplace (Platform)]]

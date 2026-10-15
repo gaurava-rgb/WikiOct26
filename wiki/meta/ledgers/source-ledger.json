@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T14:47:54Z",
+  "generated_at": "2026-10-15T02:30:28Z",
   "schema": "claude-obsidian.source-ledger.v1",
   "sources": {
     "src-a3fe751aca2f987ed6fc": {
@@ -2876,6 +2876,31 @@
       "url": "https://www.theinformation.com/articles/openais-math-breakthroughs-rattle-cryptography-leaders",
       "form": "newsletter",
       "summary": "OpenAI's release of over 300 math solutions from an internal model sparked concerns among leading cryptographers about AI cracking public key cryptography that secures internet payments and messaging. Pioneers Whitfield Diffie and Martin Hellman along with computer scientists warned that advances could threaten elliptic curve cryptography within years. The piece also reports on the FBI arrest of an OpenAI employee for planting a recording device in an executive conference room, cost-cutting targets at Microsoft Azure, JPMorgan blocking external agents from client accounts, and Character.ai's bankruptcy filing."
+    },
+    "src-52b5d55b123669213693": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/Lenny's Newsletter Metric Benchmarking.md"
+      },
+      "content_kind": "document",
+      "title": "Metric Benchmarking",
+      "authority": "secondary",
+      "content_sha256": "f093b93066d0bcf94c2992f1224571e964ca907299665e0be1b5b2c02997586c",
+      "ingested_at": "2026-10-14",
+      "retrieved_at": "2026-10-14",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "Lenny's Newsletter",
+      "pages": [
+        "wiki/sources/2026-10-14-Lennys-Newsletter-Metric-Benchmarking.md"
+      ],
+      "supersedes": null,
+      "author": "Lenny Rachitsky",
+      "published": "2026-10-14",
+      "publisher": "Lenny's Newsletter",
+      "url": "https://www.lennysnewsletter.com/",
+      "form": "newsletter",
+      "summary": "Lenny Rachitsky compiles quantitative benchmark targets for good and great startup performance across engagement, retention, and cost efficiency. Metrics include user activation rates, multi-product expansion at firms like Datadog and CrowdStrike, net revenue retention, logo retention, gross margins across software, AI applications, and marketplaces, and customer acquisition payback periods."
     }
   }
 }
