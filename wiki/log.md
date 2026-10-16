@@ -13,6 +13,10 @@ tags:
 
 Newest completed operations appear first.
 
+## 2026-10-16 editor-update-20261016-b28
+
+- Editor update: slotted 6 The Information articles (batch b28) into the AI shift story, OpenAI late 2026 journey, Anthropic 2026 journey, Apple 2025-2026 journey, and what-changed page; 4 what-changed entries on Anthropic IPO valuation target reset, Apple capital-light multiple expansion, OpenAI chat search ad discount vs Google, and enterprise token efficiency rationing.
+
 ## 2026-10-16 ingest-20261016-b28
 
 - Batch 28: TI Oct 15-16 OpenAI ads, Anthropic IPO, Cognition Devin, private tech, Antithesis, Apple antitrust.
