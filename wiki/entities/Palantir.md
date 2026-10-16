@@ -3,11 +3,11 @@ type: entity
 title: Palantir
 status: developing
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company
-claim_count: 12
+claim_count: 13
 ---
 
 # Palantir
@@ -42,6 +42,10 @@ Data analytics and software company that serves the U.S. government and large en
 ### 2026-10-13 [[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit|OpenAI’s Bug and Bumble’s AI-Powered Exit]]
 
 - Peers argues acquisitions of distressed companies are being dressed up as AI-driven purchases, and that Bumble could adopt AI without being sold, for example with forward-deployed engineers from Google or Palantir; the real reason it is selling is a troubled business. ([[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit#^clm-f685252bd1afb529d325|cite]])
+
+### 2026-10-15 [[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator|Why AI-Written Software Needs a Flight Simulator]]
+
+- Antithesis counts Replit, Palantir, and Datadog among corporate customers using its deterministic software testing platform. ([[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator#^clm-84237916b93225bc24d7|cite]])
 
 ## Related concepts
 

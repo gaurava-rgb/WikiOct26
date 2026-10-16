@@ -3,11 +3,11 @@ type: entity
 title: Broadcom
 status: developing
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company
-claim_count: 7
+claim_count: 9
 ---
 
 # Broadcom
@@ -40,6 +40,11 @@ Chip company that makes Google's TPU chips together with Google.
 ### 2026-10-08 [[2026-10-08-How-OpenAI-Beat-Math|How OpenAI Beat Math]]
 
 - Broadcom is arranging more than $50 billion in financing for a custom AI chip it is building with OpenAI, approaching lenders including Apollo and Blackstone, per the Wall Street Journal. ([[2026-10-08-How-OpenAI-Beat-Math#^clm-c6fd79e3b5eda0a07265|cite]])
+
+### 2026-10-15 [[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment|Did Anthropic Miss Its Peak IPO Moment?]]
+
+- An IPO valuation of $1.4 trillion to $1.5 trillion would make Anthropic the ninth-largest tech company, ranking below Broadcom and above Tesla. ([[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment#^clm-dd323faaa4d7461918e6|cite]])
+- CoreWeave and Broadcom formally objected to OKXICE plans to trade tokenized blockchain versions of their corporate shares. ([[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment#^clm-1c8be37fa6d0bf62e4de|cite]])
 
 ## Related concepts
 

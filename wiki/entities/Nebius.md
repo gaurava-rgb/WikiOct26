@@ -3,11 +3,11 @@ type: entity
 title: Nebius
 status: developing
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company
-claim_count: 4
+claim_count: 5
 ---
 
 # Nebius
@@ -32,6 +32,10 @@ Neocloud that rents out AI chips; Nvidia has invested in it.
 
 - Martin Peers argues AWS should be worth at least $1 trillion given its expected growth and where neoclouds CoreWeave and Nebius trade. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-3a47551ed1aab0e215f7|cite]])
 
+### 2026-10-15 [[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech|The Party Is Still Going Strong for Private Tech]]
+
+- Public market investors sold off shares of CoreWeave and Nebius amid escalating bond yields and concerns over debt-heavy AI infrastructure financing. ([[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech#^clm-26dc2552a4de4d20647f|cite]])
+
 ## Related concepts
 
-[[AI-Compute-Demand|AI Compute Demand vs Supply]]
+[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Capex-vs-Opex|Capex vs Opex]]

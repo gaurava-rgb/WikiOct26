@@ -3,7 +3,7 @@ type: entity
 title: "Trader Joe's"
 status: developing
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company

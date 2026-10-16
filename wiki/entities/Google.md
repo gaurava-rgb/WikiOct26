@@ -3,11 +3,11 @@ type: entity
 title: Google
 status: developing
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company
-claim_count: 169
+claim_count: 171
 ---
 
 # Google
@@ -334,6 +334,14 @@ Search and advertising giant (Alphabet); builds Gemini models and TPU chips.
 
 - Peers argues acquisitions of distressed companies are being dressed up as AI-driven purchases, and that Bumble could adopt AI without being sold, for example with forward-deployed engineers from Google or Palantir; the real reason it is selling is a troubled business. ([[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit#^clm-f685252bd1afb529d325|cite]])
 - In 2024 Google paid $2.7 billion to license Character.AI's models, letting investors cash out at a profit, and co-founders Noam Shazeer and Daniel De Freitas rejoined Google; Shazeer later left for OpenAI. ([[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit#^clm-4d2ace177c08be2be859|cite]])
+
+### 2026-10-15 [[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices|OpenAI Accelerates Ad Sprint With Meta Hires, Slashed Prices]]
+
+- A click on a ChatGPT advertisement costs approximately $5, compared to $30 to $50 on Google search for equivalent software buyers. ([[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices#^clm-930d0d8384aaca5b466a|cite]])
+
+### 2026-10-15 [[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment|Did Anthropic Miss Its Peak IPO Moment?]]
+
+- Apple shares gained 26% year to date through mid-October 2026, outpacing Alphabet, Amazon, Meta, and Microsoft which rose 10% to 12%. ([[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment#^clm-24a0b2eaeedd5d17e570|cite]])
 
 ## Related concepts
 

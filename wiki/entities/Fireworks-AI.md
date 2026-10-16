@@ -3,11 +3,11 @@ type: entity
 title: Fireworks AI
 status: developing
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company
-claim_count: 6
+claim_count: 7
 ---
 
 # Fireworks AI
@@ -25,6 +25,10 @@ One of the largest AI inference providers by revenue.
 - Closed-model makers OpenAI and Anthropic are cutting prices harder, a price war that threatens inference providers. ([[2026-09-25-Fireworks-Fal-Consider-New-Rounds-as-Inference-Demand-Soars#^clm-648262348f2bb9a1248d|cite]])
 - Inference providers have historically run about 50% gross margins, versus 70%-plus at the best software firms, and the compute they rent is getting more expensive. ([[2026-09-25-Fireworks-Fal-Consider-New-Rounds-as-Inference-Demand-Soars#^clm-a5f6dd9df9bae018e297|cite]])
 
+### 2026-10-15 [[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech|The Party Is Still Going Strong for Private Tech]]
+
+- Inference startups Fireworks AI, Baseten, and Fal experienced surging developer demand as enterprises adopted open-source models that undercut OpenAI and Anthropic. ([[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech#^clm-05f42f7e1f9337a09c66|cite]])
+
 ## Related concepts
 
-[[AI-Compute-Demand|AI Compute Demand vs Supply]]
+[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Open-Weight-Models|Open-Weight Models]]

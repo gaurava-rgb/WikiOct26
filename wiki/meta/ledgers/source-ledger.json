@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T19:55:48Z",
+  "generated_at": "2026-10-16T20:08:55Z",
   "schema": "claude-obsidian.source-ledger.v1",
   "sources": {
     "src-a3fe751aca2f987ed6fc": {
@@ -2976,6 +2976,156 @@
       "url": "https://www.theinformation.com/articles/cursor-staff-investigated-whether-confidential-data-reached-spacex-ai-training",
       "form": "article",
       "summary": "Cursor engineers investigated whether internal testing of Grok Bot, code-named Sand, sent confidential customer, supplier, and partner records to SpaceX's AI unit for model training in late July 2026. A Cursor attorney warned that using the testing data could cause a major customer trust problem because the company lacked rights to train on enterprise data gathered across sales and recruiting. Cursor subsequently restricted access to corporate emails and barred employee data from model training. The episode followed earlier customer data leaks on Vercel marketing sites for Verizon, Bosch, and Coupa, as well as past security lapses at SpaceX and xAI."
+    },
+    "src-ac69b9ab87c1f0666fc3": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-15 The Information - OpenAI accelerates ad sprint with Meta hires and price cuts (notes).md"
+      },
+      "content_kind": "document",
+      "title": "OpenAI Accelerates Ad Sprint With Meta Hires, Slashed Prices",
+      "authority": "secondary",
+      "content_sha256": "02031e034dcdcb164fc541b51c544abc0dfeda4b73572799dcd1e5368692d5f8",
+      "ingested_at": "2026-10-16",
+      "retrieved_at": "2026-10-16",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices.md"
+      ],
+      "supersedes": null,
+      "author": "Alix Coutures",
+      "published": "2026-10-15",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/openais-accelerates-ad-sprint-meta-hires-slashed-prices",
+      "form": "article",
+      "summary": "OpenAI accelerated its advertising push by hiring dozens of ad specialists from Meta Platforms and cutting ad prices. The advertising group grew to roughly 140 employees under former Meta executive Dave Dugan, though it reorganized seven times since launching in February 2026. Annualized ad revenue reached $1 billion in late August 2026, though the business is likely to miss its earlier $2.4 billion target for the full year. Active advertisers jumped to 60,000 in early October as click costs fell to $5 compared to $30 to $50 on Google search."
+    },
+    "src-edcb4ae45fd8a75c58f2": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-15 The Information - Did Anthropic miss its peak IPO moment (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Did Anthropic Miss Its Peak IPO Moment?",
+      "authority": "secondary",
+      "content_sha256": "df98065fc7b3f422fa66b188cdce44cc1288c76ef95147f3af272bf5522a57f6",
+      "ingested_at": "2026-10-16",
+      "retrieved_at": "2026-10-16",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment.md"
+      ],
+      "supersedes": null,
+      "author": "Martin Peers",
+      "published": "2026-10-15",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/anthropic-miss-peak-ipo-moment",
+      "form": "article",
+      "summary": "Anthropic's slowing third-quarter revenue growth has sparked investor debate over whether the AI lab delayed its initial public offering past its peak valuation moment. Manhattan Venture Partners projected an IPO valuation of $1.4 trillion to $1.5 trillion, below earlier $2 trillion expectations. Doubts persist around Anthropic's competitive moat as enterprises turn to cheaper models and the company carries over $500 billion in compute commitments. In contrast, Apple's capital-light strategy helped its shares rise 26% year to date as the only big tech firm with valuation multiple expansion."
+    },
+    "src-8c4b7d30a9a7e28e6e9f": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-15 The Information - Cognitions plan to limit tokenmaxxing to efficient engineers (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Cognition’s Plan to Limit Tokenmaxxing to the Most Efficient Engineers",
+      "authority": "secondary",
+      "content_sha256": "8e82b8b1c93867b4fa37517c334dd7d4c8e221d3c6266641534ae0e3ec604f77",
+      "ingested_at": "2026-10-16",
+      "retrieved_at": "2026-10-16",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers.md"
+      ],
+      "supersedes": null,
+      "author": "Rocket Drew",
+      "published": "2026-10-15",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/cognitions-plan-limit-tokenmaxxing-efficient-engineers",
+      "form": "article",
+      "summary": "Cognition introduced dynamic token allocations for its AI software engineer Devin, measuring human work hours against session compute costs to allocate higher limits to efficient engineers. The company also launched Devin Coach to intercept common prompting mistakes and detect non-work usage. In corporate finance, Anduril launched a $1.3 billion tender at a $90 billion valuation, Modal raised $750 million at $15.75 billion, and OpenAI compute head Sachin Katti announced his departure."
+    },
+    "src-5a8ec04efffa9d541168": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-15 The Information - The party is still going strong for private tech (notes).md"
+      },
+      "content_kind": "document",
+      "title": "The Party Is Still Going Strong for Private Tech",
+      "authority": "secondary",
+      "content_sha256": "049cf784159324cf68c6d65053bed2007b7f4468fd124c0d2f9329a14fe8273b",
+      "ingested_at": "2026-10-16",
+      "retrieved_at": "2026-10-16",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech.md"
+      ],
+      "supersedes": null,
+      "author": "Valida Pau",
+      "published": "2026-10-15",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/party-still-going-strong-private-tech",
+      "form": "article",
+      "summary": "Investors at Morgan Stanley's private tech conference exhibited a stark disconnect between troubled public tech markets and buoyant private startup fundraising. While public investors dumped shares of CoreWeave and Nebius over mounting infrastructure debt and Australian operator Firmus yanked its IPO, private tech investors eagerly backed inference providers Fireworks AI, Baseten, and Fal. Meanwhile, data center builder Nscale sought to raise up to $3 billion in a public listing at an ambitious $35 billion valuation."
+    },
+    "src-d5bc2d65ac46a881be20": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-15 The Information - Why AI written software needs a flight simulator (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Why AI-Written Software Needs a Flight Simulator",
+      "authority": "secondary",
+      "content_sha256": "73b39ffb4d1640d96166b08660cc6f99bd76c800548412e2bacf03758d2750de",
+      "ingested_at": "2026-10-16",
+      "retrieved_at": "2026-10-16",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator.md"
+      ],
+      "supersedes": null,
+      "author": "Laura Bratton",
+      "published": "2026-10-15",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/ai-written-software-needs-flight-simulator",
+      "form": "article",
+      "summary": "Surging enterprise adoption of AI-generated code has driven demand for deterministic testing software that repeatedly simulates network disasters and rogue AI attacks. Replit uses deterministic simulators from Virginia startup Antithesis, which counts Palantir and Datadog among its customers. Antithesis booked more new revenue in the August 2026 quarter than in the preceding five quarters combined after raising $105 million from Jane Street, while competitors Microsoft and Amazon sell live server fault-injection tools."
+    },
+    "src-a553ba9d51c8b42af506": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-16 The Information - Apples antitrust settlement talks spur developer worries (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Apple’s Antitrust Settlement Talks Spur Worries Among Developers",
+      "authority": "secondary",
+      "content_sha256": "e3ce9bb94f2badb736f50013309a2c7cb23b1d9239e0f29870b5c968dfb66475",
+      "ingested_at": "2026-10-16",
+      "retrieved_at": "2026-10-16",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers.md"
+      ],
+      "supersedes": null,
+      "author": "Aaron Tilley",
+      "published": "2026-10-16",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/apples-antitrust-settlement-talks-spur-worries-among-developers",
+      "form": "article",
+      "summary": "The U.S. Department of Justice has engaged in settlement discussions to resolve its 2024 antitrust lawsuit against Apple, sparking concerns among app developers including PayPal and Epic Games that a deal will not dismantle anticompetitive restrictions. Government discussions prioritize iPhone hardware interoperability with rival smartwatches and payment apps. Meanwhile, interim antitrust division head Stanley Woodward has favored settlements to avoid prolonged court trials, even as Apple appeals a contempt referral in the Epic Games case to the Supreme Court."
     }
   }
 }

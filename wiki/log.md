@@ -13,6 +13,11 @@ tags:
 
 Newest completed operations appear first.
 
+## 2026-10-16 ingest-20261016-b28
+
+- Batch 28: TI Oct 15-16 OpenAI ads, Anthropic IPO, Cognition Devin, private tech, Antithesis, Apple antitrust.
+- Sources: 6; claims added or updated this batch: 62.
+
 ## 2026-10-15 editor-update-20261015-b27
 
 - Editor update: slotted 3 The Information articles (batch b27) into the AI shift story, Anthropic 2026 journey, and OpenAI late 2026 journey; 3 what-changed entries on neocloud debt, Anthropic growth and distillation, and Cursor agent data leakage.

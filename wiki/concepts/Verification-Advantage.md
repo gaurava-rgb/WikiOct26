@@ -3,10 +3,10 @@ type: concept
 title: Verification Advantage (Verifiable Data)
 status: developing
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - concept
-source_count: 5
+source_count: 6
 ---
 
 # Verification Advantage (Verifiable Data)
@@ -38,3 +38,9 @@ Thompson's idea that AI models improve fastest on tasks where you can check the 
 ### 2026-10-08 [[2026-10-08-How-OpenAI-Beat-Math|How OpenAI Beat Math]]
 
 - Math answers can often be checked, much like software code, which helps explain why AI is good at hard math. ([[2026-10-08-How-OpenAI-Beat-Math#^clm-ebde4982d09641a7b877|cite]])
+
+### 2026-10-15 [[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator|Why AI-Written Software Needs a Flight Simulator]]
+
+- Replit uses deterministic simulation software as a flight simulator to repeatedly test AI-written applications against network disasters and cyberattacks. ([[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator#^clm-fcd47102d2f46d5b1635|cite]])
+- Using generative AI models to evaluate code generates false alarms because probabilistic models behave inconsistently across repeated runs. ([[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator#^clm-0e340c1a7ba8872cc7a7|cite]])
+- Antithesis CEO Will Wilson argues that while AI made code generation simpler, verifying that software works correctly did not get easier. ([[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator#^clm-7e1edacebccdf6c899e9|cite]])

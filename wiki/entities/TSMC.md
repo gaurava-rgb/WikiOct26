@@ -3,11 +3,11 @@ type: entity
 title: TSMC
 status: developing
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company
-claim_count: 39
+claim_count: 40
 ---
 
 # TSMC
@@ -78,6 +78,10 @@ Taiwan Semiconductor Manufacturing Company, the largest contract chip maker; mak
 ### 2026-09-01 [[2026-09-01-Nvidia-Earnings-Dollars-Per-Gigawatt-Open-and-Hugging-Face|Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face]]
 
 - Thompson recalls arguing in February 2024 that because Nvidia demand exceeds supply, its sales are in effect controlled by its suppliers from TSMC down, with price rises its only lever. ([[2026-09-01-Nvidia-Earnings-Dollars-Per-Gigawatt-Open-and-Hugging-Face#^clm-a18fdb0c93b5ebb83a93|cite]])
+
+### 2026-10-15 [[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment|Did Anthropic Miss Its Peak IPO Moment?]]
+
+- TSMC confirmed plans to construct an additional 3-nanometer fab in Tainan, Taiwan, with production scheduled for the first half of 2028. ([[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment#^clm-6ef637f542eb3dc351c4|cite]])
 
 ## Related concepts
 

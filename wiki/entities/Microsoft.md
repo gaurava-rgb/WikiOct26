@@ -3,11 +3,11 @@ type: entity
 title: Microsoft
 status: developing
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company
-claim_count: 131
+claim_count: 134
 ---
 
 # Microsoft
@@ -287,6 +287,15 @@ US software and cloud company (Windows, Office, Azure, Xbox); a major OpenAI inv
 ### 2026-10-14 [[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders|OpenAI’s Math Breakthroughs Rattle Cryptography Leaders]]
 
 - Microsoft Azure president Girish Bablani directed leadership across his unit to find ways to reduce operating costs by at least 20%. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-09bbf7a046dd8b9b9b67|cite]])
+
+### 2026-10-15 [[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment|Did Anthropic Miss Its Peak IPO Moment?]]
+
+- Enterprise customers including Microsoft reduced spending on Anthropic models following aggressive pricing from the startup. ([[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment#^clm-99ccb88e36b346bc3bd6|cite]])
+- Apple shares gained 26% year to date through mid-October 2026, outpacing Alphabet, Amazon, Meta, and Microsoft which rose 10% to 12%. ([[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment#^clm-24a0b2eaeedd5d17e570|cite]])
+
+### 2026-10-15 [[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator|Why AI-Written Software Needs a Flight Simulator]]
+
+- Microsoft and Amazon provide software resilience tools that inject controlled experimental faults directly into live production servers rather than simulated environments. ([[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator#^clm-864947003a94f9455613|cite]])
 
 ## Related concepts
 

@@ -3,11 +3,11 @@ type: entity
 title: Tesla
 status: developing
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company
-claim_count: 9
+claim_count: 10
 ---
 
 # Tesla
@@ -36,6 +36,10 @@ US electric car maker led by Elon Musk; plans a low-cost robotaxi called Cyberca
 ### 2026-06-18 [[2026-06-18-Interview-Michael-Morton-E-Commerce-AI|An Interview with Michael Morton About E-Commerce in the Age of AI]]
 
 - Morton calls Tesla the largely unknowable risk: if it can put working robotaxis on the road at $30,000 with its production scale, it could be game over for many AV operators. ([[2026-06-18-Interview-Michael-Morton-E-Commerce-AI#^clm-487b9210666d149f81f9|cite]])
+
+### 2026-10-15 [[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment|Did Anthropic Miss Its Peak IPO Moment?]]
+
+- An IPO valuation of $1.4 trillion to $1.5 trillion would make Anthropic the ninth-largest tech company, ranking below Broadcom and above Tesla. ([[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment#^clm-dd323faaa4d7461918e6|cite]])
 
 ## Related concepts
 

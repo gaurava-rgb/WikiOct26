@@ -3,11 +3,11 @@ type: entity
 title: Nvidia
 status: developing
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company
-claim_count: 181
+claim_count: 182
 ---
 
 # Nvidia
@@ -322,6 +322,10 @@ US chip designer whose GPUs (graphics processors) dominate AI training and infer
 ### 2026-10-14 [[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation|Anthropic’s Rapid But Slowing Growth Could Weigh on IPO Valuation]]
 
 - Nvidia-backed AI data center operator Firmus Grid cancelled its planned Australian initial public offering due to market volatility as AI data center borrowing costs jumped. ([[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation#^clm-b3022a8f4f1f6fe1a8a5|cite]])
+
+### 2026-10-15 [[2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers|Cognition’s Plan to Limit Tokenmaxxing to the Most Efficient Engineers]]
+
+- Nvidia committed $250 million in compute credits over five years to support agentic AI safety and security research in the United Kingdom. ([[2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers#^clm-01e156c98bd0dac7cc2c|cite]])
 
 ## Related concepts
 

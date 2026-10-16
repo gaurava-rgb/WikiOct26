@@ -3,11 +3,11 @@ type: entity
 title: Apple
 status: developing
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company
-claim_count: 175
+claim_count: 186
 ---
 
 # Apple
@@ -275,6 +275,23 @@ US maker of the iPhone, Mac, and wearables; integrates hardware and software.
 
 - OpenAI accused a former employee of sharing unreleased device plans with Apple executives, mirroring allegations Apple made against OpenAI in a July 2026 lawsuit. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-4f48635ea4d110ed08d5|cite]])
 
+### 2026-10-15 [[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment|Did Anthropic Miss Its Peak IPO Moment?]]
+
+- Apple shares gained 26% year to date through mid-October 2026, outpacing Alphabet, Amazon, Meta, and Microsoft which rose 10% to 12%. ([[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment#^clm-24a0b2eaeedd5d17e570|cite]])
+- Apple was the only mega-cap tech company to see its valuation multiple expand in 2026, benefiting from avoiding large foundational model capex. ([[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment#^clm-526788f5374d624bd632|cite]])
+- Apple is preparing to release Apple Intelligence on-device AI features in mainland China in December 2026 after clearing regulatory reviews. ([[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment#^clm-950ac7c0d62bdd0c5423|cite]])
+
+### 2026-10-16 [[2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers|Apple’s Antitrust Settlement Talks Spur Worries Among Developers]]
+
+- The U.S. Department of Justice is actively negotiating a settlement in its antitrust lawsuit accusing Apple of maintaining an illegal smartphone monopoly. ([[2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers#^clm-162d63d5867b93380f8c|cite]])
+- Justice Department officials have signaled a preference to settle the Apple antitrust case rather than take the dispute to trial. ([[2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers#^clm-cbfe50a186d3b8d4331d|cite]])
+- App developers PayPal and Epic Games warned the Justice Department that an Apple settlement would fail to resolve anticompetitive restrictions. ([[2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers#^clm-34b41cb2918f5d40ab45|cite]])
+- Justice Department settlement negotiations with Apple focus primarily on iPhone interoperability with competing hardware and third-party services. ([[2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers#^clm-2b397b311c226dbe47f2|cite]])
+- Developers report that Apple's NFC tap-to-pay feature remains less smooth on rival payment apps like PayPal than on native Apple Pay. ([[2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers#^clm-d3ec5f736f2a2c77d41b|cite]])
+- Government lawyers requested concrete proposals from app developers to improve iPhone technical interoperability with third-party devices. ([[2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers#^clm-8389ec3018a30c82aa57|cite]])
+- A federal judge ruled that Apple willfully violated an injunction in the Epic Games antitrust lawsuit and referred the company for a criminal contempt investigation. ([[2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers#^clm-49b2ba6683677d158ec7|cite]])
+- Apple is appealing to the Supreme Court a district judge's referral of the company for criminal contempt over its App Store injunction compliance. ([[2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers#^clm-7ee780d9479abf54b59b|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Agentic-Web|The Agentic Web]], [[Aggregation-Theory|Aggregation Theory]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], Application Layer Bridge (Computing Paradigms), [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Contract-Manufacturing|Contract Manufacturing]], The Cook Doctrine, [[Custom-Silicon|Custom Silicon]], [[First-Mover-Advantage|First-Mover Advantage]], Intelligent Personal Hub, [[LLM-Inflection-Points|Three LLM Inflection Points]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Scale-Economies|Scale Economies]], [[Sustaining-vs-Disruptive-Innovation|Sustaining vs Disruptive Innovation]], [[Switching-Costs|Switching Costs]], [[VR-vs-AR|Virtual vs Augmented Reality]], [[Vertical-Integration|Vertical Integration]], Wholesale vs Agency Pricing
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Agentic-Web|The Agentic Web]], [[Aggregation-Theory|Aggregation Theory]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], Application Layer Bridge (Computing Paradigms), [[Capex-vs-Opex|Capex vs Opex]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Contract-Manufacturing|Contract Manufacturing]], The Cook Doctrine, [[Custom-Silicon|Custom Silicon]], [[First-Mover-Advantage|First-Mover Advantage]], Intelligent Personal Hub, [[LLM-Inflection-Points|Three LLM Inflection Points]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Scale-Economies|Scale Economies]], [[Sustaining-vs-Disruptive-Innovation|Sustaining vs Disruptive Innovation]], [[Switching-Costs|Switching Costs]], [[VR-vs-AR|Virtual vs Augmented Reality]], [[Vertical-Integration|Vertical Integration]], Wholesale vs Agency Pricing

@@ -3,7 +3,7 @@ type: entity
 title: CrowdStrike
 status: developing
 created: 2026-10-14
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
 claim_count: 2

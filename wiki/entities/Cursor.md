@@ -3,11 +3,11 @@ type: entity
 title: Cursor
 status: developing
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company
-claim_count: 29
+claim_count: 30
 ---
 
 # Cursor
@@ -77,6 +77,10 @@ AI coding startup whose editor and agent harness gather large amounts of code us
 - An internal site for managing Verizon exposed managerial org charts, top users, email addresses, and software spending numbers embedded directly in readable front-end code. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-1b2c55bfd05a5a7fed86|cite]])
 - Cursor engineers responded to customer data exposures across client portals for Verizon, Bosch, and Coupa by creating an incident channel to take down the leaking sites. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-1a7536a8fbbe49a78947|cite]])
 - SpaceX completed its $60 billion acquisition of Cursor in mid-August 2026 to accelerate sales of enterprise AI products. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-88a6f62a2e347bc5510a|cite]])
+
+### 2026-10-15 [[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator|Why AI-Written Software Needs a Flight Simulator]]
+
+- Prediction: Antithesis CEO Will Wilson anticipates that Anthropic and Cursor will eventually release proprietary deterministic testing simulators. ([[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator#^clm-f283cd3326b244dda08d|cite]])
 
 ## Related concepts
 

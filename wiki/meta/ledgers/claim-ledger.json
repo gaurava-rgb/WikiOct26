@@ -76592,8 +76592,1698 @@
         "Cursor"
       ],
       "concepts": []
+    },
+    "clm-253210d9172b243daf7c": {
+      "text": "Nearly half of the roughly 140 OpenAI employees working on advertising joined between July and September 2026, with Meta Platforms as the largest source of talent.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices.md",
+        "anchor": "^clm-253210d9172b243daf7c"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ac69b9ab87c1f0666fc3",
+          "relation": "supports",
+          "locator": "§ Rapid hiring and organizational churn: “Nearly half of the roughly 140 OpenAI employees working on ads joined between July and September 2026”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-09",
+      "subjects": [
+        "OpenAI",
+        "Meta"
+      ],
+      "concepts": []
+    },
+    "clm-18baf22d3bb7da2b7abf": {
+      "text": "OpenAI ad chief Dave Dugan spent 12 years at Meta Platforms before joining as vice president of global ad solutions.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices.md",
+        "anchor": "^clm-18baf22d3bb7da2b7abf"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ac69b9ab87c1f0666fc3",
+          "relation": "supports",
+          "locator": "§ Rapid hiring and organizational churn: “Ad chief Dave Dugan spent 12 years at Meta before joining OpenAI as vice president of global ad solutions”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [
+        "OpenAI",
+        "Meta",
+        "Dave Dugan"
+      ],
+      "concepts": []
+    },
+    "clm-f8ddce4cc1cd227bb1e6": {
+      "text": "OpenAI's advertising division underwent seven reorganizations between its launch in February 2026 and October 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices.md",
+        "anchor": "^clm-f8ddce4cc1cd227bb1e6"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ac69b9ab87c1f0666fc3",
+          "relation": "supports",
+          "locator": "§ Rapid hiring and organizational churn: “ad division has reorganized seven times since its February 2026 debut, according to people familiar with the matter”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-4336960ca56030dc0532": {
+      "text": "Former Facebook executive Fidji Simo stepped back from her full-time role at OpenAI in early July 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices.md",
+        "anchor": "^clm-4336960ca56030dc0532"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ac69b9ab87c1f0666fc3",
+          "relation": "supports",
+          "locator": "§ Rapid hiring and organizational churn: “Former Facebook executive Fidji Simo stepped back from her full-time role in early July 2026”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-07",
+      "subjects": [
+        "OpenAI",
+        "Meta"
+      ],
+      "concepts": []
+    },
+    "clm-378dc4733abccaf8a474": {
+      "text": "Annualized revenue from ChatGPT advertising reached $1 billion in late August 2026 after launching in February 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices.md",
+        "anchor": "^clm-378dc4733abccaf8a474"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ac69b9ab87c1f0666fc3",
+          "relation": "supports",
+          "locator": "§ Financial performance and advertiser growth: “Annualized revenue from ChatGPT ads reached $1 billion in late August 2026, up from zero when the pilot launched in February”"
+        }
+      ],
+      "notes": "Updates clm-a3af98f6937213bce2b8: confirms $1 billion annualized ad run rate reached in August 2026.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-08",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": [
+        "Annualized-Revenue"
+      ]
+    },
+    "clm-1af30d56a72e0f8a3b33": {
+      "text": "OpenAI approached a $50 billion annualized revenue pace across its overall business at the end of September 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices.md",
+        "anchor": "^clm-1af30d56a72e0f8a3b33"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ac69b9ab87c1f0666fc3",
+          "relation": "supports",
+          "locator": "§ Financial performance and advertiser growth: “OpenAI neared a $50 billion annualized revenue run rate across its entire business at the end of September 2026”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-09",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": [
+        "Annualized-Revenue"
+      ]
+    },
+    "clm-6b8898eb6e5895d6c433": {
+      "text": "OpenAI is projected to fall short of the $2.4 billion in total 2026 ad revenue it projected to investors earlier in the year.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices.md",
+        "anchor": "^clm-6b8898eb6e5895d6c433"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ac69b9ab87c1f0666fc3",
+          "relation": "supports",
+          "locator": "§ Financial performance and advertiser growth: “OpenAI is likely to fall short of the $2.4 billion in total 2026 ad revenue it projected to investors earlier in the year”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-30cfb376938d33a7cb19": {
+      "text": "Active advertisers on ChatGPT grew to about 60,000 in early October 2026, up from 20,000 in late August 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices.md",
+        "anchor": "^clm-30cfb376938d33a7cb19"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ac69b9ab87c1f0666fc3",
+          "relation": "supports",
+          "locator": "§ Financial performance and advertiser growth: “Active advertisers on ChatGPT jumped to roughly 60,000 in early October 2026, up threefold from 20,000 in late August”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-a9132c774329b1649c42": {
+      "text": "U.S. advertising spending on ChatGPT is projected to increase 40% in October 2026 compared to September 2026 across more than 60 countries.",
+      "assessment": "provisional",
+      "confidence": "medium",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices.md",
+        "anchor": "^clm-a9132c774329b1649c42"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ac69b9ab87c1f0666fc3",
+          "relation": "supports",
+          "locator": "§ Financial performance and advertiser growth: “U.S. ad spending on ChatGPT is projected to grow 40% in October from September, according to Sensor Tower”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "prediction",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-930d0d8384aaca5b466a": {
+      "text": "A click on a ChatGPT advertisement costs approximately $5, compared to $30 to $50 on Google search for equivalent software buyers.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices.md",
+        "anchor": "^clm-930d0d8384aaca5b466a"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ac69b9ab87c1f0666fc3",
+          "relation": "supports",
+          "locator": "§ Pricing advantages, SMB shift, and customer acquisition: “click on a ChatGPT ad costs about $5, compared to $30 to $50 on Google for identical business software clients”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI",
+        "Google"
+      ],
+      "concepts": []
+    },
+    "clm-e393f0dd0d6d5d917220": {
+      "text": "Roughly 20% of all user queries on ChatGPT express intent to buy a product or service.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices.md",
+        "anchor": "^clm-e393f0dd0d6d5d917220"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ac69b9ab87c1f0666fc3",
+          "relation": "supports",
+          "locator": "§ Product roadmap and targeting limitations: “About 20% of all queries on ChatGPT indicate an explicit intent to purchase a product or service”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-88adf06299fe94da6799": {
+      "text": "A third-party study of 187,000 ChatGPT ad placements found that one in nine ads was unrelated to the prompt query.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices.md",
+        "anchor": "^clm-88adf06299fe94da6799"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ac69b9ab87c1f0666fc3",
+          "relation": "supports",
+          "locator": "§ Product roadmap and targeting limitations: “roughly 187,000 ad placements by research firm Adthena found that one in nine ads was completely unrelated to the user query”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-46d9539dda1c4a27ccbc": {
+      "text": "The Information argues Anthropic may have missed its peak valuation window by delaying its initial public offering past June 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment.md",
+        "anchor": "^clm-46d9539dda1c4a27ccbc"
+      },
+      "evidence": [
+        {
+          "source_id": "src-edcb4ae45fd8a75c58f2",
+          "relation": "supports",
+          "locator": "§ Slowing growth and IPO valuation ceiling: “Anthropic may have experienced its peak valuation moment around June 2026, when SpaceX completed its own public listing”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-ca316a456908fe8bd197": {
+      "text": "Manhattan Venture Partners projects Anthropic will price its IPO at a valuation of $1.4 trillion to $1.5 trillion, below earlier $2 trillion banker discussions.",
+      "assessment": "provisional",
+      "confidence": "medium",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment.md",
+        "anchor": "^clm-ca316a456908fe8bd197"
+      },
+      "evidence": [
+        {
+          "source_id": "src-edcb4ae45fd8a75c58f2",
+          "relation": "supports",
+          "locator": "§ Slowing growth and IPO valuation ceiling: “projecting a valuation range between $1.4 trillion and $1.5 trillion rather than the $2 trillion bankers discussed earlier”"
+        }
+      ],
+      "notes": "Updates clm-3e6b42103f23e124f52c: Manhattan Venture Partners details $1.4T to $1.5T valuation target.",
+      "supersedes": null,
+      "kind": "prediction",
+      "as_of": "2026-10",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-dd323faaa4d7461918e6": {
+      "text": "An IPO valuation of $1.4 trillion to $1.5 trillion would make Anthropic the ninth-largest tech company, ranking below Broadcom and above Tesla.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment.md",
+        "anchor": "^clm-dd323faaa4d7461918e6"
+      },
+      "evidence": [
+        {
+          "source_id": "src-edcb4ae45fd8a75c58f2",
+          "relation": "supports",
+          "locator": "§ Slowing growth and IPO valuation ceiling: “ninth-largest tech company by market capitalization, behind Broadcom and ahead of Tesla”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Anthropic",
+        "Broadcom",
+        "Tesla"
+      ],
+      "concepts": []
+    },
+    "clm-99ccb88e36b346bc3bd6": {
+      "text": "Enterprise customers including Microsoft reduced spending on Anthropic models following aggressive pricing from the startup.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment.md",
+        "anchor": "^clm-99ccb88e36b346bc3bd6"
+      },
+      "evidence": [
+        {
+          "source_id": "src-edcb4ae45fd8a75c58f2",
+          "relation": "supports",
+          "locator": "§ Frontier model moat and corporate spending pushback: “Enterprise customers including Microsoft have cut back spending on Anthropic models in response to aggressive pricing”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Anthropic",
+        "Microsoft"
+      ],
+      "concepts": []
+    },
+    "clm-59ff927df1e3a581edf9": {
+      "text": "Model marketplace TrustedRouter lists 665 AI models, primarily open-source alternatives to expensive frontier systems.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment.md",
+        "anchor": "^clm-59ff927df1e3a581edf9"
+      },
+      "evidence": [
+        {
+          "source_id": "src-edcb4ae45fd8a75c58f2",
+          "relation": "supports",
+          "locator": "§ Frontier model moat and corporate spending pushback: “Model marketplace TrustedRouter now lists 665 AI models, primarily open source, giving enterprises abundant alternatives”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": [
+        "Open-Weight-Models"
+      ]
+    },
+    "clm-d1c39c6efafd521ae089": {
+      "text": "In China, consumer tech giants Xiaomi and Meituan are developing in-house AI models rather than purchasing frontier access.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment.md",
+        "anchor": "^clm-d1c39c6efafd521ae089"
+      },
+      "evidence": [
+        {
+          "source_id": "src-edcb4ae45fd8a75c58f2",
+          "relation": "supports",
+          "locator": "§ Frontier model moat and corporate spending pushback: “consumer tech firms such as smartphone maker Xiaomi and delivery giant Meituan are developing in-house models”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Xiaomi"
+      ],
+      "concepts": []
+    },
+    "clm-521f7236c45bdba4eaf2": {
+      "text": "Anthropic carries more than $500 billion in long-term compute commitments over the next decade.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment.md",
+        "anchor": "^clm-521f7236c45bdba4eaf2"
+      },
+      "evidence": [
+        {
+          "source_id": "src-edcb4ae45fd8a75c58f2",
+          "relation": "supports",
+          "locator": "§ Frontier model moat and corporate spending pushback: “mounting financial risk from more than $500 billion in long-term compute commitments over the next decade”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": [
+        "Capex-vs-Opex"
+      ]
+    },
+    "clm-24a0b2eaeedd5d17e570": {
+      "text": "Apple shares gained 26% year to date through mid-October 2026, outpacing Alphabet, Amazon, Meta, and Microsoft which rose 10% to 12%.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment.md",
+        "anchor": "^clm-24a0b2eaeedd5d17e570"
+      },
+      "evidence": [
+        {
+          "source_id": "src-edcb4ae45fd8a75c58f2",
+          "relation": "supports",
+          "locator": "§ Apple's capital-light AI strategy: “Apple shares climbed 26% year to date through mid-October 2026, outperforming Alphabet, Amazon, Meta, and Microsoft, which rose 10% to 12%”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Apple",
+        "Google",
+        "Amazon",
+        "Meta",
+        "Microsoft"
+      ],
+      "concepts": []
+    },
+    "clm-526788f5374d624bd632": {
+      "text": "Apple was the only mega-cap tech company to see its valuation multiple expand in 2026, benefiting from avoiding large foundational model capex.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment.md",
+        "anchor": "^clm-526788f5374d624bd632"
+      },
+      "evidence": [
+        {
+          "source_id": "src-edcb4ae45fd8a75c58f2",
+          "relation": "supports",
+          "locator": "§ Apple's capital-light AI strategy: “Apple is the only tech titan whose valuation multiple expanded in 2026, per Koyfin data”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Apple"
+      ],
+      "concepts": [
+        "Capex-vs-Opex"
+      ]
+    },
+    "clm-950ac7c0d62bdd0c5423": {
+      "text": "Apple is preparing to release Apple Intelligence on-device AI features in mainland China in December 2026 after clearing regulatory reviews.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment.md",
+        "anchor": "^clm-950ac7c0d62bdd0c5423"
+      },
+      "evidence": [
+        {
+          "source_id": "src-edcb4ae45fd8a75c58f2",
+          "relation": "supports",
+          "locator": "§ Industry developments: “launch Apple Intelligence on-device AI services in mainland China in December 2026 following regulatory clearances”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Apple"
+      ],
+      "concepts": [
+        "Local-Inference"
+      ]
+    },
+    "clm-6ef637f542eb3dc351c4": {
+      "text": "TSMC confirmed plans to construct an additional 3-nanometer fab in Tainan, Taiwan, with production scheduled for the first half of 2028.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment.md",
+        "anchor": "^clm-6ef637f542eb3dc351c4"
+      },
+      "evidence": [
+        {
+          "source_id": "src-edcb4ae45fd8a75c58f2",
+          "relation": "supports",
+          "locator": "§ Industry developments: “Taiwan Semiconductor Manufacturing Co. confirmed plans to construct an additional 3-nanometer fab in Tainan, scheduled for production in early 2028”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "TSMC"
+      ],
+      "concepts": [
+        "Custom-Silicon"
+      ]
+    },
+    "clm-1c8be37fa6d0bf62e4de": {
+      "text": "CoreWeave and Broadcom formally objected to OKXICE plans to trade tokenized blockchain versions of their corporate shares.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment.md",
+        "anchor": "^clm-1c8be37fa6d0bf62e4de"
+      },
+      "evidence": [
+        {
+          "source_id": "src-edcb4ae45fd8a75c58f2",
+          "relation": "supports",
+          "locator": "§ Industry developments: “CoreWeave and Broadcom formally objected to OKXICE plans to trade tokenized blockchain versions of their corporate shares”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "CoreWeave",
+        "Broadcom"
+      ],
+      "concepts": []
+    },
+    "clm-523458448874d80daeab": {
+      "text": "Anthropic deployed internal AI evaluators with direct system access to assess safety protocols and publish independent reports.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment.md",
+        "anchor": "^clm-523458448874d80daeab"
+      },
+      "evidence": [
+        {
+          "source_id": "src-edcb4ae45fd8a75c58f2",
+          "relation": "supports",
+          "locator": "§ Industry developments: “deploying embedded internal evaluators with direct system access to monitor safety protocols and publish independent assessments”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": [
+        "Constitutional-AI"
+      ]
+    },
+    "clm-1bc9292e11db366f6e16": {
+      "text": "Cognition introduced dynamic token allocations for Devin that adjust employee usage caps based on calculated productivity and compute cost efficiency.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers.md",
+        "anchor": "^clm-1bc9292e11db366f6e16"
+      },
+      "evidence": [
+        {
+          "source_id": "src-8c4b7d30a9a7e28e6e9f",
+          "relation": "supports",
+          "locator": "§ Dynamic token limits and efficiency grading: “Cognition, developer of AI software engineer Devin, introduced dynamic resource allocations that adjust employee token limits based on efficiency ratings”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Cognition"
+      ],
+      "concepts": [
+        "AI-Agents",
+        "Seats-Plus-Consumption"
+      ]
+    },
+    "clm-97200c64a8e73a3a2b66": {
+      "text": "Cognition calculates engineer efficiency by dividing estimated human equivalent hours of coding work by the dollar cost of the Devin session.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers.md",
+        "anchor": "^clm-97200c64a8e73a3a2b66"
+      },
+      "evidence": [
+        {
+          "source_id": "src-8c4b7d30a9a7e28e6e9f",
+          "relation": "supports",
+          "locator": "§ Dynamic token limits and efficiency grading: “calculating the human-hour equivalent of work produced during a coding session and dividing that by the underlying compute cost”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Cognition"
+      ],
+      "concepts": []
+    },
+    "clm-65c78f3ffe67b1035846": {
+      "text": "Cognition customer engineering head Calvin Giroud compared dynamic AI resource caps to credit card limit increases earned through reliable stewardship.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers.md",
+        "anchor": "^clm-65c78f3ffe67b1035846"
+      },
+      "evidence": [
+        {
+          "source_id": "src-8c4b7d30a9a7e28e6e9f",
+          "relation": "supports",
+          "locator": "§ Dynamic token limits and efficiency grading: “Calvin Giroud, Cognition vice president of customer engineering, compared the dynamic limit mechanism to credit cards that grant higher borrowing ceilings”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Cognition"
+      ],
+      "concepts": []
+    },
+    "clm-738cf05937abdb9191d2": {
+      "text": "Cognition introduced Devin Coach to identify common prompting mistakes, such as underspecified requests or selecting unnecessarily expensive models.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers.md",
+        "anchor": "^clm-738cf05937abdb9191d2"
+      },
+      "evidence": [
+        {
+          "source_id": "src-8c4b7d30a9a7e28e6e9f",
+          "relation": "supports",
+          "locator": "§ Devin Coach for workflow optimization: “identifies roughly 20 to 30 common user errors, including underspecified task prompts and selecting unnecessarily expensive AI models”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Cognition"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-0e434a947e9435b04e90": {
+      "text": "Devin Coach instructs developers to break multi-part requests into concurrent parallel tasks to reduce processing time.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers.md",
+        "anchor": "^clm-0e434a947e9435b04e90"
+      },
+      "evidence": [
+        {
+          "source_id": "src-8c4b7d30a9a7e28e6e9f",
+          "relation": "supports",
+          "locator": "§ Devin Coach for workflow optimization: “prompts developers to split complex multi-part requests into concurrent parallel tasks to save time”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Cognition"
+      ],
+      "concepts": []
+    },
+    "clm-c3def765d174e752c63f": {
+      "text": "Anduril Industries opened an employee share tender valuing the autonomous defense contractor at approximately $90 billion.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers.md",
+        "anchor": "^clm-c3def765d174e752c63f"
+      },
+      "evidence": [
+        {
+          "source_id": "src-8c4b7d30a9a7e28e6e9f",
+          "relation": "supports",
+          "locator": "§ Executive moves and corporate funding: “Defense technology maker Anduril Industries opened tender discussions to allow employee share sales at a valuation of approximately $90 billion”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Anduril"
+      ],
+      "concepts": []
+    },
+    "clm-3f01646253f6e3ab889e": {
+      "text": "Anduril's employee share tender is capped at $1.3 billion at a price of $94.80 per share with closing targeted for early November 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers.md",
+        "anchor": "^clm-3f01646253f6e3ab889e"
+      },
+      "evidence": [
+        {
+          "source_id": "src-8c4b7d30a9a7e28e6e9f",
+          "relation": "supports",
+          "locator": "§ Executive moves and corporate funding: “tender is capped at $1.3 billion at a price of $94.80 per share, scheduled to conclude in early November 2026”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Anduril"
+      ],
+      "concepts": []
+    },
+    "clm-6700d231ec147044798f": {
+      "text": "Sachin Katti, vice president of compute strategy at OpenAI, announced he will step down on November 15, 2026 to start a new company.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers.md",
+        "anchor": "^clm-6700d231ec147044798f"
+      },
+      "evidence": [
+        {
+          "source_id": "src-8c4b7d30a9a7e28e6e9f",
+          "relation": "supports",
+          "locator": "§ Executive moves and corporate funding: “Sachin Katti, vice president of compute strategy at OpenAI and former Intel executive, announced plans to leave OpenAI on November 15, 2026”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-413eba966842723d4907": {
+      "text": "AI infrastructure provider Modal closed a $750 million Series D funding round led by Accel at a $15.75 billion valuation.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers.md",
+        "anchor": "^clm-413eba966842723d4907"
+      },
+      "evidence": [
+        {
+          "source_id": "src-8c4b7d30a9a7e28e6e9f",
+          "relation": "supports",
+          "locator": "§ Executive moves and corporate funding: “Modal closed a $750 million Series D funding round led by Accel at a $15.75 billion post-money valuation”"
+        }
+      ],
+      "notes": "Updates clm-78cb1b5c6a546fe5f8e1: Modal closes $750M round at $15.75 billion valuation following earlier funding talks.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Modal"
+      ],
+      "concepts": []
+    },
+    "clm-236f2dc937febf514689": {
+      "text": "Berkshire Hathaway agreed to invest $330 million in Italian software company Bending Spoons via a private placement of common stock.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers.md",
+        "anchor": "^clm-236f2dc937febf514689"
+      },
+      "evidence": [
+        {
+          "source_id": "src-8c4b7d30a9a7e28e6e9f",
+          "relation": "supports",
+          "locator": "§ Executive moves and corporate funding: “Berkshire Hathaway agreed to invest $330 million in Italian software firm Bending Spoons through a private placement of common stock”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Berkshire Hathaway"
+      ],
+      "concepts": []
+    },
+    "clm-01e156c98bd0dac7cc2c": {
+      "text": "Nvidia committed $250 million in compute credits over five years to support agentic AI safety and security research in the United Kingdom.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers.md",
+        "anchor": "^clm-01e156c98bd0dac7cc2c"
+      },
+      "evidence": [
+        {
+          "source_id": "src-8c4b7d30a9a7e28e6e9f",
+          "relation": "supports",
+          "locator": "§ Executive moves and corporate funding: “Nvidia announced a $250 million five-year compute commitment for agentic security research in the United Kingdom”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Nvidia"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-b291b4c5e43067f6df08": {
+      "text": "European payments company Mollie committed 50 million euros to establish internal banking and payment rails for autonomous AI agents.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers.md",
+        "anchor": "^clm-b291b4c5e43067f6df08"
+      },
+      "evidence": [
+        {
+          "source_id": "src-8c4b7d30a9a7e28e6e9f",
+          "relation": "supports",
+          "locator": "§ Executive moves and corporate funding: “Mollie committed 50 million euros, approximately $54 million, to build internal banking and payment infrastructure for autonomous AI agents”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Mollie"
+      ],
+      "concepts": [
+        "Agentic-Commerce"
+      ]
+    },
+    "clm-94964eaedf3ea0257784": {
+      "text": "Morgan Stanley technology equity head Diana Doyle observed a stark sentiment disconnect as private markets reward growth while public markets enforce strict financial discipline.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech.md",
+        "anchor": "^clm-94964eaedf3ea0257784"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5a8ec04efffa9d541168",
+          "relation": "supports",
+          "locator": "§ Public versus private market sentiment divergence: “Diana Doyle, head of technology equity capital markets at Morgan Stanley, noted that private markets still prioritize and reward growth above all else”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10",
+      "subjects": [
+        "CoreWeave"
+      ],
+      "concepts": []
+    },
+    "clm-9c2e549c35e21cf8f740": {
+      "text": "Australian data center operator Firmus withdrew its planned initial public offering amid rising public market skepticism over AI infrastructure debt.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech.md",
+        "anchor": "^clm-9c2e549c35e21cf8f740"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5a8ec04efffa9d541168",
+          "relation": "supports",
+          "locator": "§ Public versus private market sentiment divergence: “Australian data center developer Firmus pulled its planned initial public offering amid rising public market skepticism”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Firmus"
+      ],
+      "concepts": [
+        "Capex-vs-Opex"
+      ]
+    },
+    "clm-26dc2552a4de4d20647f": {
+      "text": "Public market investors sold off shares of CoreWeave and Nebius amid escalating bond yields and concerns over debt-heavy AI infrastructure financing.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech.md",
+        "anchor": "^clm-26dc2552a4de4d20647f"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5a8ec04efffa9d541168",
+          "relation": "supports",
+          "locator": "§ Public versus private market sentiment divergence: “surging yields on CoreWeave debt, a broad semiconductor selloff, and sharp share price drops for CoreWeave and Nebius”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "CoreWeave",
+        "Nebius"
+      ],
+      "concepts": [
+        "Capex-vs-Opex"
+      ]
+    },
+    "clm-fa9e2fe2f425c722ec4e": {
+      "text": "Data center operator Nscale sought to raise up to $3 billion in an initial public offering at a valuation exceeding $35 billion, per the Financial Times.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech.md",
+        "anchor": "^clm-fa9e2fe2f425c722ec4e"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5a8ec04efffa9d541168",
+          "relation": "supports",
+          "locator": "§ AI infrastructure debt and valuation pushback: “Nscale sought to raise up to $3 billion in an initial public offering at a valuation exceeding $35 billion”"
+        }
+      ],
+      "notes": "Updates clm-d302996cdc58df0de16f: Nscale seeks $3 billion at $35 billion-plus valuation despite tightening market conditions.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Nscale"
+      ],
+      "concepts": []
+    },
+    "clm-3fa01358ccd123898fdc": {
+      "text": "Mutual fund managers at Morgan Stanley's tech conference questioned whether debt-saddled data center operators can successfully go public at target valuations.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech.md",
+        "anchor": "^clm-3fa01358ccd123898fdc"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5a8ec04efffa9d541168",
+          "relation": "supports",
+          "locator": "§ AI infrastructure debt and valuation pushback: “Fund managers questioned whether debt-laden data center operators can successfully complete public offerings at requested price targets”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10",
+      "subjects": [
+        "Nscale"
+      ],
+      "concepts": [
+        "Capex-vs-Opex"
+      ]
+    },
+    "clm-05f42f7e1f9337a09c66": {
+      "text": "Inference startups Fireworks AI, Baseten, and Fal experienced surging developer demand as enterprises adopted open-source models that undercut OpenAI and Anthropic.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech.md",
+        "anchor": "^clm-05f42f7e1f9337a09c66"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5a8ec04efffa9d541168",
+          "relation": "supports",
+          "locator": "§ High demand for private inference and defense startups: “These inference providers are experiencing surging developer demand as enterprises adopt open-source models that undercut pricing from OpenAI and Anthropic”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Fireworks AI",
+        "Baseten",
+        "Fal",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "concepts": [
+        "Open-Weight-Models"
+      ]
+    },
+    "clm-d122072d5682a7a6425e": {
+      "text": "Defense technology startups Anduril, Hadrian, and Saronic attracted intense private investor demand following multi-billion dollar valuation rounds.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech.md",
+        "anchor": "^clm-d122072d5682a7a6425e"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5a8ec04efffa9d541168",
+          "relation": "supports",
+          "locator": "§ High demand for private inference and defense startups: “Defense technology startups including Anduril, Hadrian, and Saronic attracted strong investor interest after closing multi-billion dollar valuation rounds”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Anduril"
+      ],
+      "concepts": []
+    },
+    "clm-3dcb2372343cab79826a": {
+      "text": "Morgan Stanley tech investment banking chief David Chen argued that public listings provide an essential competitive weapon by unlocking access to convertible debt.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech.md",
+        "anchor": "^clm-3dcb2372343cab79826a"
+      },
+      "evidence": [
+        {
+          "source_id": "src-5a8ec04efffa9d541168",
+          "relation": "supports",
+          "locator": "§ High demand for private inference and defense startups: “public market access remains a decisive competitive weapon because public listings unlock flexible capital instruments like convertible bonds”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10",
+      "subjects": [
+        "CoreWeave"
+      ],
+      "concepts": []
+    },
+    "clm-fcd47102d2f46d5b1635": {
+      "text": "Replit uses deterministic simulation software as a flight simulator to repeatedly test AI-written applications against network disasters and cyberattacks.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator.md",
+        "anchor": "^clm-fcd47102d2f46d5b1635"
+      },
+      "evidence": [
+        {
+          "source_id": "src-d5bc2d65ac46a881be20",
+          "relation": "supports",
+          "locator": "§ Need for deterministic simulation in AI code generation: “Replit chief technology officer Luis Chávez stated his team relies on deterministic simulation software that functions as a flight simulator for code”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Replit",
+        "Antithesis"
+      ],
+      "concepts": [
+        "Verification-Advantage"
+      ]
+    },
+    "clm-0e340c1a7ba8872cc7a7": {
+      "text": "Using generative AI models to evaluate code generates false alarms because probabilistic models behave inconsistently across repeated runs.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator.md",
+        "anchor": "^clm-0e340c1a7ba8872cc7a7"
+      },
+      "evidence": [
+        {
+          "source_id": "src-d5bc2d65ac46a881be20",
+          "relation": "supports",
+          "locator": "§ Need for deterministic simulation in AI code generation: “using generative AI to evaluate code frequently generates false alarms and hallucinatory warnings”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Antithesis"
+      ],
+      "concepts": [
+        "Verification-Advantage"
+      ]
+    },
+    "clm-7e1edacebccdf6c899e9": {
+      "text": "Antithesis CEO Will Wilson argues that while AI made code generation simpler, verifying that software works correctly did not get easier.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator.md",
+        "anchor": "^clm-7e1edacebccdf6c899e9"
+      },
+      "evidence": [
+        {
+          "source_id": "src-d5bc2d65ac46a881be20",
+          "relation": "supports",
+          "locator": "§ Commercial traction for Antithesis: “Will Wilson observed that while AI made code generation simpler, verifying that software functions correctly did not become easier”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10",
+      "subjects": [
+        "Antithesis"
+      ],
+      "concepts": [
+        "Verification-Advantage"
+      ]
+    },
+    "clm-84237916b93225bc24d7": {
+      "text": "Antithesis counts Replit, Palantir, and Datadog among corporate customers using its deterministic software testing platform.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator.md",
+        "anchor": "^clm-84237916b93225bc24d7"
+      },
+      "evidence": [
+        {
+          "source_id": "src-d5bc2d65ac46a881be20",
+          "relation": "supports",
+          "locator": "§ Commercial traction for Antithesis: “Additional enterprise customers using Antithesis include Palantir and Datadog”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Antithesis",
+        "Palantir",
+        "Replit"
+      ],
+      "concepts": []
+    },
+    "clm-6b039775513f09a1b323": {
+      "text": "Antithesis generated more incremental revenue in the August 2026 quarter than across all five preceding quarters combined.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator.md",
+        "anchor": "^clm-6b039775513f09a1b323"
+      },
+      "evidence": [
+        {
+          "source_id": "src-d5bc2d65ac46a881be20",
+          "relation": "supports",
+          "locator": "§ Commercial traction for Antithesis: “Antithesis generated more new revenue in the August 2026 quarter than in the preceding five quarters combined”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-08",
+      "subjects": [
+        "Antithesis"
+      ],
+      "concepts": []
+    },
+    "clm-47ec6ace804ed39508da": {
+      "text": "Antithesis raised $105 million in Series A funding led by quantitative trading firm Jane Street at a $525 million valuation in late 2025.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator.md",
+        "anchor": "^clm-47ec6ace804ed39508da"
+      },
+      "evidence": [
+        {
+          "source_id": "src-d5bc2d65ac46a881be20",
+          "relation": "supports",
+          "locator": "§ Commercial traction for Antithesis: “secured $105 million in Series A funding in late 2025 led by quantitative trading firm Jane Street at a $525 million post-money valuation”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2025",
+      "subjects": [
+        "Antithesis"
+      ],
+      "concepts": []
+    },
+    "clm-f283cd3326b244dda08d": {
+      "text": "Antithesis CEO Will Wilson anticipates that Anthropic and Cursor will eventually release proprietary deterministic testing simulators.",
+      "assessment": "provisional",
+      "confidence": "medium",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator.md",
+        "anchor": "^clm-f283cd3326b244dda08d"
+      },
+      "evidence": [
+        {
+          "source_id": "src-d5bc2d65ac46a881be20",
+          "relation": "supports",
+          "locator": "§ Commercial traction for Antithesis: “Wilson anticipates that frontier AI labs including Anthropic and SpaceX's Cursor will eventually introduce proprietary deterministic testing simulators”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "prediction",
+      "as_of": "2026-10",
+      "subjects": [
+        "Antithesis",
+        "Anthropic",
+        "Cursor"
+      ],
+      "concepts": []
+    },
+    "clm-864947003a94f9455613": {
+      "text": "Microsoft and Amazon provide software resilience tools that inject controlled experimental faults directly into live production servers rather than simulated environments.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator.md",
+        "anchor": "^clm-864947003a94f9455613"
+      },
+      "evidence": [
+        {
+          "source_id": "src-d5bc2d65ac46a881be20",
+          "relation": "supports",
+          "locator": "§ Alternative chaos testing methods: “tools from Gremlin, Chaos Mesh, Microsoft, and Amazon test system resilience by injecting controlled disruptions into live servers”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Microsoft",
+        "Amazon"
+      ],
+      "concepts": []
+    },
+    "clm-162d63d5867b93380f8c": {
+      "text": "The U.S. Department of Justice is actively negotiating a settlement in its antitrust lawsuit accusing Apple of maintaining an illegal smartphone monopoly.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers.md",
+        "anchor": "^clm-162d63d5867b93380f8c"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a553ba9d51c8b42af506",
+          "relation": "supports",
+          "locator": "§ Developer alarms over potential DOJ settlement: “U.S. Department of Justice negotiates a settlement in its antitrust lawsuit against Apple, major software developers including PayPal and Epic Games have raised alarms”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Apple",
+        "Department of Justice"
+      ],
+      "concepts": []
+    },
+    "clm-cbfe50a186d3b8d4331d": {
+      "text": "Justice Department officials have signaled a preference to settle the Apple antitrust case rather than take the dispute to trial.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers.md",
+        "anchor": "^clm-cbfe50a186d3b8d4331d"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a553ba9d51c8b42af506",
+          "relation": "supports",
+          "locator": "§ Developer alarms over potential DOJ settlement: “Justice Department officials signaled an active preference for settling the lawsuit instead of pursuing a protracted court trial”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Department of Justice",
+        "Apple"
+      ],
+      "concepts": []
+    },
+    "clm-34b41cb2918f5d40ab45": {
+      "text": "App developers PayPal and Epic Games warned the Justice Department that an Apple settlement would fail to resolve anticompetitive restrictions.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers.md",
+        "anchor": "^clm-34b41cb2918f5d40ab45"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a553ba9d51c8b42af506",
+          "relation": "supports",
+          "locator": "§ Developer alarms over potential DOJ settlement: “PayPal and Epic Games have raised alarms that an agreement will not adequately resolve anticompetitive conduct”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Apple",
+        "PayPal",
+        "Epic Games",
+        "Department of Justice"
+      ],
+      "concepts": []
+    },
+    "clm-2b397b311c226dbe47f2": {
+      "text": "Justice Department settlement negotiations with Apple focus primarily on iPhone interoperability with competing hardware and third-party services.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers.md",
+        "anchor": "^clm-2b397b311c226dbe47f2"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a553ba9d51c8b42af506",
+          "relation": "supports",
+          "locator": "§ Core interoperability issues under negotiation: “Settlement negotiations center on iPhone interoperability with third-party devices and payment services”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Apple",
+        "Department of Justice"
+      ],
+      "concepts": [
+        "Switching-Costs"
+      ]
+    },
+    "clm-d3ec5f736f2a2c77d41b": {
+      "text": "Developers report that Apple's NFC tap-to-pay feature remains less smooth on rival payment apps like PayPal than on native Apple Pay.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers.md",
+        "anchor": "^clm-d3ec5f736f2a2c77d41b"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a553ba9d51c8b42af506",
+          "relation": "supports",
+          "locator": "§ Core interoperability issues under negotiation: “Apple opened NFC tap-to-pay hardware to third-party payment services like PayPal, developers report the feature remains less responsive and seamless”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Apple",
+        "PayPal"
+      ],
+      "concepts": [
+        "Switching-Costs"
+      ]
+    },
+    "clm-8389ec3018a30c82aa57": {
+      "text": "Government lawyers requested concrete proposals from app developers to improve iPhone technical interoperability with third-party devices.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers.md",
+        "anchor": "^clm-8389ec3018a30c82aa57"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a553ba9d51c8b42af506",
+          "relation": "supports",
+          "locator": "§ Core interoperability issues under negotiation: “Government attorneys asked app developers to submit concrete technical proposals to improve iPhone interoperability with competing hardware”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Apple",
+        "Department of Justice"
+      ],
+      "concepts": []
+    },
+    "clm-9bf98c2da06a447fc6b5": {
+      "text": "Interim Antitrust Division head Stanley Woodward favors settlements over litigation to deliver faster consumer remedies and avoid lengthy trial expenses.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers.md",
+        "anchor": "^clm-9bf98c2da06a447fc6b5"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a553ba9d51c8b42af506",
+          "relation": "supports",
+          "locator": "§ Leadership changes in the Antitrust Division: “Stanley Woodward assumed interim leadership in June 2025, advocating settlements on the grounds that negotiated agreements deliver consumer benefits faster”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Department of Justice",
+        "Trump Administration"
+      ],
+      "concepts": []
+    },
+    "clm-49b2ba6683677d158ec7": {
+      "text": "A federal judge ruled that Apple willfully violated an injunction in the Epic Games antitrust lawsuit and referred the company for a criminal contempt investigation.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers.md",
+        "anchor": "^clm-49b2ba6683677d158ec7"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a553ba9d51c8b42af506",
+          "relation": "supports",
+          "locator": "§ Parallel litigation and developer resistance: “Judge Yvonne Gonzalez Rogers ruled last year that Apple willfully violated a 2021 injunction in the Epic Games case, referring the matter to federal prosecutors”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2025",
+      "subjects": [
+        "Apple",
+        "Epic Games"
+      ],
+      "concepts": []
+    },
+    "clm-7ee780d9479abf54b59b": {
+      "text": "Apple is appealing to the Supreme Court a district judge's referral of the company for criminal contempt over its App Store injunction compliance.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-16",
+      "location": {
+        "path": "wiki/sources/2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers.md",
+        "anchor": "^clm-7ee780d9479abf54b59b"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a553ba9d51c8b42af506",
+          "relation": "supports",
+          "locator": "§ Parallel litigation and developer resistance: “Apple is appealing that ruling to the Supreme Court”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Apple",
+        "Epic Games"
+      ],
+      "concepts": []
     }
   },
-  "generated_at": "2026-10-15T19:55:48Z",
+  "generated_at": "2026-10-16T20:08:55Z",
   "schema": "claude-obsidian.claim-ledger.v1"
 }

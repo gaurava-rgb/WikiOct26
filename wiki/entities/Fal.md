@@ -3,11 +3,11 @@ type: entity
 title: Fal
 status: developing
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company
-claim_count: 7
+claim_count: 8
 ---
 
 # Fal
@@ -29,6 +29,10 @@ Inference provider specializing in image and video generation models.
 
 - As of October 2026 Fal generated more than $800 million in annualized revenue and Together AI over $1 billion, far more than Prime Intellect. ([[2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference#^clm-2eed0379742ce314e251|cite]])
 
+### 2026-10-15 [[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech|The Party Is Still Going Strong for Private Tech]]
+
+- Inference startups Fireworks AI, Baseten, and Fal experienced surging developer demand as enterprises adopted open-source models that undercut OpenAI and Anthropic. ([[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech#^clm-05f42f7e1f9337a09c66|cite]])
+
 ## Related concepts
 
-[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Annualized-Revenue|Annualized Revenue (ARR)]]
+[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Annualized-Revenue|Annualized Revenue (ARR)]], [[Open-Weight-Models|Open-Weight Models]]

@@ -522,6 +522,14 @@
       ],
       "source_id": "src-0c21d99d9d9003ce3675"
     },
+    ".raw/captured/2026-10-15 The Information - Cognitions plan to limit tokenmaxxing to efficient engineers (notes).md": {
+      "hash": "8e82b8b1c93867b4fa37517c334dd7d4c8e221d3c6266641534ae0e3ec604f77",
+      "ingested_at": "2026-10-16",
+      "pages_created": [
+        "wiki/sources/2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers.md"
+      ],
+      "source_id": "src-8c4b7d30a9a7e28e6e9f"
+    },
     ".raw/captured/2026-10-15 The Information - Cursor investigated confidential data sent to SpaceX (notes).md": {
       "hash": "1c47ddf32ab2011bc1ddb6fcaf35280c040ab0a578d1015a68af7f511d3c52e6",
       "ingested_at": "2026-10-15",
@@ -529,6 +537,46 @@
         "wiki/sources/2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training.md"
       ],
       "source_id": "src-5dce1df60966d968fdab"
+    },
+    ".raw/captured/2026-10-15 The Information - Did Anthropic miss its peak IPO moment (notes).md": {
+      "hash": "df98065fc7b3f422fa66b188cdce44cc1288c76ef95147f3af272bf5522a57f6",
+      "ingested_at": "2026-10-16",
+      "pages_created": [
+        "wiki/sources/2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment.md"
+      ],
+      "source_id": "src-edcb4ae45fd8a75c58f2"
+    },
+    ".raw/captured/2026-10-15 The Information - OpenAI accelerates ad sprint with Meta hires and price cuts (notes).md": {
+      "hash": "02031e034dcdcb164fc541b51c544abc0dfeda4b73572799dcd1e5368692d5f8",
+      "ingested_at": "2026-10-16",
+      "pages_created": [
+        "wiki/sources/2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices.md"
+      ],
+      "source_id": "src-ac69b9ab87c1f0666fc3"
+    },
+    ".raw/captured/2026-10-15 The Information - The party is still going strong for private tech (notes).md": {
+      "hash": "049cf784159324cf68c6d65053bed2007b7f4468fd124c0d2f9329a14fe8273b",
+      "ingested_at": "2026-10-16",
+      "pages_created": [
+        "wiki/sources/2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech.md"
+      ],
+      "source_id": "src-5a8ec04efffa9d541168"
+    },
+    ".raw/captured/2026-10-15 The Information - Why AI written software needs a flight simulator (notes).md": {
+      "hash": "73b39ffb4d1640d96166b08660cc6f99bd76c800548412e2bacf03758d2750de",
+      "ingested_at": "2026-10-16",
+      "pages_created": [
+        "wiki/sources/2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator.md"
+      ],
+      "source_id": "src-d5bc2d65ac46a881be20"
+    },
+    ".raw/captured/2026-10-16 The Information - Apples antitrust settlement talks spur developer worries (notes).md": {
+      "hash": "e3ce9bb94f2badb736f50013309a2c7cb23b1d9239e0f29870b5c968dfb66475",
+      "ingested_at": "2026-10-16",
+      "pages_created": [
+        "wiki/sources/2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers.md"
+      ],
+      "source_id": "src-a553ba9d51c8b42af506"
     },
     ".raw/captured/2026.28_ XBOX On the Rocks.md": {
       "hash": "952790fa551289ee6883b864241796a4d483817fa6f376ff40e8fad1aec4a082",

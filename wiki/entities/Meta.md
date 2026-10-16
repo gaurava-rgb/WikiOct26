@@ -3,11 +3,11 @@ type: entity
 title: Meta
 status: developing
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company
-claim_count: 157
+claim_count: 161
 ---
 
 # Meta
@@ -298,6 +298,16 @@ Owner of Facebook, Instagram, and WhatsApp; also builds AI models (Llama, Muse S
 ### 2026-10-14 [[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders|OpenAI’s Math Breakthroughs Rattle Cryptography Leaders]]
 
 - JPMorgan CFO Jeremy Barnum stated the bank monitors AI capex exposure and blocks external AI agents like Meta's Muse and Instinct from accessing customer accounts. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-1522bc086c9467307f8a|cite]])
+
+### 2026-10-15 [[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices|OpenAI Accelerates Ad Sprint With Meta Hires, Slashed Prices]]
+
+- Nearly half of the roughly 140 OpenAI employees working on advertising joined between July and September 2026, with Meta Platforms as the largest source of talent. ([[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices#^clm-253210d9172b243daf7c|cite]])
+- OpenAI ad chief Dave Dugan spent 12 years at Meta Platforms before joining as vice president of global ad solutions. ([[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices#^clm-18baf22d3bb7da2b7abf|cite]])
+- Former Facebook executive Fidji Simo stepped back from her full-time role at OpenAI in early July 2026. ([[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices#^clm-4336960ca56030dc0532|cite]])
+
+### 2026-10-15 [[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment|Did Anthropic Miss Its Peak IPO Moment?]]
+
+- Apple shares gained 26% year to date through mid-October 2026, outpacing Alphabet, Amazon, Meta, and Microsoft which rose 10% to 12%. ([[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment#^clm-24a0b2eaeedd5d17e570|cite]])
 
 ## Related concepts
 

@@ -3,11 +3,11 @@ type: entity
 title: OpenAI
 status: developing
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company
-claim_count: 378
+claim_count: 392
 ---
 
 # OpenAI
@@ -625,6 +625,29 @@ AI lab behind ChatGPT, the o1 reasoning models, and Codex.
 - Sachin Katti, vice president of compute strategy at OpenAI who joined after four years at Intel, announced he will leave OpenAI on November 15, 2026. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-f4fded2ebdbd41aa3aea|cite]])
 - OpenAI accused a former employee of sharing unreleased device plans with Apple executives, mirroring allegations Apple made against OpenAI in a July 2026 lawsuit. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-4f48635ea4d110ed08d5|cite]])
 
+### 2026-10-15 [[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices|OpenAI Accelerates Ad Sprint With Meta Hires, Slashed Prices]]
+
+- Nearly half of the roughly 140 OpenAI employees working on advertising joined between July and September 2026, with Meta Platforms as the largest source of talent. ([[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices#^clm-253210d9172b243daf7c|cite]])
+- OpenAI ad chief Dave Dugan spent 12 years at Meta Platforms before joining as vice president of global ad solutions. ([[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices#^clm-18baf22d3bb7da2b7abf|cite]])
+- OpenAI's advertising division underwent seven reorganizations between its launch in February 2026 and October 2026. ([[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices#^clm-f8ddce4cc1cd227bb1e6|cite]])
+- Former Facebook executive Fidji Simo stepped back from her full-time role at OpenAI in early July 2026. ([[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices#^clm-4336960ca56030dc0532|cite]])
+- Annualized revenue from ChatGPT advertising reached $1 billion in late August 2026 after launching in February 2026. ([[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices#^clm-378dc4733abccaf8a474|cite]])
+- OpenAI approached a $50 billion annualized revenue pace across its overall business at the end of September 2026. ([[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices#^clm-1af30d56a72e0f8a3b33|cite]])
+- OpenAI is projected to fall short of the $2.4 billion in total 2026 ad revenue it projected to investors earlier in the year. ([[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices#^clm-6b8898eb6e5895d6c433|cite]])
+- Active advertisers on ChatGPT grew to about 60,000 in early October 2026, up from 20,000 in late August 2026. ([[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices#^clm-30cfb376938d33a7cb19|cite]])
+- Prediction: U.S. advertising spending on ChatGPT is projected to increase 40% in October 2026 compared to September 2026 across more than 60 countries. ([[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices#^clm-a9132c774329b1649c42|cite]])
+- A click on a ChatGPT advertisement costs approximately $5, compared to $30 to $50 on Google search for equivalent software buyers. ([[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices#^clm-930d0d8384aaca5b466a|cite]])
+- Roughly 20% of all user queries on ChatGPT express intent to buy a product or service. ([[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices#^clm-e393f0dd0d6d5d917220|cite]])
+- A third-party study of 187,000 ChatGPT ad placements found that one in nine ads was unrelated to the prompt query. ([[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices#^clm-88adf06299fe94da6799|cite]])
+
+### 2026-10-15 [[2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers|Cognition’s Plan to Limit Tokenmaxxing to the Most Efficient Engineers]]
+
+- Sachin Katti, vice president of compute strategy at OpenAI, announced he will step down on November 15, 2026 to start a new company. ([[2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers#^clm-6700d231ec147044798f|cite]])
+
+### 2026-10-15 [[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech|The Party Is Still Going Strong for Private Tech]]
+
+- Inference startups Fireworks AI, Baseten, and Fal experienced surging developer demand as enterprises adopted open-source models that undercut OpenAI and Anthropic. ([[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech#^clm-05f42f7e1f9337a09c66|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], AI Sycophancy, [[Agentic-Commerce|Agentic Commerce]], [[Aggregation-Theory|Aggregation Theory]], [[Annualized-Revenue|Annualized Revenue (ARR)]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Chain-of-Thought-Monitoring|Chain-of-Thought Monitoring]], [[Channel-Conflict|Channel Conflict]], [[Commoditize-Your-Complements|Commoditize Your Complements]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], Constitutional AI, [[Custom-Silicon|Custom Silicon]], [[Distillation|Distillation (Training on Another Model's Outputs)]], Enterprise Philosophy (Tech's Third Philosophy), [[Export-Controls|Chip Export Controls]], [[Generative-UI|Generative UI (On-Demand Interfaces)]], [[LLM-Inflection-Points|Three LLM Inflection Points]], [[License-and-Hire|License-and-Hire Deal]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], Mechanistic Interpretability, [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], Paperclip Maximizer (Bostrom), [[Price-Umbrella|Price Umbrella (Price Overhang)]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Reward-Hacking|Reward Hacking]], [[Switching-Costs|Switching Costs]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Zero-Data-Retention|Zero Data Retention]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], AI Sycophancy, [[Agentic-Commerce|Agentic Commerce]], [[Aggregation-Theory|Aggregation Theory]], [[Annualized-Revenue|Annualized Revenue (ARR)]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Chain-of-Thought-Monitoring|Chain-of-Thought Monitoring]], [[Channel-Conflict|Channel Conflict]], [[Commoditize-Your-Complements|Commoditize Your Complements]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Constitutional-AI|Constitutional AI]], [[Custom-Silicon|Custom Silicon]], [[Distillation|Distillation (Training on Another Model's Outputs)]], Enterprise Philosophy (Tech's Third Philosophy), [[Export-Controls|Chip Export Controls]], [[Generative-UI|Generative UI (On-Demand Interfaces)]], [[LLM-Inflection-Points|Three LLM Inflection Points]], [[License-and-Hire|License-and-Hire Deal]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], Mechanistic Interpretability, [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], Paperclip Maximizer (Bostrom), [[Price-Umbrella|Price Umbrella (Price Overhang)]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Reward-Hacking|Reward Hacking]], [[Switching-Costs|Switching Costs]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Zero-Data-Retention|Zero Data Retention]]

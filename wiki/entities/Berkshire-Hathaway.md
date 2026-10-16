@@ -3,11 +3,11 @@ type: entity
 title: Berkshire Hathaway
 status: developing
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company
-claim_count: 11
+claim_count: 12
 ---
 
 # Berkshire Hathaway
@@ -32,6 +32,10 @@ Warren Buffett's holding company; invested $10 billion in Alphabet equity in Jun
 ### 2026-10-14 [[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence|CoreWeave Co-Founders’ Stock Sales Aren’t Helping Investor Confidence]]
 
 - Berkshire Hathaway agreed to invest $330 million in Italian digital conglomerate Bending Spoons at $33 per share, adding to a 4% stake acquired during its July IPO. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-08844df0f81c466a5bed|cite]])
+
+### 2026-10-15 [[2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers|Cognition’s Plan to Limit Tokenmaxxing to the Most Efficient Engineers]]
+
+- Berkshire Hathaway agreed to invest $330 million in Italian software company Bending Spoons via a private placement of common stock. ([[2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers#^clm-236f2dc937febf514689|cite]])
 
 ## Related concepts
 

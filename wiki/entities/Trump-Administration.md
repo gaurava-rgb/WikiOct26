@@ -3,11 +3,11 @@ type: entity
 title: Trump Administration
 status: developing
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/organization
-claim_count: 26
+claim_count: 27
 ---
 
 # Trump Administration
@@ -74,6 +74,10 @@ US federal executive branch under President Trump.
 ### 2026-10-13 [[2026-10-13-OpenAI-Scrambles-to-Fix-Safety-Issues-Before-Shipping-Its-Next-Flagship-Model|OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model]]
 
 - Before releasing its next model, OpenAI must give it to the U.S. government for testing for up to 30 days, a process it agreed to after a Trump executive order on evaluating advanced AI, per one employee. ([[2026-10-13-OpenAI-Scrambles-to-Fix-Safety-Issues-Before-Shipping-Its-Next-Flagship-Model#^clm-f3bcc5560c01ebc05d54|cite]])
+
+### 2026-10-16 [[2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers|Apple’s Antitrust Settlement Talks Spur Worries Among Developers]]
+
+- Interim Antitrust Division head Stanley Woodward favors settlements over litigation to deliver faster consumer remedies and avoid lengthy trial expenses. ([[2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers#^clm-9bf98c2da06a447fc6b5|cite]])
 
 ## Related concepts
 

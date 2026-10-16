@@ -3,11 +3,11 @@ type: entity
 title: CoreWeave
 status: developing
 created: 2026-10-09
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company
-claim_count: 9
+claim_count: 13
 ---
 
 # CoreWeave
@@ -36,6 +36,16 @@ Neocloud that rents out Nvidia AI chips; Nvidia has invested in it.
 - CoreWeave shares slid from $128 in May 2026 to $86 in September and reached $65 following insider sales and market headwinds. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-28320267b64634dbf7ba|cite]])
 - CoreWeave issued $4.2 billion in convertible notes in September 2026 and announced plans to sell up to 35 million shares over time to finance expansion. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-9a1e292c5ff8f751dbf9|cite]])
 - CoreWeave co-founder Brannin McBee told the Financial Times that the firm hopes to borrow from insurance companies with unlimited capital, arguing operators must achieve massive scale. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-a84dc0e414b9bbda78c3|cite]])
+
+### 2026-10-15 [[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment|Did Anthropic Miss Its Peak IPO Moment?]]
+
+- CoreWeave and Broadcom formally objected to OKXICE plans to trade tokenized blockchain versions of their corporate shares. ([[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment#^clm-1c8be37fa6d0bf62e4de|cite]])
+
+### 2026-10-15 [[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech|The Party Is Still Going Strong for Private Tech]]
+
+- Morgan Stanley technology equity head Diana Doyle observed a stark sentiment disconnect as private markets reward growth while public markets enforce strict financial discipline. ([[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech#^clm-94964eaedf3ea0257784|cite]])
+- Public market investors sold off shares of CoreWeave and Nebius amid escalating bond yields and concerns over debt-heavy AI infrastructure financing. ([[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech#^clm-26dc2552a4de4d20647f|cite]])
+- Morgan Stanley tech investment banking chief David Chen argued that public listings provide an essential competitive weapon by unlocking access to convertible debt. ([[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech#^clm-3dcb2372343cab79826a|cite]])
 
 ## Related concepts
 

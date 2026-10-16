@@ -3,11 +3,11 @@ type: entity
 title: Xiaomi
 status: developing
 created: 2026-10-13
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company
-claim_count: 5
+claim_count: 6
 ---
 
 # Xiaomi
@@ -23,6 +23,10 @@ Chinese smartphone and electric car maker that builds its own MiMo AI models.
 - Xiaomi made a splash in 2025 by poaching a star researcher from DeepSeek. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-4bc3dd716383e4e545f3|cite]])
 - Xiaomi's flagship MiMo-V2.6-Pro, released in September 2026, ranks ninth on the Artificial Analysis Intelligence Index, on par with xAI's Grok 4.7 and ahead of the flagships Alibaba and Z.ai launched weeks earlier. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-3ab0c87a5cd99e1c7bc0|cite]])
 - Bernstein analyst Robin Zhu says Chinese founders worry that not owning a model could leave them vulnerable if they lose access to outside platforms. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-a3de32689e7be77e8971|cite]])
+
+### 2026-10-15 [[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment|Did Anthropic Miss Its Peak IPO Moment?]]
+
+- In China, consumer tech giants Xiaomi and Meituan are developing in-house AI models rather than purchasing frontier access. ([[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment#^clm-d1c39c6efafd521ae089|cite]])
 
 ## Related concepts
 

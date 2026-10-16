@@ -3,11 +3,11 @@ type: entity
 title: Modal
 status: developing
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company
-claim_count: 2
+claim_count: 3
 ---
 
 # Modal
@@ -23,3 +23,7 @@ Cloud compute and inference provider for AI developers.
 ### 2026-10-07 [[2026-10-07-AIs-Simmering-Question-Where-Is-All-the-Automation|AI's Simmering Question: "Where the F--- Is All the Automation?"]]
 
 - Nearly 800 developers attended a San Francisco conference hosted by Modal, a highly valued seller of compute and developer tools. ([[2026-10-07-AIs-Simmering-Question-Where-Is-All-the-Automation#^clm-4ec9ee0d1a446ca6f0b1|cite]])
+
+### 2026-10-15 [[2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers|Cognition’s Plan to Limit Tokenmaxxing to the Most Efficient Engineers]]
+
+- AI infrastructure provider Modal closed a $750 million Series D funding round led by Accel at a $15.75 billion valuation. ([[2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers#^clm-413eba966842723d4907|cite]])

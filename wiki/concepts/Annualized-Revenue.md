@@ -3,10 +3,10 @@ type: concept
 title: Annualized Revenue (ARR)
 status: developing
 created: 2026-10-13
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - concept
-source_count: 5
+source_count: 6
 ---
 
 # Annualized Revenue (ARR)
@@ -40,3 +40,8 @@ A guess at a full year's sales, usually one month's revenue multiplied by 12. Fa
 ### 2026-10-14 [[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation|Anthropic’s Rapid But Slowing Growth Could Weigh on IPO Valuation]]
 
 - Anthropic withheld an updated annualized revenue figure at its October investor meeting, after the metric reached $65 billion in July 2026 but drew market scrutiny. ([[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation#^clm-e557855a0924f288f3cf|cite]])
+
+### 2026-10-15 [[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices|OpenAI Accelerates Ad Sprint With Meta Hires, Slashed Prices]]
+
+- Annualized revenue from ChatGPT advertising reached $1 billion in late August 2026 after launching in February 2026. ([[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices#^clm-378dc4733abccaf8a474|cite]])
+- OpenAI approached a $50 billion annualized revenue pace across its overall business at the end of September 2026. ([[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices#^clm-1af30d56a72e0f8a3b33|cite]])

@@ -458,6 +458,10 @@
       "blurb": "Writer of Sharp Text and co-host of Stratechery podcasts including Sharp China.",
       "kind": "person"
     },
+    "Anduril": {
+      "blurb": "Defense technology contractor building autonomous military vehicles, munitions, and command software.",
+      "kind": "company"
+    },
     "Andy Jassy": {
       "blurb": "CEO of Amazon.",
       "kind": "person"
@@ -476,6 +480,10 @@
     },
     "Anthropic": {
       "blurb": "AI lab that makes the Claude models and Claude Code; focused on enterprise customers.",
+      "kind": "company"
+    },
+    "Antithesis": {
+      "blurb": "Software testing platform providing deterministic simulations for enterprise systems.",
       "kind": "company"
     },
     "Apollo Global Management": {
@@ -730,6 +738,10 @@
       "blurb": "CEO and cofounder of Anthropic.",
       "kind": "person"
     },
+    "Dave Dugan": {
+      "blurb": "Vice president of global ad solutions at OpenAI and former Meta executive.",
+      "kind": "person"
+    },
     "David Luan": {
       "blurb": "CEO of Adept AI Labs; earlier led Google's large-model work and was a VP of engineering at OpenAI.",
       "kind": "person"
@@ -777,6 +789,10 @@
     "Demis Hassabis": {
       "blurb": "Co-founder and CEO of Google DeepMind.",
       "kind": "person"
+    },
+    "Department of Justice": {
+      "blurb": "United States federal department responsible for law enforcement and antitrust regulation.",
+      "kind": "org"
     },
     "Dianne Penn": {
       "blurb": "Leads product management for research and labs at Anthropic.",
@@ -836,6 +852,10 @@
     },
     "Entergy": {
       "blurb": "US utility that serves Mississippi and warned Amazon it would curtail its data centers.",
+      "kind": "company"
+    },
+    "Epic Games": {
+      "blurb": "Video game publisher and Unreal Engine developer that brought major antitrust litigation against Apple.",
       "kind": "company"
     },
     "Eric Seufert": {

@@ -3,11 +3,11 @@ type: entity
 title: Nscale
 status: developing
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company
-claim_count: 4
+claim_count: 6
 ---
 
 # Nscale
@@ -31,3 +31,12 @@ UK-based neocloud that rents out GPU capacity.
 ### 2026-10-14 [[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence|CoreWeave Co-Founders’ Stock Sales Aren’t Helping Investor Confidence]]
 
 - Less-established neocloud operators Nscale and SB Energy have struggled to complete initial public offerings amid tightening market demand. ([[2026-10-14-CoreWeave-Co-Founders-Stock-Sales-Arent-Helping-Investor-Confidence#^clm-d302996cdc58df0de16f|cite]])
+
+### 2026-10-15 [[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech|The Party Is Still Going Strong for Private Tech]]
+
+- Data center operator Nscale sought to raise up to $3 billion in an initial public offering at a valuation exceeding $35 billion, per the Financial Times. ([[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech#^clm-fa9e2fe2f425c722ec4e|cite]])
+- Mutual fund managers at Morgan Stanley's tech conference questioned whether debt-saddled data center operators can successfully go public at target valuations. ([[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech#^clm-3fa01358ccd123898fdc|cite]])
+
+## Related concepts
+
+[[Capex-vs-Opex|Capex vs Opex]]

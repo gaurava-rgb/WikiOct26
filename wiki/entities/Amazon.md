@@ -3,11 +3,11 @@ type: entity
 title: Amazon
 status: developing
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - entity
   - entity/company
-claim_count: 351
+claim_count: 353
 ---
 
 # Amazon
@@ -453,6 +453,14 @@ US e-commerce, logistics, and cloud company (AWS). Known for long-term, capital-
 
 - Rather than partnering with Starlink, AT&T and Verizon doubled down on AST SpaceMobile for satellite connectivity, while Apple allied with Amazon through its Globalstar purchase. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-16b9f357b6f2a89c16ad|cite]])
 - Thompson argues Delta risks undermining its premium airline positioning by enduring inferior connectivity while awaiting Amazon Leo as competitors deploy fast Starlink WiFi. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-f4dbbd0618cc864fe610|cite]])
+
+### 2026-10-15 [[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment|Did Anthropic Miss Its Peak IPO Moment?]]
+
+- Apple shares gained 26% year to date through mid-October 2026, outpacing Alphabet, Amazon, Meta, and Microsoft which rose 10% to 12%. ([[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment#^clm-24a0b2eaeedd5d17e570|cite]])
+
+### 2026-10-15 [[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator|Why AI-Written Software Needs a Flight Simulator]]
+
+- Microsoft and Amazon provide software resilience tools that inject controlled experimental faults directly into live production servers rather than simulated environments. ([[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator#^clm-864947003a94f9455613|cite]])
 
 ## Related concepts
 
