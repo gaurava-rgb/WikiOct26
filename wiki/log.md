@@ -13,6 +13,10 @@ tags:
 
 Newest completed operations appear first.
 
+## 2026-10-19 editor-update-20261019-b29
+
+- Editor update: slotted 8 The Information articles (batch b29) into the AI shift story, Anthropic 2026 journey, OpenAI late 2026 journey, Nvidia late 2026 journey, Meta October 2026 journey, and what-changed page; 4 what-changed entries on neocloud consolidation shakeout, Chinese pre-training on Huawei Ascend and TileLang, Anthropic $60B TPU debt financing, and Pentagon export control enforcement against safety guardrails.
+
 ## 2026-10-19 ingest-20261019-b29
 
 - Batch 29: TI Oct 16-19 DayOne IPO, OpenAI bug, Q3 previews, neocloud shakeout, upstart banks, Anthropic models & debt, DeepSeek Huawei chips, Pentagon AI controls.

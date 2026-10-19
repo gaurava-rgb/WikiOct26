@@ -3,7 +3,7 @@ type: journey
 title: "Meta, October 2026 onward: the frontier and the bill"
 status: developing
 created: 2026-10-13
-updated: 2026-10-13
+updated: 2026-10-19
 tags:
   - journey
   - meta
@@ -23,7 +23,11 @@ Meta launched Muse, a personal agent that can buy things, answer email and do ot
 
 **October 12, 2026: claiming the frontier.** Meta's AI efforts had slumped, which set off a massive hiring binge over about 14 months ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]]). That push produced two new models, Muse Wonder and Muse Wonder Full, unveiled on October 12 ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]]; [[2026-10-13-Neocloud-Prime-Intellect-Acquires-Startup-To-Speed-Up-Inference|Prime Intellect]]). Meta says Muse Wonder is state of the art on certain tasks and pushes the frontier of AI ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]]). (The frontier means the best AI any lab has built so far.) Meta said the model will soon power Muse ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]]). But Google, OpenAI and Anthropic all made the same kind of claim in September ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]]). The Information still puts OpenAI and Anthropic clearly ahead of followers such as Meta ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded|China's AI Race]]). Buyers are also moving to cheaper, good-enough models: only 14% of usage on OpenRouter, a service that sends requests to many AI models, ran through the top 10 models in Q3 2026, down from 55% in Q1 2025 ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]]). So columnist Martin Peers argues ordinary Muse users do not need the best model for everything, and putting Muse Wonder into Muse may mostly raise Meta's costs ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches the Frontier]]).
 
-## Moving forward (as of 2026-10-13)
+**October 2026: advertising boom against a $40 billion quarterly capex bill.** In the first half of 2026 Meta digital ad revenue grew 30%, reaching $59 billion in the second quarter, double Google growth rate, with 9 million small businesses using Meta AI creative tools ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week|Meta Tesla Netflix Preview]]). But the bill doubled too: analysts project third-quarter capital expenditures of $40.5 billion, driving negative free cash flow of $10.3 billion, beginning several consecutive quarters of negative cash flow ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week|Meta Tesla Netflix Preview]]). While Meta held $90 billion in cash and securities at June 30, the continuing cash burn will likely require future debt or equity offerings ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week|Meta Tesla Netflix Preview]]). On local devices, Meta released Muse Spark Open, an open-weight model designed to run locally on Mac computers ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better|Anthropic Intention Model]]). In infrastructure, Meta contracted to lease capacity from neocloud Firmus facilities in Southeast Asia, including a site in Batam, Indonesia, with at least 170,000 advanced Nvidia chips developed with DayOne ([[2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok|DayOne Data Centers IPO]]).
+
+## Moving forward (as of 2026-10-19)
+
+- **Capital expenditure and cash burn.** Analysts project Q3 capex of $40.5 billion will drive $10.3 billion of negative free cash flow, testing investor tolerance for AI infrastructure spending ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week|Meta Tesla Netflix Preview]]).
 
 - **The consumer AI test.** Thompson says if Muse does not take off, glorified search may be as far as consumer AI goes ([[2026-09-09-OpenAI-Does-Math-Reward-Hacking-Meta-Launches-Personal-Agent|Meta Launches Personal Agent]]).
 - **Locked doors.** JPMorgan said in October 2026 it is blocking outside AI agents such as Meta's Muse from client accounts ([[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit|OpenAI's Bug and Bumble]]). CEO Jamie Dimon said letting any outside agent inside is too risky for clients and for the bank ([[2026-10-13-OpenAIs-Bug-and-Bumbles-AI-Powered-Exit|OpenAI's Bug and Bumble]]). An agent that cannot reach your bank can do less for you.
@@ -58,6 +62,9 @@ A "tokenmaxxing" craze and a Claudeonomics leaderboard drove a spring spike in M
 13. "Neocloud Prime Intellect Acquires Startup To Speed Up Inference." The Information, 2026-10-13.
 14. "OpenAI Scrambles to Fix Safety Issues Before Shipping Its Next Flagship Model." The Information, 2026-10-13.
 15. "OpenAI's Bug and Bumble's AI-Powered Exit." The Information, 2026-10-13.
+16. "Singapore’s DayOne Pushes Ahead With Data Center IPO Tied to TikTok." The Information, 2026-10-16.
+17. "Meta, Tesla and Netflix Q3 Updates Coming This Week." The Information, 2026-10-18.
+18. "Anthropic Readies Model That Reads Users' Intentions Better." The Information, 2026-10-19.
 
 **Older-data flag.** No source here is older than two years.
 
@@ -69,5 +76,6 @@ See also: [[journeys/meta-journey|Meta journey (hub)]], [[journeys/meta-journey-
 ## Change log
 
 - 2026-10-13: split from meta-journey-late-2026.md per proposal 2026-10-13. The cost-cut and frontier beats, "Moving forward", one "why?" question and one disagreement line moved unchanged; added a short "story so far" and the era links.
+- 2026-10-19: added H1 30% digital ad growth to $59B, Q3 capex doubling to $40.5B with $10.3B negative free cash flow, Muse Spark Open model for Mac, and Firmus DayOne Indonesia capacity lease [DayOne Data Centers IPO, Meta Tesla Netflix Preview, Anthropic Intention Model, 2026-10-16 to 19]
 
-<!-- claims: clm-51dab3c30191769a1788, clm-ac846916ea8c70aa46a7, clm-c307ea9bf101fdc2b427, clm-e9e1022d5d92487cc593, clm-bb84f0ec478c11ae7dab, clm-10d462be62aaf27550a3, clm-8d303170f3fff556e8c7, clm-ef2d127de37b942baad0, clm-6523c4b89c875e867add, clm-1199c7eccf9e6f41007e, clm-54549760b1f716c150d1, clm-ae4642bfdcb93ec648d3, clm-891f73750c2ebb8e1618, clm-32b53c401a64bbc35b01, clm-8b8e77c8249fb96f8f41, clm-1fba178da515b4f3f1f0, clm-4f1d0ba257d5d0ffe282, clm-4156bd89a9e0ae358892, clm-c41fdcbdad64c1f66abf, clm-f7dd3171eac1dad415ee, clm-4fbbf96b00ae90868f83, clm-0afe4bd52893834a199d, clm-c86006ac501487c59bd7, clm-7f2a50f33551029ae1e3, clm-b7d9cb15ced866f324a7, clm-88f0bb0af9223ec24036, clm-2419df11afb4d14f1389, clm-14cf1cd1539007e7dcea, clm-c0ded9427b53f0d7905e, clm-447355abfc5320e8e964, clm-bd43255c7b9d8fad7333, clm-f7a84a419bf8107fc31b, clm-33a748a27ed0f7e9a6c8 -->
+<!-- claims: clm-51dab3c30191769a1788, clm-ac846916ea8c70aa46a7, clm-c307ea9bf101fdc2b427, clm-e9e1022d5d92487cc593, clm-bb84f0ec478c11ae7dab, clm-10d462be62aaf27550a3, clm-8d303170f3fff556e8c7, clm-ef2d127de37b942baad0, clm-6523c4b89c875e867add, clm-1199c7eccf9e6f41007e, clm-54549760b1f716c150d1, clm-ae4642bfdcb93ec648d3, clm-891f73750c2ebb8e1618, clm-32b53c401a64bbc35b01, clm-8b8e77c8249fb96f8f41, clm-1fba178da515b4f3f1f0, clm-4f1d0ba257d5d0ffe282, clm-4156bd89a9e0ae358892, clm-c41fdcbdad64c1f66abf, clm-f7dd3171eac1dad415ee, clm-4fbbf96b00ae90868f83, clm-0afe4bd52893834a199d, clm-c86006ac501487c59bd7, clm-7f2a50f33551029ae1e3, clm-b7d9cb15ced866f324a7, clm-88f0bb0af9223ec24036, clm-2419df11afb4d14f1389, clm-14cf1cd1539007e7dcea, clm-c0ded9427b53f0d7905e, clm-447355abfc5320e8e964, clm-bd43255c7b9d8fad7333, clm-f7a84a419bf8107fc31b, clm-33a748a27ed0f7e9a6c8, clm-bce3b565b118481ac857, clm-6a729ebe78d85e14bb50, clm-7405b0353e0c8f03d074, clm-d1eb35b8c4a8bf76459b, clm-9a0ce83bda1f59882d94, clm-c2dee90eadd6d07b98e1, clm-f5675da3e0acbf7b67fd -->
