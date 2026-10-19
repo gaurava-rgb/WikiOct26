@@ -3,7 +3,7 @@ type: entity
 title: d-Matrix
 status: developing
 created: 2026-10-09
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
   - entity/company

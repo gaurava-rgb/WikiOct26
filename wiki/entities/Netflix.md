@@ -3,11 +3,11 @@ type: entity
 title: Netflix
 status: developing
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
   - entity/company
-claim_count: 62
+claim_count: 64
 ---
 
 # Netflix
@@ -101,6 +101,11 @@ Video streaming service; an AWS customer that competes with Amazon Prime Video.
 ### 2026-10-11 [[2026-10-11-Amazons-Bargains-Include-Its-Stock|Amazon’s Bargains Include Its Stock]]
 
 - Martin Peers argues Amazon's film and TV studio should be worth at least as much as Netflix, which has a $300 billion market capitalization. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-8944ca996a8a3111530c|cite]])
+
+### 2026-10-18 [[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week|Meta, Tesla and Netflix Q3 Updates Coming This Week]]
+
+- Prediction: Netflix projected third-quarter revenue growth of 11.7%, slowing from 16.2% in the first quarter of 2026. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-c571ee37385500fb0701|cite]])
+- Netflix shares fell 25% year-to-date in 2026, trading at 5.6 times forward revenue compared to 2.2 times for Walt Disney Co. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-5483dd628f6e17b2a981|cite]])
 
 ## Related concepts
 

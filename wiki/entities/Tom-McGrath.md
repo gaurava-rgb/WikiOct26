@@ -3,7 +3,7 @@ type: entity
 title: Tom McGrath
 status: developing
 created: 2026-10-13
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
   - entity/person

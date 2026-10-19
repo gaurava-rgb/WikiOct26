@@ -3,11 +3,11 @@ type: entity
 title: Tesla
 status: developing
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
   - entity/company
-claim_count: 10
+claim_count: 13
 ---
 
 # Tesla
@@ -40,6 +40,12 @@ US electric car maker led by Elon Musk; plans a low-cost robotaxi called Cyberca
 ### 2026-10-15 [[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment|Did Anthropic Miss Its Peak IPO Moment?]]
 
 - An IPO valuation of $1.4 trillion to $1.5 trillion would make Anthropic the ninth-largest tech company, ranking below Broadcom and above Tesla. ([[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment#^clm-dd323faaa4d7461918e6|cite]])
+
+### 2026-10-18 [[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week|Meta, Tesla and Netflix Q3 Updates Coming This Week]]
+
+- Tesla market capitalization stands at $1.4 trillion, approximately $600 billion below SpaceX valuation of roughly $2 trillion. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-e41b833b1dc0903c4cbe|cite]])
+- Tesla third-quarter deliveries fell 2% year-over-year, leading analysts to estimate revenue grew only 0.6% in the quarter. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-1263f6679deefddf17ca|cite]])
+- Tesla unveiled its upcoming Roadster but scheduled production to begin in 2028. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-e6b30dc1a0dd016c8bfe|cite]])
 
 ## Related concepts
 

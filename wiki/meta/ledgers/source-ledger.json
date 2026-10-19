@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:08:55Z",
+  "generated_at": "2026-10-19T21:49:00Z",
   "schema": "claude-obsidian.source-ledger.v1",
   "sources": {
     "src-a3fe751aca2f987ed6fc": {
@@ -3126,6 +3126,206 @@
       "url": "https://www.theinformation.com/articles/apples-antitrust-settlement-talks-spur-worries-among-developers",
       "form": "article",
       "summary": "The U.S. Department of Justice has engaged in settlement discussions to resolve its 2024 antitrust lawsuit against Apple, sparking concerns among app developers including PayPal and Epic Games that a deal will not dismantle anticompetitive restrictions. Government discussions prioritize iPhone hardware interoperability with rival smartwatches and payment apps. Meanwhile, interim antitrust division head Stanley Woodward has favored settlements to avoid prolonged court trials, even as Apple appeals a contempt referral in the Epic Games case to the Supreme Court."
+    },
+    "src-3a72ec9d901156b47271": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-16 The Information - Singapore DayOne pushes ahead with data center IPO tied to TikTok (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Singapore’s DayOne Pushes Ahead With Data Center IPO Tied to TikTok",
+      "authority": "secondary",
+      "content_sha256": "063a71056ffeb3be6ceac24a5f841768bd16ea76314ecfced21d9f9135735210",
+      "ingested_at": "2026-10-19",
+      "retrieved_at": "2026-10-19",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok.md"
+      ],
+      "supersedes": null,
+      "author": "Claudia Chong, Juro Osawa",
+      "published": "2026-10-16",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/singapores-dayone-pushes-ahead-data-center-ipo-tied-tiktok",
+      "form": "article",
+      "summary": "Singapore-based data center operator DayOne is pushing ahead with a New York IPO to raise up to $5 billion despite market jitters that derailed listings by AI cloud firms. TikTok parent ByteDance accounts for nearly 70% of DayOne revenue, though that capacity serves conventional workloads rather than AI. DayOne is expanding into AI data centers with Western customers like Oracle, while neocloud Firmus and Blackstone-backed AirTrunk faced IPO setbacks."
+    },
+    "src-7c6260f6354ddfa624d6": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-17 The Information - Office corporate espionage and the OpenAI bugging case (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Your Office Isn’t Spy Proof",
+      "authority": "secondary",
+      "content_sha256": "71eae1ccf351c56e70ee4d4259f43d7d3e8d2b447ece5bbd64fef42e5b67465f",
+      "ingested_at": "2026-10-19",
+      "retrieved_at": "2026-10-19",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-17-Your-Office-Isnt-Spy-Proof.md"
+      ],
+      "supersedes": null,
+      "author": "Abram Brown",
+      "published": "2026-10-17",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/office-spy-proof",
+      "form": "newsletter",
+      "summary": "The FBI arrested former OpenAI engineer Abdulrahman Alfozan for allegedly planting listening devices wrapped in toilet paper inside OpenAI conference rooms. The Justice Department described him as a Saudi Arabian national, raising concerns over foreign intelligence gathering at leading AI labs. Security experts warn that fierce AI recruiting competition leads to lax background vetting, while counter-espionage startup Strider Technologies has raised $110 million to detect insider leaks."
+    },
+    "src-7df64e9f3c09019c569b": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-18 The Information - Meta, Tesla and Netflix Q3 updates preview (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Meta, Tesla and Netflix Q3 Updates Coming This Week",
+      "authority": "secondary",
+      "content_sha256": "b37c6b1667ed8d8a93c86a8e84494d3667f44d2806848a8e9574fd510f5c94f1",
+      "ingested_at": "2026-10-19",
+      "retrieved_at": "2026-10-19",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week.md"
+      ],
+      "supersedes": null,
+      "author": "Martin Peers",
+      "published": "2026-10-18",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/meta-tesla-netflix-q3-updates-coming-week",
+      "form": "newsletter",
+      "summary": "Meta digital ad revenue grew 30% in early 2026 to $59 billion in Q2, but analysts project third-quarter capital spending will double to $40.5 billion, causing negative free cash flow of $10.3 billion. Tesla faces slowing vehicle deliveries and a delayed Roadster to 2028 as its valuation lags SpaceX. Netflix growth slowed to 11.7% amid executive churn, while Microsoft canceled a planned UK data center with neocloud Nscale over power connection delays."
+    },
+    "src-ed769eaf9a4ea5c9bb97": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-18 The Information - Neocloud shakeout looms and Nvidia has a lot to lose (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Neocloud Shakeout Looms, and Nvidia Has a Lot to Lose",
+      "authority": "secondary",
+      "content_sha256": "a5318cd7ca266a55bcfd2be4d9861af223e0c737c24ad1627581018d34806358",
+      "ingested_at": "2026-10-19",
+      "retrieved_at": "2026-10-19",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose.md"
+      ],
+      "supersedes": null,
+      "author": "Phoebe Liu",
+      "published": "2026-10-18",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/neocloud-shakeout-looms-nvidia-lot-lose",
+      "form": "newsletter",
+      "summary": "Industry executives and analysts predict an aggressive consolidation among neoclouds, with only seven to ten surviving out of hundreds due to heavy debt loads and canceled IPOs. CoreWeave mainly leases facilities, whereas builder clouds like Nebius and Nscale risk construction delays if financing dries up. Nvidia has taken on $20 billion in data center leases and modified its credit support terms to protect its $40 billion quarterly non-hyperscaler revenue stream."
+    },
+    "src-0e34beac45387b8ea277": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-18 The Information - Why upstart banks may have to keep raising money (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Why Upstart Banks May Have to Keep Raising Money",
+      "authority": "secondary",
+      "content_sha256": "ec3da45b29479bad50d6f544ccd52f00f4d3c0bfd9558c01cd885989c0bdde86",
+      "ingested_at": "2026-10-19",
+      "retrieved_at": "2026-10-19",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-18-Why-Upstart-Banks-May-Have-to-Keep-Raising-Money.md"
+      ],
+      "supersedes": null,
+      "author": "Yueqi Yang",
+      "published": "2026-10-18",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/upstart-banks-may-keep-raising-money",
+      "form": "newsletter",
+      "summary": "New venture-backed de novo banks chartered under the Trump administration face strict regulatory capital cushions, requiring 10% to 12% tier 1 leverage ratios for their first three years. Because newer banks lack retained earnings, surging deposits force repeated equity raises. Palmer Luckey's Erebor Bank is raising $1.5 billion at an $8 billion valuation as deposits reached $7 billion, subject to an FDIC capital-call requirement, while crypto-focused upstarts Openreserve and Augustus also prepare launches."
+    },
+    "src-b953cd17592aa96960df": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-19 The Information - Anthropic readies model that reads users intentions better (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Anthropic Readies Model That Reads Users' Intentions Better",
+      "authority": "secondary",
+      "content_sha256": "5912db4221f5b6a280c334240472609fe0c5431f92f9af4081baeb13930f7ad1",
+      "ingested_at": "2026-10-19",
+      "retrieved_at": "2026-10-19",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better.md"
+      ],
+      "supersedes": null,
+      "author": "Stephanie Palazzolo",
+      "published": "2026-10-19",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/anthropic-readies-model-reads-users-intentions-better",
+      "form": "newsletter",
+      "summary": "Anthropic is preparing an unreleased model with superior intuition and intention-reading capabilities, while assembling a $60 billion debt package for Google TPUs with Blackstone anchoring a junior slice. Google is building Gemini 4 Carbon with visual advantages from YouTube, while OpenAI prepares mid-tier Terra models to undercut Anthropic on API cost. Major deals include Proofpoint acquiring Varonis Systems for $6.3 billion and private equity buying CCC Intelligent Solutions for $6.1 billion."
+    },
+    "src-eefe71849b5484d1063b": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-19 The Information - How DeepSeek is shaping Huawei AI chips in a challenge to Nvidia (notes).md"
+      },
+      "content_kind": "document",
+      "title": "How DeepSeek Is Shaping Huawei’s AI Chips in a Growing Challenge to Nvidia",
+      "authority": "secondary",
+      "content_sha256": "2af5cdb8319fe025924bd24dd064b898a5839e363473555bd71c5008ee9badf5",
+      "ingested_at": "2026-10-19",
+      "retrieved_at": "2026-10-19",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia.md"
+      ],
+      "supersedes": null,
+      "author": "Qianer Liu, Juro Osawa",
+      "published": "2026-10-19",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia",
+      "form": "article",
+      "summary": "DeepSeek is collaborating closely with Huawei Technologies to shape future Ascend AI chips, with Huawei engineers stationed at DeepSeek to adapt hardware for frontier training without Nvidia. DeepSeek plans to use Huawei Ascend 950DT chips for pre-training by late 2026 and receive priority supply of the Ascend 960DT in 2027. While Epoch AI estimates Huawei chips trail Nvidia B300s by 7x in arithmetic performance, DeepSeek is using open-source TileLang to break CUDA lock-in while continuing to access smuggled Blackwell chips."
+    },
+    "src-572c55c13d6abfc6d211": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-19 The Information - Pentagon Emil Michael vows export controls if AI labs do not cooperate (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Pentagon’s Emil Michael Vows Export Controls if AI Labs Don’t Cooperate With Government",
+      "authority": "primary",
+      "content_sha256": "66d2759c031ee78ddeda27688479e187c4b067390cd4bb81eded236d4c2aacad",
+      "ingested_at": "2026-10-19",
+      "retrieved_at": "2026-10-19",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government.md"
+      ],
+      "supersedes": null,
+      "author": "Leo Schwartz, Amir Efrati",
+      "published": "2026-10-19",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/pentagons-emil-michael-vows-export-controls-ai-labs-cooperate-government",
+      "form": "interview",
+      "summary": "Under Secretary of Defense Emil Michael vowed in an interview to deploy export controls and executive authorities against frontier AI labs that refuse to cooperate with the government. Michael likened labs asking for regulation to drunk drivers demanding someone else pull them over, and reiterated his refusal to allow Anthropic into the Pentagon while Claude retains autonomy to end conversations. Michael regularly meets with Anthropic co-founder Tom Brown on incident response, while the Pentagon prepares loans to decrease dependence on ASML and TSMC."
     }
   }
 }

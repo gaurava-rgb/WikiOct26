@@ -3,11 +3,11 @@ type: entity
 title: Meta
 status: developing
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
   - entity/company
-claim_count: 161
+claim_count: 168
 ---
 
 # Meta
@@ -309,6 +309,22 @@ Owner of Facebook, Instagram, and WhatsApp; also builds AI models (Llama, Muse S
 
 - Apple shares gained 26% year to date through mid-October 2026, outpacing Alphabet, Amazon, Meta, and Microsoft which rose 10% to 12%. ([[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment#^clm-24a0b2eaeedd5d17e570|cite]])
 
+### 2026-10-16 [[2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok|Singapore’s DayOne Pushes Ahead With Data Center IPO Tied to TikTok]]
+
+- In June 2026, Firmus agreed to partner with DayOne on a data center in Batam, Indonesia, with at least 170,000 advanced Nvidia chips, with Meta leasing capacity. ([[2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok#^clm-bce3b565b118481ac857|cite]])
+
+### 2026-10-18 [[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week|Meta, Tesla and Netflix Q3 Updates Coming This Week]]
+
+- In the first half of 2026, Meta digital ad revenue grew 30%, double Google growth rate, with second-quarter ad revenue reaching $59 billion. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-6a729ebe78d85e14bb50|cite]])
+- Meta CEO Mark Zuckerberg stated that 9 million small businesses use at least one Meta AI creative tool to build ads. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-7405b0353e0c8f03d074|cite]])
+- Prediction: Analysts project Meta third-quarter 2026 capital expenditures of $40.5 billion, double the year-earlier level. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-d1eb35b8c4a8bf76459b|cite]])
+- Prediction: Meta third-quarter capex is projected to drive negative free cash flow of $10.3 billion, compared to positive $10.6 billion a year earlier. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-9a0ce83bda1f59882d94|cite]])
+- Meta held $90 billion in cash and marketable securities as of June 30, 2026. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-c2dee90eadd6d07b98e1|cite]])
+
+### 2026-10-19 [[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better|Anthropic Readies Model That Reads Users' Intentions Better]]
+
+- Meta released Muse Spark Open, an open-weight artificial intelligence model designed to run locally on Mac computers. ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better#^clm-f5675da3e0acbf7b67fd|cite]])
+
 ## Related concepts
 
-[[A-B-Testing|A/B Testing]], [[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[Agentic-Commerce|Agentic Commerce]], [[Aggregation-Theory|Aggregation Theory]], Application Layer Bridge (Computing Paradigms), A Framework for Regulating Content on the Internet, [[Custom-Silicon|Custom Silicon]], [[Data-Asset|Data as a Competitive Asset]], [[Data-Center-Opposition|Local Opposition to Data Centers]], Enshittification, [[Generative-UI|Generative UI (On-Demand Interfaces)]], Intelligent Personal Hub, [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Switching-Costs|Switching Costs]], [[VR-vs-AR|Virtual vs Augmented Reality]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Vertical-Integration|Vertical Integration]]
+[[A-B-Testing|A/B Testing]], [[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[Agentic-Commerce|Agentic Commerce]], [[Aggregation-Theory|Aggregation Theory]], Application Layer Bridge (Computing Paradigms), [[Capex-vs-Opex|Capex vs Opex]], A Framework for Regulating Content on the Internet, [[Custom-Silicon|Custom Silicon]], [[Data-Asset|Data as a Competitive Asset]], [[Data-Center-Opposition|Local Opposition to Data Centers]], Enshittification, [[Generative-UI|Generative UI (On-Demand Interfaces)]], Intelligent Personal Hub, [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Switching-Costs|Switching Costs]], [[VR-vs-AR|Virtual vs Augmented Reality]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Vertical-Integration|Vertical Integration]]

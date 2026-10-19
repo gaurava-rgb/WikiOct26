@@ -3,11 +3,11 @@ type: entity
 title: Jensen Huang
 status: developing
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
   - entity/person
-claim_count: 26
+claim_count: 27
 ---
 
 # Jensen Huang
@@ -71,6 +71,10 @@ Co-founder and CEO of Nvidia.
 
 - President Trump appointed Mark Zuckerberg in March 2026 to the President's Council of Advisors on Science and Technology, alongside Sergey Brin, Larry Ellison and Jensen Huang; only one of the council's 13 members is an academic researcher. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-5257749eeffe90fa7196|cite]])
 - On October 8, 2026, Sergey Brin and Jensen Huang, with other tech figures, received the National Medals of Science from President Trump. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-9cbaa6918d5a1fc5f3e2|cite]])
+
+### 2026-10-18 [[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose|Neocloud Shakeout Looms, and Nvidia Has a Lot to Lose]]
+
+- Nvidia CEO Jensen Huang stated in Stockholm that CoreWeave will not need further credit backstops beyond an existing $6.3 billion GPU rent-back agreement. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-e56051fec12c2ad66514|cite]])
 
 ## Related concepts
 

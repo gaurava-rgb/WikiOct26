@@ -3,11 +3,11 @@ type: entity
 title: Mark Zuckerberg
 status: developing
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
   - entity/person
-claim_count: 17
+claim_count: 18
 ---
 
 # Mark Zuckerberg
@@ -59,6 +59,10 @@ Co-founder and CEO of Meta.
 - Mark Zuckerberg said he and Priscilla Chan started the first version of Biohub almost 10 years earlier aiming to cure and prevent all diseases by 2100, and that thanks to AI this no longer seems so crazy. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-144e9a93dde9c0ff85ea|cite]])
 - President Trump appointed Mark Zuckerberg in March 2026 to the President's Council of Advisors on Science and Technology, alongside Sergey Brin, Larry Ellison and Jensen Huang; only one of the council's 13 members is an academic researcher. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-5257749eeffe90fa7196|cite]])
 - The Information's Amy Dockser Marcus argues the Biohub event is one of several signs of a changing of the scientific guard from major universities to big tech companies, with AI the favored engine for studying cells and disease. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-19ad68e26190a7a4858e|cite]])
+
+### 2026-10-18 [[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week|Meta, Tesla and Netflix Q3 Updates Coming This Week]]
+
+- Meta CEO Mark Zuckerberg stated that 9 million small businesses use at least one Meta AI creative tool to build ads. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-7405b0353e0c8f03d074|cite]])
 
 ## Related concepts
 

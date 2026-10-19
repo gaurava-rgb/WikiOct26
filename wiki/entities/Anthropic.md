@@ -3,11 +3,11 @@ type: entity
 title: Anthropic
 status: developing
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
   - entity/company
-claim_count: 332
+claim_count: 342
 ---
 
 # Anthropic
@@ -584,6 +584,28 @@ AI lab that makes the Claude models and Claude Code; focused on enterprise custo
 ### 2026-10-15 [[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator|Why AI-Written Software Needs a Flight Simulator]]
 
 - Prediction: Antithesis CEO Will Wilson anticipates that Anthropic and Cursor will eventually release proprietary deterministic testing simulators. ([[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator#^clm-f283cd3326b244dda08d|cite]])
+
+### 2026-10-18 [[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week|Meta, Tesla and Netflix Q3 Updates Coming This Week]]
+
+- Anthropic created the Anthropic Public Benefit Fund, committing at least 5% of its shares plus 2% per 50% valuation gain to social causes. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-3ca01184e189959964b3|cite]])
+
+### 2026-10-18 [[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose|Neocloud Shakeout Looms, and Nvidia Has a Lot to Lose]]
+
+- Anthropic intentionally over-commits to data center lease contracts in case sites fail due to power, labor, or local permitting obstacles. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-400e4a2705bf3b13d790|cite]])
+
+### 2026-10-19 [[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better|Anthropic Readies Model That Reads Users' Intentions Better]]
+
+- Anthropic is preparing an unreleased model with superior reasoning and intuition that discerns underlying user intentions without explicit prompting. ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better#^clm-5c31046fdc116c4f77bb|cite]])
+- OpenAI is developing a new iteration in its mid-tier Terra model family to undercut market leader Anthropic on developer API costs. ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better#^clm-6889c474a714b018a8d1|cite]])
+- Anthropic is assembling a $60 billion debt package to buy Google TPU chips, offering Blackstone a yield above 10% to anchor a $9 billion junior slice. ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better#^clm-fbc90eb49ae1896fa8fa|cite]])
+- Anthropic Claude models solved a decades-old mathematical puzzle regarding the original algorithm used for a popular cryptographic standard. ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better#^clm-52bf6f9a75b7320104a0|cite]])
+
+### 2026-10-19 [[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government|Pentagon’s Emil Michael Vows Export Controls if AI Labs Don’t Cooperate With Government]]
+
+- The Trump administration affirmed its willingness to use stringent checks, citing export controls placed on Anthropic in June 2026 cutting off non-US users. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-7c2c60030865a9a58281|cite]])
+- Emil Michael previously pushed for the Defense Department to designate Anthropic a supply chain risk after Anthropic refused to remove safety guardrails. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-05436e0bf8a12d17974e|cite]])
+- Emil Michael stated he will not permit Anthropic inside the Defense Department as long as Claude retains moral autonomy to terminate conversations with users. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-d87c080e922d58498f5c|cite]])
+- Despite ongoing litigation, Emil Michael has met Anthropic co-founder Tom Brown many times to coordinate cybersecurity incident response protocols. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-7e84e556f0fb4373d7e4|cite]])
 
 ## Related concepts
 

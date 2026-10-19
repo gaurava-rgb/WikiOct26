@@ -3,10 +3,10 @@ type: concept
 title: "Distillation (Training on Another Model's Outputs)"
 status: developing
 created: 2026-10-15
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - concept
-source_count: 2
+source_count: 3
 ---
 
 # Distillation (Training on Another Model's Outputs)
@@ -24,3 +24,7 @@ Training your own AI model on the answers produced by a stronger model, so the s
 
 - Anthropic disclosed that 5% to 7% of its revenue comes from model distillation, in which third-party firms train models using Anthropic outputs. ([[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation#^clm-34e874a222abc86eac2a|cite]])
 - Anthropic warned investors that distillation revenue will decline and weigh on results in the current quarter as the company combats unauthorized distillation by Chinese labs. ([[2026-10-14-Anthropics-Rapid-Slowing-Growth-Weigh-IPO-Valuation#^clm-559be22f39d3bd9a8807|cite]])
+
+### 2026-10-19 [[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better|Anthropic Readies Model That Reads Users' Intentions Better]]
+
+- DeepSeek released an update to its lightweight V4.1-Flash model delivering significant performance gains nearing frontier capabilities. ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better#^clm-a362850de66afa32e08d|cite]])

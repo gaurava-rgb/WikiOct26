@@ -3,11 +3,11 @@ type: entity
 title: Nebius
 status: developing
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
   - entity/company
-claim_count: 5
+claim_count: 6
 ---
 
 # Nebius
@@ -35,6 +35,10 @@ Neocloud that rents out AI chips; Nvidia has invested in it.
 ### 2026-10-15 [[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech|The Party Is Still Going Strong for Private Tech]]
 
 - Public market investors sold off shares of CoreWeave and Nebius amid escalating bond yields and concerns over debt-heavy AI infrastructure financing. ([[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech#^clm-26dc2552a4de4d20647f|cite]])
+
+### 2026-10-18 [[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose|Neocloud Shakeout Looms, and Nvidia Has a Lot to Lose]]
+
+- CoreWeave primarily leases data center facilities, whereas builder clouds like Nebius, IREN, and Nscale risk stalled construction if financing dries up. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-a79d412686eda8e1396a|cite]])
 
 ## Related concepts
 

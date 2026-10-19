@@ -3,11 +3,11 @@ type: entity
 title: OpenAI
 status: developing
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
   - entity/company
-claim_count: 392
+claim_count: 401
 ---
 
 # OpenAI
@@ -647,6 +647,24 @@ AI lab behind ChatGPT, the o1 reasoning models, and Codex.
 ### 2026-10-15 [[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech|The Party Is Still Going Strong for Private Tech]]
 
 - Inference startups Fireworks AI, Baseten, and Fal experienced surging developer demand as enterprises adopted open-source models that undercut OpenAI and Anthropic. ([[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech#^clm-05f42f7e1f9337a09c66|cite]])
+
+### 2026-10-17 [[2026-10-17-Your-Office-Isnt-Spy-Proof|Your Office Isn’t Spy Proof]]
+
+- The FBI arrested former OpenAI engineer Abdulrahman Alfozan for allegedly planting listening devices in OpenAI offices. ([[2026-10-17-Your-Office-Isnt-Spy-Proof#^clm-88318307d80a5e016f87|cite]])
+- Alfozan allegedly placed a listening device wrapped in toilet paper inside an OpenAI conference room. ([[2026-10-17-Your-Office-Isnt-Spy-Proof#^clm-983a7e1e4760b978c4f7|cite]])
+- The United States Department of Justice press release prominently described Alfozan as a Saudi Arabian national, implying an effort to spy for Saudi Arabia. ([[2026-10-17-Your-Office-Isnt-Spy-Proof#^clm-22b1934b0be8ed81ff70|cite]])
+- Alfozan attempted to plant two listening devices, but mislaid a second bug inside a bag and retrieved it from the OpenAI lost and found. ([[2026-10-17-Your-Office-Isnt-Spy-Proof#^clm-bb2de4897151e57f42ca|cite]])
+- Former FBI counterintelligence official Bill Priestap stated companies recruiting under extreme pressure often bring employees on board with minimal background vetting. ([[2026-10-17-Your-Office-Isnt-Spy-Proof#^clm-cf69002ec2c754ca6b00|cite]])
+- Commercial listening devices cost under $100 and can be concealed in phone chargers, fake coffee cups, or smoke alarms. ([[2026-10-17-Your-Office-Isnt-Spy-Proof#^clm-8cc3506da0335cf7fa84|cite]])
+
+### 2026-10-19 [[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better|Anthropic Readies Model That Reads Users' Intentions Better]]
+
+- OpenAI is developing a new iteration in its mid-tier Terra model family to undercut market leader Anthropic on developer API costs. ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better#^clm-6889c474a714b018a8d1|cite]])
+- OpenAI is preparing a major unreleased model featuring looping transformers, while working through safety and security risks before release. ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better#^clm-5b28c480687279088163|cite]])
+
+### 2026-10-19 [[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government|Pentagon’s Emil Michael Vows Export Controls if AI Labs Don’t Cooperate With Government]]
+
+- Emil Michael highlighted espionage risks following the arrest of an OpenAI Saudi engineer for planting bugs, recommending tech firms use FBI background screening. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-f83ce78924fdd4b432ba|cite]])
 
 ## Related concepts
 

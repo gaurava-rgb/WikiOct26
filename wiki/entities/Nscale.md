@@ -3,11 +3,11 @@ type: entity
 title: Nscale
 status: developing
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
   - entity/company
-claim_count: 6
+claim_count: 9
 ---
 
 # Nscale
@@ -36,6 +36,15 @@ UK-based neocloud that rents out GPU capacity.
 
 - Data center operator Nscale sought to raise up to $3 billion in an initial public offering at a valuation exceeding $35 billion, per the Financial Times. ([[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech#^clm-fa9e2fe2f425c722ec4e|cite]])
 - Mutual fund managers at Morgan Stanley's tech conference questioned whether debt-saddled data center operators can successfully go public at target valuations. ([[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech#^clm-3fa01358ccd123898fdc|cite]])
+
+### 2026-10-18 [[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week|Meta, Tesla and Netflix Q3 Updates Coming This Week]]
+
+- Microsoft pulled out of a planned United Kingdom data center being built by Nscale following delays in accessing grid power. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-63e73267d2e1b380f630|cite]])
+
+### 2026-10-18 [[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose|Neocloud Shakeout Looms, and Nvidia Has a Lot to Lose]]
+
+- CoreWeave primarily leases data center facilities, whereas builder clouds like Nebius, IREN, and Nscale risk stalled construction if financing dries up. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-a79d412686eda8e1396a|cite]])
+- CoreWeave CEO Michael Intrator criticized rivals Firmus, Lambda, and Nscale for seeking massive capital without the execution, scale, or software solutions of CoreWeave. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-4acc526be5a41f8987d3|cite]])
 
 ## Related concepts
 

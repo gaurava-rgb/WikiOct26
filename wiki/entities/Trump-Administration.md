@@ -3,11 +3,11 @@ type: entity
 title: Trump Administration
 status: developing
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
   - entity/organization
-claim_count: 27
+claim_count: 31
 ---
 
 # Trump Administration
@@ -78,6 +78,16 @@ US federal executive branch under President Trump.
 ### 2026-10-16 [[2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers|Apple’s Antitrust Settlement Talks Spur Worries Among Developers]]
 
 - Interim Antitrust Division head Stanley Woodward favors settlements over litigation to deliver faster consumer remedies and avoid lengthy trial expenses. ([[2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers#^clm-9bf98c2da06a447fc6b5|cite]])
+
+### 2026-10-18 [[2026-10-18-Why-Upstart-Banks-May-Have-to-Keep-Raising-Money|Why Upstart Banks May Have to Keep Raising Money]]
+
+- De novo banks face 10% to 12% minimum tier 1 leverage ratios for their first three years, compared to 5% to 6% for established banks. ([[2026-10-18-Why-Upstart-Banks-May-Have-to-Keep-Raising-Money#^clm-817213633458a5c3bad7|cite]])
+
+### 2026-10-19 [[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government|Pentagon’s Emil Michael Vows Export Controls if AI Labs Don’t Cooperate With Government]]
+
+- Under Secretary of Defense Emil Michael warned in an interview that the administration will use export controls against AI labs that fail to cooperate on national security. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-4bf6b93dd948e10ed034|cite]])
+- Emil Michael serves as one of four leaders on President Trump's Super Intelligence Force, acting as government liaison to frontier AI companies on cybersecurity. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-53abd5a7f082996828e2|cite]])
+- The Trump administration affirmed its willingness to use stringent checks, citing export controls placed on Anthropic in June 2026 cutting off non-US users. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-7c2c60030865a9a58281|cite]])
 
 ## Related concepts
 

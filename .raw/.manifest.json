@@ -578,6 +578,70 @@
       ],
       "source_id": "src-a553ba9d51c8b42af506"
     },
+    ".raw/captured/2026-10-16 The Information - Singapore DayOne pushes ahead with data center IPO tied to TikTok (notes).md": {
+      "hash": "063a71056ffeb3be6ceac24a5f841768bd16ea76314ecfced21d9f9135735210",
+      "ingested_at": "2026-10-19",
+      "pages_created": [
+        "wiki/sources/2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok.md"
+      ],
+      "source_id": "src-3a72ec9d901156b47271"
+    },
+    ".raw/captured/2026-10-17 The Information - Office corporate espionage and the OpenAI bugging case (notes).md": {
+      "hash": "71eae1ccf351c56e70ee4d4259f43d7d3e8d2b447ece5bbd64fef42e5b67465f",
+      "ingested_at": "2026-10-19",
+      "pages_created": [
+        "wiki/sources/2026-10-17-Your-Office-Isnt-Spy-Proof.md"
+      ],
+      "source_id": "src-7c6260f6354ddfa624d6"
+    },
+    ".raw/captured/2026-10-18 The Information - Meta, Tesla and Netflix Q3 updates preview (notes).md": {
+      "hash": "b37c6b1667ed8d8a93c86a8e84494d3667f44d2806848a8e9574fd510f5c94f1",
+      "ingested_at": "2026-10-19",
+      "pages_created": [
+        "wiki/sources/2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week.md"
+      ],
+      "source_id": "src-7df64e9f3c09019c569b"
+    },
+    ".raw/captured/2026-10-18 The Information - Neocloud shakeout looms and Nvidia has a lot to lose (notes).md": {
+      "hash": "a5318cd7ca266a55bcfd2be4d9861af223e0c737c24ad1627581018d34806358",
+      "ingested_at": "2026-10-19",
+      "pages_created": [
+        "wiki/sources/2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose.md"
+      ],
+      "source_id": "src-ed769eaf9a4ea5c9bb97"
+    },
+    ".raw/captured/2026-10-18 The Information - Why upstart banks may have to keep raising money (notes).md": {
+      "hash": "ec3da45b29479bad50d6f544ccd52f00f4d3c0bfd9558c01cd885989c0bdde86",
+      "ingested_at": "2026-10-19",
+      "pages_created": [
+        "wiki/sources/2026-10-18-Why-Upstart-Banks-May-Have-to-Keep-Raising-Money.md"
+      ],
+      "source_id": "src-0e34beac45387b8ea277"
+    },
+    ".raw/captured/2026-10-19 The Information - Anthropic readies model that reads users intentions better (notes).md": {
+      "hash": "5912db4221f5b6a280c334240472609fe0c5431f92f9af4081baeb13930f7ad1",
+      "ingested_at": "2026-10-19",
+      "pages_created": [
+        "wiki/sources/2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better.md"
+      ],
+      "source_id": "src-b953cd17592aa96960df"
+    },
+    ".raw/captured/2026-10-19 The Information - How DeepSeek is shaping Huawei AI chips in a challenge to Nvidia (notes).md": {
+      "hash": "2af5cdb8319fe025924bd24dd064b898a5839e363473555bd71c5008ee9badf5",
+      "ingested_at": "2026-10-19",
+      "pages_created": [
+        "wiki/sources/2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia.md"
+      ],
+      "source_id": "src-eefe71849b5484d1063b"
+    },
+    ".raw/captured/2026-10-19 The Information - Pentagon Emil Michael vows export controls if AI labs do not cooperate (notes).md": {
+      "hash": "66d2759c031ee78ddeda27688479e187c4b067390cd4bb81eded236d4c2aacad",
+      "ingested_at": "2026-10-19",
+      "pages_created": [
+        "wiki/sources/2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government.md"
+      ],
+      "source_id": "src-572c55c13d6abfc6d211"
+    },
     ".raw/captured/2026.28_ XBOX On the Rocks.md": {
       "hash": "952790fa551289ee6883b864241796a4d483817fa6f376ff40e8fad1aec4a082",
       "ingested_at": "2026-09-29",

@@ -78282,8 +78282,2353 @@
         "Epic Games"
       ],
       "concepts": []
+    },
+    "clm-d34a23c88ac7ff7562ef": {
+      "text": "Singapore-based data center operator DayOne is preparing an initial public offering in New York to raise as much as $5 billion.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok.md",
+        "anchor": "^clm-d34a23c88ac7ff7562ef"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3a72ec9d901156b47271",
+          "relation": "supports",
+          "locator": "§ The core story: “DayOne Data Centers, a Singapore-based data center operator, is preparing for an initial public offering in New York to raise as much as $5 billion”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-16",
+      "subjects": [
+        "DayOne"
+      ],
+      "concepts": []
+    },
+    "clm-be1aaf55d4dbfc08c71e": {
+      "text": "ByteDance accounts for nearly 70% of DayOne revenue, representing 69.2% of sales in the first half of 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok.md",
+        "anchor": "^clm-be1aaf55d4dbfc08c71e"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3a72ec9d901156b47271",
+          "relation": "supports",
+          "locator": "§ The core story: “ByteDance accounts for nearly 70% of DayOne revenue”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-06",
+      "subjects": [
+        "DayOne",
+        "ByteDance",
+        "TikTok"
+      ],
+      "concepts": []
+    },
+    "clm-25453dd7d765f0b0e5be": {
+      "text": "DayOne revenue from ByteDance supports conventional workloads like video streaming and e-commerce rather than AI training or inference.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok.md",
+        "anchor": "^clm-25453dd7d765f0b0e5be"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3a72ec9d901156b47271",
+          "relation": "supports",
+          "locator": "§ The core story: “revenue from ByteDance supports conventional uses like video streaming and e-commerce transactions, not AI training or inference”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-16",
+      "subjects": [
+        "DayOne",
+        "ByteDance"
+      ],
+      "concepts": []
+    },
+    "clm-9e88019c90b86ed1d5b3": {
+      "text": "GDS International spun off DayOne in late 2024 after raising $1.87 billion, leaving Coatue, Hillhouse, and GDS each with about 19% stakes.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok.md",
+        "anchor": "^clm-9e88019c90b86ed1d5b3"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3a72ec9d901156b47271",
+          "relation": "supports",
+          "locator": "§ Corporate origins and international expansion: “In late 2024, GDS International was spun off after raising $1.87 billion in Series A and B rounds”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2024",
+      "subjects": [
+        "DayOne"
+      ],
+      "concepts": []
+    },
+    "clm-f5d3fba059a1765df445": {
+      "text": "As of September 2026, ByteDance committed to 838 megawatts of data center capacity across DayOne sites in Malaysia, Thailand, and Finland.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok.md",
+        "anchor": "^clm-f5d3fba059a1765df445"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3a72ec9d901156b47271",
+          "relation": "supports",
+          "locator": "§ Corporate origins and international expansion: “ByteDance had committed to 838 megawatts in capacity across DayOne sites in Malaysia, Thailand, and Finland”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-09",
+      "subjects": [
+        "ByteDance",
+        "DayOne"
+      ],
+      "concepts": []
+    },
+    "clm-a0efc43f207f5fe7ca9f": {
+      "text": "TikTok is investing 2 billion euros ($2.2 billion) in two Finnish data centers in Kouvola and Lahti under Project Clover to store European user data locally.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok.md",
+        "anchor": "^clm-a0efc43f207f5fe7ca9f"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3a72ec9d901156b47271",
+          "relation": "supports",
+          "locator": "§ Corporate origins and international expansion: “TikTok is investing 2 billion euros ($2.2 billion) under Project Clover to store European user data locally”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-16",
+      "subjects": [
+        "TikTok",
+        "DayOne"
+      ],
+      "concepts": []
+    },
+    "clm-9011ab03030f1f0c50a4": {
+      "text": "Oracle is DayOne second-largest customer, generating 15% of DayOne revenue in the first half of 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok.md",
+        "anchor": "^clm-9011ab03030f1f0c50a4"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3a72ec9d901156b47271",
+          "relation": "supports",
+          "locator": "§ AI ambitions and diversification away from ByteDance: “Oracle is DayOne second-largest customer, representing 15% of first-half 2026 revenue”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-06",
+      "subjects": [
+        "DayOne",
+        "Oracle"
+      ],
+      "concepts": []
+    },
+    "clm-668ce00240fc4baaebd5": {
+      "text": "For contracts starting in 2027, ByteDance represents less than 50% of DayOne total commitments as non-Chinese customers expand.",
+      "assessment": "provisional",
+      "confidence": "medium",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok.md",
+        "anchor": "^clm-668ce00240fc4baaebd5"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3a72ec9d901156b47271",
+          "relation": "supports",
+          "locator": "§ AI ambitions and diversification away from ByteDance: “For contracts starting in 2027, ByteDance represents less than 50% of total commitments”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "prediction",
+      "as_of": "2027",
+      "subjects": [
+        "DayOne",
+        "ByteDance"
+      ],
+      "concepts": []
+    },
+    "clm-969d991bc7c4118a1c25": {
+      "text": "Nvidia-backed neocloud Firmus Technologies scrapped its $5.5 billion IPO in Australia amid investor worries over its $30.6 billion valuation and debt.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok.md",
+        "anchor": "^clm-969d991bc7c4118a1c25"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3a72ec9d901156b47271",
+          "relation": "supports",
+          "locator": "§ Market context and rival IPO stumbles: “Firmus Technologies scrapped its $5.5 billion IPO last week due to concerns over its $30.6 billion valuation and debt pile”"
+        }
+      ],
+      "notes": "Updates clm-59fa5dfe8da1a975683e: confirms Firmus cancelled $5.5B Australian IPO at $30.6B valuation.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Firmus",
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-539c243406196ed84c94": {
+      "text": "Blackstone-backed data center operator AirTrunk postponed a $1.5 billion real estate investment trust listing in Singapore.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok.md",
+        "anchor": "^clm-539c243406196ed84c94"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3a72ec9d901156b47271",
+          "relation": "supports",
+          "locator": "§ Market context and rival IPO stumbles: “Blackstone-backed data center operator AirTrunk postponed a $1.5 billion real estate investment trust listing in Singapore”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "AirTrunk"
+      ],
+      "concepts": []
+    },
+    "clm-bce3b565b118481ac857": {
+      "text": "In June 2026, Firmus agreed to partner with DayOne on a data center in Batam, Indonesia, with at least 170,000 advanced Nvidia chips, with Meta leasing capacity.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok.md",
+        "anchor": "^clm-bce3b565b118481ac857"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3a72ec9d901156b47271",
+          "relation": "supports",
+          "locator": "§ Market context and rival IPO stumbles: “Firmus agreed to work with DayOne on a data center in Batam, Indonesia, with at least 170,000 advanced Nvidia server chips”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-06",
+      "subjects": [
+        "Firmus",
+        "DayOne",
+        "Nvidia",
+        "Meta"
+      ],
+      "concepts": []
+    },
+    "clm-88318307d80a5e016f87": {
+      "text": "The FBI arrested former OpenAI engineer Abdulrahman Alfozan for allegedly planting listening devices in OpenAI offices.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-17-Your-Office-Isnt-Spy-Proof.md",
+        "anchor": "^clm-88318307d80a5e016f87"
+      },
+      "evidence": [
+        {
+          "source_id": "src-7c6260f6354ddfa624d6",
+          "relation": "supports",
+          "locator": "§ The OpenAI espionage scandal: “The Federal Bureau of Investigation arrested former OpenAI engineer Abdulrahman Alfozan”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI",
+        "Abdulrahman Alfozan"
+      ],
+      "concepts": []
+    },
+    "clm-983a7e1e4760b978c4f7": {
+      "text": "Alfozan allegedly placed a listening device wrapped in toilet paper inside an OpenAI conference room.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-17-Your-Office-Isnt-Spy-Proof.md",
+        "anchor": "^clm-983a7e1e4760b978c4f7"
+      },
+      "evidence": [
+        {
+          "source_id": "src-7c6260f6354ddfa624d6",
+          "relation": "supports",
+          "locator": "§ The OpenAI espionage scandal: “Alfozan allegedly placed a listening device wrapped in toilet paper inside an OpenAI conference room”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI",
+        "Abdulrahman Alfozan"
+      ],
+      "concepts": []
+    },
+    "clm-22b1934b0be8ed81ff70": {
+      "text": "The United States Department of Justice press release prominently described Alfozan as a Saudi Arabian national, implying an effort to spy for Saudi Arabia.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-17-Your-Office-Isnt-Spy-Proof.md",
+        "anchor": "^clm-22b1934b0be8ed81ff70"
+      },
+      "evidence": [
+        {
+          "source_id": "src-7c6260f6354ddfa624d6",
+          "relation": "supports",
+          "locator": "§ The OpenAI espionage scandal: “The United States Department of Justice press release prominently described Alfozan as a national of the Kingdom of Saudi Arabia”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI",
+        "Abdulrahman Alfozan"
+      ],
+      "concepts": []
+    },
+    "clm-bb2de4897151e57f42ca": {
+      "text": "Alfozan attempted to plant two listening devices, but mislaid a second bug inside a bag and retrieved it from the OpenAI lost and found.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-17-Your-Office-Isnt-Spy-Proof.md",
+        "anchor": "^clm-bb2de4897151e57f42ca"
+      },
+      "evidence": [
+        {
+          "source_id": "src-7c6260f6354ddfa624d6",
+          "relation": "supports",
+          "locator": "§ The OpenAI espionage scandal: “Alfozan attempted to plant two listening devices; he mislaid a second bug inside a bag and retrieved it”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI",
+        "Abdulrahman Alfozan"
+      ],
+      "concepts": []
+    },
+    "clm-cf69002ec2c754ca6b00": {
+      "text": "Former FBI counterintelligence official Bill Priestap stated companies recruiting under extreme pressure often bring employees on board with minimal background vetting.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-17-Your-Office-Isnt-Spy-Proof.md",
+        "anchor": "^clm-cf69002ec2c754ca6b00"
+      },
+      "evidence": [
+        {
+          "source_id": "src-7c6260f6354ddfa624d6",
+          "relation": "supports",
+          "locator": "§ Vulnerabilities from rapid hiring and cheap bugs: “often bring candidates on board with minimal background understanding”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-8cc3506da0335cf7fa84": {
+      "text": "Commercial listening devices cost under $100 and can be concealed in phone chargers, fake coffee cups, or smoke alarms.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-17-Your-Office-Isnt-Spy-Proof.md",
+        "anchor": "^clm-8cc3506da0335cf7fa84"
+      },
+      "evidence": [
+        {
+          "source_id": "src-7c6260f6354ddfa624d6",
+          "relation": "supports",
+          "locator": "§ Vulnerabilities from rapid hiring and cheap bugs: “commercial listening devices cost less than $100 and easily hide inside phone chargers”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-74e9526c5ab455c7d72a": {
+      "text": "Counter-surveillance startup Strider Technologies has raised $110 million to sell AI-driven communications monitoring software that detects corporate espionage.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-17-Your-Office-Isnt-Spy-Proof.md",
+        "anchor": "^clm-74e9526c5ab455c7d72a"
+      },
+      "evidence": [
+        {
+          "source_id": "src-7c6260f6354ddfa624d6",
+          "relation": "supports",
+          "locator": "§ Commercial counter-surveillance startups: “Strider Technologies, led by Eric and Greg Levesque in Salt Lake City, has raised $110 million”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Strider Technologies"
+      ],
+      "concepts": []
+    },
+    "clm-26b681ab1c9cbcaca2e7": {
+      "text": "Strider Technologies co-founder Greg Levesque stated corporate targets usually face legitimate engineers coerced by outside handlers rather than trained intelligence officers.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-17-Your-Office-Isnt-Spy-Proof.md",
+        "anchor": "^clm-26b681ab1c9cbcaca2e7"
+      },
+      "evidence": [
+        {
+          "source_id": "src-7c6260f6354ddfa624d6",
+          "relation": "supports",
+          "locator": "§ Commercial counter-surveillance startups: “legitimate engineers or scientists who were coerced or approached by outside handlers”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10",
+      "subjects": [
+        "Strider Technologies"
+      ],
+      "concepts": []
+    },
+    "clm-6a729ebe78d85e14bb50": {
+      "text": "In the first half of 2026, Meta digital ad revenue grew 30%, double Google growth rate, with second-quarter ad revenue reaching $59 billion.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week.md",
+        "anchor": "^clm-6a729ebe78d85e14bb50"
+      },
+      "evidence": [
+        {
+          "source_id": "src-7df64e9f3c09019c569b",
+          "relation": "supports",
+          "locator": "§ Meta AI advertising boom and surging capital expenditure: “In the first half of 2026, Meta digital advertising revenue grew 30%, double Google growth rate”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-06",
+      "subjects": [
+        "Meta",
+        "Google"
+      ],
+      "concepts": []
+    },
+    "clm-7405b0353e0c8f03d074": {
+      "text": "Meta CEO Mark Zuckerberg stated that 9 million small businesses use at least one Meta AI creative tool to build ads.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week.md",
+        "anchor": "^clm-7405b0353e0c8f03d074"
+      },
+      "evidence": [
+        {
+          "source_id": "src-7df64e9f3c09019c569b",
+          "relation": "supports",
+          "locator": "§ Meta AI advertising boom and surging capital expenditure: “9 million small businesses use at least one Meta AI creative tool to build ads”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-06",
+      "subjects": [
+        "Meta",
+        "Mark Zuckerberg"
+      ],
+      "concepts": []
+    },
+    "clm-d1eb35b8c4a8bf76459b": {
+      "text": "Analysts project Meta third-quarter 2026 capital expenditures of $40.5 billion, double the year-earlier level.",
+      "assessment": "provisional",
+      "confidence": "medium",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week.md",
+        "anchor": "^clm-d1eb35b8c4a8bf76459b"
+      },
+      "evidence": [
+        {
+          "source_id": "src-7df64e9f3c09019c569b",
+          "relation": "supports",
+          "locator": "§ Meta AI advertising boom and surging capital expenditure: “Analysts project Meta third-quarter capital expenditures of $40.5 billion, double the year-earlier figure”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "prediction",
+      "as_of": "2026-09",
+      "subjects": [
+        "Meta"
+      ],
+      "concepts": [
+        "Capex-vs-Opex"
+      ]
+    },
+    "clm-9a0ce83bda1f59882d94": {
+      "text": "Meta third-quarter capex is projected to drive negative free cash flow of $10.3 billion, compared to positive $10.6 billion a year earlier.",
+      "assessment": "provisional",
+      "confidence": "medium",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week.md",
+        "anchor": "^clm-9a0ce83bda1f59882d94"
+      },
+      "evidence": [
+        {
+          "source_id": "src-7df64e9f3c09019c569b",
+          "relation": "supports",
+          "locator": "§ Meta AI advertising boom and surging capital expenditure: “drive negative free cash flow of $10.3 billion for the quarter, compared to positive free cash flow of $10.6 billion”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "prediction",
+      "as_of": "2026-09",
+      "subjects": [
+        "Meta"
+      ],
+      "concepts": [
+        "Capex-vs-Opex"
+      ]
+    },
+    "clm-c2dee90eadd6d07b98e1": {
+      "text": "Meta held $90 billion in cash and marketable securities as of June 30, 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week.md",
+        "anchor": "^clm-c2dee90eadd6d07b98e1"
+      },
+      "evidence": [
+        {
+          "source_id": "src-7df64e9f3c09019c569b",
+          "relation": "supports",
+          "locator": "§ Meta AI advertising boom and surging capital expenditure: “Meta held $90 billion in cash and marketable securities as of June 30, 2026”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-06",
+      "subjects": [
+        "Meta"
+      ],
+      "concepts": []
+    },
+    "clm-e41b833b1dc0903c4cbe": {
+      "text": "Tesla market capitalization stands at $1.4 trillion, approximately $600 billion below SpaceX valuation of roughly $2 trillion.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week.md",
+        "anchor": "^clm-e41b833b1dc0903c4cbe"
+      },
+      "evidence": [
+        {
+          "source_id": "src-7df64e9f3c09019c569b",
+          "relation": "supports",
+          "locator": "§ Tesla sales plateau and robotics pivot: “Tesla market capitalization stands at $1.4 trillion, about $600 billion below SpaceX valuation”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Tesla",
+        "SpaceX"
+      ],
+      "concepts": []
+    },
+    "clm-1263f6679deefddf17ca": {
+      "text": "Tesla third-quarter deliveries fell 2% year-over-year, leading analysts to estimate revenue grew only 0.6% in the quarter.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week.md",
+        "anchor": "^clm-1263f6679deefddf17ca"
+      },
+      "evidence": [
+        {
+          "source_id": "src-7df64e9f3c09019c569b",
+          "relation": "supports",
+          "locator": "§ Tesla sales plateau and robotics pivot: “Third-quarter deliveries fell 2% year-over-year, leading analysts to project a meager 0.6% revenue increase”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-09",
+      "subjects": [
+        "Tesla"
+      ],
+      "concepts": []
+    },
+    "clm-e6b30dc1a0dd016c8bfe": {
+      "text": "Tesla unveiled its upcoming Roadster but scheduled production to begin in 2028.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week.md",
+        "anchor": "^clm-e6b30dc1a0dd016c8bfe"
+      },
+      "evidence": [
+        {
+          "source_id": "src-7df64e9f3c09019c569b",
+          "relation": "supports",
+          "locator": "§ Tesla sales plateau and robotics pivot: “Tesla revealed its upcoming Roadster, but production is not scheduled to begin until 2028”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Tesla"
+      ],
+      "concepts": []
+    },
+    "clm-c571ee37385500fb0701": {
+      "text": "Netflix projected third-quarter revenue growth of 11.7%, slowing from 16.2% in the first quarter of 2026.",
+      "assessment": "provisional",
+      "confidence": "medium",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week.md",
+        "anchor": "^clm-c571ee37385500fb0701"
+      },
+      "evidence": [
+        {
+          "source_id": "src-7df64e9f3c09019c569b",
+          "relation": "supports",
+          "locator": "§ Netflix Hollywood maturation and executive turnover: “Netflix projected third-quarter revenue growth of 11.7%, down 4.5 percentage points from 16.2%”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "prediction",
+      "as_of": "2026-09",
+      "subjects": [
+        "Netflix"
+      ],
+      "concepts": []
+    },
+    "clm-5483dd628f6e17b2a981": {
+      "text": "Netflix shares fell 25% year-to-date in 2026, trading at 5.6 times forward revenue compared to 2.2 times for Walt Disney Co.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week.md",
+        "anchor": "^clm-5483dd628f6e17b2a981"
+      },
+      "evidence": [
+        {
+          "source_id": "src-7df64e9f3c09019c569b",
+          "relation": "supports",
+          "locator": "§ Netflix Hollywood maturation and executive turnover: “Netflix shares trade at 5.6 times forward revenue, compared to 2.2 times for Walt Disney Co”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Netflix"
+      ],
+      "concepts": []
+    },
+    "clm-63e73267d2e1b380f630": {
+      "text": "Microsoft pulled out of a planned United Kingdom data center being built by Nscale following delays in accessing grid power.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week.md",
+        "anchor": "^clm-63e73267d2e1b380f630"
+      },
+      "evidence": [
+        {
+          "source_id": "src-7df64e9f3c09019c569b",
+          "relation": "supports",
+          "locator": "§ Infrastructure and regulatory developments: “Microsoft withdrew from a planned United Kingdom data center that neocloud Nscale was constructing”"
+        }
+      ],
+      "notes": "Updates clm-fa9e2fe2f425c722ec4e: Microsoft pulls out of Nscale UK site ahead of Nscale IPO.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Microsoft",
+        "Nscale"
+      ],
+      "concepts": []
+    },
+    "clm-3ca01184e189959964b3": {
+      "text": "Anthropic created the Anthropic Public Benefit Fund, committing at least 5% of its shares plus 2% per 50% valuation gain to social causes.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week.md",
+        "anchor": "^clm-3ca01184e189959964b3"
+      },
+      "evidence": [
+        {
+          "source_id": "src-7df64e9f3c09019c569b",
+          "relation": "supports",
+          "locator": "§ Infrastructure and regulatory developments: “Anthropic created the Anthropic Public Benefit Fund, pledging at least 5% of company equity”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-2ca098a8f3d2133bb27f": {
+      "text": "Data center executives predict only seven to 10 neoclouds will survive in a few years, down from hundreds attempting to operate today.",
+      "assessment": "provisional",
+      "confidence": "medium",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose.md",
+        "anchor": "^clm-2ca098a8f3d2133bb27f"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ed769eaf9a4ea5c9bb97",
+          "relation": "supports",
+          "locator": "§ Looming neocloud consolidation and investor skepticism: “only seven to 10 neoclouds will remain in a few years, compared to hundreds”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "prediction",
+      "as_of": "2026-10",
+      "subjects": [
+        "CoreWeave",
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-3044028cda5a3d6c35fe": {
+      "text": "Gartner predicts that 80% of independent neoclouds will cease independent operations by 2030.",
+      "assessment": "provisional",
+      "confidence": "medium",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose.md",
+        "anchor": "^clm-3044028cda5a3d6c35fe"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ed769eaf9a4ea5c9bb97",
+          "relation": "supports",
+          "locator": "§ Looming neocloud consolidation and investor skepticism: “80% of independent neoclouds will cease independent operations by 2030”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "prediction",
+      "as_of": "2030",
+      "subjects": [
+        "CoreWeave",
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-18bd8c97c59d083ff368": {
+      "text": "Bernstein analysts estimate that only 35% of announced data center capacity in North America will ever actually be built.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose.md",
+        "anchor": "^clm-18bd8c97c59d083ff368"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ed769eaf9a4ea5c9bb97",
+          "relation": "supports",
+          "locator": "§ Looming neocloud consolidation and investor skepticism: “only 35% of announced data center capacity in North America will ever actually be built”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10",
+      "subjects": [
+        "Nvidia"
+      ],
+      "concepts": [
+        "AI-Compute-Demand"
+      ]
+    },
+    "clm-10e4aeb27799dfb79513": {
+      "text": "Shares of CoreWeave and smaller neocloud rivals fell roughly 20% in mid-October 2026 amid rising debt concerns and failed initial public offerings.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose.md",
+        "anchor": "^clm-10e4aeb27799dfb79513"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ed769eaf9a4ea5c9bb97",
+          "relation": "supports",
+          "locator": "§ Looming neocloud consolidation and investor skepticism: “shares of CoreWeave and smaller rivals fell roughly 20%”"
+        }
+      ],
+      "notes": "Updates clm-96bac021aadd33a6cfca: neocloud sell-off deepens with CoreWeave and rivals falling 20%.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "CoreWeave"
+      ],
+      "concepts": []
+    },
+    "clm-a79d412686eda8e1396a": {
+      "text": "CoreWeave primarily leases data center facilities, whereas builder clouds like Nebius, IREN, and Nscale risk stalled construction if financing dries up.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose.md",
+        "anchor": "^clm-a79d412686eda8e1396a"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ed769eaf9a4ea5c9bb97",
+          "relation": "supports",
+          "locator": "§ Divergence between facility lessees and facility builders: “CoreWeave primarily leases data center facilities; if it were to fail, landlords could find replacement tenants”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10",
+      "subjects": [
+        "CoreWeave",
+        "Nebius",
+        "Nscale"
+      ],
+      "concepts": []
+    },
+    "clm-75f4c6ae86cc2351c76b": {
+      "text": "Cirrascale has rented Nvidia servers for over a decade, generates positive free cash flow, and earns over $200 million in annual revenue.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose.md",
+        "anchor": "^clm-75f4c6ae86cc2351c76b"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ed769eaf9a4ea5c9bb97",
+          "relation": "supports",
+          "locator": "§ Divergence between facility lessees and facility builders: “Cirrascale has rented Nvidia servers for over a decade, produces positive free cash flow, and generates more than $200 million in annual revenue”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Cirrascale",
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-4acc526be5a41f8987d3": {
+      "text": "CoreWeave CEO Michael Intrator criticized rivals Firmus, Lambda, and Nscale for seeking massive capital without the execution, scale, or software solutions of CoreWeave.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose.md",
+        "anchor": "^clm-4acc526be5a41f8987d3"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ed769eaf9a4ea5c9bb97",
+          "relation": "supports",
+          "locator": "§ Divergence between facility lessees and facility builders: “CoreWeave chief executive Michael Intrator criticized rivals Firmus, Lambda, and Nscale”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10",
+      "subjects": [
+        "CoreWeave",
+        "Michael Intrator",
+        "Firmus",
+        "Lambda",
+        "Nscale"
+      ],
+      "concepts": []
+    },
+    "clm-799e8edc4dab9c49f3cc": {
+      "text": "In the July 2026 quarter, Nvidia data center revenue from non-hyperscalers reached $40 billion, or 45% of total data center sales, doubling year-over-year.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose.md",
+        "anchor": "^clm-799e8edc4dab9c49f3cc"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ed769eaf9a4ea5c9bb97",
+          "relation": "supports",
+          "locator": "§ Nvidia deep financial entanglement and credit interventions: “non-hyperscalers (primarily neoclouds and enterprises) hit $40 billion, or 45% of total data center sales”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-07",
+      "subjects": [
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-160b7755986f44087bb9": {
+      "text": "Nvidia has committed to $20 billion in its own data center leases to sub-lease to neoclouds and chip customers as of the July 2026 quarter.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose.md",
+        "anchor": "^clm-160b7755986f44087bb9"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ed769eaf9a4ea5c9bb97",
+          "relation": "supports",
+          "locator": "§ Nvidia deep financial entanglement and credit interventions: “Nvidia has taken on $20 billion in its own data center leases to sub-lease to neoclouds”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-07",
+      "subjects": [
+        "Nvidia"
+      ],
+      "concepts": [
+        "Commoditize-Your-Complements"
+      ]
+    },
+    "clm-977245b9691c6c19e634": {
+      "text": "Nvidia modified its credit support program to offer shorter-term backstops for smaller revenue cuts after big neoclouds rejected revenue-share agreements.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose.md",
+        "anchor": "^clm-977245b9691c6c19e634"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ed769eaf9a4ea5c9bb97",
+          "relation": "supports",
+          "locator": "§ Nvidia deep financial entanglement and credit interventions: “Nvidia now offers shorter-term credit backstops for smaller revenue cuts”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-e56051fec12c2ad66514": {
+      "text": "Nvidia CEO Jensen Huang stated in Stockholm that CoreWeave will not need further credit backstops beyond an existing $6.3 billion GPU rent-back agreement.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose.md",
+        "anchor": "^clm-e56051fec12c2ad66514"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ed769eaf9a4ea5c9bb97",
+          "relation": "supports",
+          "locator": "§ Nvidia deep financial entanglement and credit interventions: “Jensen Huang tried to soothe market fears, stating CoreWeave will not need further credit backstops”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Nvidia",
+        "Jensen Huang",
+        "CoreWeave"
+      ],
+      "concepts": []
+    },
+    "clm-400e4a2705bf3b13d790": {
+      "text": "Anthropic intentionally over-commits to data center lease contracts in case sites fail due to power, labor, or local permitting obstacles.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose.md",
+        "anchor": "^clm-400e4a2705bf3b13d790"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ed769eaf9a4ea5c9bb97",
+          "relation": "supports",
+          "locator": "§ Nvidia deep financial entanglement and credit interventions: “Anthropic intentionally over-commits to data center lease contracts in case sites fail”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": [
+        "AI-Compute-Demand"
+      ]
+    },
+    "clm-817213633458a5c3bad7": {
+      "text": "De novo banks face 10% to 12% minimum tier 1 leverage ratios for their first three years, compared to 5% to 6% for established banks.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Why-Upstart-Banks-May-Have-to-Keep-Raising-Money.md",
+        "anchor": "^clm-817213633458a5c3bad7"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0e34beac45387b8ea277",
+          "relation": "supports",
+          "locator": "§ The regulatory capital treadmill for de novo banks: “unprofitable new banks (de novo banks) must maintain 10% to 12% tier 1 leverage ratios for their first three years”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Erebor Bank",
+        "Trump Administration"
+      ],
+      "concepts": []
+    },
+    "clm-ea292a7e2d7bbdb51008": {
+      "text": "Unprofitable startup banks must repeatedly raise equity from investors to fund regulatory capital cushions as deposits and assets expand.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Why-Upstart-Banks-May-Have-to-Keep-Raising-Money.md",
+        "anchor": "^clm-ea292a7e2d7bbdb51008"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0e34beac45387b8ea277",
+          "relation": "supports",
+          "locator": "§ The regulatory capital treadmill for de novo banks: “forcing them to raise fresh equity as deposits and assets expand”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Erebor Bank"
+      ],
+      "concepts": []
+    },
+    "clm-34fd969fd391db053710": {
+      "text": "Palmer Luckey's Erebor Bank is set to raise $1.5 billion at an $8 billion valuation after launching with $625 million in February 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Why-Upstart-Banks-May-Have-to-Keep-Raising-Money.md",
+        "anchor": "^clm-34fd969fd391db053710"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0e34beac45387b8ea277",
+          "relation": "supports",
+          "locator": "§ Erebor Bank rapid expansion and unusual FDIC conditions: “Erebor Bank is raising $1.5 billion in fresh equity at an $8 billion pre-money valuation”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Erebor Bank",
+        "Palmer Luckey"
+      ],
+      "concepts": []
+    },
+    "clm-7b0fc706687207f31ef5": {
+      "text": "Erebor Bank deposits surged from $4 billion in June 2026 to $7 billion at the end of September 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Why-Upstart-Banks-May-Have-to-Keep-Raising-Money.md",
+        "anchor": "^clm-7b0fc706687207f31ef5"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0e34beac45387b8ea277",
+          "relation": "supports",
+          "locator": "§ Erebor Bank rapid expansion and unusual FDIC conditions: “deposits surged to $7 billion at the end of September 2026, up from $4 billion the prior quarter”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-09",
+      "subjects": [
+        "Erebor Bank",
+        "Palmer Luckey"
+      ],
+      "concepts": []
+    },
+    "clm-d57fcb71f0dc4659e6aa": {
+      "text": "The FDIC imposed a capital-call condition on Erebor Bank requiring investors to contribute additional equity if regulatory capital drops below minimums.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Why-Upstart-Banks-May-Have-to-Keep-Raising-Money.md",
+        "anchor": "^clm-d57fcb71f0dc4659e6aa"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0e34beac45387b8ea277",
+          "relation": "supports",
+          "locator": "§ Erebor Bank rapid expansion and unusual FDIC conditions: “Federal Deposit Insurance Corporation imposed an unusual capital-call condition on Erebor, requiring backstop investors to contribute additional equity”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Erebor Bank"
+      ],
+      "concepts": []
+    },
+    "clm-de1442880067a14941ec": {
+      "text": "Erebor Bank focuses on customers traditional banks avoid, including defense contractors, crypto firms, and businesses operating in Venezuela and Syria.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Why-Upstart-Banks-May-Have-to-Keep-Raising-Money.md",
+        "anchor": "^clm-de1442880067a14941ec"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0e34beac45387b8ea277",
+          "relation": "supports",
+          "locator": "§ Erebor Bank rapid expansion and unusual FDIC conditions: “Erebor focuses on customers traditional banks avoid, including defense contractors, crypto firms, and businesses operating in Venezuela and Syria”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Erebor Bank"
+      ],
+      "concepts": []
+    },
+    "clm-44ca05fe59ade2a5d6bd": {
+      "text": "Openreserve raised $25 million in September 2026 and expects another equity raise before launching in 2027 to tokenize trade receivables and issue stablecoins.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Why-Upstart-Banks-May-Have-to-Keep-Raising-Money.md",
+        "anchor": "^clm-44ca05fe59ade2a5d6bd"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0e34beac45387b8ea277",
+          "relation": "supports",
+          "locator": "§ Digital asset upstarts Openreserve and Augustus: “Openreserve, an a16z crypto-backed digital bank led by founder Dee Choubey, raised $25 million in September 2026”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-09",
+      "subjects": [
+        "Openreserve"
+      ],
+      "concepts": []
+    },
+    "clm-bf5d9a63e3c3a486b217": {
+      "text": "Augustus raised $180 million led by Tiger Global at a $1 billion valuation in July 2026, focusing on international dollar clearing for fintech and crypto firms.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-18-Why-Upstart-Banks-May-Have-to-Keep-Raising-Money.md",
+        "anchor": "^clm-bf5d9a63e3c3a486b217"
+      },
+      "evidence": [
+        {
+          "source_id": "src-0e34beac45387b8ea277",
+          "relation": "supports",
+          "locator": "§ Digital asset upstarts Openreserve and Augustus: “Augustus, led by chief executive Ferdinand Dabitz, raised $180 million in a round led by Tiger Global Management at a $1 billion valuation”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-07",
+      "subjects": [
+        "Augustus"
+      ],
+      "concepts": []
+    },
+    "clm-5c31046fdc116c4f77bb": {
+      "text": "Anthropic is preparing an unreleased model with superior reasoning and intuition that discerns underlying user intentions without explicit prompting.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better.md",
+        "anchor": "^clm-5c31046fdc116c4f77bb"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b953cd17592aa96960df",
+          "relation": "supports",
+          "locator": "§ Frontier model cadence and Anthropic intention-reading model: “Anthropic is preparing to release an advanced model with superior reasoning and intuition”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-e01abe7cb4bc5132dfdc": {
+      "text": "Google is developing Gemini 4 Carbon as a successor to Gemini 4 Argon, leveraging YouTube video training data for visual tasks.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better.md",
+        "anchor": "^clm-e01abe7cb4bc5132dfdc"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b953cd17592aa96960df",
+          "relation": "supports",
+          "locator": "§ Rival model moves from Google and OpenAI: “Google is developing a model codenamed Gemini 4 Carbon, following its release of Gemini 4 Argon”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Google"
+      ],
+      "concepts": []
+    },
+    "clm-6889c474a714b018a8d1": {
+      "text": "OpenAI is developing a new iteration in its mid-tier Terra model family to undercut market leader Anthropic on developer API costs.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better.md",
+        "anchor": "^clm-6889c474a714b018a8d1"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b953cd17592aa96960df",
+          "relation": "supports",
+          "locator": "§ Rival model moves from Google and OpenAI: “OpenAI is preparing a new iteration in its mid-tier Terra model family”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "concepts": [
+        "Price-Umbrella"
+      ]
+    },
+    "clm-5b28c480687279088163": {
+      "text": "OpenAI is preparing a major unreleased model featuring looping transformers, while working through safety and security risks before release.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better.md",
+        "anchor": "^clm-5b28c480687279088163"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b953cd17592aa96960df",
+          "relation": "supports",
+          "locator": "§ Rival model moves from Google and OpenAI: “developing a major unreleased model featuring looping transformer architectures, but is in an all-hands sprint”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-fbc90eb49ae1896fa8fa": {
+      "text": "Anthropic is assembling a $60 billion debt package to buy Google TPU chips, offering Blackstone a yield above 10% to anchor a $9 billion junior slice.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better.md",
+        "anchor": "^clm-fbc90eb49ae1896fa8fa"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b953cd17592aa96960df",
+          "relation": "supports",
+          "locator": "§ Major AI infrastructure financing and regulatory shifts: “Anthropic is assembling a $60 billion debt package to purchase Google-developed Tensor Processing Unit”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Anthropic",
+        "Google",
+        "Blackstone"
+      ],
+      "concepts": [
+        "Custom-Silicon",
+        "Capex-vs-Opex"
+      ]
+    },
+    "clm-52bf6f9a75b7320104a0": {
+      "text": "Anthropic Claude models solved a decades-old mathematical puzzle regarding the original algorithm used for a popular cryptographic standard.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better.md",
+        "anchor": "^clm-52bf6f9a75b7320104a0"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b953cd17592aa96960df",
+          "relation": "supports",
+          "locator": "§ Major AI infrastructure financing and regulatory shifts: “Anthropic Claude models solved a decades-old mathematical mystery regarding the original algorithm”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-cb46857cee1bcea03d30": {
+      "text": "China proposed export controls covering 23 AI technologies including large language models, agents, chip design, and computing clusters.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better.md",
+        "anchor": "^clm-cb46857cee1bcea03d30"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b953cd17592aa96960df",
+          "relation": "supports",
+          "locator": "§ Major AI infrastructure financing and regulatory shifts: “proposed new export controls covering 23 AI-related technologies, including large language models, AI agents”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Xi Jinping"
+      ],
+      "concepts": [
+        "Export-Controls"
+      ]
+    },
+    "clm-531dc496cf519be8856c": {
+      "text": "Proofpoint agreed to acquire AI agent security platform Varonis Systems for approximately $6.3 billion in an all-cash deal.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better.md",
+        "anchor": "^clm-531dc496cf519be8856c"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b953cd17592aa96960df",
+          "relation": "supports",
+          "locator": "§ Major M&A transactions and industry debuts: “Proofpoint agreed to acquire AI agent security provider Varonis Systems for approximately $6.3 billion”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Proofpoint",
+        "Varonis Systems"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-4ac64d0df469c72aa231": {
+      "text": "GTCR and Elliott Investment Management agreed to acquire auto-insurance AI software firm CCC Intelligent Solutions for $6.1 billion.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better.md",
+        "anchor": "^clm-4ac64d0df469c72aa231"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b953cd17592aa96960df",
+          "relation": "supports",
+          "locator": "§ Major M&A transactions and industry debuts: “agreed to acquire SaaS and auto-insurance AI platform CCC Intelligent Solutions for approximately $6.1 billion”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "CCC Intelligent Solutions"
+      ],
+      "concepts": []
+    },
+    "clm-5a1c43c37641c0260d68": {
+      "text": "Intuit agreed to acquire AI-native billing automation startup Sequence for roughly $200 million.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better.md",
+        "anchor": "^clm-5a1c43c37641c0260d68"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b953cd17592aa96960df",
+          "relation": "supports",
+          "locator": "§ Major M&A transactions and industry debuts: “Intuit agreed to acquire AI-native billing and revenue automation startup Sequence for approximately $200 million”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Intuit"
+      ],
+      "concepts": []
+    },
+    "clm-b19f548553f2fc79f236": {
+      "text": "Nvidia asked suppliers of next-generation custom high-bandwidth memory chips to use TSMC 3-nanometer manufacturing process.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better.md",
+        "anchor": "^clm-b19f548553f2fc79f236"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b953cd17592aa96960df",
+          "relation": "supports",
+          "locator": "§ Major M&A transactions and industry debuts: “Nvidia requested suppliers of next-generation custom high-bandwidth memory chips to use TSMC 3-nanometer manufacturing process”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Nvidia",
+        "TSMC"
+      ],
+      "concepts": []
+    },
+    "clm-f5675da3e0acbf7b67fd": {
+      "text": "Meta released Muse Spark Open, an open-weight artificial intelligence model designed to run locally on Mac computers.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better.md",
+        "anchor": "^clm-f5675da3e0acbf7b67fd"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b953cd17592aa96960df",
+          "relation": "supports",
+          "locator": "§ Major M&A transactions and industry debuts: “Meta launched Muse Spark Open, an open-weight AI model designed to run locally on Mac computers”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Meta"
+      ],
+      "concepts": [
+        "Open-Weight-Models",
+        "Local-Inference"
+      ]
+    },
+    "clm-a362850de66afa32e08d": {
+      "text": "DeepSeek released an update to its lightweight V4.1-Flash model delivering significant performance gains nearing frontier capabilities.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better.md",
+        "anchor": "^clm-a362850de66afa32e08d"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b953cd17592aa96960df",
+          "relation": "supports",
+          "locator": "§ Major M&A transactions and industry debuts: “DeepSeek released an update to its lightweight V4.1-Flash model, showing significant benchmark improvements”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "DeepSeek"
+      ],
+      "concepts": [
+        "Distillation"
+      ]
+    },
+    "clm-6e2680d565a72fba2462": {
+      "text": "DeepSeek is collaborating closely with Huawei Technologies to shape future AI chip designs, with Huawei engineers stationed at DeepSeek offices.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia.md",
+        "anchor": "^clm-6e2680d565a72fba2462"
+      },
+      "evidence": [
+        {
+          "source_id": "src-eefe71849b5484d1063b",
+          "relation": "supports",
+          "locator": "§ DeepSeek and Huawei engineering co-design: “DeepSeek is collaborating closely with Huawei Technologies to shape future AI chip designs”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "DeepSeek",
+        "Huawei",
+        "Nvidia"
+      ],
+      "concepts": [
+        "Custom-Silicon",
+        "AI-Stack-Integration"
+      ]
+    },
+    "clm-bfe5655d0038748913c6": {
+      "text": "DeepSeek plans to begin using Huawei current flagship Ascend 950DT chip for pre-training models as early as late 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia.md",
+        "anchor": "^clm-bfe5655d0038748913c6"
+      },
+      "evidence": [
+        {
+          "source_id": "src-eefe71849b5484d1063b",
+          "relation": "supports",
+          "locator": "§ DeepSeek and Huawei engineering co-design: “DeepSeek plans to begin using Huawei current flagship Ascend 950DT chip for pre-training models”"
+        }
+      ],
+      "notes": "Updates clm-803076f04e6580530f19: confirms DeepSeek plans pre-training on Ascend 950DT by late 2026.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "DeepSeek",
+        "Huawei"
+      ],
+      "concepts": [
+        "Custom-Silicon"
+      ]
+    },
+    "clm-1b039e26d4e3c30f1542": {
+      "text": "Huawei plans to allocate most of the initial supply of its next-generation Ascend 960DT training chip to DeepSeek in the first quarter of 2027.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia.md",
+        "anchor": "^clm-1b039e26d4e3c30f1542"
+      },
+      "evidence": [
+        {
+          "source_id": "src-eefe71849b5484d1063b",
+          "relation": "supports",
+          "locator": "§ DeepSeek and Huawei engineering co-design: “Huawei plans to allocate most of the initial supply of its next-generation Ascend 960DT training chip to DeepSeek”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Huawei",
+        "DeepSeek"
+      ],
+      "concepts": []
+    },
+    "clm-8a534eee7c25dcf031bc": {
+      "text": "Huawei announced an annual Ascend processor roadmap: Ascend 960DT in early 2027, Ascend 970 in 2028, and Ascend 980 in 2029.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia.md",
+        "anchor": "^clm-8a534eee7c25dcf031bc"
+      },
+      "evidence": [
+        {
+          "source_id": "src-eefe71849b5484d1063b",
+          "relation": "supports",
+          "locator": "§ DeepSeek and Huawei engineering co-design: “Huawei announced an annual release cadence for Ascend processors: Ascend 960DT in the first quarter of 2027”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Huawei"
+      ],
+      "concepts": []
+    },
+    "clm-b657ef6ebd1e7eaac87d": {
+      "text": "Epoch AI estimates Nvidia B300 chips deliver approximately seven times the raw arithmetic performance of Huawei Ascend 950.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia.md",
+        "anchor": "^clm-b657ef6ebd1e7eaac87d"
+      },
+      "evidence": [
+        {
+          "source_id": "src-eefe71849b5484d1063b",
+          "relation": "supports",
+          "locator": "§ Performance gap and covert access to Nvidia Blackwell: “Epoch AI estimates that Nvidia B300 chips deliver approximately seven times the raw arithmetic performance”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Epoch AI",
+        "Nvidia",
+        "Huawei"
+      ],
+      "concepts": []
+    },
+    "clm-59cecb4a7c89a52a45c6": {
+      "text": "Epoch AI projects Huawei will remain three to four years behind Nvidia on single-chip performance through 2030.",
+      "assessment": "provisional",
+      "confidence": "medium",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia.md",
+        "anchor": "^clm-59cecb4a7c89a52a45c6"
+      },
+      "evidence": [
+        {
+          "source_id": "src-eefe71849b5484d1063b",
+          "relation": "supports",
+          "locator": "§ Performance gap and covert access to Nvidia Blackwell: “Epoch AI projects Huawei will remain three to four years behind Nvidia on single-chip performance through 2030”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "prediction",
+      "as_of": "2030",
+      "subjects": [
+        "Epoch AI",
+        "Huawei",
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-223ac291c20548ea3a7b": {
+      "text": "DeepSeek obtained barred Nvidia Blackwell chips by disassembling servers bought in permitted countries and shipping the chips to China to train V4 models.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia.md",
+        "anchor": "^clm-223ac291c20548ea3a7b"
+      },
+      "evidence": [
+        {
+          "source_id": "src-eefe71849b5484d1063b",
+          "relation": "supports",
+          "locator": "§ Performance gap and covert access to Nvidia Blackwell: “DeepSeek obtained barred Blackwell chips via intermediaries who purchased servers in permitted countries”"
+        }
+      ],
+      "notes": "Updates clm-a1d88914764431ddaf83: reveals DeepSeek obtained smuggled Blackwell chips to train V4 models.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "DeepSeek",
+        "Nvidia"
+      ],
+      "concepts": [
+        "Export-Controls"
+      ]
+    },
+    "clm-cbc07a8e60cad697ddbc": {
+      "text": "DeepSeek is bypassing Nvidia CUDA software lock-in using TileLang, an open-source programming language developed by Peking University researchers.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia.md",
+        "anchor": "^clm-cbc07a8e60cad697ddbc"
+      },
+      "evidence": [
+        {
+          "source_id": "src-eefe71849b5484d1063b",
+          "relation": "supports",
+          "locator": "§ Breaking CUDA lock-in with TileLang: “DeepSeek is bypassing Nvidia CUDA software lock-in using TileLang, an open-source programming language”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "DeepSeek",
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-31f7dc1aa7b0bd6dc2b5": {
+      "text": "DeepSeek released a TileLang version tailored for Huawei Ascend 950 chips with five code suites covering calculations and data transfers.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia.md",
+        "anchor": "^clm-31f7dc1aa7b0bd6dc2b5"
+      },
+      "evidence": [
+        {
+          "source_id": "src-eefe71849b5484d1063b",
+          "relation": "supports",
+          "locator": "§ Breaking CUDA lock-in with TileLang: “DeepSeek used TileLang for its V4 models and recently released a TileLang version tailored for Huawei Ascend 950 chips”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-09",
+      "subjects": [
+        "DeepSeek",
+        "Huawei"
+      ],
+      "concepts": []
+    },
+    "clm-061c00ff503f9e5bf02f": {
+      "text": "Huawei Rotating Chairman Eric Xu stated training tests went well and expects widespread adoption by 2027 while domestic supply remains constrained.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia.md",
+        "anchor": "^clm-061c00ff503f9e5bf02f"
+      },
+      "evidence": [
+        {
+          "source_id": "src-eefe71849b5484d1063b",
+          "relation": "supports",
+          "locator": "§ Breaking CUDA lock-in with TileLang: “Rotating Chairman Eric Xu stated training tests went well and expects widespread adoption by 2027”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-09",
+      "subjects": [
+        "Huawei"
+      ],
+      "concepts": []
+    },
+    "clm-30d2c22f4450782cf3a3": {
+      "text": "Full pre-training of a frontier AI model requires well over 10,000 Huawei Ascend 950DT processors running uninterrupted for weeks.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia.md",
+        "anchor": "^clm-30d2c22f4450782cf3a3"
+      },
+      "evidence": [
+        {
+          "source_id": "src-eefe71849b5484d1063b",
+          "relation": "supports",
+          "locator": "§ Breaking CUDA lock-in with TileLang: “Full pre-training of a frontier model requires well over 10,000 Ascend 950DT processors running uninterrupted for weeks”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Huawei",
+        "DeepSeek"
+      ],
+      "concepts": [
+        "AI-Compute-Demand"
+      ]
+    },
+    "clm-4bf6b93dd948e10ed034": {
+      "text": "Under Secretary of Defense Emil Michael warned in an interview that the administration will use export controls against AI labs that fail to cooperate on national security.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government.md",
+        "anchor": "^clm-4bf6b93dd948e10ed034"
+      },
+      "evidence": [
+        {
+          "source_id": "src-572c55c13d6abfc6d211",
+          "relation": "supports",
+          "locator": "§ Enforcement threats and the drunk driver analogy: “Emil Michael warned in an interview that the Trump administration will use export controls and other executive authorities against AI frontier labs”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10",
+      "subjects": [
+        "Department of Defense",
+        "Emil Michael",
+        "Trump Administration"
+      ],
+      "concepts": [
+        "Export-Controls"
+      ]
+    },
+    "clm-53abd5a7f082996828e2": {
+      "text": "Emil Michael serves as one of four leaders on President Trump's Super Intelligence Force, acting as government liaison to frontier AI companies on cybersecurity.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government.md",
+        "anchor": "^clm-53abd5a7f082996828e2"
+      },
+      "evidence": [
+        {
+          "source_id": "src-572c55c13d6abfc6d211",
+          "relation": "supports",
+          "locator": "§ Enforcement threats and the drunk driver analogy: “Michael serves as one of four leaders on President Trump's Super Intelligence Force task force”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Emil Michael",
+        "Trump Administration"
+      ],
+      "concepts": []
+    },
+    "clm-a045af18acba91b35abe": {
+      "text": "Emil Michael likened frontier AI labs calling for government regulation to drunk drivers demanding someone else pull them over rather than self-regulating.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government.md",
+        "anchor": "^clm-a045af18acba91b35abe"
+      },
+      "evidence": [
+        {
+          "source_id": "src-572c55c13d6abfc6d211",
+          "relation": "supports",
+          "locator": "§ Enforcement threats and the drunk driver analogy: “Michael likened frontier labs calling for government regulation to drunk drivers demanding someone else pull them over”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10",
+      "subjects": [
+        "Emil Michael",
+        "Department of Defense"
+      ],
+      "concepts": []
+    },
+    "clm-7c2c60030865a9a58281": {
+      "text": "The Trump administration affirmed its willingness to use stringent checks, citing export controls placed on Anthropic in June 2026 cutting off non-US users.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government.md",
+        "anchor": "^clm-7c2c60030865a9a58281"
+      },
+      "evidence": [
+        {
+          "source_id": "src-572c55c13d6abfc6d211",
+          "relation": "supports",
+          "locator": "§ Enforcement threats and the drunk driver analogy: “export controls placed on Anthropic in June 2026 that cut off model access to non-United States users”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-06",
+      "subjects": [
+        "Anthropic",
+        "Trump Administration"
+      ],
+      "concepts": [
+        "Export-Controls"
+      ]
+    },
+    "clm-05436e0bf8a12d17974e": {
+      "text": "Emil Michael previously pushed for the Defense Department to designate Anthropic a supply chain risk after Anthropic refused to remove safety guardrails.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government.md",
+        "anchor": "^clm-05436e0bf8a12d17974e"
+      },
+      "evidence": [
+        {
+          "source_id": "src-572c55c13d6abfc6d211",
+          "relation": "supports",
+          "locator": "§ Feud and ongoing engagement with Anthropic: “pushing for the Defense Department to designate the AI lab as a supply chain risk after Anthropic refused to remove safety guardrails”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Anthropic",
+        "Department of Defense",
+        "Emil Michael"
+      ],
+      "concepts": []
+    },
+    "clm-d87c080e922d58498f5c": {
+      "text": "Emil Michael stated he will not permit Anthropic inside the Defense Department as long as Claude retains moral autonomy to terminate conversations with users.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government.md",
+        "anchor": "^clm-d87c080e922d58498f5c"
+      },
+      "evidence": [
+        {
+          "source_id": "src-572c55c13d6abfc6d211",
+          "relation": "supports",
+          "locator": "§ Feud and ongoing engagement with Anthropic: “will not permit Anthropic inside the Defense Department as long as that moral principle is embedded in its software”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10",
+      "subjects": [
+        "Anthropic",
+        "Department of Defense",
+        "Emil Michael"
+      ],
+      "concepts": []
+    },
+    "clm-7e84e556f0fb4373d7e4": {
+      "text": "Despite ongoing litigation, Emil Michael has met Anthropic co-founder Tom Brown many times to coordinate cybersecurity incident response protocols.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government.md",
+        "anchor": "^clm-7e84e556f0fb4373d7e4"
+      },
+      "evidence": [
+        {
+          "source_id": "src-572c55c13d6abfc6d211",
+          "relation": "supports",
+          "locator": "§ Feud and ongoing engagement with Anthropic: “met Anthropic co-founder and Washington representative Tom Brown many times”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Anthropic",
+        "Emil Michael",
+        "Department of Defense"
+      ],
+      "concepts": []
+    },
+    "clm-c86f08d1a09f02b2aad8": {
+      "text": "Emil Michael favored promoting domestic open-source alternatives like Reflection, Thinking Machines, and Nvidia Nemotron rather than mandating model weight audits.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government.md",
+        "anchor": "^clm-c86f08d1a09f02b2aad8"
+      },
+      "evidence": [
+        {
+          "source_id": "src-572c55c13d6abfc6d211",
+          "relation": "supports",
+          "locator": "§ Chinese open source and corporate espionage risks: “Michael favored promoting domestic open-source alternatives like Reflection, Thinking Machines, and Nvidia Nemotron”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10",
+      "subjects": [
+        "Emil Michael",
+        "Nvidia"
+      ],
+      "concepts": [
+        "Open-Weight-Models"
+      ]
+    },
+    "clm-f83ce78924fdd4b432ba": {
+      "text": "Emil Michael highlighted espionage risks following the arrest of an OpenAI Saudi engineer for planting bugs, recommending tech firms use FBI background screening.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government.md",
+        "anchor": "^clm-f83ce78924fdd4b432ba"
+      },
+      "evidence": [
+        {
+          "source_id": "src-572c55c13d6abfc6d211",
+          "relation": "supports",
+          "locator": "§ Chinese open source and corporate espionage risks: “arrest of an OpenAI Saudi national engineer for planting bugs, recommending tech firms use FBI background screening”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI",
+        "Emil Michael"
+      ],
+      "concepts": []
+    },
+    "clm-1b18a28975d4354d4784": {
+      "text": "The Defense Department Office of Strategic Capital is preparing loans to bolster domestic microelectronics and reduce reliance on ASML and TSMC.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government.md",
+        "anchor": "^clm-1b18a28975d4354d4784"
+      },
+      "evidence": [
+        {
+          "source_id": "src-572c55c13d6abfc6d211",
+          "relation": "supports",
+          "locator": "§ Defense Department supply chain investments: “preparing loans to bolster domestic microelectronics and reduce dependence on ASML and Taiwan Semiconductor Manufacturing Co”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Department of Defense",
+        "TSMC"
+      ],
+      "concepts": [
+        "Custom-Silicon"
+      ]
+    },
+    "clm-b4e05f58f685064978c8": {
+      "text": "Emil Michael stated he had no visibility into whether software errors from Palantir contributed to a February 2026 missile strike in Iran.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-19",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government.md",
+        "anchor": "^clm-b4e05f58f685064978c8"
+      },
+      "evidence": [
+        {
+          "source_id": "src-572c55c13d6abfc6d211",
+          "relation": "supports",
+          "locator": "§ Defense Department supply chain investments: “no visibility into whether software errors from Palantir contributed to a February 2026 United States missile strike in Iran”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10",
+      "subjects": [
+        "Palantir",
+        "Department of Defense",
+        "Emil Michael"
+      ],
+      "concepts": []
     }
   },
-  "generated_at": "2026-10-16T20:08:55Z",
+  "generated_at": "2026-10-19T21:49:00Z",
   "schema": "claude-obsidian.claim-ledger.v1"
 }

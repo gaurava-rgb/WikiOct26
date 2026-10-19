@@ -3,11 +3,11 @@ type: entity
 title: Google
 status: developing
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
   - entity/company
-claim_count: 171
+claim_count: 174
 ---
 
 # Google
@@ -342,6 +342,15 @@ Search and advertising giant (Alphabet); builds Gemini models and TPU chips.
 ### 2026-10-15 [[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment|Did Anthropic Miss Its Peak IPO Moment?]]
 
 - Apple shares gained 26% year to date through mid-October 2026, outpacing Alphabet, Amazon, Meta, and Microsoft which rose 10% to 12%. ([[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment#^clm-24a0b2eaeedd5d17e570|cite]])
+
+### 2026-10-18 [[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week|Meta, Tesla and Netflix Q3 Updates Coming This Week]]
+
+- In the first half of 2026, Meta digital ad revenue grew 30%, double Google growth rate, with second-quarter ad revenue reaching $59 billion. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-6a729ebe78d85e14bb50|cite]])
+
+### 2026-10-19 [[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better|Anthropic Readies Model That Reads Users' Intentions Better]]
+
+- Google is developing Gemini 4 Carbon as a successor to Gemini 4 Argon, leveraging YouTube video training data for visual tasks. ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better#^clm-e01abe7cb4bc5132dfdc|cite]])
+- Anthropic is assembling a $60 billion debt package to buy Google TPU chips, offering Blackstone a yield above 10% to anchor a $9 billion junior slice. ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better#^clm-fbc90eb49ae1896fa8fa|cite]])
 
 ## Related concepts
 

@@ -3,11 +3,11 @@ type: entity
 title: Nvidia
 status: developing
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
   - entity/company
-claim_count: 182
+claim_count: 199
 ---
 
 # Nvidia
@@ -326,6 +326,38 @@ US chip designer whose GPUs (graphics processors) dominate AI training and infer
 ### 2026-10-15 [[2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers|Cognition’s Plan to Limit Tokenmaxxing to the Most Efficient Engineers]]
 
 - Nvidia committed $250 million in compute credits over five years to support agentic AI safety and security research in the United Kingdom. ([[2026-10-15-Cognitions-Plan-to-Limit-Tokenmaxxing-to-the-Most-Efficient-Engineers#^clm-01e156c98bd0dac7cc2c|cite]])
+
+### 2026-10-16 [[2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok|Singapore’s DayOne Pushes Ahead With Data Center IPO Tied to TikTok]]
+
+- Nvidia-backed neocloud Firmus Technologies scrapped its $5.5 billion IPO in Australia amid investor worries over its $30.6 billion valuation and debt. ([[2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok#^clm-969d991bc7c4118a1c25|cite]])
+- In June 2026, Firmus agreed to partner with DayOne on a data center in Batam, Indonesia, with at least 170,000 advanced Nvidia chips, with Meta leasing capacity. ([[2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok#^clm-bce3b565b118481ac857|cite]])
+
+### 2026-10-18 [[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose|Neocloud Shakeout Looms, and Nvidia Has a Lot to Lose]]
+
+- Prediction: Data center executives predict only seven to 10 neoclouds will survive in a few years, down from hundreds attempting to operate today. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-2ca098a8f3d2133bb27f|cite]])
+- Prediction: Gartner predicts that 80% of independent neoclouds will cease independent operations by 2030. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-3044028cda5a3d6c35fe|cite]])
+- Bernstein analysts estimate that only 35% of announced data center capacity in North America will ever actually be built. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-18bd8c97c59d083ff368|cite]])
+- Cirrascale has rented Nvidia servers for over a decade, generates positive free cash flow, and earns over $200 million in annual revenue. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-75f4c6ae86cc2351c76b|cite]])
+- In the July 2026 quarter, Nvidia data center revenue from non-hyperscalers reached $40 billion, or 45% of total data center sales, doubling year-over-year. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-799e8edc4dab9c49f3cc|cite]])
+- Nvidia has committed to $20 billion in its own data center leases to sub-lease to neoclouds and chip customers as of the July 2026 quarter. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-160b7755986f44087bb9|cite]])
+- Nvidia modified its credit support program to offer shorter-term backstops for smaller revenue cuts after big neoclouds rejected revenue-share agreements. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-977245b9691c6c19e634|cite]])
+- Nvidia CEO Jensen Huang stated in Stockholm that CoreWeave will not need further credit backstops beyond an existing $6.3 billion GPU rent-back agreement. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-e56051fec12c2ad66514|cite]])
+
+### 2026-10-19 [[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better|Anthropic Readies Model That Reads Users' Intentions Better]]
+
+- Nvidia asked suppliers of next-generation custom high-bandwidth memory chips to use TSMC 3-nanometer manufacturing process. ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better#^clm-b19f548553f2fc79f236|cite]])
+
+### 2026-10-19 [[2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia|How DeepSeek Is Shaping Huawei’s AI Chips in a Growing Challenge to Nvidia]]
+
+- DeepSeek is collaborating closely with Huawei Technologies to shape future AI chip designs, with Huawei engineers stationed at DeepSeek offices. ([[2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia#^clm-6e2680d565a72fba2462|cite]])
+- Epoch AI estimates Nvidia B300 chips deliver approximately seven times the raw arithmetic performance of Huawei Ascend 950. ([[2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia#^clm-b657ef6ebd1e7eaac87d|cite]])
+- Prediction: Epoch AI projects Huawei will remain three to four years behind Nvidia on single-chip performance through 2030. ([[2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia#^clm-59cecb4a7c89a52a45c6|cite]])
+- DeepSeek obtained barred Nvidia Blackwell chips by disassembling servers bought in permitted countries and shipping the chips to China to train V4 models. ([[2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia#^clm-223ac291c20548ea3a7b|cite]])
+- DeepSeek is bypassing Nvidia CUDA software lock-in using TileLang, an open-source programming language developed by Peking University researchers. ([[2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia#^clm-cbc07a8e60cad697ddbc|cite]])
+
+### 2026-10-19 [[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government|Pentagon’s Emil Michael Vows Export Controls if AI Labs Don’t Cooperate With Government]]
+
+- Emil Michael favored promoting domestic open-source alternatives like Reflection, Thinking Machines, and Nvidia Nemotron rather than mandating model weight audits. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-c86f08d1a09f02b2aad8|cite]])
 
 ## Related concepts
 

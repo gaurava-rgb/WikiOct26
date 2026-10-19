@@ -3,11 +3,11 @@ type: entity
 title: TikTok
 status: developing
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
   - entity/company
-claim_count: 12
+claim_count: 14
 ---
 
 # TikTok
@@ -45,6 +45,11 @@ Short-video social app whose recommendation algorithm is controlled by the Chine
 ### 2026-10-12 [[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care|Meta Reaches AI’s Crowded Frontier—Will Users Care?]]
 
 - Meta has banned ads from ByteDance, TikTok's parent, on its platforms in the U.S. and several other markets, per Bloomberg. ([[2026-10-12-Meta-Reaches-AIs-Crowded-Frontier-Will-Users-Care#^clm-ac25750953945b5c4005|cite]])
+
+### 2026-10-16 [[2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok|Singapore’s DayOne Pushes Ahead With Data Center IPO Tied to TikTok]]
+
+- ByteDance accounts for nearly 70% of DayOne revenue, representing 69.2% of sales in the first half of 2026. ([[2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok#^clm-be1aaf55d4dbfc08c71e|cite]])
+- TikTok is investing 2 billion euros ($2.2 billion) in two Finnish data centers in Kouvola and Lahti under Project Clover to store European user data locally. ([[2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok#^clm-a0efc43f207f5fe7ca9f|cite]])
 
 ## Related concepts
 

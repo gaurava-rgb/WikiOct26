@@ -3,11 +3,11 @@ type: entity
 title: Palantir
 status: developing
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
   - entity/company
-claim_count: 13
+claim_count: 14
 ---
 
 # Palantir
@@ -46,6 +46,10 @@ Data analytics and software company that serves the U.S. government and large en
 ### 2026-10-15 [[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator|Why AI-Written Software Needs a Flight Simulator]]
 
 - Antithesis counts Replit, Palantir, and Datadog among corporate customers using its deterministic software testing platform. ([[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator#^clm-84237916b93225bc24d7|cite]])
+
+### 2026-10-19 [[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government|Pentagon’s Emil Michael Vows Export Controls if AI Labs Don’t Cooperate With Government]]
+
+- Emil Michael stated he had no visibility into whether software errors from Palantir contributed to a February 2026 missile strike in Iran. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-b4e05f58f685064978c8|cite]])
 
 ## Related concepts
 

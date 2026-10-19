@@ -3,10 +3,10 @@ type: concept
 title: Commoditize Your Complements
 status: developing
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - concept
-source_count: 3
+source_count: 4
 ---
 
 # Commoditize Your Complements
@@ -26,3 +26,7 @@ A strategy where a firm makes the products that go with its own core business ch
 ### 2026-10-08 [[2026-10-08-Nvidia-to-Invest-in-Chip-Rival-d-Matrix-as-Its-Challengers-Choose-Partnership|Nvidia to Invest in Chip Rival d-Matrix as Its Challengers Choose Partnership]]
 
 - The d-Matrix investment is part of Nvidia's effort to make its technology work with rival chip designers and pull them into its dominant hardware ecosystem. ([[2026-10-08-Nvidia-to-Invest-in-Chip-Rival-d-Matrix-as-Its-Challengers-Choose-Partnership#^clm-043641192d7e96997871|cite]])
+
+### 2026-10-18 [[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose|Neocloud Shakeout Looms, and Nvidia Has a Lot to Lose]]
+
+- Nvidia has committed to $20 billion in its own data center leases to sub-lease to neoclouds and chip customers as of the July 2026 quarter. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-160b7755986f44087bb9|cite]])

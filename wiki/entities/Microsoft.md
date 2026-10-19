@@ -3,11 +3,11 @@ type: entity
 title: Microsoft
 status: developing
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
   - entity/company
-claim_count: 134
+claim_count: 135
 ---
 
 # Microsoft
@@ -296,6 +296,10 @@ US software and cloud company (Windows, Office, Azure, Xbox); a major OpenAI inv
 ### 2026-10-15 [[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator|Why AI-Written Software Needs a Flight Simulator]]
 
 - Microsoft and Amazon provide software resilience tools that inject controlled experimental faults directly into live production servers rather than simulated environments. ([[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator#^clm-864947003a94f9455613|cite]])
+
+### 2026-10-18 [[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week|Meta, Tesla and Netflix Q3 Updates Coming This Week]]
+
+- Microsoft pulled out of a planned United Kingdom data center being built by Nscale following delays in accessing grid power. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-63e73267d2e1b380f630|cite]])
 
 ## Related concepts
 

@@ -3,11 +3,11 @@ type: entity
 title: SpaceX
 status: developing
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
   - entity/company
-claim_count: 102
+claim_count: 103
 ---
 
 # SpaceX
@@ -186,6 +186,10 @@ Elon Musk's rocket and satellite company; now owns X and xAI.
 - In March 2025, a SpaceXSI employee exposed an internal Grok API key after accidentally uploading a test script to a public GitHub repository. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-8348b6ff93792bea7340|cite]])
 - In summer 2026, researcher discovery of Grok Build uploading entire Git repositories to Google Cloud storage led xAI to disable uploads and open source the tool. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-2b9491f0c34fc99a05a2|cite]])
 - SpaceX completed its $60 billion acquisition of Cursor in mid-August 2026 to accelerate sales of enterprise AI products. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-88a6f62a2e347bc5510a|cite]])
+
+### 2026-10-18 [[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week|Meta, Tesla and Netflix Q3 Updates Coming This Week]]
+
+- Tesla market capitalization stands at $1.4 trillion, approximately $600 billion below SpaceX valuation of roughly $2 trillion. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-e41b833b1dc0903c4cbe|cite]])
 
 ## Related concepts
 

@@ -3,11 +3,11 @@ type: entity
 title: DeepSeek
 status: developing
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
   - entity/company
-claim_count: 27
+claim_count: 35
 ---
 
 # DeepSeek
@@ -55,6 +55,20 @@ Chinese AI lab based in Hangzhou that makes cheap, efficient open models such as
 - Xiaomi made a splash in 2025 by poaching a star researcher from DeepSeek. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-4bc3dd716383e4e545f3|cite]])
 - The Information argues reliance on distillation may make it harder for Chinese labs to stand apart, but widely known techniques also level the playing field for all of them. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-12bdac29fbe4b625e05a|cite]])
 
+### 2026-10-19 [[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better|Anthropic Readies Model That Reads Users' Intentions Better]]
+
+- DeepSeek released an update to its lightweight V4.1-Flash model delivering significant performance gains nearing frontier capabilities. ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better#^clm-a362850de66afa32e08d|cite]])
+
+### 2026-10-19 [[2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia|How DeepSeek Is Shaping Huawei’s AI Chips in a Growing Challenge to Nvidia]]
+
+- DeepSeek is collaborating closely with Huawei Technologies to shape future AI chip designs, with Huawei engineers stationed at DeepSeek offices. ([[2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia#^clm-6e2680d565a72fba2462|cite]])
+- DeepSeek plans to begin using Huawei current flagship Ascend 950DT chip for pre-training models as early as late 2026. ([[2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia#^clm-bfe5655d0038748913c6|cite]])
+- Huawei plans to allocate most of the initial supply of its next-generation Ascend 960DT training chip to DeepSeek in the first quarter of 2027. ([[2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia#^clm-1b039e26d4e3c30f1542|cite]])
+- DeepSeek obtained barred Nvidia Blackwell chips by disassembling servers bought in permitted countries and shipping the chips to China to train V4 models. ([[2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia#^clm-223ac291c20548ea3a7b|cite]])
+- DeepSeek is bypassing Nvidia CUDA software lock-in using TileLang, an open-source programming language developed by Peking University researchers. ([[2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia#^clm-cbc07a8e60cad697ddbc|cite]])
+- DeepSeek released a TileLang version tailored for Huawei Ascend 950 chips with five code suites covering calculations and data transfers. ([[2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia#^clm-31f7dc1aa7b0bd6dc2b5|cite]])
+- Full pre-training of a frontier AI model requires well over 10,000 Huawei Ascend 950DT processors running uninterrupted for weeks. ([[2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia#^clm-30d2c22f4450782cf3a3|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Distillation|Distillation (Training on Another Model's Outputs)]], [[Export-Controls|Chip Export Controls]], [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Custom-Silicon|Custom Silicon]], [[Distillation|Distillation (Training on Another Model's Outputs)]], [[Export-Controls|Chip Export Controls]], [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]]

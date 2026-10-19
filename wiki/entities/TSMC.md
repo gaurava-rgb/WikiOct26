@@ -3,11 +3,11 @@ type: entity
 title: TSMC
 status: developing
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
   - entity/company
-claim_count: 40
+claim_count: 42
 ---
 
 # TSMC
@@ -82,6 +82,14 @@ Taiwan Semiconductor Manufacturing Company, the largest contract chip maker; mak
 ### 2026-10-15 [[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment|Did Anthropic Miss Its Peak IPO Moment?]]
 
 - TSMC confirmed plans to construct an additional 3-nanometer fab in Tainan, Taiwan, with production scheduled for the first half of 2028. ([[2026-10-15-Did-Anthropic-Miss-Its-Peak-IPO-Moment#^clm-6ef637f542eb3dc351c4|cite]])
+
+### 2026-10-19 [[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better|Anthropic Readies Model That Reads Users' Intentions Better]]
+
+- Nvidia asked suppliers of next-generation custom high-bandwidth memory chips to use TSMC 3-nanometer manufacturing process. ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better#^clm-b19f548553f2fc79f236|cite]])
+
+### 2026-10-19 [[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government|Pentagon’s Emil Michael Vows Export Controls if AI Labs Don’t Cooperate With Government]]
+
+- The Defense Department Office of Strategic Capital is preparing loans to bolster domestic microelectronics and reduce reliance on ASML and TSMC. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-1b18a28975d4354d4784|cite]])
 
 ## Related concepts
 

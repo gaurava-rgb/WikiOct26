@@ -3,10 +3,10 @@ type: entity
 title: Firmus
 status: developing
 created: 2026-10-13
-updated: 2026-10-16
+updated: 2026-10-19
 tags:
   - entity
-claim_count: 4
+claim_count: 7
 ---
 
 # Firmus
@@ -28,6 +28,15 @@ claim_count: 4
 ### 2026-10-15 [[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech|The Party Is Still Going Strong for Private Tech]]
 
 - Australian data center operator Firmus withdrew its planned initial public offering amid rising public market skepticism over AI infrastructure debt. ([[2026-10-15-The-Party-Is-Still-Going-Strong-for-Private-Tech#^clm-9c2e549c35e21cf8f740|cite]])
+
+### 2026-10-16 [[2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok|Singapore’s DayOne Pushes Ahead With Data Center IPO Tied to TikTok]]
+
+- Nvidia-backed neocloud Firmus Technologies scrapped its $5.5 billion IPO in Australia amid investor worries over its $30.6 billion valuation and debt. ([[2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok#^clm-969d991bc7c4118a1c25|cite]])
+- In June 2026, Firmus agreed to partner with DayOne on a data center in Batam, Indonesia, with at least 170,000 advanced Nvidia chips, with Meta leasing capacity. ([[2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok#^clm-bce3b565b118481ac857|cite]])
+
+### 2026-10-18 [[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose|Neocloud Shakeout Looms, and Nvidia Has a Lot to Lose]]
+
+- CoreWeave CEO Michael Intrator criticized rivals Firmus, Lambda, and Nscale for seeking massive capital without the execution, scale, or software solutions of CoreWeave. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-4acc526be5a41f8987d3|cite]])
 
 ## Related concepts
 

@@ -358,6 +358,10 @@
       "blurb": "Amazon Web Services, Amazon's cloud computing business and the largest cloud provider.",
       "kind": "company"
     },
+    "Abdulrahman Alfozan": {
+      "blurb": "Former OpenAI engineer arrested by the FBI for allegedly planting listening devices in OpenAI offices.",
+      "kind": "person"
+    },
     "Adept AI Labs": {
       "blurb": "San Francisco AI startup founded in 2021 that built a browser agent for office tasks.",
       "kind": "company"
@@ -372,6 +376,10 @@
     },
     "Ahold Delhaize": {
       "blurb": "Dutch grocery giant, parent of Stop & Shop and Peapod; bought a majority of FreshDirect (2021) then sold it to Getir.",
+      "kind": "company"
+    },
+    "AirTrunk": {
+      "blurb": "Blackstone-backed Asia-Pacific data center operator.",
       "kind": "company"
     },
     "Airbnb": {
@@ -534,6 +542,10 @@
       "blurb": "Maker of Jira and Confluence workplace software.",
       "kind": "company"
     },
+    "Augustus": {
+      "blurb": "Venture-backed bank focused on cross-border clearing for fintech and crypto firms.",
+      "kind": "company"
+    },
     "BNSF Railway": {
       "blurb": "Berkshire Hathaway-owned U.S. freight railroad; a capital-hungry business with large absolute profits.",
       "kind": "company"
@@ -608,6 +620,10 @@
     },
     "Bumble": {
       "blurb": "Dating app founded by Whitney Wolfe Herd; agreed in October 2026 to be bought by Ithaca Holdings.",
+      "kind": "company"
+    },
+    "ByteDance": {
+      "blurb": "Chinese tech conglomerate and parent company of TikTok.",
       "kind": "company"
     },
     "C.C. Wei": {
@@ -762,6 +778,10 @@
       "blurb": "Open-source developer behind the OpenCode coding agent.",
       "kind": "person"
     },
+    "DayOne": {
+      "blurb": "Singapore-based data center operator spun off from GDS Holdings, preparing a New York IPO.",
+      "kind": "company"
+    },
     "DeForest": {
       "blurb": "Village of about 11,500 people near Madison, Wisconsin.",
       "kind": "place"
@@ -789,6 +809,10 @@
     "Demis Hassabis": {
       "blurb": "Co-founder and CEO of Google DeepMind.",
       "kind": "person"
+    },
+    "Department of Defense": {
+      "blurb": "United States executive department responsible for national defense and the armed forces.",
+      "kind": "org"
     },
     "Department of Justice": {
       "blurb": "United States federal department responsible for law enforcement and antitrust regulation.",
@@ -850,12 +874,24 @@
       "blurb": "CEO of Tesla and SpaceX; bought Twitter in 2022.",
       "kind": "person"
     },
+    "Emil Michael": {
+      "blurb": "Under Secretary of Defense for Research and Engineering and member of Trump's Super Intelligence Force.",
+      "kind": "person"
+    },
     "Entergy": {
       "blurb": "US utility that serves Mississippi and warned Amazon it would curtail its data centers.",
       "kind": "company"
     },
     "Epic Games": {
       "blurb": "Video game publisher and Unreal Engine developer that brought major antitrust litigation against Apple.",
+      "kind": "company"
+    },
+    "Epoch AI": {
+      "blurb": "AI research institute tracking frontier model compute, algorithms, and hardware performance.",
+      "kind": "org"
+    },
+    "Erebor Bank": {
+      "blurb": "Venture-backed de novo bank founded by Palmer Luckey serving defense and crypto firms.",
       "kind": "company"
     },
     "Eric Seufert": {
@@ -1215,7 +1251,7 @@
       "kind": "company"
     },
     "Lambda": {
-      "blurb": "US neocloud that rents out Nvidia GPU capacity.",
+      "blurb": "AI cloud provider and GPU rental specialist.",
       "kind": "company"
     },
     "Lenny Rachitsky": {
@@ -1414,6 +1450,10 @@
       "blurb": "Service that sits between developers and AI model providers; being bought by Stripe for more than $7 billion.",
       "kind": "company"
     },
+    "Openreserve": {
+      "blurb": "Crypto-backed de novo bank planning tokenized deposits and receivables.",
+      "kind": "company"
+    },
     "Oracle": {
       "blurb": "Enterprise software and cloud company building large AI data centers for OpenAI.",
       "kind": "company"
@@ -1437,6 +1477,10 @@
     "Palantir": {
       "blurb": "Data analytics and software company that serves the U.S. government and large enterprises.",
       "kind": "company"
+    },
+    "Palmer Luckey": {
+      "blurb": "Founder of Anduril Industries and Erebor Bank.",
+      "kind": "person"
     },
     "Parag Agrawal": {
       "blurb": "Founder and CEO of Parallel; former CTO and then CEO of Twitter until Elon Musk bought it. Also spelled Agrawal.",
@@ -1716,6 +1760,10 @@
     },
     "Stream Data Centers": {
       "blurb": "Dallas-based data center developer, majority-owned by Apollo Global Management.",
+      "kind": "company"
+    },
+    "Strider Technologies": {
+      "blurb": "Salt Lake City security startup selling AI-driven insider threat and counter-espionage software.",
       "kind": "company"
     },
     "Stripe": {
