@@ -13,6 +13,11 @@ tags:
 
 Newest completed operations appear first.
 
+## 2026-10-21 ingest-20261021-b31
+
+- Batch 31: OpenAI pacing 2.0, Xbox buyout talks, SpaceX SI cloud and Tesla, CyberCartel bank hacks, R&D compute caps, Thoma Bravo Varonis.
+- Sources: 7; claims added or updated this batch: 57.
+
 ## 2026-10-21 ingest-20261021-b30
 
 - Batch 30: Altman AI endgames, Apple touchscreen, Sonia Joseph physical AI, Arora fund, CoreWeave debt, Firmus neocloud, Meta-Apple Muse, Netflix earnings.

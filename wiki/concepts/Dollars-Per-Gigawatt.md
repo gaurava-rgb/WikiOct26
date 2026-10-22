@@ -6,7 +6,7 @@ created: 2026-09-29
 updated: 2026-10-21
 tags:
   - concept
-source_count: 9
+source_count: 10
 ---
 
 # Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)
@@ -52,3 +52,7 @@ A way to measure how much of a data center's spending one supplier captures, sta
 ### 2026-10-11 [[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint|The Attractive Economics Behind Anthropic Data Center Sprint]]
 
 - Prediction: The Louisiana campus uses 330 MW of power for 245 MW of usable compute, and bringing it online one month early could earn Anthropic an extra $1.3 billion or more in revenue if used entirely for inference, per investor and analyst estimates. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-9ac3ed07c00d2d0411ca|cite]])
+
+### 2026-10-20 [[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger|SpaceX’s Musk Lauds Its Soaring Cloud Business and Possible Tesla Merger]]
+
+- SpaceX CFO Bret Johnsen reported that strong cloud compute pricing allows SpaceX to recoup capital on new data center deployments in less than one year. ([[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger#^clm-773b289664fbb0bd82ad|cite]])

@@ -7,7 +7,7 @@ updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 414
+claim_count: 423
 ---
 
 # OpenAI
@@ -687,6 +687,21 @@ AI lab behind ChatGPT, the o1 reasoning models, and Codex.
 
 - CoreWeave secured its foundational Blackstone financing after landing a multibillion-dollar contract from Microsoft, which lacked sufficient GPUs after ChatGPT launched. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-3dd4e9d91ec418f6e856|cite]])
 - CoreWeave generated $5.1 billion in revenue in 2025 across cloud computing agreements with Microsoft, Meta, and OpenAI. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-24b2e9e879752e23466f|cite]])
+
+### 2026-10-20 [[2026-10-20-OpenAIs-Pacing-2-0-Problem|OpenAI’s ‘Pacing 2.0’ Problem: How Smart Is Too Smart?]]
+
+- Sam Altman introduced the concept of pacing 2.0 internally at OpenAI to describe future constraints on recursive self-improvement. ([[2026-10-20-OpenAIs-Pacing-2-0-Problem#^clm-7d830956fd46a6700598|cite]])
+- OpenAI defines pacing 1.0 as the ongoing practice of shipping frontier models that clear baseline safety evaluations while disclosing known risks. ([[2026-10-20-OpenAIs-Pacing-2-0-Problem#^clm-4be8a568cd4a00592b0a|cite]])
+- Pacing 2.0 requires establishing objective thresholds or speed limits to determine when OpenAI should halt development or deployment of recursive self-improving AI. ([[2026-10-20-OpenAIs-Pacing-2-0-Problem#^clm-bfcfde13ab0e1687a023|cite]])
+- Altman stated OpenAI cannot yield ground to rivals in the short term, but must commit to a long-term pacing policy within twelve months. ([[2026-10-20-OpenAIs-Pacing-2-0-Problem#^clm-c242c69c41c07c90e0cd|cite]])
+
+### 2026-10-21 [[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD|OpenAI, Anthropic Should Cap Compute for R&D, Say AI Safety Advocates]]
+
+- Safety advocates are pushing AI laboratories to impose binding caps on compute allocated to research and development to slow capability progress. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-ad4790784e595130470f|cite]])
+- The AI Futures Project published a policy proposal titled How to Pace The US Frontier, advocating input-based compute rationing on frontier developers. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-764a707aefe27f27661f|cite]])
+- The AI Futures Project framework proposes allocating 70 percent of lab compute to commercial inference, 25 percent to safety and alignment, and restricting R&D compute to 5 percent. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-7c2372088ce5b8e457e0|cite]])
+- Advocates argue compute allocation caps are superior to capability benchmarks because hardware compute distribution is verifiable and resistant to manipulation. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-d633c3da37bece49f54a|cite]])
+- OpenAI redirected roughly 10 percent of its total computing power toward alignment and safety monitoring in late 2026 following internal agent security incidents. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-86eeb070528e8e502121|cite]])
 
 ## Related concepts
 

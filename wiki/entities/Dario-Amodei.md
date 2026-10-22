@@ -7,7 +7,7 @@ updated: 2026-10-21
 tags:
   - entity
   - entity/person
-claim_count: 9
+claim_count: 10
 ---
 
 # Dario Amodei
@@ -45,6 +45,10 @@ CEO and cofounder of Anthropic.
 ### 2026-10-19 [[2026-10-19-Altman-Describes-Three-Endgames-for-AI|Altman Describes Three Endgames for AI, Including One Where a Single Firm ‘Melts Everyone Else’s GPUs’]]
 
 - Anthropic CEO Dario Amodei argued the United States and China can agree on prohibitions against dangerous uses like bioweapons, while the United States maintains its advanced chip lead. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-457cf7e6141fafedb96f|cite]])
+
+### 2026-10-21 [[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD|OpenAI, Anthropic Should Cap Compute for R&D, Say AI Safety Advocates]]
+
+- Frontier AI labs resist compute restrictions because leadership, including Anthropic CEO Dario Amodei, considers raw compute volume the decisive factor driving AI intelligence gains. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-f3c04d5d14e577138943|cite]])
 
 ## Related concepts
 

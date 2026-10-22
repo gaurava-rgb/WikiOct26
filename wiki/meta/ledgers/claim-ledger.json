@@ -83160,8 +83160,1592 @@
       "concepts": [
         "Aggregation-Theory"
       ]
+    },
+    "clm-7d830956fd46a6700598": {
+      "text": "Sam Altman introduced the concept of pacing 2.0 internally at OpenAI to describe future constraints on recursive self-improvement.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-OpenAIs-Pacing-2-0-Problem.md",
+        "anchor": "^clm-7d830956fd46a6700598"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3564075d0f7ca38fc346",
+          "relation": "supports",
+          "locator": "§ Pacing 1.0 versus Pacing 2.0: “Sam Altman introduced the concept of \"pacing 2.0\" internally at OpenAI.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "OpenAI",
+        "Sam Altman"
+      ],
+      "concepts": []
+    },
+    "clm-4be8a568cd4a00592b0a": {
+      "text": "OpenAI defines pacing 1.0 as the ongoing practice of shipping frontier models that clear baseline safety evaluations while disclosing known risks.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-OpenAIs-Pacing-2-0-Problem.md",
+        "anchor": "^clm-4be8a568cd4a00592b0a"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3564075d0f7ca38fc346",
+          "relation": "supports",
+          "locator": "§ Pacing 1.0 versus Pacing 2.0: “\"Pacing 1.0\" describes the current approach: continuously releasing frontier models”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-bfcfde13ab0e1687a023": {
+      "text": "Pacing 2.0 requires establishing objective thresholds or speed limits to determine when OpenAI should halt development or deployment of recursive self-improving AI.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-OpenAIs-Pacing-2-0-Problem.md",
+        "anchor": "^clm-bfcfde13ab0e1687a023"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3564075d0f7ca38fc346",
+          "relation": "supports",
+          "locator": "§ Pacing 1.0 versus Pacing 2.0: “\"Pacing 2.0\" demands setting formal speed limits on recursive self-improvement”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "OpenAI",
+        "Sam Altman"
+      ],
+      "concepts": []
+    },
+    "clm-c242c69c41c07c90e0cd": {
+      "text": "Altman stated OpenAI cannot yield ground to rivals in the short term, but must commit to a long-term pacing policy within twelve months.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-OpenAIs-Pacing-2-0-Problem.md",
+        "anchor": "^clm-c242c69c41c07c90e0cd"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3564075d0f7ca38fc346",
+          "relation": "supports",
+          "locator": "§ Pacing 1.0 versus Pacing 2.0: “cannot afford to yield competitive ground now, but must decide on its long-term pacing approach within a year.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "OpenAI",
+        "Sam Altman"
+      ],
+      "concepts": []
+    },
+    "clm-830d482823aff82f5a76": {
+      "text": "Anthropic is negotiating a second compute agreement with Nscale valued at roughly $45 billion, building on their prior $45 billion deal for 460 megawatts of Vera Rubin GPUs in West Virginia.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-OpenAIs-Pacing-2-0-Problem.md",
+        "anchor": "^clm-830d482823aff82f5a76"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3564075d0f7ca38fc346",
+          "relation": "supports",
+          "locator": "§ Big compute deals and security incidents: “Anthropic is negotiating a second compute deal with developer Nscale valued at around $45 billion”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Anthropic",
+        "Nscale"
+      ],
+      "concepts": [
+        "AI-Compute-Demand"
+      ]
+    },
+    "clm-cdca9cd2cc52657a55b9": {
+      "text": "A hacker utilized approximately $5,000 in tokens across DeepSeek and Anthropic models to breach more than 100 company websites, according to cybersecurity firm NorForge.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-OpenAIs-Pacing-2-0-Problem.md",
+        "anchor": "^clm-cdca9cd2cc52657a55b9"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3564075d0f7ca38fc346",
+          "relation": "supports",
+          "locator": "§ Big compute deals and security incidents: “Chinese-speaking hacker used DeepSeek and Anthropic models with roughly $5,000 in tokens”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "DeepSeek",
+        "Anthropic"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-a4b03760a5f7082c3b29": {
+      "text": "The United States government sanctioned a Chinese startup and venture capital firm linked to Linwei Ding, a former Google engineer convicted of stealing proprietary AI trade secrets.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-OpenAIs-Pacing-2-0-Problem.md",
+        "anchor": "^clm-a4b03760a5f7082c3b29"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3564075d0f7ca38fc346",
+          "relation": "supports",
+          "locator": "§ Big compute deals and security incidents: “sanctioned a Chinese startup and venture capital firm tied to Linwei Ding”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "Google"
+      ],
+      "concepts": [
+        "Export-Controls"
+      ]
+    },
+    "clm-88e60bccede37a096514": {
+      "text": "AI processor developer Tenstorrent raised $1.5 billion in Series E funding at a $6.2 billion valuation, led by Trace Capital and Innovation X.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-OpenAIs-Pacing-2-0-Problem.md",
+        "anchor": "^clm-88e60bccede37a096514"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3564075d0f7ca38fc346",
+          "relation": "supports",
+          "locator": "§ Big compute deals and security incidents: “Tenstorrent raised $1.5 billion in Series E funding at a $6.2 billion valuation”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Tenstorrent"
+      ],
+      "concepts": [
+        "Custom-Silicon"
+      ]
+    },
+    "clm-e04b0bfb3d7a86321ae0": {
+      "text": "Robotics startup Eka Robotics raised $150 million in Series A funding at a $1.45 billion valuation led by Andreessen Horowitz and F-Prime.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-OpenAIs-Pacing-2-0-Problem.md",
+        "anchor": "^clm-e04b0bfb3d7a86321ae0"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3564075d0f7ca38fc346",
+          "relation": "supports",
+          "locator": "§ Big compute deals and security incidents: “Robotic grasping startup Eka Robotics raised $150 million Series A at a $1.45 billion post-money valuation”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Andreessen Horowitz"
+      ],
+      "concepts": []
+    },
+    "clm-1ff06977cad3aa14dfe7": {
+      "text": "Private equity groups explored a potential acquisition of Microsoft's Xbox division that would have valued the business at $100 billion to $150 billion.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Private-Equity-Firms-Weighed-Buyout-of-Microsofts-Xbox.md",
+        "anchor": "^clm-1ff06977cad3aa14dfe7"
+      },
+      "evidence": [
+        {
+          "source_id": "src-094df60ce36121de2e38",
+          "relation": "supports",
+          "locator": "§ The buyout deliberations and Microsoft's stance: “Private equity firms recently explored a buyout of Microsoft's Xbox gaming unit that could have valued it between $100 billion and $150 billion.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "Microsoft",
+        "Xbox"
+      ],
+      "concepts": []
+    },
+    "clm-0012cbb3c904bdee17ca": {
+      "text": "Microsoft responded to buyout interest by declaring that Xbox is not for sale.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Private-Equity-Firms-Weighed-Buyout-of-Microsofts-Xbox.md",
+        "anchor": "^clm-0012cbb3c904bdee17ca"
+      },
+      "evidence": [
+        {
+          "source_id": "src-094df60ce36121de2e38",
+          "relation": "supports",
+          "locator": "§ The buyout deliberations and Microsoft's stance: “A Microsoft spokesperson stated that Xbox is not for sale.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "Microsoft",
+        "Xbox"
+      ],
+      "concepts": []
+    },
+    "clm-5bcc903c9567bd119498": {
+      "text": "Silver Lake, Saudi Arabia's Public Investment Fund, and Affinity Partners completed a $55 billion leveraged buyout of Electronic Arts in early 2026, valuing the gaming publisher at roughly seven times annual revenue.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Private-Equity-Firms-Weighed-Buyout-of-Microsofts-Xbox.md",
+        "anchor": "^clm-5bcc903c9567bd119498"
+      },
+      "evidence": [
+        {
+          "source_id": "src-094df60ce36121de2e38",
+          "relation": "supports",
+          "locator": "§ The buyout deliberations and Microsoft's stance: “Electronic Arts, which was taken private earlier in 2026 by Silver Lake, Saudi Arabia's Public Investment Fund, and Affinity Partners in a $55 billion leveraged buyout”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [
+        "Xbox"
+      ],
+      "concepts": []
+    },
+    "clm-db4b14b634812c1cd7ca": {
+      "text": "Microsoft's Xbox unit employs approximately 14,000 workers and includes Activision Blizzard, which Microsoft bought for $75 billion in 2023.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Private-Equity-Firms-Weighed-Buyout-of-Microsofts-Xbox.md",
+        "anchor": "^clm-db4b14b634812c1cd7ca"
+      },
+      "evidence": [
+        {
+          "source_id": "src-094df60ce36121de2e38",
+          "relation": "supports",
+          "locator": "§ Xbox's financial headwinds and restructuring: “The Xbox division, which includes Activision Blizzard (purchased for $75 billion in 2023) and employs about 14,000 workers”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "Microsoft",
+        "Xbox"
+      ],
+      "concepts": []
+    },
+    "clm-1b7301a2ac81c3377472": {
+      "text": "Xbox annual revenue fell 7 percent to $21.8 billion in the fiscal year ending June 2026, with its adjusted profit margin dropping to 3 percent.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Private-Equity-Firms-Weighed-Buyout-of-Microsofts-Xbox.md",
+        "anchor": "^clm-1b7301a2ac81c3377472"
+      },
+      "evidence": [
+        {
+          "source_id": "src-094df60ce36121de2e38",
+          "relation": "supports",
+          "locator": "§ Xbox's financial headwinds and restructuring: “Revenue dropped 7 percent in the fiscal year ending June 2026 to $21.8 billion, while its adjusted accountability profit margin slumped to just 3 percent.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-06",
+      "subjects": [
+        "Xbox",
+        "Microsoft"
+      ],
+      "concepts": []
+    },
+    "clm-1eb4284f69b8545b1869": {
+      "text": "Xbox CEO Asha Sharma implemented a restructuring plan in July 2026 to eliminate 3,200 jobs, or roughly 20 percent of staff, to prioritize core game franchises.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Private-Equity-Firms-Weighed-Buyout-of-Microsofts-Xbox.md",
+        "anchor": "^clm-1eb4284f69b8545b1869"
+      },
+      "evidence": [
+        {
+          "source_id": "src-094df60ce36121de2e38",
+          "relation": "supports",
+          "locator": "§ Xbox's financial headwinds and restructuring: “Xbox CEO Asha Sharma, who took charge in February 2026, launched a plan in July to lay off 3,200 staff”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-07",
+      "subjects": [
+        "Xbox",
+        "Asha Sharma",
+        "Microsoft"
+      ],
+      "concepts": []
+    },
+    "clm-446d5dbf60bb57eccc59": {
+      "text": "Xbox accounts for approximately 7 percent of Microsoft's corporate revenue as Microsoft prioritizes massive capital expenditure in AI infrastructure.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Private-Equity-Firms-Weighed-Buyout-of-Microsofts-Xbox.md",
+        "anchor": "^clm-446d5dbf60bb57eccc59"
+      },
+      "evidence": [
+        {
+          "source_id": "src-094df60ce36121de2e38",
+          "relation": "supports",
+          "locator": "§ Xbox's financial headwinds and restructuring: “Xbox represents only about 7 percent of Microsoft's revenue, while Microsoft directs immense capital expenditure into AI data centers”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "Microsoft",
+        "Xbox"
+      ],
+      "concepts": [
+        "Capex-vs-Opex"
+      ]
+    },
+    "clm-332449dcf2af3330b3b0": {
+      "text": "AI hardware demand has inflated gaming console component costs, leading Xbox to internally forecast that its planned 2028 console could cost between $1,200 and $1,800.",
+      "assessment": "provisional",
+      "confidence": "medium",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Private-Equity-Firms-Weighed-Buyout-of-Microsofts-Xbox.md",
+        "anchor": "^clm-332449dcf2af3330b3b0"
+      },
+      "evidence": [
+        {
+          "source_id": "src-094df60ce36121de2e38",
+          "relation": "supports",
+          "locator": "§ Xbox's financial headwinds and restructuring: “Xbox internally estimated that its next-generation console planned for 2028 could retail between $1,200 and $1,800.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "prediction",
+      "as_of": "2028",
+      "subjects": [
+        "Xbox"
+      ],
+      "concepts": []
+    },
+    "clm-e41d3ec2665415a606f7": {
+      "text": "SpaceX's Superintelligence segment, comprising X, Grok Bot, and cloud infrastructure leasing to clients like Anthropic, expanded rapidly in late 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger.md",
+        "anchor": "^clm-e41d3ec2665415a606f7"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aff8939b29dd79caa843",
+          "relation": "supports",
+          "locator": "§ Superintelligence segment and cloud growth: “SI (superintelligence) division, which encompasses X, Grok Bot, and an external cloud infrastructure unit renting compute to customers including Anthropic.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "SpaceX",
+        "Anthropic",
+        "X"
+      ],
+      "concepts": []
+    },
+    "clm-ed8ec35175e673f6c39c": {
+      "text": "SpaceX's Superintelligence division reached $7.56 billion in third-quarter 2026 revenue, nearly tripling year-over-year to become the company's largest business division.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger.md",
+        "anchor": "^clm-ed8ec35175e673f6c39c"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aff8939b29dd79caa843",
+          "relation": "supports",
+          "locator": "§ Superintelligence segment and cloud growth: “SI segment revenue nearly tripled in the third quarter to $7.56 billion, becoming SpaceX's single largest business line.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-Q3",
+      "subjects": [
+        "SpaceX"
+      ],
+      "concepts": [
+        "AI-Compute-Demand"
+      ]
+    },
+    "clm-fcb7d51e332a355c9971": {
+      "text": "SpaceX's Superintelligence unit earned an operating profit of $431 million in the third quarter of 2026, recovering from a $1.26 billion loss in the previous quarter.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger.md",
+        "anchor": "^clm-fcb7d51e332a355c9971"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aff8939b29dd79caa843",
+          "relation": "supports",
+          "locator": "§ Superintelligence segment and cloud growth: “SI unit achieved an operating profit of $431 million, swinging from an operating loss of $1.26 billion in the second quarter.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-Q3",
+      "subjects": [
+        "SpaceX"
+      ],
+      "concepts": []
+    },
+    "clm-624a9cb9ea0437066a74": {
+      "text": "Elon Musk stated hyperscalers and startups are relentlessly seeking to rent SpaceX compute capacity, allowing the company to sell out its capacity several times over.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger.md",
+        "anchor": "^clm-624a9cb9ea0437066a74"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aff8939b29dd79caa843",
+          "relation": "supports",
+          "locator": "§ Superintelligence segment and cloud growth: “company is overwhelmed by compute requests from hyperscalers and smaller firms, noting SpaceX could rent out its capacity several times over.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "SpaceX",
+        "Elon Musk"
+      ],
+      "concepts": [
+        "AI-Compute-Demand"
+      ]
+    },
+    "clm-773b289664fbb0bd82ad": {
+      "text": "SpaceX CFO Bret Johnsen reported that strong cloud compute pricing allows SpaceX to recoup capital on new data center deployments in less than one year.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger.md",
+        "anchor": "^clm-773b289664fbb0bd82ad"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aff8939b29dd79caa843",
+          "relation": "supports",
+          "locator": "§ Superintelligence segment and cloud growth: “current pricing yields a payback period of less than one year on new data center deployments.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-Q3",
+      "subjects": [
+        "SpaceX"
+      ],
+      "concepts": [
+        "Dollars-Per-Gigawatt"
+      ]
+    },
+    "clm-3680dad596e0033e9320": {
+      "text": "Tesla and SpaceX formed independent board committees to evaluate a potential merger, with Elon Musk recusing himself from formal deliberations as CEO of both companies.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger.md",
+        "anchor": "^clm-3680dad596e0033e9320"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aff8939b29dd79caa843",
+          "relation": "supports",
+          "locator": "§ Tesla merger deliberations and other corporate news: “special board committees have formed to examine a potential merger, though he recused himself as CEO of both entities.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "SpaceX",
+        "Tesla",
+        "Elon Musk"
+      ],
+      "concepts": []
+    },
+    "clm-a207660879059b09ad5c": {
+      "text": "Anthropic's draft IPO prospectus disclosed first-half 2026 revenue of $16.3 billion and an accounting net loss exceeding $80 billion related to financing contracts.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger.md",
+        "anchor": "^clm-a207660879059b09ad5c"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aff8939b29dd79caa843",
+          "relation": "supports",
+          "locator": "§ Tesla merger deliberations and other corporate news: “Anthropic reported a net loss of more than $80 billion for the first half of 2026, largely stemming from accounting for financing deals, on revenue of $16.3 billion”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-H1",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-7f62edd509e4ac38f13b": {
+      "text": "Salesforce agreed to purchase customer marketing software company Braze for roughly $5.66 billion including debt in October 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger.md",
+        "anchor": "^clm-7f62edd509e4ac38f13b"
+      },
+      "evidence": [
+        {
+          "source_id": "src-aff8939b29dd79caa843",
+          "relation": "supports",
+          "locator": "§ Tesla merger deliberations and other corporate news: “Salesforce agreed to acquire customer engagement platform Braze for approximately $5.66 billion including debt.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Salesforce"
+      ],
+      "concepts": []
+    },
+    "clm-b75317f32039e57cbfaf": {
+      "text": "Cybersecurity firm Straiker found that Latin American hacking group CyberCartel automated financial sector cyberattacks using off-the-shelf commercial AI models instead of restricted frontier systems like Mythos.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work.md",
+        "anchor": "^clm-b75317f32039e57cbfaf"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ccdc3cb261514b36b14e",
+          "relation": "supports",
+          "locator": "§ Harnessing multiple models for cyberattacks: “Straiker revealed that Latin American hacking collective CyberCartel orchestrated automated cyberattacks against financial institutions”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "CyberCartel",
+        "Anthropic"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-269cafa76209668359e5": {
+      "text": "CyberCartel developed an orchestration harness combining Anthropic's Claude Opus and Sonnet models with xAI's Grok and Moonshot AI's Kimi.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work.md",
+        "anchor": "^clm-269cafa76209668359e5"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ccdc3cb261514b36b14e",
+          "relation": "supports",
+          "locator": "§ Harnessing multiple models for cyberattacks: “deployed an agent orchestration harness that combined Anthropic's Claude Opus and Sonnet models alongside xAI's Grok and Moonshot's Kimi.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "CyberCartel",
+        "Anthropic",
+        "xAI",
+        "Moonshot AI"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-adbeb315ef0b9fb7dbf2": {
+      "text": "The hacking harness assigned Grok agents to harvest public intelligence and reconnaissance while Claude agents planned and coordinated attack steps.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work.md",
+        "anchor": "^clm-adbeb315ef0b9fb7dbf2"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ccdc3cb261514b36b14e",
+          "relation": "supports",
+          "locator": "§ Harnessing multiple models for cyberattacks: “Grok agents were dispatched to scan targets on the web and harvest sensitive intelligence, while Claude agents coordinated”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "CyberCartel",
+        "xAI",
+        "Anthropic"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-de897a6c8d7fe18e8021": {
+      "text": "When Claude refused malicious instructions, CyberCartel tricked the model using simulated internal red-teaming prompts or routed commands to Moonshot's Kimi.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work.md",
+        "anchor": "^clm-de897a6c8d7fe18e8021"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ccdc3cb261514b36b14e",
+          "relation": "supports",
+          "locator": "§ Harnessing multiple models for cyberattacks: “harness bypassed safety refusals using deceptive red-teaming prompts or routed tasks to Moonshot's Kimi.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "CyberCartel",
+        "Anthropic",
+        "Moonshot AI"
+      ],
+      "concepts": []
+    },
+    "clm-c0490f5e0fcb346f2822": {
+      "text": "Security specialist Ken Huang observed that cyberattack potency now resides in orchestration software harnesses rather than single frontier models, enabling attackers to swap models dynamically.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work.md",
+        "anchor": "^clm-c0490f5e0fcb346f2822"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ccdc3cb261514b36b14e",
+          "relation": "supports",
+          "locator": "§ Harnessing multiple models for cyberattacks: “Security researcher Ken Huang noted that attack capability now centers on software harnesses rather than individual models”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "CyberCartel"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-3b8f3871bbd5658767e4": {
+      "text": "Multi-model attack harnesses resemble corporate strategies adopted by enterprises like AT&T, which combines open source models with commercial APIs to lower spending on premium frontier models.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work.md",
+        "anchor": "^clm-3b8f3871bbd5658767e4"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ccdc3cb261514b36b14e",
+          "relation": "supports",
+          "locator": "§ Corporate defense parallels and pricing implications: “mirrors cost-reduction strategies used by enterprises like AT&T, which blends open-source models with commercial APIs”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "AT&T",
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-ba45dc81bb1631e203b2": {
+      "text": "Cybersecurity providers including Microsoft and Palo Alto Networks have introduced multi-model defensive systems to match attacker tooling while containing client compute costs.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work.md",
+        "anchor": "^clm-ba45dc81bb1631e203b2"
+      },
+      "evidence": [
+        {
+          "source_id": "src-ccdc3cb261514b36b14e",
+          "relation": "supports",
+          "locator": "§ Corporate defense parallels and pricing implications: “Cybersecurity vendors including Microsoft and Palo Alto Networks are offering multi-model defenses”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "Microsoft",
+        "Palo Alto Networks"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-c6baca8dac82ae1cefa6": {
+      "text": "Cybercriminal group CyberCartel launched automated attacks against more than 400 Latin American banks and financial apps using multi-agent AI systems.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Hackers-Used-Claude-and-Grok-to-Automate-Bank-Attacks.md",
+        "anchor": "^clm-c6baca8dac82ae1cefa6"
+      },
+      "evidence": [
+        {
+          "source_id": "src-35e127dd7a15c5e5eb98",
+          "relation": "supports",
+          "locator": "§ CyberCartel's automated campaign across Latin America: “CyberCartel deployed a network of AI agents to execute automated attacks against more than 400 Latin American financial institutions”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "CyberCartel",
+        "Anthropic"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-165bf5bdce433c376d01": {
+      "text": "The autonomous AI agents exfiltrated customer records, compromised credentials, and gained access to bank accounts with minimal manual human input.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Hackers-Used-Claude-and-Grok-to-Automate-Bank-Attacks.md",
+        "anchor": "^clm-165bf5bdce433c376d01"
+      },
+      "evidence": [
+        {
+          "source_id": "src-35e127dd7a15c5e5eb98",
+          "relation": "supports",
+          "locator": "§ CyberCartel's automated campaign across Latin America: “agents stole login credentials, harvested customer records, and autonomously accessed bank accounts with minimal human intervention.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "CyberCartel"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-2056dcb96bec46d1c7b3": {
+      "text": "The CyberCartel campaign represents one of the first confirmed real-world operations where commercial AI models were chained to execute end-to-end attacks on financial firms.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Hackers-Used-Claude-and-Grok-to-Automate-Bank-Attacks.md",
+        "anchor": "^clm-2056dcb96bec46d1c7b3"
+      },
+      "evidence": [
+        {
+          "source_id": "src-35e127dd7a15c5e5eb98",
+          "relation": "supports",
+          "locator": "§ CyberCartel's automated campaign across Latin America: “one of the first documented cases of AI models being chained together to execute end-to-end attacks on financial entities.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "CyberCartel",
+        "Anthropic"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-b3bb1976ced2c2aaec97": {
+      "text": "Straiker CEO Ankur Shah stated offensive AI capabilities currently hold a clear advantage over enterprise defenses, leaving institutions vulnerable to automated attacks.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Hackers-Used-Claude-and-Grok-to-Automate-Bank-Attacks.md",
+        "anchor": "^clm-b3bb1976ced2c2aaec97"
+      },
+      "evidence": [
+        {
+          "source_id": "src-35e127dd7a15c5e5eb98",
+          "relation": "supports",
+          "locator": "§ CyberCartel's automated campaign across Latin America: “Straiker chief executive Ankur Shah warned that offensive AI capabilities currently outpace enterprise defenses”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "CyberCartel"
+      ],
+      "concepts": []
+    },
+    "clm-7713a6d48250ce700d65": {
+      "text": "CyberCartel's attack structure deployed four Claude Opus and Sonnet agents for strategic planning while using a Claude agent running within coding tool Cursor as the lead attack commander.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Hackers-Used-Claude-and-Grok-to-Automate-Bank-Attacks.md",
+        "anchor": "^clm-7713a6d48250ce700d65"
+      },
+      "evidence": [
+        {
+          "source_id": "src-35e127dd7a15c5e5eb98",
+          "relation": "supports",
+          "locator": "§ The multi-agent architecture and guardrail evasion: “four Claude Opus and Sonnet agents to deliberate on attack strategies, and a Claude instance embedded in coding tool Cursor as the lead orchestrator.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "CyberCartel",
+        "Anthropic",
+        "Cursor"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-08369f55d3f333872b04": {
+      "text": "The attackers bypassed commercial AI model safety guardrails by instructing models that they were performing academic security evaluations or internal red-teaming.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Hackers-Used-Claude-and-Grok-to-Automate-Bank-Attacks.md",
+        "anchor": "^clm-08369f55d3f333872b04"
+      },
+      "evidence": [
+        {
+          "source_id": "src-35e127dd7a15c5e5eb98",
+          "relation": "supports",
+          "locator": "§ The multi-agent architecture and guardrail evasion: “bypassed safety filters by framing commands as academic research or benign internal red-team evaluations.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "CyberCartel",
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-ef5e029ca83ca9fcbe11": {
+      "text": "When Claude models declined malicious actions, the system automatically routed execution to Moonshot AI's Kimi or defaulted to traditional malware deployment.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Hackers-Used-Claude-and-Grok-to-Automate-Bank-Attacks.md",
+        "anchor": "^clm-ef5e029ca83ca9fcbe11"
+      },
+      "evidence": [
+        {
+          "source_id": "src-35e127dd7a15c5e5eb98",
+          "relation": "supports",
+          "locator": "§ The multi-agent architecture and guardrail evasion: “harness passed execution to Moonshot's Kimi; if Kimi also refused, the system reverted to deploying conventional malware.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "CyberCartel",
+        "Moonshot AI",
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-306835fbcd3e9e056294": {
+      "text": "Anthropic launched an investigation and terminated CyberCartel's API access after Straiker notified the company of the hacking campaign.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Hackers-Used-Claude-and-Grok-to-Automate-Bank-Attacks.md",
+        "anchor": "^clm-306835fbcd3e9e056294"
+      },
+      "evidence": [
+        {
+          "source_id": "src-35e127dd7a15c5e5eb98",
+          "relation": "supports",
+          "locator": "§ The multi-agent architecture and guardrail evasion: “Following Straiker's notification, Anthropic investigated and terminated the syndicate's API accounts.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Anthropic",
+        "CyberCartel"
+      ],
+      "concepts": []
+    },
+    "clm-ad4790784e595130470f": {
+      "text": "Safety advocates are pushing AI laboratories to impose binding caps on compute allocated to research and development to slow capability progress.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD.md",
+        "anchor": "^clm-ad4790784e595130470f"
+      },
+      "evidence": [
+        {
+          "source_id": "src-e9c6633c3c04da299e5c",
+          "relation": "supports",
+          "locator": "§ The proposal to cap research compute: “AI safety advocates and researchers are urging leading AI labs to place explicit caps on the proportion of compute dedicated to research and development”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "concepts": [
+        "AI-Compute-Demand"
+      ]
+    },
+    "clm-764a707aefe27f27661f": {
+      "text": "The AI Futures Project published a policy proposal titled How to Pace The US Frontier, advocating input-based compute rationing on frontier developers.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD.md",
+        "anchor": "^clm-764a707aefe27f27661f"
+      },
+      "evidence": [
+        {
+          "source_id": "src-e9c6633c3c04da299e5c",
+          "relation": "supports",
+          "locator": "§ The proposal to cap research compute: “AI Futures Project, an AI forecasting nonprofit, published a framework titled \"How to Pace The US Frontier\"”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-08",
+      "subjects": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-7c2372088ce5b8e457e0": {
+      "text": "The AI Futures Project framework proposes allocating 70 percent of lab compute to commercial inference, 25 percent to safety and alignment, and restricting R&D compute to 5 percent.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD.md",
+        "anchor": "^clm-7c2372088ce5b8e457e0"
+      },
+      "evidence": [
+        {
+          "source_id": "src-e9c6633c3c04da299e5c",
+          "relation": "supports",
+          "locator": "§ The proposal to cap research compute: “suggests allocating 70 percent of compute to customer inference, 25 percent to alignment and safety monitoring, and capping research and development at just 5 percent.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "concepts": [
+        "AI-Compute-Demand"
+      ]
+    },
+    "clm-d633c3da37bece49f54a": {
+      "text": "Advocates argue compute allocation caps are superior to capability benchmarks because hardware compute distribution is verifiable and resistant to manipulation.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD.md",
+        "anchor": "^clm-d633c3da37bece49f54a"
+      },
+      "evidence": [
+        {
+          "source_id": "src-e9c6633c3c04da299e5c",
+          "relation": "supports",
+          "locator": "§ The proposal to cap research compute: “Advocates argue that compute allocation is concrete, verifiable, and difficult to manipulate”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "concepts": [
+        "AI-Compute-Demand"
+      ]
+    },
+    "clm-f3c04d5d14e577138943": {
+      "text": "Frontier AI labs resist compute restrictions because leadership, including Anthropic CEO Dario Amodei, considers raw compute volume the decisive factor driving AI intelligence gains.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD.md",
+        "anchor": "^clm-f3c04d5d14e577138943"
+      },
+      "evidence": [
+        {
+          "source_id": "src-e9c6633c3c04da299e5c",
+          "relation": "supports",
+          "locator": "§ The proposal to cap research compute: “Anthropic CEO Dario Amodei previously identified raw compute as the primary driver of capability gains”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "Anthropic",
+        "Dario Amodei"
+      ],
+      "concepts": [
+        "AI-Compute-Demand"
+      ]
+    },
+    "clm-86eeb070528e8e502121": {
+      "text": "OpenAI redirected roughly 10 percent of its total computing power toward alignment and safety monitoring in late 2026 following internal agent security incidents.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD.md",
+        "anchor": "^clm-86eeb070528e8e502121"
+      },
+      "evidence": [
+        {
+          "source_id": "src-e9c6633c3c04da299e5c",
+          "relation": "supports",
+          "locator": "§ Current lab compute splits and geopolitical challenges: “shifted approximately 10 percent of its total compute capacity toward alignment and safety tasks”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": [
+        "AI-Compute-Demand"
+      ]
+    },
+    "clm-bdc3ea3514f117cfb1ea": {
+      "text": "Anthropic dedicated approximately 6 percent of its AI research compute to safety work as of July 2026, alongside an equivalent share dedicated to safeguard systems.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD.md",
+        "anchor": "^clm-bdc3ea3514f117cfb1ea"
+      },
+      "evidence": [
+        {
+          "source_id": "src-e9c6633c3c04da299e5c",
+          "relation": "supports",
+          "locator": "§ Current lab compute splits and geopolitical challenges: “Anthropic allocated about 6 percent of its AI R&D compute to safety research, with a comparable share devoted to safeguards”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-07",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": [
+        "AI-Compute-Demand"
+      ]
+    },
+    "clm-4d03a17a152fcbbda616": {
+      "text": "Anthropic's draft registration statement indicated the company could commit up to $750 billion toward compute infrastructure over the coming years.",
+      "assessment": "provisional",
+      "confidence": "medium",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD.md",
+        "anchor": "^clm-4d03a17a152fcbbda616"
+      },
+      "evidence": [
+        {
+          "source_id": "src-e9c6633c3c04da299e5c",
+          "relation": "supports",
+          "locator": "§ Current lab compute splits and geopolitical challenges: “indicated it could spend up to $750 billion on computing over the next several years”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "prediction",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": [
+        "AI-Compute-Demand"
+      ]
+    },
+    "clm-3c29331bb81c63e900ca": {
+      "text": "SpaceX reported overall third-quarter 2026 revenue of $14.6 billion, including $7.5 billion from its Super Intelligence business spanning Cursor, Grok Bot, and cloud compute.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD.md",
+        "anchor": "^clm-3c29331bb81c63e900ca"
+      },
+      "evidence": [
+        {
+          "source_id": "src-e9c6633c3c04da299e5c",
+          "relation": "supports",
+          "locator": "§ Current lab compute splits and geopolitical challenges: “SpaceX reported third-quarter revenue of $14.6 billion, with $7.5 billion from its Super Intelligence division”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-Q3",
+      "subjects": [
+        "SpaceX",
+        "Cursor"
+      ],
+      "concepts": []
+    },
+    "clm-dbd03c37472115310788": {
+      "text": "Former AWS enterprise sales chief Mike Clayville returned to Amazon as vice president in October 2026 after six years leading sales at Stripe.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD.md",
+        "anchor": "^clm-dbd03c37472115310788"
+      },
+      "evidence": [
+        {
+          "source_id": "src-e9c6633c3c04da299e5c",
+          "relation": "supports",
+          "locator": "§ Current lab compute splits and geopolitical challenges: “AWS enterprise sales leader Mike Clayville rejoined Amazon as vice president after six years at Stripe.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Amazon",
+        "AWS",
+        "Stripe"
+      ],
+      "concepts": []
+    },
+    "clm-2eecfedfff26523ae695": {
+      "text": "Thoma Bravo portfolio company Proofpoint agreed to acquire data security software provider Varonis Systems for $6.3 billion.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-How-Thoma-Bravo-Found-Discount-in-Cybersecurity-Market.md",
+        "anchor": "^clm-2eecfedfff26523ae695"
+      },
+      "evidence": [
+        {
+          "source_id": "src-461812b1dff5df841c45",
+          "relation": "supports",
+          "locator": "§ Proofpoint's $6.3 billion acquisition of Varonis: “Proofpoint agreed to acquire data security software provider Varonis Systems for $6.3 billion.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Proofpoint",
+        "Varonis Systems",
+        "Thoma Bravo"
+      ],
+      "concepts": []
+    },
+    "clm-bd7b521874fae26588bc": {
+      "text": "The transaction values Varonis Systems at approximately six times forward annual recurring revenue, reflecting a valuation discount compared to public peers like Qualys at eight times forward ARR.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-How-Thoma-Bravo-Found-Discount-in-Cybersecurity-Market.md",
+        "anchor": "^clm-bd7b521874fae26588bc"
+      },
+      "evidence": [
+        {
+          "source_id": "src-461812b1dff5df841c45",
+          "relation": "supports",
+          "locator": "§ Proofpoint's $6.3 billion acquisition of Varonis: “values Varonis at approximately six times forward annual recurring revenue, representing a discount to peers like Qualys”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Varonis Systems",
+        "Proofpoint"
+      ],
+      "concepts": []
+    },
+    "clm-2403c41130113f521a0e": {
+      "text": "Thoma Bravo acquired Proofpoint for $12.3 billion in 2021, and Proofpoint generates more than $1 billion in annual EBITDA excluding Varonis.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-How-Thoma-Bravo-Found-Discount-in-Cybersecurity-Market.md",
+        "anchor": "^clm-2403c41130113f521a0e"
+      },
+      "evidence": [
+        {
+          "source_id": "src-461812b1dff5df841c45",
+          "relation": "supports",
+          "locator": "§ Proofpoint's $6.3 billion acquisition of Varonis: “Thoma Bravo acquired Proofpoint in 2021 for $12.3 billion; Proofpoint now generates more than $1 billion in EBITDA”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [
+        "Proofpoint",
+        "Thoma Bravo"
+      ],
+      "concepts": []
+    },
+    "clm-0550e07a56609275456d": {
+      "text": "Acquiring Varonis expands Proofpoint into data access governance, securing corporate information accessed by both human employees and autonomous AI agents.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-How-Thoma-Bravo-Found-Discount-in-Cybersecurity-Market.md",
+        "anchor": "^clm-0550e07a56609275456d"
+      },
+      "evidence": [
+        {
+          "source_id": "src-461812b1dff5df841c45",
+          "relation": "supports",
+          "locator": "§ Proofpoint's $6.3 billion acquisition of Varonis: “expands Proofpoint from email and phishing defense to data security governance, controlling access permissions for human workers and autonomous AI agents.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "Proofpoint",
+        "Varonis Systems"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-b9aa6976ec14f7a7326b": {
+      "text": "Cybersecurity mergers and acquisitions reached a quarterly record of 170 transactions across North America and Europe in the third quarter of 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-How-Thoma-Bravo-Found-Discount-in-Cybersecurity-Market.md",
+        "anchor": "^clm-b9aa6976ec14f7a7326b"
+      },
+      "evidence": [
+        {
+          "source_id": "src-461812b1dff5df841c45",
+          "relation": "supports",
+          "locator": "§ M&A surge around agentic cybersecurity: “Cybersecurity mergers and acquisitions reached a record 170 deals across North America and Europe in the third quarter of 2026”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-Q3",
+      "subjects": [
+        "Thoma Bravo"
+      ],
+      "concepts": []
+    },
+    "clm-fc2dfda9333068f1e27e": {
+      "text": "Cybersecurity consolidation included mega-deals in 2025 such as Alphabet's $32 billion acquisition of Wiz and Palo Alto Networks' $25 billion acquisition of CyberArk.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-How-Thoma-Bravo-Found-Discount-in-Cybersecurity-Market.md",
+        "anchor": "^clm-fc2dfda9333068f1e27e"
+      },
+      "evidence": [
+        {
+          "source_id": "src-461812b1dff5df841c45",
+          "relation": "supports",
+          "locator": "§ M&A surge around agentic cybersecurity: “Alphabet's $32 billion acquisition of Wiz and Palo Alto Networks' $25 billion purchase of CyberArk.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2025",
+      "subjects": [
+        "Google",
+        "Wiz",
+        "Palo Alto Networks"
+      ],
+      "concepts": []
+    },
+    "clm-0e14e1aa3f8b2cef7aad": {
+      "text": "Thoma Bravo partner Andrew Almeida stated the private equity firm mandates that cybersecurity acquisition targets produce verifiable revenue from autonomous AI agents rather than solely per-seat pricing.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-How-Thoma-Bravo-Found-Discount-in-Cybersecurity-Market.md",
+        "anchor": "^clm-0e14e1aa3f8b2cef7aad"
+      },
+      "evidence": [
+        {
+          "source_id": "src-461812b1dff5df841c45",
+          "relation": "supports",
+          "locator": "§ M&A surge around agentic cybersecurity: “requires target companies to possess verifiable revenue derived from AI agents, not just an agentic vision”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "Thoma Bravo"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
     }
   },
-  "generated_at": "2026-10-22T01:28:33Z",
+  "generated_at": "2026-10-22T01:34:04Z",
   "schema": "claude-obsidian.claim-ledger.v1"
 }

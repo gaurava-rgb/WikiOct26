@@ -7,7 +7,7 @@ updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 51
+claim_count: 53
 ---
 
 # xAI
@@ -111,6 +111,11 @@ Elon Musk's AI company, a partner in the Terafab chip factory project.
 - Cursor engineers investigated whether internal testing data containing confidential customer, supplier, and partner records was sent to SpaceX's AI unit for model training. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-2adb640a521979010524|cite]])
 - In March 2025, a SpaceXSI employee exposed an internal Grok API key after accidentally uploading a test script to a public GitHub repository. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-8348b6ff93792bea7340|cite]])
 - In summer 2026, researcher discovery of Grok Build uploading entire Git repositories to Google Cloud storage led xAI to disable uploads and open source the tool. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-2b9491f0c34fc99a05a2|cite]])
+
+### 2026-10-21 [[2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work|How Bank Hackers Got Claude to Do Their Dirty Work]]
+
+- CyberCartel developed an orchestration harness combining Anthropic's Claude Opus and Sonnet models with xAI's Grok and Moonshot AI's Kimi. ([[2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work#^clm-269cafa76209668359e5|cite]])
+- The hacking harness assigned Grok agents to harvest public intelligence and reconnaissance while Claude agents planned and coordinated attack steps. ([[2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work#^clm-adbeb315ef0b9fb7dbf2|cite]])
 
 ## Related concepts
 

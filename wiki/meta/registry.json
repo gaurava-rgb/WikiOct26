@@ -534,6 +534,10 @@
       "blurb": "CEO of IBM.",
       "kind": "person"
     },
+    "Asha Sharma": {
+      "blurb": "CEO of Microsoft's Xbox division appointed in February 2026.",
+      "kind": "person"
+    },
     "Associated Press": {
       "blurb": "U.S. news agency.",
       "kind": "company"
@@ -741,6 +745,10 @@
     "Cursor": {
       "blurb": "AI coding startup whose editor and agent harness gather large amounts of code usage data; SpaceX agreed to acquire it in 2026.",
       "kind": "company"
+    },
+    "CyberCartel": {
+      "blurb": "Cybercriminal syndicate that automated cyberattacks on Latin American banks using AI agent harnesses.",
+      "kind": "org"
     },
     "Dan Guido": {
       "blurb": "CEO of Trail of Bits.",
@@ -1570,6 +1578,10 @@
       "blurb": "Amazon's streaming video service, bundled with Prime.",
       "kind": "product"
     },
+    "Proofpoint": {
+      "blurb": "Cybersecurity company owned by Thoma Bravo focusing on email security and data protection.",
+      "kind": "company"
+    },
     "QTS": {
       "blurb": "US data center builder and operator.",
       "kind": "company"
@@ -1842,6 +1854,10 @@
       "blurb": "Chinese tech giant in social media and games that builds its own AI models.",
       "kind": "company"
     },
+    "Tenstorrent": {
+      "blurb": "AI processor designer developing RISC-V and chiplet architectures for machine learning.",
+      "kind": "company"
+    },
     "Terafab": {
       "blurb": "Elon Musk's planned large-scale chip manufacturing effort, led early by SpaceX with Tesla, xAI and Intel as partners.",
       "kind": "product"
@@ -1856,6 +1872,10 @@
     },
     "The Wall Street Journal": {
       "blurb": "US business newspaper owned by Dow Jones.",
+      "kind": "company"
+    },
+    "Thoma Bravo": {
+      "blurb": "Private equity investment firm specializing in software and cybersecurity acquisitions.",
       "kind": "company"
     },
     "Thomas Kurian": {
@@ -1936,6 +1956,10 @@
     },
     "United Airlines": {
       "blurb": "US airline that moved its core systems off legacy mainframes to the cloud.",
+      "kind": "company"
+    },
+    "Varonis Systems": {
+      "blurb": "Data security and insider threat detection software firm acquired by Proofpoint for $6.3 billion.",
       "kind": "company"
     },
     "Verizon": {

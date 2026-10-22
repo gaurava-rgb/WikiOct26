@@ -7,7 +7,7 @@ updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 119
+claim_count: 120
 ---
 
 # AWS
@@ -194,6 +194,10 @@ Amazon Web Services, Amazon's cloud computing business and the largest cloud pro
 
 - Oracle and AWS have also made cuts, including layoffs, despite faster revenue growth, because rising AI data center capital spending hurt their free cash flow. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-a9f9546b460cc79c4f7b|cite]])
 - Azure revenue grew 43% in the June 2026 quarter, while AWS grew 37% that quarter and made nearly $150 billion over the 12 months to June. ([[2026-10-13-Microsoft-Cloud-President-Asks-Leaders-to-Find-20-Cost-Cuts#^clm-e672a838a0f31ca6e99e|cite]])
+
+### 2026-10-21 [[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD|OpenAI, Anthropic Should Cap Compute for R&D, Say AI Safety Advocates]]
+
+- Former AWS enterprise sales chief Mike Clayville returned to Amazon as vice president in October 2026 after six years leading sales at Stripe. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-dbd03c37472115310788|cite]])
 
 ## Related concepts
 

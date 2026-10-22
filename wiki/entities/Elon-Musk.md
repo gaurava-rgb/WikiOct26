@@ -7,7 +7,7 @@ updated: 2026-10-21
 tags:
   - entity
   - entity/person
-claim_count: 29
+claim_count: 31
 ---
 
 # Elon Musk
@@ -83,6 +83,11 @@ CEO of Tesla and SpaceX; bought Twitter in 2022.
 ### 2026-10-19 [[2026-10-19-At-Apple-Pigs-Are-About-to-Fly|At Apple, Pigs Are About to Fly]]
 
 - Prediction: Elon Musk announced a plan to give every American child one share of SpaceX stock in 2027, an endowment potentially worth nearly $11 billion. ([[2026-10-19-At-Apple-Pigs-Are-About-to-Fly#^clm-9317c5bf147192a61689|cite]])
+
+### 2026-10-20 [[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger|SpaceX’s Musk Lauds Its Soaring Cloud Business and Possible Tesla Merger]]
+
+- Elon Musk stated hyperscalers and startups are relentlessly seeking to rent SpaceX compute capacity, allowing the company to sell out its capacity several times over. ([[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger#^clm-624a9cb9ea0437066a74|cite]])
+- Tesla and SpaceX formed independent board committees to evaluate a potential merger, with Elon Musk recusing himself from formal deliberations as CEO of both companies. ([[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger#^clm-3680dad596e0033e9320|cite]])
 
 ## Related concepts
 

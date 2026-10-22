@@ -7,7 +7,7 @@ updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 4
+claim_count: 5
 ---
 
 # Wiz
@@ -25,6 +25,10 @@ Cloud security company acquired by Google.
 ### 2026-10-13 [[2026-10-13-OpenAI-Eyes-Acquisition-That-Could-Boost-Cybersecurity-Business|OpenAI Eyes Acquisition That Could Boost Cybersecurity Business]]
 
 - OpenAI recently hired Dali Rajic, a former executive at Google-owned cloud security unit Wiz, as its chief revenue officer, another sign of its cybersecurity ambitions. ([[2026-10-13-OpenAI-Eyes-Acquisition-That-Could-Boost-Cybersecurity-Business#^clm-f71335275f9968681e64|cite]])
+
+### 2026-10-21 [[2026-10-21-How-Thoma-Bravo-Found-Discount-in-Cybersecurity-Market|How Thoma Bravo Found a Discount in a Hot Cybersecurity Market]]
+
+- Cybersecurity consolidation included mega-deals in 2025 such as Alphabet's $32 billion acquisition of Wiz and Palo Alto Networks' $25 billion acquisition of CyberArk. ([[2026-10-21-How-Thoma-Bravo-Found-Discount-in-Cybersecurity-Market#^clm-fc2dfda9333068f1e27e|cite]])
 
 ## Related concepts
 

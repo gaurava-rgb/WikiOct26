@@ -7,7 +7,7 @@ updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 39
+claim_count: 40
 ---
 
 # DeepSeek
@@ -78,6 +78,10 @@ Chinese AI lab based in Hangzhou that makes cheap, efficient open models such as
 - Unlike Meta's license restrictions, Chinese models DeepSeek-V4.1-Flash and smaller Qwen models carry permissive MIT and Apache open source licenses. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-897bcc23e5c952b1721a|cite]])
 - Thompson argues American open-weight developers suffer a disadvantage against Chinese labs because terms of service prohibit distilling frontier models, forcing US open models to distill distillations. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-25bd6e5de0d9d4be48e6|cite]])
 - The United States Department of Homeland Security issued a directive ordering all federal civilian agencies to eliminate DeepSeek models from their IT environments. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-5dfcbb6dd1708df6a9f9|cite]])
+
+### 2026-10-20 [[2026-10-20-OpenAIs-Pacing-2-0-Problem|OpenAI’s ‘Pacing 2.0’ Problem: How Smart Is Too Smart?]]
+
+- A hacker utilized approximately $5,000 in tokens across DeepSeek and Anthropic models to breach more than 100 company websites, according to cybersecurity firm NorForge. ([[2026-10-20-OpenAIs-Pacing-2-0-Problem#^clm-cdca9cd2cc52657a55b9|cite]])
 
 ## Related concepts
 

@@ -690,6 +690,62 @@
       ],
       "source_id": "src-bf0def9e852e44a0327b"
     },
+    ".raw/captured/2026-10-20 The Information - OpenAIs pacing 2.0 problem (notes).md": {
+      "hash": "4adddfd423046fb46611a06f15210a9d125efd74295e651ed1882d320f049acb",
+      "ingested_at": "2026-10-21",
+      "pages_created": [
+        "wiki/sources/2026-10-20-OpenAIs-Pacing-2-0-Problem.md"
+      ],
+      "source_id": "src-3564075d0f7ca38fc346"
+    },
+    ".raw/captured/2026-10-20 The Information - Private equity firms weighed buyout of Microsofts Xbox (notes).md": {
+      "hash": "9bb5d9cb4a98ad9ae5a92c94338e219076d7bc6d8af76bfa9d587331add26091",
+      "ingested_at": "2026-10-21",
+      "pages_created": [
+        "wiki/sources/2026-10-20-Private-Equity-Firms-Weighed-Buyout-of-Microsofts-Xbox.md"
+      ],
+      "source_id": "src-094df60ce36121de2e38"
+    },
+    ".raw/captured/2026-10-20 The Information - SpaceX Musk lauds cloud business and Tesla merger (notes).md": {
+      "hash": "5fcf32425b6ac7014e4a6d706df0fcdbcb72f4bb5693b4dd6f53c3def785491c",
+      "ingested_at": "2026-10-21",
+      "pages_created": [
+        "wiki/sources/2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger.md"
+      ],
+      "source_id": "src-aff8939b29dd79caa843"
+    },
+    ".raw/captured/2026-10-21 The Information - Hackers used Claude and Grok to automate bank attacks (notes).md": {
+      "hash": "44d2de3ffe7990e3dca6dd0cd2fcfc080ca0c47ac6f73c745df046f54596686f",
+      "ingested_at": "2026-10-21",
+      "pages_created": [
+        "wiki/sources/2026-10-21-Hackers-Used-Claude-and-Grok-to-Automate-Bank-Attacks.md"
+      ],
+      "source_id": "src-35e127dd7a15c5e5eb98"
+    },
+    ".raw/captured/2026-10-21 The Information - How Thoma Bravo found discount in cybersecurity market (notes).md": {
+      "hash": "6b39eecab75e0a4b23399494d561a2fd92fcf5865c2d9cf4801d22cde1bfa431",
+      "ingested_at": "2026-10-21",
+      "pages_created": [
+        "wiki/sources/2026-10-21-How-Thoma-Bravo-Found-Discount-in-Cybersecurity-Market.md"
+      ],
+      "source_id": "src-461812b1dff5df841c45"
+    },
+    ".raw/captured/2026-10-21 The Information - How bank hackers got Claude to do dirty work (notes).md": {
+      "hash": "4a393b89d74f1f18f35e8a6c0643a81f5b855c768fd977587e1a57457396b18a",
+      "ingested_at": "2026-10-21",
+      "pages_created": [
+        "wiki/sources/2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work.md"
+      ],
+      "source_id": "src-ccdc3cb261514b36b14e"
+    },
+    ".raw/captured/2026-10-21 The Information - OpenAI and Anthropic should cap compute for RD (notes).md": {
+      "hash": "3be3916b92ea7584de6c814f2e3d1521a988f88fd3fa514b7a5f93a5a4a348cf",
+      "ingested_at": "2026-10-21",
+      "pages_created": [
+        "wiki/sources/2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD.md"
+      ],
+      "source_id": "src-e9c6633c3c04da299e5c"
+    },
     ".raw/captured/2026.28_ XBOX On the Rocks.md": {
       "hash": "952790fa551289ee6883b864241796a4d483817fa6f376ff40e8fad1aec4a082",
       "ingested_at": "2026-09-29",

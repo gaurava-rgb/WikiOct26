@@ -7,7 +7,7 @@ updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 104
+claim_count: 111
 ---
 
 # SpaceX
@@ -194,6 +194,19 @@ Elon Musk's rocket and satellite company; now owns X and xAI.
 ### 2026-10-19 [[2026-10-19-At-Apple-Pigs-Are-About-to-Fly|At Apple, Pigs Are About to Fly]]
 
 - Prediction: Elon Musk announced a plan to give every American child one share of SpaceX stock in 2027, an endowment potentially worth nearly $11 billion. ([[2026-10-19-At-Apple-Pigs-Are-About-to-Fly#^clm-9317c5bf147192a61689|cite]])
+
+### 2026-10-20 [[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger|SpaceX’s Musk Lauds Its Soaring Cloud Business and Possible Tesla Merger]]
+
+- SpaceX's Superintelligence segment, comprising X, Grok Bot, and cloud infrastructure leasing to clients like Anthropic, expanded rapidly in late 2026. ([[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger#^clm-e41d3ec2665415a606f7|cite]])
+- SpaceX's Superintelligence division reached $7.56 billion in third-quarter 2026 revenue, nearly tripling year-over-year to become the company's largest business division. ([[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger#^clm-ed8ec35175e673f6c39c|cite]])
+- SpaceX's Superintelligence unit earned an operating profit of $431 million in the third quarter of 2026, recovering from a $1.26 billion loss in the previous quarter. ([[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger#^clm-fcb7d51e332a355c9971|cite]])
+- Elon Musk stated hyperscalers and startups are relentlessly seeking to rent SpaceX compute capacity, allowing the company to sell out its capacity several times over. ([[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger#^clm-624a9cb9ea0437066a74|cite]])
+- SpaceX CFO Bret Johnsen reported that strong cloud compute pricing allows SpaceX to recoup capital on new data center deployments in less than one year. ([[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger#^clm-773b289664fbb0bd82ad|cite]])
+- Tesla and SpaceX formed independent board committees to evaluate a potential merger, with Elon Musk recusing himself from formal deliberations as CEO of both companies. ([[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger#^clm-3680dad596e0033e9320|cite]])
+
+### 2026-10-21 [[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD|OpenAI, Anthropic Should Cap Compute for R&D, Say AI Safety Advocates]]
+
+- SpaceX reported overall third-quarter 2026 revenue of $14.6 billion, including $7.5 billion from its Super Intelligence business spanning Cursor, Grok Bot, and cloud compute. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-3c29331bb81c63e900ca|cite]])
 
 ## Related concepts
 

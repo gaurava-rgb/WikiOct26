@@ -7,7 +7,7 @@ updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 9
+claim_count: 10
 ---
 
 # Salesforce
@@ -45,6 +45,10 @@ US maker of customer relationship software (CRM) for businesses; hosts the Dream
 
 - On October 13, 2026 Workday unveiled tools letting customers use AI agents from Anthropic, Microsoft and OpenAI to automate tasks in Workday, similar to Salesforce's SIforce, earlier called AIforce and Headless 360. ([[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off#^clm-e173711615ae09d3702d|cite]])
 - Some employees and investors fear these headless tools turn Workday and Salesforce into dumb infrastructure, basically glorified databases, while their leaders say they will still make plenty of money. ([[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off#^clm-295717aa76ad0220d408|cite]])
+
+### 2026-10-20 [[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger|SpaceX’s Musk Lauds Its Soaring Cloud Business and Possible Tesla Merger]]
+
+- Salesforce agreed to purchase customer marketing software company Braze for roughly $5.66 billion including debt in October 2026. ([[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger#^clm-7f62edd509e4ac38f13b|cite]])
 
 ## Related concepts
 

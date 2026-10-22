@@ -7,7 +7,7 @@ updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 138
+claim_count: 145
 ---
 
 # Microsoft
@@ -309,6 +309,19 @@ US software and cloud company (Windows, Office, Azure, Xbox); a major OpenAI inv
 ### 2026-10-20 [[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO|Nvidia Moves to Back GPU Cloud Provider Firmus After Investors Balk at Its IPO]]
 
 - Nvidia supports neoclouds to defend GPU demand as its biggest cloud customers, including Google, Microsoft, and Amazon, develop in-house server processors. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-6a64e76b682eedf78bbb|cite]])
+
+### 2026-10-20 [[2026-10-20-Private-Equity-Firms-Weighed-Buyout-of-Microsofts-Xbox|Private Equity Firms Weighed $100 Billion-Plus Buyout of Microsoft’s Xbox]]
+
+- Private equity groups explored a potential acquisition of Microsoft's Xbox division that would have valued the business at $100 billion to $150 billion. ([[2026-10-20-Private-Equity-Firms-Weighed-Buyout-of-Microsofts-Xbox#^clm-1ff06977cad3aa14dfe7|cite]])
+- Microsoft responded to buyout interest by declaring that Xbox is not for sale. ([[2026-10-20-Private-Equity-Firms-Weighed-Buyout-of-Microsofts-Xbox#^clm-0012cbb3c904bdee17ca|cite]])
+- Microsoft's Xbox unit employs approximately 14,000 workers and includes Activision Blizzard, which Microsoft bought for $75 billion in 2023. ([[2026-10-20-Private-Equity-Firms-Weighed-Buyout-of-Microsofts-Xbox#^clm-db4b14b634812c1cd7ca|cite]])
+- Xbox annual revenue fell 7 percent to $21.8 billion in the fiscal year ending June 2026, with its adjusted profit margin dropping to 3 percent. ([[2026-10-20-Private-Equity-Firms-Weighed-Buyout-of-Microsofts-Xbox#^clm-1b7301a2ac81c3377472|cite]])
+- Xbox CEO Asha Sharma implemented a restructuring plan in July 2026 to eliminate 3,200 jobs, or roughly 20 percent of staff, to prioritize core game franchises. ([[2026-10-20-Private-Equity-Firms-Weighed-Buyout-of-Microsofts-Xbox#^clm-1eb4284f69b8545b1869|cite]])
+- Xbox accounts for approximately 7 percent of Microsoft's corporate revenue as Microsoft prioritizes massive capital expenditure in AI infrastructure. ([[2026-10-20-Private-Equity-Firms-Weighed-Buyout-of-Microsofts-Xbox#^clm-446d5dbf60bb57eccc59|cite]])
+
+### 2026-10-21 [[2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work|How Bank Hackers Got Claude to Do Their Dirty Work]]
+
+- Cybersecurity providers including Microsoft and Palo Alto Networks have introduced multi-model defensive systems to match attacker tooling while containing client compute costs. ([[2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work#^clm-ba45dc81bb1631e203b2|cite]])
 
 ## Related concepts
 

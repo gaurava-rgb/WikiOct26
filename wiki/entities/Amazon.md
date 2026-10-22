@@ -7,7 +7,7 @@ updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 354
+claim_count: 355
 ---
 
 # Amazon
@@ -465,6 +465,10 @@ US e-commerce, logistics, and cloud company (AWS). Known for long-term, capital-
 ### 2026-10-20 [[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO|Nvidia Moves to Back GPU Cloud Provider Firmus After Investors Balk at Its IPO]]
 
 - Nvidia supports neoclouds to defend GPU demand as its biggest cloud customers, including Google, Microsoft, and Amazon, develop in-house server processors. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-6a64e76b682eedf78bbb|cite]])
+
+### 2026-10-21 [[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD|OpenAI, Anthropic Should Cap Compute for R&D, Say AI Safety Advocates]]
+
+- Former AWS enterprise sales chief Mike Clayville returned to Amazon as vice president in October 2026 after six years leading sales at Stripe. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-dbd03c37472115310788|cite]])
 
 ## Related concepts
 

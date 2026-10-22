@@ -7,7 +7,7 @@ updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 9
+claim_count: 10
 ---
 
 # Andreessen Horowitz
@@ -33,6 +33,10 @@ Venture capital firm (a16z) and Applied Intuition investor.
 ### 2026-10-20 [[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning|How CoreWeave’s Debt Binge Brought a Moment of Reckoning]]
 
 - Ben Horowitz criticized CoreWeave's debt-heavy structure as a Rube Goldberg financial machine, stating Andreessen Horowitz avoided investing in such models. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-59c8144f9535fdf2e694|cite]])
+
+### 2026-10-20 [[2026-10-20-OpenAIs-Pacing-2-0-Problem|OpenAI’s ‘Pacing 2.0’ Problem: How Smart Is Too Smart?]]
+
+- Robotics startup Eka Robotics raised $150 million in Series A funding at a $1.45 billion valuation led by Andreessen Horowitz and F-Prime. ([[2026-10-20-OpenAIs-Pacing-2-0-Problem#^clm-e04b0bfb3d7a86321ae0|cite]])
 
 ## Related concepts
 

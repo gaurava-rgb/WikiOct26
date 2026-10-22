@@ -7,7 +7,7 @@ updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 12
+claim_count: 13
 ---
 
 # Stripe
@@ -36,6 +36,10 @@ Online payments company; co-developed OpenAI's Agentic Commerce Protocol.
 ### 2026-10-07 [[2026-10-07-Where-Nvidias-100-Billion-Dealmaking-Juggernaut-Will-Go-Next|Where Nvidia's $100 Billion Dealmaking Juggernaut Will Go Next]]
 
 - In July 2026 Nvidia was interested in buying AI model marketplace OpenRouter but asked for more time; the founders would not wait and Stripe won with an $8 billion bid, per a person with knowledge. ([[2026-10-07-Where-Nvidias-100-Billion-Dealmaking-Juggernaut-Will-Go-Next#^clm-f6164c5f5b50d1b7bd14|cite]])
+
+### 2026-10-21 [[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD|OpenAI, Anthropic Should Cap Compute for R&D, Say AI Safety Advocates]]
+
+- Former AWS enterprise sales chief Mike Clayville returned to Amazon as vice president in October 2026 after six years leading sales at Stripe. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-dbd03c37472115310788|cite]])
 
 ## Related concepts
 

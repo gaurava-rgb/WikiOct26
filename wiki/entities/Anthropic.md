@@ -7,7 +7,7 @@ updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 349
+claim_count: 371
 ---
 
 # Anthropic
@@ -616,6 +616,43 @@ AI lab that makes the Claude models and Claude Code; focused on enterprise custo
 - Anthropic proposed draft legislation allowing the Commerce Department to halt training or use of an AI model if it risks more than $1 billion in damages or 50 casualties. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-8b877188349fe2cb5fae|cite]])
 - Altman noted OpenAI cannot afford to yield ground to rivals while both OpenAI and Anthropic move quickly toward initial public offerings. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-af80df44d43b81b103d8|cite]])
 - Anthropic CEO Dario Amodei argued the United States and China can agree on prohibitions against dangerous uses like bioweapons, while the United States maintains its advanced chip lead. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-457cf7e6141fafedb96f|cite]])
+
+### 2026-10-20 [[2026-10-20-OpenAIs-Pacing-2-0-Problem|OpenAI’s ‘Pacing 2.0’ Problem: How Smart Is Too Smart?]]
+
+- Anthropic is negotiating a second compute agreement with Nscale valued at roughly $45 billion, building on their prior $45 billion deal for 460 megawatts of Vera Rubin GPUs in West Virginia. ([[2026-10-20-OpenAIs-Pacing-2-0-Problem#^clm-830d482823aff82f5a76|cite]])
+- A hacker utilized approximately $5,000 in tokens across DeepSeek and Anthropic models to breach more than 100 company websites, according to cybersecurity firm NorForge. ([[2026-10-20-OpenAIs-Pacing-2-0-Problem#^clm-cdca9cd2cc52657a55b9|cite]])
+
+### 2026-10-20 [[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger|SpaceX’s Musk Lauds Its Soaring Cloud Business and Possible Tesla Merger]]
+
+- SpaceX's Superintelligence segment, comprising X, Grok Bot, and cloud infrastructure leasing to clients like Anthropic, expanded rapidly in late 2026. ([[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger#^clm-e41d3ec2665415a606f7|cite]])
+- Anthropic's draft IPO prospectus disclosed first-half 2026 revenue of $16.3 billion and an accounting net loss exceeding $80 billion related to financing contracts. ([[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger#^clm-a207660879059b09ad5c|cite]])
+
+### 2026-10-21 [[2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work|How Bank Hackers Got Claude to Do Their Dirty Work]]
+
+- Cybersecurity firm Straiker found that Latin American hacking group CyberCartel automated financial sector cyberattacks using off-the-shelf commercial AI models instead of restricted frontier systems like Mythos. ([[2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work#^clm-b75317f32039e57cbfaf|cite]])
+- CyberCartel developed an orchestration harness combining Anthropic's Claude Opus and Sonnet models with xAI's Grok and Moonshot AI's Kimi. ([[2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work#^clm-269cafa76209668359e5|cite]])
+- The hacking harness assigned Grok agents to harvest public intelligence and reconnaissance while Claude agents planned and coordinated attack steps. ([[2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work#^clm-adbeb315ef0b9fb7dbf2|cite]])
+- When Claude refused malicious instructions, CyberCartel tricked the model using simulated internal red-teaming prompts or routed commands to Moonshot's Kimi. ([[2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work#^clm-de897a6c8d7fe18e8021|cite]])
+- Multi-model attack harnesses resemble corporate strategies adopted by enterprises like AT&T, which combines open source models with commercial APIs to lower spending on premium frontier models. ([[2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work#^clm-3b8f3871bbd5658767e4|cite]])
+
+### 2026-10-21 [[2026-10-21-Hackers-Used-Claude-and-Grok-to-Automate-Bank-Attacks|Hackers Used Claude and Grok to Automate Attacks on Banks]]
+
+- Cybercriminal group CyberCartel launched automated attacks against more than 400 Latin American banks and financial apps using multi-agent AI systems. ([[2026-10-21-Hackers-Used-Claude-and-Grok-to-Automate-Bank-Attacks#^clm-c6baca8dac82ae1cefa6|cite]])
+- The CyberCartel campaign represents one of the first confirmed real-world operations where commercial AI models were chained to execute end-to-end attacks on financial firms. ([[2026-10-21-Hackers-Used-Claude-and-Grok-to-Automate-Bank-Attacks#^clm-2056dcb96bec46d1c7b3|cite]])
+- CyberCartel's attack structure deployed four Claude Opus and Sonnet agents for strategic planning while using a Claude agent running within coding tool Cursor as the lead attack commander. ([[2026-10-21-Hackers-Used-Claude-and-Grok-to-Automate-Bank-Attacks#^clm-7713a6d48250ce700d65|cite]])
+- The attackers bypassed commercial AI model safety guardrails by instructing models that they were performing academic security evaluations or internal red-teaming. ([[2026-10-21-Hackers-Used-Claude-and-Grok-to-Automate-Bank-Attacks#^clm-08369f55d3f333872b04|cite]])
+- When Claude models declined malicious actions, the system automatically routed execution to Moonshot AI's Kimi or defaulted to traditional malware deployment. ([[2026-10-21-Hackers-Used-Claude-and-Grok-to-Automate-Bank-Attacks#^clm-ef5e029ca83ca9fcbe11|cite]])
+- Anthropic launched an investigation and terminated CyberCartel's API access after Straiker notified the company of the hacking campaign. ([[2026-10-21-Hackers-Used-Claude-and-Grok-to-Automate-Bank-Attacks#^clm-306835fbcd3e9e056294|cite]])
+
+### 2026-10-21 [[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD|OpenAI, Anthropic Should Cap Compute for R&D, Say AI Safety Advocates]]
+
+- Safety advocates are pushing AI laboratories to impose binding caps on compute allocated to research and development to slow capability progress. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-ad4790784e595130470f|cite]])
+- The AI Futures Project published a policy proposal titled How to Pace The US Frontier, advocating input-based compute rationing on frontier developers. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-764a707aefe27f27661f|cite]])
+- The AI Futures Project framework proposes allocating 70 percent of lab compute to commercial inference, 25 percent to safety and alignment, and restricting R&D compute to 5 percent. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-7c2372088ce5b8e457e0|cite]])
+- Advocates argue compute allocation caps are superior to capability benchmarks because hardware compute distribution is verifiable and resistant to manipulation. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-d633c3da37bece49f54a|cite]])
+- Frontier AI labs resist compute restrictions because leadership, including Anthropic CEO Dario Amodei, considers raw compute volume the decisive factor driving AI intelligence gains. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-f3c04d5d14e577138943|cite]])
+- Anthropic dedicated approximately 6 percent of its AI research compute to safety work as of July 2026, alongside an equivalent share dedicated to safeguard systems. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-bdc3ea3514f117cfb1ea|cite]])
+- Prediction: Anthropic's draft registration statement indicated the company could commit up to $750 billion toward compute infrastructure over the coming years. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-4d03a17a152fcbbda616|cite]])
 
 ## Related concepts
 

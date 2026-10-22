@@ -7,7 +7,7 @@ updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 10
+claim_count: 13
 ---
 
 # Moonshot AI
@@ -44,6 +44,15 @@ Chinese AI startup that makes the Kimi open weight models, including Kimi K3.
 
 - Goodfire found that open frontier models it studied, including Kimi K3, a big Qwen and a big GLM, hold a fairly coherent internal representation of cheating on a test, which it turned into a very cheap-to-run monitor. ([[2026-10-12-Researchers-Need-to-Learn-How-AI-Makes-Decisions-Says-Goodfires-Tom-McGrath#^clm-06452971368cd694cde3|cite]])
 
+### 2026-10-21 [[2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work|How Bank Hackers Got Claude to Do Their Dirty Work]]
+
+- CyberCartel developed an orchestration harness combining Anthropic's Claude Opus and Sonnet models with xAI's Grok and Moonshot AI's Kimi. ([[2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work#^clm-269cafa76209668359e5|cite]])
+- When Claude refused malicious instructions, CyberCartel tricked the model using simulated internal red-teaming prompts or routed commands to Moonshot's Kimi. ([[2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work#^clm-de897a6c8d7fe18e8021|cite]])
+
+### 2026-10-21 [[2026-10-21-Hackers-Used-Claude-and-Grok-to-Automate-Bank-Attacks|Hackers Used Claude and Grok to Automate Attacks on Banks]]
+
+- When Claude models declined malicious actions, the system automatically routed execution to Moonshot AI's Kimi or defaulted to traditional malware deployment. ([[2026-10-21-Hackers-Used-Claude-and-Grok-to-Automate-Bank-Attacks#^clm-ef5e029ca83ca9fcbe11|cite]])
+
 ## Related concepts
 
-[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Mechanistic-Interpretability|Mechanistic Interpretability]], [[Open-Weight-Models|Open-Weight Models]], [[Price-Umbrella|Price Umbrella (Price Overhang)]], [[Reward-Hacking|Reward Hacking]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Mechanistic-Interpretability|Mechanistic Interpretability]], [[Open-Weight-Models|Open-Weight Models]], [[Price-Umbrella|Price Umbrella (Price Overhang)]], [[Reward-Hacking|Reward Hacking]]

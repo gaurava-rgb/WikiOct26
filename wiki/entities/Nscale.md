@@ -7,7 +7,7 @@ updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 9
+claim_count: 10
 ---
 
 # Nscale
@@ -46,6 +46,10 @@ UK-based neocloud that rents out GPU capacity.
 - CoreWeave primarily leases data center facilities, whereas builder clouds like Nebius, IREN, and Nscale risk stalled construction if financing dries up. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-a79d412686eda8e1396a|cite]])
 - CoreWeave CEO Michael Intrator criticized rivals Firmus, Lambda, and Nscale for seeking massive capital without the execution, scale, or software solutions of CoreWeave. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-4acc526be5a41f8987d3|cite]])
 
+### 2026-10-20 [[2026-10-20-OpenAIs-Pacing-2-0-Problem|OpenAI’s ‘Pacing 2.0’ Problem: How Smart Is Too Smart?]]
+
+- Anthropic is negotiating a second compute agreement with Nscale valued at roughly $45 billion, building on their prior $45 billion deal for 460 megawatts of Vera Rubin GPUs in West Virginia. ([[2026-10-20-OpenAIs-Pacing-2-0-Problem#^clm-830d482823aff82f5a76|cite]])
+
 ## Related concepts
 
-[[Capex-vs-Opex|Capex vs Opex]]
+[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Capex-vs-Opex|Capex vs Opex]]

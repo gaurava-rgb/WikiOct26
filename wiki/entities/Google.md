@@ -7,7 +7,7 @@ updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 177
+claim_count: 179
 ---
 
 # Google
@@ -361,6 +361,14 @@ Search and advertising giant (Alphabet); builds Gemini models and TPU chips.
 
 - Nvidia supports neoclouds to defend GPU demand as its biggest cloud customers, including Google, Microsoft, and Amazon, develop in-house server processors. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-6a64e76b682eedf78bbb|cite]])
 
+### 2026-10-20 [[2026-10-20-OpenAIs-Pacing-2-0-Problem|OpenAI’s ‘Pacing 2.0’ Problem: How Smart Is Too Smart?]]
+
+- The United States government sanctioned a Chinese startup and venture capital firm linked to Linwei Ding, a former Google engineer convicted of stealing proprietary AI trade secrets. ([[2026-10-20-OpenAIs-Pacing-2-0-Problem#^clm-a4b03760a5f7082c3b29|cite]])
+
+### 2026-10-21 [[2026-10-21-How-Thoma-Bravo-Found-Discount-in-Cybersecurity-Market|How Thoma Bravo Found a Discount in a Hot Cybersecurity Market]]
+
+- Cybersecurity consolidation included mega-deals in 2025 such as Alphabet's $32 billion acquisition of Wiz and Palo Alto Networks' $25 billion acquisition of CyberArk. ([[2026-10-21-How-Thoma-Bravo-Found-Discount-in-Cybersecurity-Market#^clm-fc2dfda9333068f1e27e|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Agentic-Commerce|Agentic Commerce]], [[Agentic-Web|The Agentic Web]], [[Aggregation-Theory|Aggregation Theory]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Capex-vs-Opex|Capex vs Opex]], Cash the Ultimate Commodity (the Google Capital Company), [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Custom-Silicon|Custom Silicon]], [[Data-Asset|Data as a Competitive Asset]], Enshittification, [[Generative-UI|Generative UI (On-Demand Interfaces)]], [[License-and-Hire|License-and-Hire Deal]], [[Network-Effects|Network Effects]], [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Shapley-Values|Shapley Values]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Agentic-Commerce|Agentic Commerce]], [[Agentic-Web|The Agentic Web]], [[Aggregation-Theory|Aggregation Theory]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Capex-vs-Opex|Capex vs Opex]], Cash the Ultimate Commodity (the Google Capital Company), [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Custom-Silicon|Custom Silicon]], [[Data-Asset|Data as a Competitive Asset]], Enshittification, [[Export-Controls|Chip Export Controls]], [[Generative-UI|Generative UI (On-Demand Interfaces)]], [[License-and-Hire|License-and-Hire Deal]], [[Network-Effects|Network Effects]], [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Shapley-Values|Shapley Values]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]]

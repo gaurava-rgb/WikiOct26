@@ -7,7 +7,7 @@ updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 30
+claim_count: 32
 ---
 
 # Cursor
@@ -81,6 +81,14 @@ AI coding startup whose editor and agent harness gather large amounts of code us
 ### 2026-10-15 [[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator|Why AI-Written Software Needs a Flight Simulator]]
 
 - Prediction: Antithesis CEO Will Wilson anticipates that Anthropic and Cursor will eventually release proprietary deterministic testing simulators. ([[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator#^clm-f283cd3326b244dda08d|cite]])
+
+### 2026-10-21 [[2026-10-21-Hackers-Used-Claude-and-Grok-to-Automate-Bank-Attacks|Hackers Used Claude and Grok to Automate Attacks on Banks]]
+
+- CyberCartel's attack structure deployed four Claude Opus and Sonnet agents for strategic planning while using a Claude agent running within coding tool Cursor as the lead attack commander. ([[2026-10-21-Hackers-Used-Claude-and-Grok-to-Automate-Bank-Attacks#^clm-7713a6d48250ce700d65|cite]])
+
+### 2026-10-21 [[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD|OpenAI, Anthropic Should Cap Compute for R&D, Say AI Safety Advocates]]
+
+- SpaceX reported overall third-quarter 2026 revenue of $14.6 billion, including $7.5 billion from its Super Intelligence business spanning Cursor, Grok Bot, and cloud compute. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-3c29331bb81c63e900ca|cite]])
 
 ## Related concepts
 

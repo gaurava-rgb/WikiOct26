@@ -7,7 +7,7 @@ updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 2
+claim_count: 3
 ---
 
 # X
@@ -23,6 +23,10 @@ Social network formerly called Twitter, now owned by SpaceX.
 ### 2026-05-27 [[2026-05-27-The-SpaceX-IPO-and-Data-Centers-in-Space|The SpaceX IPO and Data Centers in Space]]
 
 - Adding xAI, and with it X, tipped SpaceX from a small profit to a $4.9 billion loss in 2025, driven by $5.1 billion of AI research and development expense. ([[2026-05-27-The-SpaceX-IPO-and-Data-Centers-in-Space#^clm-332414dcbacb351a3952|cite]])
+
+### 2026-10-20 [[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger|SpaceX’s Musk Lauds Its Soaring Cloud Business and Possible Tesla Merger]]
+
+- SpaceX's Superintelligence segment, comprising X, Grok Bot, and cloud infrastructure leasing to clients like Anthropic, expanded rapidly in late 2026. ([[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger#^clm-e41d3ec2665415a606f7|cite]])
 
 ## Related concepts
 

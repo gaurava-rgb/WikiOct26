@@ -7,7 +7,7 @@ updated: 2026-10-21
 tags:
   - entity
   - entity/person
-claim_count: 26
+claim_count: 29
 ---
 
 # Sam Altman
@@ -71,6 +71,12 @@ CEO of OpenAI.
 - Altman supported an international agency modeled on the International Atomic Energy Agency to inspect AI systems, require audits, and monitor compute and energy usage. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-8dd2265f55e46116aaf9|cite]])
 - Altman said he included the Eliezer plan only for completeness and called it terrible, arguing humans must retain control of AI and prevent power from becoming too concentrated. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-3740c37065d059c9a8a2|cite]])
 - Altman noted OpenAI cannot afford to yield ground to rivals while both OpenAI and Anthropic move quickly toward initial public offerings. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-af80df44d43b81b103d8|cite]])
+
+### 2026-10-20 [[2026-10-20-OpenAIs-Pacing-2-0-Problem|OpenAI’s ‘Pacing 2.0’ Problem: How Smart Is Too Smart?]]
+
+- Sam Altman introduced the concept of pacing 2.0 internally at OpenAI to describe future constraints on recursive self-improvement. ([[2026-10-20-OpenAIs-Pacing-2-0-Problem#^clm-7d830956fd46a6700598|cite]])
+- Pacing 2.0 requires establishing objective thresholds or speed limits to determine when OpenAI should halt development or deployment of recursive self-improving AI. ([[2026-10-20-OpenAIs-Pacing-2-0-Problem#^clm-bfcfde13ab0e1687a023|cite]])
+- Altman stated OpenAI cannot yield ground to rivals in the short term, but must commit to a long-term pacing policy within twelve months. ([[2026-10-20-OpenAIs-Pacing-2-0-Problem#^clm-c242c69c41c07c90e0cd|cite]])
 
 ## Related concepts
 
