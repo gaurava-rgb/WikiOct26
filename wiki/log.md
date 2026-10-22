@@ -13,6 +13,10 @@ tags:
 
 Newest completed operations appear first.
 
+## 2026-10-21 editor-update-20261021-b30-b31
+
+- Editor update: slotted 15 articles across batches b30 and b31 into the AI shift story, OpenAI late 2026 journey, Anthropic 2026 journey, Apple 2025-2026 journey, Meta October 2026 journey, Nvidia late 2026 journey, Microsoft journey, and what-changed page; 5 what-changed entries on Apple touchscreen reversal, local AI speculative coding, CyberCartel agent orchestration bank attacks, Nvidia credit guarantee restructuring, and Netflix franchise-to-business transition.
+
 ## 2026-10-21 ingest-20261021-b31
 
 - Batch 31: OpenAI pacing 2.0, Xbox buyout talks, SpaceX SI cloud and Tesla, CyberCartel bank hacks, R&D compute caps, Thoma Bravo Varonis.

@@ -3,7 +3,7 @@ type: journey
 title: "Meta, October 2026 onward: the frontier and the bill"
 status: developing
 created: 2026-10-13
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - journey
   - meta
@@ -25,7 +25,12 @@ Meta launched Muse, a personal agent that can buy things, answer email and do ot
 
 **October 2026: advertising boom against a $40 billion quarterly capex bill.** In the first half of 2026 Meta digital ad revenue grew 30%, reaching $59 billion in the second quarter, double Google growth rate, with 9 million small businesses using Meta AI creative tools ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week|Meta Tesla Netflix Preview]]). But the bill doubled too: analysts project third-quarter capital expenditures of $40.5 billion, driving negative free cash flow of $10.3 billion, beginning several consecutive quarters of negative cash flow ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week|Meta Tesla Netflix Preview]]). While Meta held $90 billion in cash and securities at June 30, the continuing cash burn will likely require future debt or equity offerings ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week|Meta Tesla Netflix Preview]]). On local devices, Meta released Muse Spark Open, an open-weight model designed to run locally on Mac computers ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better|Anthropic Intention Model]]). In infrastructure, Meta contracted to lease capacity from neocloud Firmus facilities in Southeast Asia, including a site in Batam, Indonesia, with at least 170,000 advanced Nvidia chips developed with DayOne ([[2026-10-16-Singapores-DayOne-Pushes-Ahead-With-Data-Center-IPO-Tied-to-TikTok|DayOne Data Centers IPO]]).
 
-## Moving forward (as of 2026-10-19)
+**October 2026: open-weight Apple partnership and commercial thresholds.** Meta partnered with Apple to release Muse Spark Open, an open-weight model optimized to run locally on Mac hardware via Apple's MLX machine learning toolkit, enabled by thawed leadership ties under Apple CEO John Ternus ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick|Muse Spark Open]]). Unlike Chinese models such as DeepSeek and Qwen that carry permissive MIT and Apache licenses, Meta added a commercial condition requiring companies with over $20 million in annual revenue to sign a custom agreement ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick|Muse Spark Open]]). Mark Zuckerberg also joined Nvidia CEO Jensen Huang to oppose proposed federal safety testing rules, arguing that new agencies cause regulatory capture that shields incumbents like OpenAI and Anthropic ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI|Altman Three Endgames]]). Meanwhile, Meta's compute contracts became tradeable credit: life insurers bought more than $740 million of CoreWeave project debt backed directly by Meta customer contract cash flows ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning|CoreWeave Debt Binge]]).
+
+## Moving forward (as of 2026-10-21)
+
+- **Open-weight licensing friction.** Imposing commercial license agreements on Muse Spark Open above $20 million revenue risks driving developers toward permissive Chinese open models like DeepSeek and Qwen, even as U.S. developers face distillation restrictions under frontier lab terms of service ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick|Muse Spark Open]]).
+- **Regulatory capture fight.** Zuckerberg's shared push with Jensen Huang against formal AI safety agencies underscores Meta's strategy to keep open-source model distribution unrestricted by government containment policies ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI|Altman Three Endgames]]).
 
 - **Capital expenditure and cash burn.** Analysts project Q3 capex of $40.5 billion will drive $10.3 billion of negative free cash flow, testing investor tolerance for AI infrastructure spending ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week|Meta Tesla Netflix Preview]]).
 
@@ -65,6 +70,9 @@ A "tokenmaxxing" craze and a Claudeonomics leaderboard drove a spring spike in M
 16. "Singapore’s DayOne Pushes Ahead With Data Center IPO Tied to TikTok." The Information, 2026-10-16.
 17. "Meta, Tesla and Netflix Q3 Updates Coming This Week." The Information, 2026-10-18.
 18. "Anthropic Readies Model That Reads Users' Intentions Better." The Information, 2026-10-19.
+19. "Altman Describes Three Endgames for AI, Including One Where a Single Firm ‘Melts Everyone Else’s GPUs’." The Information, 2026-10-19.
+20. "How CoreWeave’s Debt Binge Brought a Moment of Reckoning." The Information, 2026-10-20.
+21. "Muse Spark Open, Meta + Apple, Thin and Thick." Stratechery, 2026-10-20.
 
 **Older-data flag.** No source here is older than two years.
 
@@ -77,5 +85,6 @@ See also: [[journeys/meta-journey|Meta journey (hub)]], [[journeys/meta-journey-
 
 - 2026-10-13: split from meta-journey-late-2026.md per proposal 2026-10-13. The cost-cut and frontier beats, "Moving forward", one "why?" question and one disagreement line moved unchanged; added a short "story so far" and the era links.
 - 2026-10-19: added H1 30% digital ad growth to $59B, Q3 capex doubling to $40.5B with $10.3B negative free cash flow, Muse Spark Open model for Mac, and Firmus DayOne Indonesia capacity lease [DayOne Data Centers IPO, Meta Tesla Netflix Preview, Anthropic Intention Model, 2026-10-16 to 19]
+- 2026-10-21: added Muse Spark Open release on Mac with Apple, $20M commercial revenue threshold, regulatory capture opposition with Jensen Huang, and CoreWeave project debt backed by Meta contracts [Altman Three Endgames, CoreWeave Debt Binge, Muse Spark Open, 2026-10-19 to 20]
 
-<!-- claims: clm-51dab3c30191769a1788, clm-ac846916ea8c70aa46a7, clm-c307ea9bf101fdc2b427, clm-e9e1022d5d92487cc593, clm-bb84f0ec478c11ae7dab, clm-10d462be62aaf27550a3, clm-8d303170f3fff556e8c7, clm-ef2d127de37b942baad0, clm-6523c4b89c875e867add, clm-1199c7eccf9e6f41007e, clm-54549760b1f716c150d1, clm-ae4642bfdcb93ec648d3, clm-891f73750c2ebb8e1618, clm-32b53c401a64bbc35b01, clm-8b8e77c8249fb96f8f41, clm-1fba178da515b4f3f1f0, clm-4f1d0ba257d5d0ffe282, clm-4156bd89a9e0ae358892, clm-c41fdcbdad64c1f66abf, clm-f7dd3171eac1dad415ee, clm-4fbbf96b00ae90868f83, clm-0afe4bd52893834a199d, clm-c86006ac501487c59bd7, clm-7f2a50f33551029ae1e3, clm-b7d9cb15ced866f324a7, clm-88f0bb0af9223ec24036, clm-2419df11afb4d14f1389, clm-14cf1cd1539007e7dcea, clm-c0ded9427b53f0d7905e, clm-447355abfc5320e8e964, clm-bd43255c7b9d8fad7333, clm-f7a84a419bf8107fc31b, clm-33a748a27ed0f7e9a6c8, clm-bce3b565b118481ac857, clm-6a729ebe78d85e14bb50, clm-7405b0353e0c8f03d074, clm-d1eb35b8c4a8bf76459b, clm-9a0ce83bda1f59882d94, clm-c2dee90eadd6d07b98e1, clm-f5675da3e0acbf7b67fd -->
+<!-- claims: clm-51dab3c30191769a1788, clm-ac846916ea8c70aa46a7, clm-c307ea9bf101fdc2b427, clm-e9e1022d5d92487cc593, clm-bb84f0ec478c11ae7dab, clm-10d462be62aaf27550a3, clm-8d303170f3fff556e8c7, clm-ef2d127de37b942baad0, clm-6523c4b89c875e867add, clm-1199c7eccf9e6f41007e, clm-54549760b1f716c150d1, clm-ae4642bfdcb93ec648d3, clm-891f73750c2ebb8e1618, clm-32b53c401a64bbc35b01, clm-8b8e77c8249fb96f8f41, clm-1fba178da515b4f3f1f0, clm-4f1d0ba257d5d0ffe282, clm-4156bd89a9e0ae358892, clm-c41fdcbdad64c1f66abf, clm-f7dd3171eac1dad415ee, clm-4fbbf96b00ae90868f83, clm-0afe4bd52893834a199d, clm-c86006ac501487c59bd7, clm-7f2a50f33551029ae1e3, clm-b7d9cb15ced866f324a7, clm-88f0bb0af9223ec24036, clm-2419df11afb4d14f1389, clm-14cf1cd1539007e7dcea, clm-c0ded9427b53f0d7905e, clm-447355abfc5320e8e964, clm-bd43255c7b9d8fad7333, clm-f7a84a419bf8107fc31b, clm-33a748a27ed0f7e9a6c8, clm-bce3b565b118481ac857, clm-6a729ebe78d85e14bb50, clm-7405b0353e0c8f03d074, clm-d1eb35b8c4a8bf76459b, clm-9a0ce83bda1f59882d94, clm-c2dee90eadd6d07b98e1, clm-f5675da3e0acbf7b67fd, clm-3eba4d5f7a89ca875d87, clm-0f786e153f90a2f306f7, clm-24b2e9e879752e23466f, clm-2f8a5e45d0380ba129c3, clm-f9f87fb5b95478fda728, clm-897bcc23e5c952b1721a, clm-25bd6e5de0d9d4be48e6, clm-d93b005ee59704b1cf33, clm-ea6db657ad94343fbb37 -->
