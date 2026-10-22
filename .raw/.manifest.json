@@ -618,6 +618,14 @@
       ],
       "source_id": "src-0e34beac45387b8ea277"
     },
+    ".raw/captured/2026-10-19 The Information - Altman describes three endgames for AI (notes).md": {
+      "hash": "61f6283c34d62598821171c053f93d90b511d68edbe449c8ef81e17f747cb049",
+      "ingested_at": "2026-10-21",
+      "pages_created": [
+        "wiki/sources/2026-10-19-Altman-Describes-Three-Endgames-for-AI.md"
+      ],
+      "source_id": "src-6ccf999e592581cabd92"
+    },
     ".raw/captured/2026-10-19 The Information - Anthropic readies model that reads users intentions better (notes).md": {
       "hash": "5912db4221f5b6a280c334240472609fe0c5431f92f9af4081baeb13930f7ad1",
       "ingested_at": "2026-10-19",
@@ -625,6 +633,14 @@
         "wiki/sources/2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better.md"
       ],
       "source_id": "src-b953cd17592aa96960df"
+    },
+    ".raw/captured/2026-10-19 The Information - At Apple pigs are about to fly (notes).md": {
+      "hash": "bc338e193415bd24794e3be0fd402325864280add560cc88d62429ab4e7ba823",
+      "ingested_at": "2026-10-21",
+      "pages_created": [
+        "wiki/sources/2026-10-19-At-Apple-Pigs-Are-About-to-Fly.md"
+      ],
+      "source_id": "src-9c900f3525631995d240"
     },
     ".raw/captured/2026-10-19 The Information - How DeepSeek is shaping Huawei AI chips in a challenge to Nvidia (notes).md": {
       "hash": "2af5cdb8319fe025924bd24dd064b898a5839e363473555bd71c5008ee9badf5",
@@ -634,6 +650,14 @@
       ],
       "source_id": "src-eefe71849b5484d1063b"
     },
+    ".raw/captured/2026-10-19 The Information - Nikesh Arora advises daughter on AI venture fund (notes).md": {
+      "hash": "9848ee0e046ab6574931aba38d50db696b5a6a7454f06ea85c6921227ef8e15b",
+      "ingested_at": "2026-10-21",
+      "pages_created": [
+        "wiki/sources/2026-10-19-Nikesh-Arora-Advises-Daughter-on-AI-Venture-Fund.md"
+      ],
+      "source_id": "src-04da7b0e8a997f29f178"
+    },
     ".raw/captured/2026-10-19 The Information - Pentagon Emil Michael vows export controls if AI labs do not cooperate (notes).md": {
       "hash": "66d2759c031ee78ddeda27688479e187c4b067390cd4bb81eded236d4c2aacad",
       "ingested_at": "2026-10-19",
@@ -641,6 +665,30 @@
         "wiki/sources/2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government.md"
       ],
       "source_id": "src-572c55c13d6abfc6d211"
+    },
+    ".raw/captured/2026-10-19 The Information - Sonia Joseph on interpretability and physical AI (notes).md": {
+      "hash": "065d33db3c39e085e3ee4e8e619959109e13cd62a9bf6491f6a7761cdacd71e6",
+      "ingested_at": "2026-10-21",
+      "pages_created": [
+        "wiki/sources/2026-10-19-Sonia-Joseph-on-Interpretability-and-Physical-AI.md"
+      ],
+      "source_id": "src-1ca297c985f65cf881c4"
+    },
+    ".raw/captured/2026-10-20 The Information - How CoreWeaves debt binge brought a moment of reckoning (notes).md": {
+      "hash": "973878b18d91cf4d9f6e8b16833ae3579286291dad1a21c55e05148f04a3e73d",
+      "ingested_at": "2026-10-21",
+      "pages_created": [
+        "wiki/sources/2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning.md"
+      ],
+      "source_id": "src-3118f233d13e35e58f6b"
+    },
+    ".raw/captured/2026-10-20 The Information - Nvidia moves to back Firmus after pulled IPO (notes).md": {
+      "hash": "1287a48057addbf96440b30735ee71883f6085cf2773ccde5930d0ac2d3af167",
+      "ingested_at": "2026-10-21",
+      "pages_created": [
+        "wiki/sources/2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO.md"
+      ],
+      "source_id": "src-bf0def9e852e44a0327b"
     },
     ".raw/captured/2026.28_ XBOX On the Rocks.md": {
       "hash": "952790fa551289ee6883b864241796a4d483817fa6f376ff40e8fad1aec4a082",
@@ -897,6 +945,22 @@
         "wiki/sources/2026-07-09-Muse-Image-Grok-4-5-Alex-Karp-on-CNBC.md"
       ],
       "source_id": "src-55c6e8e074fea0ad9b48"
+    },
+    ".raw/captured/Muse Spark Open, Meta + Apple, Thin and Thick.md": {
+      "hash": "f9aecabed61a738cc5baab413ee239b8256a0a75be4531fa481092410e0b2ca5",
+      "ingested_at": "2026-10-21",
+      "pages_created": [
+        "wiki/sources/2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick.md"
+      ],
+      "source_id": "src-049bcd215b8fe390d6ed"
+    },
+    ".raw/captured/Netflix Earnings, Business or Franchise, Disney’s Deal.md": {
+      "hash": "e4302c994d0b316379904d11ae9ec37f314e182666513a13ea228603b86f73f7",
+      "ingested_at": "2026-10-21",
+      "pages_created": [
+        "wiki/sources/2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal.md"
+      ],
+      "source_id": "src-a1d64b4ec58b5310fbef"
     },
     ".raw/captured/Netflix Earnings, Is Netflix Washed_, Additional Notes.md": {
       "hash": "ed530e8630612a00e6e4163c8d00400f5dbb415fbca642c607b565428deb44eb",

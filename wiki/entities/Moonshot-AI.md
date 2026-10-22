@@ -3,7 +3,7 @@ type: entity
 title: Moonshot AI
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
@@ -46,4 +46,4 @@ Chinese AI startup that makes the Kimi open weight models, including Kimi K3.
 
 ## Related concepts
 
-[[AI-Compute-Demand|AI Compute Demand vs Supply]], Mechanistic Interpretability, [[Open-Weight-Models|Open-Weight Models]], [[Price-Umbrella|Price Umbrella (Price Overhang)]], [[Reward-Hacking|Reward Hacking]]
+[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Mechanistic-Interpretability|Mechanistic Interpretability]], [[Open-Weight-Models|Open-Weight Models]], [[Price-Umbrella|Price Umbrella (Price Overhang)]], [[Reward-Hacking|Reward Hacking]]

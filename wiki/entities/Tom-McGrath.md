@@ -3,7 +3,7 @@ type: entity
 title: Tom McGrath
 status: developing
 created: 2026-10-13
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/person
@@ -48,4 +48,4 @@ Co-founder and chief scientist of Goodfire; earlier co-founded Google DeepMind's
 
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Chain-of-Thought-Monitoring|Chain-of-Thought Monitoring]], Mechanistic Interpretability, [[Reward-Hacking|Reward Hacking]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Chain-of-Thought-Monitoring|Chain-of-Thought Monitoring]], [[Mechanistic-Interpretability|Mechanistic Interpretability]], [[Reward-Hacking|Reward Hacking]]

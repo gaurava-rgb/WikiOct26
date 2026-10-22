@@ -3,11 +3,11 @@ type: entity
 title: Elon Musk
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/person
-claim_count: 28
+claim_count: 29
 ---
 
 # Elon Musk
@@ -79,6 +79,10 @@ CEO of Tesla and SpaceX; bought Twitter in 2022.
 - Delta Air Lines CEO Ed Bastian stated that Delta tested Starlink in-flight internet but chose not to partner with it due to personal reluctance to work with Elon Musk. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-6225bc579eecd105c82a|cite]])
 - Thompson argues Elon Musk approaches industries by seeking to reshape market structure so that his companies' victory becomes inevitable regardless of customer or rival personal sentiment. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-c39aca871ca937bdba11|cite]])
 - Elon Musk stated SpaceX plans to deploy small cellular base stations on rooftop Starlink antennas across homes and businesses, avoiding the expensive buildout of large cell towers. ([[2026-10-13-SpaceX-Buys-More-Spectrum-Musk-and-Market-Structure-Distributed-Cellular#^clm-71461a9375419d0cec84|cite]])
+
+### 2026-10-19 [[2026-10-19-At-Apple-Pigs-Are-About-to-Fly|At Apple, Pigs Are About to Fly]]
+
+- Prediction: Elon Musk announced a plan to give every American child one share of SpaceX stock in 2027, an endowment potentially worth nearly $11 billion. ([[2026-10-19-At-Apple-Pigs-Are-About-to-Fly#^clm-9317c5bf147192a61689|cite]])
 
 ## Related concepts
 

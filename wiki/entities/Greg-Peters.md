@@ -3,11 +3,11 @@ type: entity
 title: Greg Peters
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/person
-claim_count: 8
+claim_count: 9
 ---
 
 # Greg Peters
@@ -29,6 +29,10 @@ Co-CEO of Netflix.
 - Netflix integrated French broadcaster TF1 into its service in France in June 2026, its first such move, and Peters called early member engagement very promising four weeks in. ([[2026-08-25-Netflix-to-Sell-Streaming-Services-Streamers-as-Aggregators-Revisiting-Roku#^clm-f9bcbec715f2f7c65291|cite]])
 - Thompson argues Peters is signaling a possibly massive shift toward selling other streaming services while framing it, in classic Netflix style, as something the company has always done. ([[2026-08-25-Netflix-to-Sell-Streaming-Services-Streamers-as-Aggregators-Revisiting-Roku#^clm-6873f118736c02ff372e|cite]])
 - Thompson argues Netflix has not saturated its market because it does not compete in free streaming, the fastest-growing area, which has synergy with pay TV as an extra window, marketing, and ad inventory. ([[2026-08-25-Netflix-to-Sell-Streaming-Services-Streamers-as-Aggregators-Revisiting-Roku#^clm-d52227919611c4f05214|cite]])
+
+### 2026-10-21 [[2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal|Netflix Earnings, Business or Franchise, Disney’s Deal]]
+
+- Netflix co-CEO Greg Peters pointed to industry-leading low churn across all regions as proof that recent price hikes succeeded and customer value remained healthy. ([[2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal#^clm-0720ecec18e1bf6c18ab|cite]])
 
 ## Related concepts
 

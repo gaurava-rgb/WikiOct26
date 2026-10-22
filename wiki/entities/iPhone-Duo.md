@@ -3,11 +3,11 @@ type: entity
 title: iPhone Duo
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/product
-claim_count: 17
+claim_count: 18
 ---
 
 # iPhone Duo
@@ -38,6 +38,10 @@ Apple's first foldable iPhone, unveiled September 2026.
 - IDC's Francisco Jeronimo argues the foldable brings novelty, can attract high-end buyers, and could get people upgrading more often again. ([[2026-09-20-Why-Apple-Is-Betting-on-Foldable-iPhones#^clm-797e3cc0bfb7d58818ea|cite]])
 - Trade-ins of some recent iPhones could cut almost $900 off the iPhone Duo's sticker price, and installment plans could help buyers justify the price. ([[2026-09-20-Why-Apple-Is-Betting-on-Foldable-iPhones#^clm-0f110e7d9e5d579deaf6|cite]])
 - Linda Sui argues Apple will educate the market and drive up foldable adoption in the US, including for cheaper rivals. ([[2026-09-20-Why-Apple-Is-Betting-on-Foldable-iPhones#^clm-83276c425ce34ebd09ae|cite]])
+
+### 2026-10-19 [[2026-10-19-At-Apple-Pigs-Are-About-to-Fly|At Apple, Pigs Are About to Fly]]
+
+- John Ternus has led Apple into previously ignored categories with an initial product slate featuring the iPhone Duo foldable, HomeView smart display, and touchscreen MacBook. ([[2026-10-19-At-Apple-Pigs-Are-About-to-Fly#^clm-318ec23127030ed03030|cite]])
 
 ## Related concepts
 

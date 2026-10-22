@@ -3,11 +3,11 @@ type: entity
 title: Department of Defense
 status: developing
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/org
-claim_count: 7
+claim_count: 8
 ---
 
 # Department of Defense
@@ -25,6 +25,10 @@ United States executive department responsible for national defense and the arme
 - Despite ongoing litigation, Emil Michael has met Anthropic co-founder Tom Brown many times to coordinate cybersecurity incident response protocols. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-7e84e556f0fb4373d7e4|cite]])
 - The Defense Department Office of Strategic Capital is preparing loans to bolster domestic microelectronics and reduce reliance on ASML and TSMC. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-1b18a28975d4354d4784|cite]])
 - Emil Michael stated he had no visibility into whether software errors from Palantir contributed to a February 2026 missile strike in Iran. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-b4e05f58f685064978c8|cite]])
+
+### 2026-10-19 [[2026-10-19-Altman-Describes-Three-Endgames-for-AI|Altman Describes Three Endgames for AI, Including One Where a Single Firm ‘Melts Everyone Else’s GPUs’]]
+
+- Pentagon official Emil Michael said the administration will impose stricter checks like export controls if frontier AI developers behave like drunk drivers. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-d24fe52690216a1eeb28|cite]])
 
 ## Related concepts
 

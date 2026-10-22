@@ -3,11 +3,11 @@ type: entity
 title: Demis Hassabis
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/person
-claim_count: 10
+claim_count: 11
 ---
 
 # Demis Hassabis
@@ -35,6 +35,10 @@ Co-founder and CEO of Google DeepMind.
 
 - Per Kevin Roose's book The AGI Chronicles, Google's Gemini was almost called Titan, a Demis Hassabis suggestion that lawyers vetoed as too aggressive. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-ecf50c64a680dfe54b1d|cite]])
 
+### 2026-10-19 [[2026-10-19-Altman-Describes-Three-Endgames-for-AI|Altman Describes Three Endgames for AI, Including One Where a Single Firm ‘Melts Everyone Else’s GPUs’]]
+
+- Altman described a second proposal as the Demis plan after Demis Hassabis, where major AI developers merge into or produce work through a single entity modeled on CERN. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-f586a6ac061b3681e2cf|cite]])
+
 ## Related concepts
 
-World Models
+[[World-Models|World Models]]

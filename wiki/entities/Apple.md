@@ -3,11 +3,11 @@ type: entity
 title: Apple
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 186
+claim_count: 197
 ---
 
 # Apple
@@ -292,6 +292,23 @@ US maker of the iPhone, Mac, and wearables; integrates hardware and software.
 - A federal judge ruled that Apple willfully violated an injunction in the Epic Games antitrust lawsuit and referred the company for a criminal contempt investigation. ([[2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers#^clm-49b2ba6683677d158ec7|cite]])
 - Apple is appealing to the Supreme Court a district judge's referral of the company for criminal contempt over its App Store injunction compliance. ([[2026-10-16-Apples-Antitrust-Settlement-Talks-Spur-Worries-Among-Developers#^clm-7ee780d9479abf54b59b|cite]])
 
+### 2026-10-19 [[2026-10-19-At-Apple-Pigs-Are-About-to-Fly|At Apple, Pigs Are About to Fly]]
+
+- Apple sent invitations for an October 2026 product event teasing the line 'Can't wait to pro and tell next week', indicating the launch of its first touchscreen MacBook Pro. ([[2026-10-19-At-Apple-Pigs-Are-About-to-Fly#^clm-574870bcb4bbaf30724d|cite]])
+- A touchscreen MacBook reverses a decade of company resistance under former CEO Tim Cook, who in 2012 rejected touchscreen laptops by comparing them to converging a toaster and refrigerator. ([[2026-10-19-At-Apple-Pigs-Are-About-to-Fly#^clm-1d79b3769ec657640681|cite]])
+- Touchscreen capability has become common in the laptop industry, appearing on approximately one in five notebook computers sold by late 2026. ([[2026-10-19-At-Apple-Pigs-Are-About-to-Fly#^clm-aa452ff1101aa84a0428|cite]])
+- The hardware pivot reflects the leadership of CEO John Ternus, a longtime hardware engineering executive who is more product-driven than Tim Cook was. ([[2026-10-19-At-Apple-Pigs-Are-About-to-Fly#^clm-90f34deb7fbd9a67ea31|cite]])
+- John Ternus has led Apple into previously ignored categories with an initial product slate featuring the iPhone Duo foldable, HomeView smart display, and touchscreen MacBook. ([[2026-10-19-At-Apple-Pigs-Are-About-to-Fly#^clm-318ec23127030ed03030|cite]])
+
+### 2026-10-20 [[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick|Muse Spark Open, Meta + Apple, Thin and Thick]]
+
+- Meta released Muse Spark Open, an open-weight AI model optimized to run locally on Mac computers, while Apple updated its MLX machine learning software toolkit to support it. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-2f8a5e45d0380ba129c3|cite]])
+- Thompson notes that John Ternus replacing Tim Cook as Apple CEO helped thaw relations between Apple and Meta, enabling engineering collaboration on local AI. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-d93b005ee59704b1cf33|cite]])
+- Apple demonstrated local AI development at its Cupertino campus using two Mac Studio computers with 512GB of unified memory connected via four Thunderbolt 5 cables. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-e9f678d7c5678fdeeee0|cite]])
+- Thompson argues that running AI models locally creates effectively zero-cost tokens, enabling speculative coding where a harness builds multiple alternative feature paths overnight like CPU branch prediction. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-976af6d2c1c4935e1496|cite]])
+- Thompson maintains that thin-client cloud computing remains dominant because scarce high-end compute and massive memory aggregate most economically in centralized data centers. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-ea6db657ad94343fbb37|cite]])
+- With high-spec 512GB Mac Studio rigs costing around $20,000, cloud API and subscription pricing remains more economically viable for the vast majority of users. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-ef128dd3272ad4b11629|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Agentic-Web|The Agentic Web]], [[Aggregation-Theory|Aggregation Theory]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], Application Layer Bridge (Computing Paradigms), [[Capex-vs-Opex|Capex vs Opex]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Contract-Manufacturing|Contract Manufacturing]], The Cook Doctrine, [[Custom-Silicon|Custom Silicon]], [[First-Mover-Advantage|First-Mover Advantage]], Intelligent Personal Hub, [[LLM-Inflection-Points|Three LLM Inflection Points]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Scale-Economies|Scale Economies]], [[Sustaining-vs-Disruptive-Innovation|Sustaining vs Disruptive Innovation]], [[Switching-Costs|Switching Costs]], [[VR-vs-AR|Virtual vs Augmented Reality]], [[Vertical-Integration|Vertical Integration]], Wholesale vs Agency Pricing
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Agentic-Web|The Agentic Web]], [[Aggregation-Theory|Aggregation Theory]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], Application Layer Bridge (Computing Paradigms), [[Capex-vs-Opex|Capex vs Opex]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Contract-Manufacturing|Contract Manufacturing]], The Cook Doctrine, [[Custom-Silicon|Custom Silicon]], [[First-Mover-Advantage|First-Mover Advantage]], Intelligent Personal Hub, [[LLM-Inflection-Points|Three LLM Inflection Points]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Open-Weight-Models|Open-Weight Models]], [[Scale-Economies|Scale Economies]], [[Sustaining-vs-Disruptive-Innovation|Sustaining vs Disruptive Innovation]], [[Switching-Costs|Switching Costs]], [[VR-vs-AR|Virtual vs Augmented Reality]], [[Vertical-Integration|Vertical Integration]], Wholesale vs Agency Pricing

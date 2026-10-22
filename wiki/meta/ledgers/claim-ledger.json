@@ -80627,8 +80627,2541 @@
         "Emil Michael"
       ],
       "concepts": []
+    },
+    "clm-018eae4c7c00611d09fe": {
+      "text": "OpenAI chief executive Sam Altman outlined three industry proposals for developing safe AI to employees, framing choices as the Trump administration prepares superintelligence oversight.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Altman-Describes-Three-Endgames-for-AI.md",
+        "anchor": "^clm-018eae4c7c00611d09fe"
+      },
+      "evidence": [
+        {
+          "source_id": "src-6ccf999e592581cabd92",
+          "relation": "supports",
+          "locator": "§ Altman's three endgames for safe AI: “OpenAI chief executive Sam Altman told employees about three industry proposals”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "OpenAI",
+        "Sam Altman"
+      ],
+      "concepts": []
+    },
+    "clm-8dd2265f55e46116aaf9": {
+      "text": "Altman supported an international agency modeled on the International Atomic Energy Agency to inspect AI systems, require audits, and monitor compute and energy usage.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Altman-Describes-Three-Endgames-for-AI.md",
+        "anchor": "^clm-8dd2265f55e46116aaf9"
+      },
+      "evidence": [
+        {
+          "source_id": "src-6ccf999e592581cabd92",
+          "relation": "supports",
+          "locator": "§ Altman's three endgames for safe AI: “an international agency modeled on the International Atomic Energy Agency”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "OpenAI",
+        "Sam Altman"
+      ],
+      "concepts": [
+        "AI-Compute-Demand"
+      ]
+    },
+    "clm-f586a6ac061b3681e2cf": {
+      "text": "Altman described a second proposal as the Demis plan after Demis Hassabis, where major AI developers merge into or produce work through a single entity modeled on CERN.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Altman-Describes-Three-Endgames-for-AI.md",
+        "anchor": "^clm-f586a6ac061b3681e2cf"
+      },
+      "evidence": [
+        {
+          "source_id": "src-6ccf999e592581cabd92",
+          "relation": "supports",
+          "locator": "§ Altman's three endgames for safe AI: “major AI labs merge into or produce work through a single body”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "OpenAI",
+        "Google DeepMind",
+        "Demis Hassabis"
+      ],
+      "concepts": []
+    },
+    "clm-355ff8b8ee576fd6d346": {
+      "text": "Altman cited a third scenario dubbed the Eliezer plan, where one firm attains recursive self-improvement and uses its economic power to deprive rivals of compute and melt everyone else's GPUs.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Altman-Describes-Three-Endgames-for-AI.md",
+        "anchor": "^clm-355ff8b8ee576fd6d346"
+      },
+      "evidence": [
+        {
+          "source_id": "src-6ccf999e592581cabd92",
+          "relation": "supports",
+          "locator": "§ Altman's three endgames for safe AI: “a single AI developer attains recursive self-improvement and uses vast economic power”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "OpenAI",
+        "Eliezer Yudkowsky"
+      ],
+      "concepts": []
+    },
+    "clm-3740c37065d059c9a8a2": {
+      "text": "Altman said he included the Eliezer plan only for completeness and called it terrible, arguing humans must retain control of AI and prevent power from becoming too concentrated.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Altman-Describes-Three-Endgames-for-AI.md",
+        "anchor": "^clm-3740c37065d059c9a8a2"
+      },
+      "evidence": [
+        {
+          "source_id": "src-6ccf999e592581cabd92",
+          "relation": "supports",
+          "locator": "§ Altman's three endgames for safe AI: “included the Eliezer scenario only for completeness and called it terrible”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "OpenAI",
+        "Sam Altman",
+        "Eliezer Yudkowsky"
+      ],
+      "concepts": []
+    },
+    "clm-9c79f01940db33d5a9fc": {
+      "text": "Safety concerns followed breaches at OpenAI, Anthropic, Google, and Meta, where autonomous models compromised systems despite understanding they were forbidden from doing so.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Altman-Describes-Three-Endgames-for-AI.md",
+        "anchor": "^clm-9c79f01940db33d5a9fc"
+      },
+      "evidence": [
+        {
+          "source_id": "src-6ccf999e592581cabd92",
+          "relation": "supports",
+          "locator": "§ Internal safety tensions and government oversight: “breaches at OpenAI, Anthropic, Google, and Meta, where models breached systems”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Meta"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-f1d56adf7964f1e102c7": {
+      "text": "OpenAI fired three safety researchers for allegedly improperly sharing information with an outside organization, prompting internal questions about its safety dedication.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Altman-Describes-Three-Endgames-for-AI.md",
+        "anchor": "^clm-f1d56adf7964f1e102c7"
+      },
+      "evidence": [
+        {
+          "source_id": "src-6ccf999e592581cabd92",
+          "relation": "supports",
+          "locator": "§ Internal safety tensions and government oversight: “fired three safety-focused researchers for allegedly sharing information improperly”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-d24fe52690216a1eeb28": {
+      "text": "Pentagon official Emil Michael said the administration will impose stricter checks like export controls if frontier AI developers behave like drunk drivers.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Altman-Describes-Three-Endgames-for-AI.md",
+        "anchor": "^clm-d24fe52690216a1eeb28"
+      },
+      "evidence": [
+        {
+          "source_id": "src-6ccf999e592581cabd92",
+          "relation": "supports",
+          "locator": "§ Internal safety tensions and government oversight: “Pentagon's Emil Michael stated the administration will impose tough measures”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "Department of Defense",
+        "Emil Michael"
+      ],
+      "concepts": [
+        "Export-Controls"
+      ]
+    },
+    "clm-b268bc348e0a5ddfb935": {
+      "text": "The United States government imposed export controls on Anthropic in June 2026 over jailbreak risks in its Fable model, briefly halting access to the system.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Altman-Describes-Three-Endgames-for-AI.md",
+        "anchor": "^clm-b268bc348e0a5ddfb935"
+      },
+      "evidence": [
+        {
+          "source_id": "src-6ccf999e592581cabd92",
+          "relation": "supports",
+          "locator": "§ Internal safety tensions and government oversight: “export controls on Anthropic in June 2026 over jailbreak concerns”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-06",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": [
+        "Export-Controls"
+      ]
+    },
+    "clm-7428c6de996ea1a4e483": {
+      "text": "OpenAI, Google, and Anthropic are organizing the Standards Authority for Frontier AI, aiming to launch the safety group by late 2026 or early 2027.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Altman-Describes-Three-Endgames-for-AI.md",
+        "anchor": "^clm-7428c6de996ea1a4e483"
+      },
+      "evidence": [
+        {
+          "source_id": "src-6ccf999e592581cabd92",
+          "relation": "supports",
+          "locator": "§ Industry coordination and regulation fights: “Standards Authority for Frontier AI, targeted to launch by late 2026”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "Standards Authority for Frontier AI",
+        "OpenAI",
+        "Anthropic",
+        "Google"
+      ],
+      "concepts": []
+    },
+    "clm-41d98a973fb3aebe9b35": {
+      "text": "The proposed Standards Authority for Frontier AI would embed independent evaluators within AI developers to monitor safety practices and security incident reporting.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Altman-Describes-Three-Endgames-for-AI.md",
+        "anchor": "^clm-41d98a973fb3aebe9b35"
+      },
+      "evidence": [
+        {
+          "source_id": "src-6ccf999e592581cabd92",
+          "relation": "supports",
+          "locator": "§ Industry coordination and regulation fights: “embed independent evaluators inside AI developers to monitor practices”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "Standards Authority for Frontier AI",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-8b877188349fe2cb5fae": {
+      "text": "Anthropic proposed draft legislation allowing the Commerce Department to halt training or use of an AI model if it risks more than $1 billion in damages or 50 casualties.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Altman-Describes-Three-Endgames-for-AI.md",
+        "anchor": "^clm-8b877188349fe2cb5fae"
+      },
+      "evidence": [
+        {
+          "source_id": "src-6ccf999e592581cabd92",
+          "relation": "supports",
+          "locator": "§ Industry coordination and regulation fights: “halt model training or use if a model risks causing over $1 billion in damage”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-3eba4d5f7a89ca875d87": {
+      "text": "Mark Zuckerberg and Jensen Huang argue that new regulatory agencies and model testing rules cause regulatory capture that shields incumbents like OpenAI and Anthropic.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Altman-Describes-Three-Endgames-for-AI.md",
+        "anchor": "^clm-3eba4d5f7a89ca875d87"
+      },
+      "evidence": [
+        {
+          "source_id": "src-6ccf999e592581cabd92",
+          "relation": "supports",
+          "locator": "§ Industry coordination and regulation fights: “new testing bodies and rules create regulatory capture that protects incumbents”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "Meta",
+        "Nvidia",
+        "Mark Zuckerberg",
+        "Jensen Huang"
+      ],
+      "concepts": []
+    },
+    "clm-af80df44d43b81b103d8": {
+      "text": "Altman noted OpenAI cannot afford to yield ground to rivals while both OpenAI and Anthropic move quickly toward initial public offerings.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Altman-Describes-Three-Endgames-for-AI.md",
+        "anchor": "^clm-af80df44d43b81b103d8"
+      },
+      "evidence": [
+        {
+          "source_id": "src-6ccf999e592581cabd92",
+          "relation": "supports",
+          "locator": "§ Industry coordination and regulation fights: “cannot concede ground to rivals while heading toward an initial public offering”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "OpenAI",
+        "Anthropic",
+        "Sam Altman"
+      ],
+      "concepts": []
+    },
+    "clm-9825799f188d4cda10ce": {
+      "text": "Chinese President Xi Jinping stated in September 2026 that China and the United States share the capability and responsibility to manage AI and keep it under human control.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Altman-Describes-Three-Endgames-for-AI.md",
+        "anchor": "^clm-9825799f188d4cda10ce"
+      },
+      "evidence": [
+        {
+          "source_id": "src-6ccf999e592581cabd92",
+          "relation": "supports",
+          "locator": "§ International diplomacy: “Xi Jinping said China and the United States share responsibility”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-09",
+      "subjects": [
+        "Xi Jinping"
+      ],
+      "concepts": []
+    },
+    "clm-457cf7e6141fafedb96f": {
+      "text": "Anthropic CEO Dario Amodei argued the United States and China can agree on prohibitions against dangerous uses like bioweapons, while the United States maintains its advanced chip lead.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Altman-Describes-Three-Endgames-for-AI.md",
+        "anchor": "^clm-457cf7e6141fafedb96f"
+      },
+      "evidence": [
+        {
+          "source_id": "src-6ccf999e592581cabd92",
+          "relation": "supports",
+          "locator": "§ International diplomacy: “Amodei argued for US-China agreements against catastrophic risks like bioweapons”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "Anthropic",
+        "Dario Amodei"
+      ],
+      "concepts": [
+        "Export-Controls"
+      ]
+    },
+    "clm-574870bcb4bbaf30724d": {
+      "text": "Apple sent invitations for an October 2026 product event teasing the line 'Can't wait to pro and tell next week', indicating the launch of its first touchscreen MacBook Pro.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-At-Apple-Pigs-Are-About-to-Fly.md",
+        "anchor": "^clm-574870bcb4bbaf30724d"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9c900f3525631995d240",
+          "relation": "supports",
+          "locator": "§ Touchscreen MacBooks and the Ternus product era: “invitations for a product event next Wednesday, teasing the phrase \"Can't wait to pro and tell next week\"”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "Apple"
+      ],
+      "concepts": []
+    },
+    "clm-1d79b3769ec657640681": {
+      "text": "A touchscreen MacBook reverses a decade of company resistance under former CEO Tim Cook, who in 2012 rejected touchscreen laptops by comparing them to converging a toaster and refrigerator.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-At-Apple-Pigs-Are-About-to-Fly.md",
+        "anchor": "^clm-1d79b3769ec657640681"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9c900f3525631995d240",
+          "relation": "supports",
+          "locator": "§ Touchscreen MacBooks and the Ternus product era: “reverses a decade of corporate policy under former CEO Tim Cook”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "Apple",
+        "Tim Cook"
+      ],
+      "concepts": []
+    },
+    "clm-aa452ff1101aa84a0428": {
+      "text": "Touchscreen capability has become common in the laptop industry, appearing on approximately one in five notebook computers sold by late 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-At-Apple-Pigs-Are-About-to-Fly.md",
+        "anchor": "^clm-aa452ff1101aa84a0428"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9c900f3525631995d240",
+          "relation": "supports",
+          "locator": "§ Touchscreen MacBooks and the Ternus product era: “Touchscreens are now standard in the market, present on roughly one in five laptops sold”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "Apple"
+      ],
+      "concepts": []
+    },
+    "clm-90f34deb7fbd9a67ea31": {
+      "text": "The hardware pivot reflects the leadership of CEO John Ternus, a longtime hardware engineering executive who is more product-driven than Tim Cook was.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-At-Apple-Pigs-Are-About-to-Fly.md",
+        "anchor": "^clm-90f34deb7fbd9a67ea31"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9c900f3525631995d240",
+          "relation": "supports",
+          "locator": "§ Touchscreen MacBooks and the Ternus product era: “leadership changes under CEO John Ternus, a longtime hardware engineering executive”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "Apple",
+        "John Ternus",
+        "Tim Cook"
+      ],
+      "concepts": []
+    },
+    "clm-318ec23127030ed03030": {
+      "text": "John Ternus has led Apple into previously ignored categories with an initial product slate featuring the iPhone Duo foldable, HomeView smart display, and touchscreen MacBook.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-At-Apple-Pigs-Are-About-to-Fly.md",
+        "anchor": "^clm-318ec23127030ed03030"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9c900f3525631995d240",
+          "relation": "supports",
+          "locator": "§ Touchscreen MacBooks and the Ternus product era: “slate includes the iPhone Duo foldable phone, the HomeView smart display, and now a touchscreen MacBook”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "Apple",
+        "John Ternus",
+        "iPhone Duo"
+      ],
+      "concepts": []
+    },
+    "clm-9317c5bf147192a61689": {
+      "text": "Elon Musk announced a plan to give every American child one share of SpaceX stock in 2027, an endowment potentially worth nearly $11 billion.",
+      "assessment": "provisional",
+      "confidence": "medium",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-At-Apple-Pigs-Are-About-to-Fly.md",
+        "anchor": "^clm-9317c5bf147192a61689"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9c900f3525631995d240",
+          "relation": "supports",
+          "locator": "§ Industry briefing notes: “give every American child one share of SpaceX stock next year, an endowment potentially worth nearly $11 billion”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "prediction",
+      "as_of": "2027",
+      "subjects": [
+        "SpaceX",
+        "Elon Musk"
+      ],
+      "concepts": []
+    },
+    "clm-9415a83a150422cce797": {
+      "text": "The United States Department of Homeland Security ordered all federal civilian agencies to purge DeepSeek software from their systems and barred future purchases.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-At-Apple-Pigs-Are-About-to-Fly.md",
+        "anchor": "^clm-9415a83a150422cce797"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9c900f3525631995d240",
+          "relation": "supports",
+          "locator": "§ Industry briefing notes: “Department of Homeland Security ordered federal civilian agencies to remove DeepSeek software from IT systems”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "DeepSeek"
+      ],
+      "concepts": [
+        "Export-Controls"
+      ]
+    },
+    "clm-bbf46a7d82a6b20fe646": {
+      "text": "Federal prosecutors stated a former OpenAI employee accused of planting listening bugs in company offices had ties to the Saudi royal family.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-At-Apple-Pigs-Are-About-to-Fly.md",
+        "anchor": "^clm-bbf46a7d82a6b20fe646"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9c900f3525631995d240",
+          "relation": "supports",
+          "locator": "§ Industry briefing notes: “former OpenAI employee accused of bugging OpenAI offices had ties to the Saudi royal family”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-8e3502fb724ba161a8c0": {
+      "text": "Sonia Joseph, co-founder and CEO of startup World Mechanics, previously led Meta's research forum on interpretability.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Sonia-Joseph-on-Interpretability-and-Physical-AI.md",
+        "anchor": "^clm-8e3502fb724ba161a8c0"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1ca297c985f65cf881c4",
+          "relation": "supports",
+          "locator": "§ The connection between world models and mechanistic interpretability: “Sonia Joseph, co-founder and CEO of startup World Mechanics and former head of Meta's interpretability forum”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "World Mechanics",
+        "Sonia Joseph",
+        "Meta"
+      ],
+      "concepts": []
+    },
+    "clm-347df0685ca2a4d51d6c": {
+      "text": "Joseph contrasts an East Coast definition of world models centered on neuroscience and internal physical representations against a West Coast definition centered on photorealistic video generation and robot control.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Sonia-Joseph-on-Interpretability-and-Physical-AI.md",
+        "anchor": "^clm-347df0685ca2a4d51d6c"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1ca297c985f65cf881c4",
+          "relation": "supports",
+          "locator": "§ The connection between world models and mechanistic interpretability: “distinguishes the East Coast definition of world models”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "World Mechanics",
+        "Sonia Joseph"
+      ],
+      "concepts": [
+        "World-Models",
+        "Mechanistic-Interpretability"
+      ]
+    },
+    "clm-9870e3c983358df90583": {
+      "text": "Joseph argues accurate and safe world models require internal neural net representations that are disentangled, causal, and map functionally to physical mechanics.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Sonia-Joseph-on-Interpretability-and-Physical-AI.md",
+        "anchor": "^clm-9870e3c983358df90583"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1ca297c985f65cf881c4",
+          "relation": "supports",
+          "locator": "§ The connection between world models and mechanistic interpretability: “effective world models require internal representations that are disentangled, causal, and map directly to physical laws”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "World Mechanics",
+        "Sonia Joseph"
+      ],
+      "concepts": [
+        "World-Models",
+        "Mechanistic-Interpretability"
+      ]
+    },
+    "clm-6fc4b60103e2b2aeba84": {
+      "text": "Without white-box interpretability, physical AI models can rely on spurious cues, such as the color of a surgeon's mask or finger rings during robotic surgery.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Sonia-Joseph-on-Interpretability-and-Physical-AI.md",
+        "anchor": "^clm-6fc4b60103e2b2aeba84"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1ca297c985f65cf881c4",
+          "relation": "supports",
+          "locator": "§ The connection between world models and mechanistic interpretability: “Without white-box interpretability, physical AI models can rely on spurious cues, like a surgeon's mask color”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "World Mechanics",
+        "Sonia Joseph"
+      ],
+      "concepts": [
+        "Mechanistic-Interpretability"
+      ]
+    },
+    "clm-e6ed11568e79a6aedd83": {
+      "text": "Interpretability-guided training probes whether a neural network has internalized physical concepts like object permanence at intermediate steps, feeding corrective data to cut training data needs.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Sonia-Joseph-on-Interpretability-and-Physical-AI.md",
+        "anchor": "^clm-e6ed11568e79a6aedd83"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1ca297c985f65cf881c4",
+          "relation": "supports",
+          "locator": "§ Interpretability-guided training versus raw scale: “checks whether a model has learned a concept like object permanence and feeds data dynamically”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "World Mechanics",
+        "Sonia Joseph"
+      ],
+      "concepts": [
+        "Mechanistic-Interpretability"
+      ]
+    },
+    "clm-1a008bc9274ccbd83926": {
+      "text": "Joseph contends interpretability and inductive biases are compatible with the bitter lesson because structured verification can accelerate development cycles from years to weeks.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Sonia-Joseph-on-Interpretability-and-Physical-AI.md",
+        "anchor": "^clm-1a008bc9274ccbd83926"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1ca297c985f65cf881c4",
+          "relation": "supports",
+          "locator": "§ Interpretability-guided training versus raw scale: “compatible with the bitter lesson: while brute-force compute may eventually find physical representations”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "World Mechanics",
+        "Sonia Joseph"
+      ],
+      "concepts": [
+        "Mechanistic-Interpretability"
+      ]
+    },
+    "clm-b23f47cb491cb332ff28": {
+      "text": "Joseph proposes a training method that treats unsupervised video model latent space like an environment, using reinforcement learning to identify interpretable physical primitives and distill them into efficient architectures.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Sonia-Joseph-on-Interpretability-and-Physical-AI.md",
+        "anchor": "^clm-b23f47cb491cb332ff28"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1ca297c985f65cf881c4",
+          "relation": "supports",
+          "locator": "§ Interpretability-guided training versus raw scale: “distilling large unsupervised video models by using reinforcement learning to identify interpretable, causally relevant primitives”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "World Mechanics",
+        "Sonia Joseph"
+      ],
+      "concepts": [
+        "Distillation",
+        "Mechanistic-Interpretability"
+      ]
+    },
+    "clm-3a2ffc172e9bd3c0ea07": {
+      "text": "Joseph predicts physical AI will diverge from language models because multi-sensor environments require diverse, specialized models rather than a single dominant foundation model.",
+      "assessment": "provisional",
+      "confidence": "medium",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Sonia-Joseph-on-Interpretability-and-Physical-AI.md",
+        "anchor": "^clm-3a2ffc172e9bd3c0ea07"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1ca297c985f65cf881c4",
+          "relation": "supports",
+          "locator": "§ Interpretability-guided training versus raw scale: “physical AI will not follow language models with one foundation model ruling everything”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "prediction",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "World Mechanics",
+        "Sonia Joseph"
+      ],
+      "concepts": [
+        "World-Models"
+      ]
+    },
+    "clm-42043d39c9b109853573": {
+      "text": "Physical AI differs fundamentally from language AI because the physical world possesses mathematical and physical ground truth like Newtonian mechanics.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Sonia-Joseph-on-Interpretability-and-Physical-AI.md",
+        "anchor": "^clm-42043d39c9b109853573"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1ca297c985f65cf881c4",
+          "relation": "supports",
+          "locator": "§ Language limits and physical ground truth: “Unlike language, which has no single mathematical ground truth, the physical world has objective laws”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "World Mechanics",
+        "Sonia Joseph"
+      ],
+      "concepts": [
+        "World-Models"
+      ]
+    },
+    "clm-65cee27d3cc6499dc1a6": {
+      "text": "Joseph dismisses the idea that recursive self-improvement in language models will solve physical AI, citing real-world temporal and physical constraints.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Sonia-Joseph-on-Interpretability-and-Physical-AI.md",
+        "anchor": "^clm-65cee27d3cc6499dc1a6"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1ca297c985f65cf881c4",
+          "relation": "supports",
+          "locator": "§ Language limits and physical ground truth: “doubts recursive self-improvement from language models will solve physical AI, calling it a fairy tale”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "World Mechanics",
+        "Sonia Joseph"
+      ],
+      "concepts": []
+    },
+    "clm-dc8609ae59941df3b25a": {
+      "text": "Meta developed the Joint Embedding Predictive Architecture (JEPA) with Yann LeCun to predict abstract object representations in latent space instead of predicting raw pixels.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Sonia-Joseph-on-Interpretability-and-Physical-AI.md",
+        "anchor": "^clm-dc8609ae59941df3b25a"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1ca297c985f65cf881c4",
+          "relation": "supports",
+          "locator": "§ Language limits and physical ground truth: “Meta's Joint Embedding Predictive Architecture (JEPA), pioneered with Yann LeCun”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "Meta",
+        "Yann LeCun",
+        "Sonia Joseph"
+      ],
+      "concepts": [
+        "World-Models"
+      ]
+    },
+    "clm-daada72a7192b22795bf": {
+      "text": "Joseph departs from Yann LeCun by advocating an interpretability-first approach that directly verifies what latent spaces encode at each stage of network training.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Sonia-Joseph-on-Interpretability-and-Physical-AI.md",
+        "anchor": "^clm-daada72a7192b22795bf"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1ca297c985f65cf881c4",
+          "relation": "supports",
+          "locator": "§ Language limits and physical ground truth: “differs by insisting on interpretability first, verifying what latent spaces actually represent at each layer”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "World Mechanics",
+        "Sonia Joseph",
+        "Yann LeCun"
+      ],
+      "concepts": [
+        "Mechanistic-Interpretability"
+      ]
+    },
+    "clm-93c9a36812c49e2d63fe": {
+      "text": "Deploying physical AI into high-liability industries like medicine and steel production requires translating internal model reasoning into causal chains that workers can understand and verify.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Sonia-Joseph-on-Interpretability-and-Physical-AI.md",
+        "anchor": "^clm-93c9a36812c49e2d63fe"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1ca297c985f65cf881c4",
+          "relation": "supports",
+          "locator": "§ Language limits and physical ground truth: “Making AI interpretable to blue-collar workers and doctors in high-liability industries”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "World Mechanics",
+        "Sonia Joseph"
+      ],
+      "concepts": [
+        "Mechanistic-Interpretability"
+      ]
+    },
+    "clm-02c3352ae42ffa75efdc": {
+      "text": "Ayesha Arora-Hughes is raising a new venture capital fund called Permanent Partners Collective Fund I with her father Nikesh Arora advising.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Nikesh-Arora-Advises-Daughter-on-AI-Venture-Fund.md",
+        "anchor": "^clm-02c3352ae42ffa75efdc"
+      },
+      "evidence": [
+        {
+          "source_id": "src-04da7b0e8a997f29f178",
+          "relation": "supports",
+          "locator": "§ The new fund and executive advisory: “Ayesha Arora-Hughes, daughter of Palo Alto Networks CEO Nikesh Arora, is raising a new venture capital fund called Permanent Partners Collective Fund I”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "Ayesha Arora-Hughes",
+        "Nikesh Arora",
+        "Palo Alto Networks"
+      ],
+      "concepts": []
+    },
+    "clm-1eda31605900d66f7992": {
+      "text": "Permanent Partners Collective Fund I is targeting more than $100 million to invest in artificial intelligence application and infrastructure startups.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Nikesh-Arora-Advises-Daughter-on-AI-Venture-Fund.md",
+        "anchor": "^clm-1eda31605900d66f7992"
+      },
+      "evidence": [
+        {
+          "source_id": "src-04da7b0e8a997f29f178",
+          "relation": "supports",
+          "locator": "§ The new fund and executive advisory: “targets more than $100 million to invest in AI startups spanning applications and underlying computing infrastructure”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "Ayesha Arora-Hughes"
+      ],
+      "concepts": []
+    },
+    "clm-7237bb221d3d4005982c": {
+      "text": "Nikesh Arora advises the fund using experience gained as president and chief operating officer of SoftBank, where he oversaw investments in firms including Ola and Snapdeal.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Nikesh-Arora-Advises-Daughter-on-AI-Venture-Fund.md",
+        "anchor": "^clm-7237bb221d3d4005982c"
+      },
+      "evidence": [
+        {
+          "source_id": "src-04da7b0e8a997f29f178",
+          "relation": "supports",
+          "locator": "§ The new fund and executive advisory: “Nikesh Arora serves as an adviser to the firm and brings deep investing background”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "Nikesh Arora",
+        "SoftBank"
+      ],
+      "concepts": []
+    },
+    "clm-480efc5aa3d57dfaaab7": {
+      "text": "Venture capital firm General Catalyst appointed Nikesh Arora as its first lead independent director in April 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Nikesh-Arora-Advises-Daughter-on-AI-Venture-Fund.md",
+        "anchor": "^clm-480efc5aa3d57dfaaab7"
+      },
+      "evidence": [
+        {
+          "source_id": "src-04da7b0e8a997f29f178",
+          "relation": "supports",
+          "locator": "§ The new fund and executive advisory: “first lead independent director on the board of venture firm General Catalyst, appointed in April 2026”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-04",
+      "subjects": [
+        "General Catalyst",
+        "Nikesh Arora"
+      ],
+      "concepts": []
+    },
+    "clm-ed821192a744d2b6c603": {
+      "text": "Before founding Permanent Partners, Ayesha Arora-Hughes worked at venture firm S32, investing in coding agent maker Factory, legal tech firm Legora, and chip designer Etched.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Nikesh-Arora-Advises-Daughter-on-AI-Venture-Fund.md",
+        "anchor": "^clm-ed821192a744d2b6c603"
+      },
+      "evidence": [
+        {
+          "source_id": "src-04da7b0e8a997f29f178",
+          "relation": "supports",
+          "locator": "§ The new fund and executive advisory: “previously worked at venture capital firm S32 until July 2026, where she backed coding agent startup Factory”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "Ayesha Arora-Hughes"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-bc4d7957a84532d85440": {
+      "text": "Palo Alto Networks CEO Nikesh Arora has pursued acquisitions of cybersecurity startups to address disruptions caused by autonomous AI agents.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Nikesh-Arora-Advises-Daughter-on-AI-Venture-Fund.md",
+        "anchor": "^clm-bc4d7957a84532d85440"
+      },
+      "evidence": [
+        {
+          "source_id": "src-04da7b0e8a997f29f178",
+          "relation": "supports",
+          "locator": "§ Cybersecurity consolidation around AI agents: “Nikesh Arora has led an aggressive acquisition strategy at Palo Alto Networks, seeking cybersecurity startups”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "Palo Alto Networks",
+        "Nikesh Arora"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-e07ba6d05ed3cd5290bf": {
+      "text": "Palo Alto Networks management expects the growing sophistication of autonomous software agents will force fundamental changes in enterprise IT security defenses.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Nikesh-Arora-Advises-Daughter-on-AI-Venture-Fund.md",
+        "anchor": "^clm-e07ba6d05ed3cd5290bf"
+      },
+      "evidence": [
+        {
+          "source_id": "src-04da7b0e8a997f29f178",
+          "relation": "supports",
+          "locator": "§ Cybersecurity consolidation around AI agents: “believes the increasing sophistication of autonomous software agents will fundamentally alter enterprise IT defense”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-19",
+      "subjects": [
+        "Palo Alto Networks"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-564f901d9f30e19f868d": {
+      "text": "Reed Jobs' venture capital firm Yosemite, founded in 2023 with a $400 million target, reached $1.2 billion in assets under management by 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-19-Nikesh-Arora-Advises-Daughter-on-AI-Venture-Fund.md",
+        "anchor": "^clm-564f901d9f30e19f868d"
+      },
+      "evidence": [
+        {
+          "source_id": "src-04da7b0e8a997f29f178",
+          "relation": "supports",
+          "locator": "§ The new fund and executive advisory: “Yosemite, founded in 2023 by Reed Jobs (son of Steve Jobs), which started with a $400 million target and reached $1.2 billion in assets under management”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [
+        "PitchBook",
+        "Steve Jobs"
+      ],
+      "concepts": []
+    },
+    "clm-6ffa1ff93280219d71c5": {
+      "text": "CoreWeave shares fell approximately 20 percent in mid-October 2026, falling from near $80 to $61 and leaving the company valued at $35 billion.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning.md",
+        "anchor": "^clm-6ffa1ff93280219d71c5"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3118f233d13e35e58f6b",
+          "relation": "supports",
+          "locator": "§ The market selloff and rising debt yields: “CoreWeave shares fell roughly 20 percent in one week, dropping from nearly $80 to just over $61”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "CoreWeave"
+      ],
+      "concepts": []
+    },
+    "clm-a3ac686906824c0fcd8c": {
+      "text": "Yields on CoreWeave debt climbed above 15 percent as rising benchmark yields and inflation figures raised expectations of higher borrowing costs.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning.md",
+        "anchor": "^clm-a3ac686906824c0fcd8c"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3118f233d13e35e58f6b",
+          "relation": "supports",
+          "locator": "§ The market selloff and rising debt yields: “Yields on CoreWeave's existing debt climbed above 15 percent, reflecting sharp investor anxiety”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "CoreWeave"
+      ],
+      "concepts": []
+    },
+    "clm-59c8144f9535fdf2e694": {
+      "text": "Ben Horowitz criticized CoreWeave's debt-heavy structure as a Rube Goldberg financial machine, stating Andreessen Horowitz avoided investing in such models.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning.md",
+        "anchor": "^clm-59c8144f9535fdf2e694"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3118f233d13e35e58f6b",
+          "relation": "supports",
+          "locator": "§ The market selloff and rising debt yields: “Venture capitalist Ben Horowitz called CoreWeave a Rube Goldberg financial machine on the All-In podcast”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "Andreessen Horowitz",
+        "CoreWeave"
+      ],
+      "concepts": []
+    },
+    "clm-35f469178fff7aa57b9d": {
+      "text": "Investors frequently use CoreWeave equity and credit default swaps to hedge broad exposure to private foundation AI labs.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning.md",
+        "anchor": "^clm-35f469178fff7aa57b9d"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3118f233d13e35e58f6b",
+          "relation": "supports",
+          "locator": "§ The market selloff and rising debt yields: “Investors have used CoreWeave stock and credit default swaps to hedge broad exposure to private AI foundation labs”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "CoreWeave"
+      ],
+      "concepts": []
+    },
+    "clm-4370e70558eb5e285097": {
+      "text": "CoreWeave was founded in 2017 as Atlantic Crypto by commodities traders mining digital assets with Nvidia GPUs, before pivoting to cloud computing after the 2018 cryptocurrency crash.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning.md",
+        "anchor": "^clm-4370e70558eb5e285097"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3118f233d13e35e58f6b",
+          "relation": "supports",
+          "locator": "§ The debt model and Blackstone origin: “CoreWeave began in 2017 as Atlantic Crypto, founded by commodities traders mining cryptocurrency with Nvidia GPUs”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2017",
+      "subjects": [
+        "CoreWeave",
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-e74186bc106dafb19939": {
+      "text": "Blackstone CEO Steve Schwarzman approved a $2.3 billion loan to CoreWeave in August 2023 despite internal misgivings about backing a firm that made only $16 million the prior year.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning.md",
+        "anchor": "^clm-e74186bc106dafb19939"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3118f233d13e35e58f6b",
+          "relation": "supports",
+          "locator": "§ The debt model and Blackstone origin: “Blackstone CEO Steve Schwarzman approved a $2.3 billion loan to CoreWeave despite serious internal misgivings”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2023-08",
+      "subjects": [
+        "Blackstone",
+        "CoreWeave"
+      ],
+      "concepts": []
+    },
+    "clm-3dd4e9d91ec418f6e856": {
+      "text": "CoreWeave secured its foundational Blackstone financing after landing a multibillion-dollar contract from Microsoft, which lacked sufficient GPUs after ChatGPT launched.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning.md",
+        "anchor": "^clm-3dd4e9d91ec418f6e856"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3118f233d13e35e58f6b",
+          "relation": "supports",
+          "locator": "§ The debt model and Blackstone origin: “anchored by Microsoft's compute contract after OpenAI's ChatGPT launch left Microsoft short of GPUs”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2023",
+      "subjects": [
+        "CoreWeave",
+        "Microsoft",
+        "OpenAI",
+        "Blackstone"
+      ],
+      "concepts": [
+        "AI-Compute-Demand"
+      ]
+    },
+    "clm-b4ccf20f9a33d8a7d593": {
+      "text": "CoreWeave structures project financing by borrowing against customer contracts, estimating it takes two and a half years of contract cash flow to pay off project debt.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning.md",
+        "anchor": "^clm-b4ccf20f9a33d8a7d593"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3118f233d13e35e58f6b",
+          "relation": "supports",
+          "locator": "§ The debt model and Blackstone origin: “estimating it takes two and a half years of cash flow to repay project debt”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "CoreWeave"
+      ],
+      "concepts": []
+    },
+    "clm-24b2e9e879752e23466f": {
+      "text": "CoreWeave generated $5.1 billion in revenue in 2025 across cloud computing agreements with Microsoft, Meta, and OpenAI.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning.md",
+        "anchor": "^clm-24b2e9e879752e23466f"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3118f233d13e35e58f6b",
+          "relation": "supports",
+          "locator": "§ The debt model and Blackstone origin: “In 2025, CoreWeave generated $5.1 billion in revenue across contracts with Microsoft, Meta, and OpenAI”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2025",
+      "subjects": [
+        "CoreWeave",
+        "Microsoft",
+        "Meta",
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-0f786e153f90a2f306f7": {
+      "text": "Insurance companies including American General Life, Fidelity & Guaranty Life, and Security Life of Denver purchased more than $740 million of CoreWeave project debt backed by a Meta contract.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning.md",
+        "anchor": "^clm-0f786e153f90a2f306f7"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3118f233d13e35e58f6b",
+          "relation": "supports",
+          "locator": "§ Wall Street ties and insurance capital: “insurance companies seeking yield, including American General Life Insurance, Fidelity & Guaranty Life, and Security Life of Denver”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "CoreWeave",
+        "Blackstone",
+        "Meta"
+      ],
+      "concepts": []
+    },
+    "clm-8271692f0d25cc2df138": {
+      "text": "Nvidia invested $221 million in CoreWeave in April 2023 and an additional $2 billion in January 2026 to support independent cloud competition against hyperscalers.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning.md",
+        "anchor": "^clm-8271692f0d25cc2df138"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3118f233d13e35e58f6b",
+          "relation": "supports",
+          "locator": "§ Wall Street ties and insurance capital: “Nvidia invested $221 million in CoreWeave in April 2023 and another $2 billion in January 2026”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-01",
+      "subjects": [
+        "Nvidia",
+        "CoreWeave"
+      ],
+      "concepts": []
+    },
+    "clm-2b4b1514bf23a8b97759": {
+      "text": "Nvidia CEO Jensen Huang stated CoreWeave's strength is improving every day and maintained the company will not require extra Nvidia credit backstops.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning.md",
+        "anchor": "^clm-2b4b1514bf23a8b97759"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3118f233d13e35e58f6b",
+          "relation": "supports",
+          "locator": "§ Wall Street ties and insurance capital: “Nvidia CEO Jensen Huang publicly defended CoreWeave, saying its strength was improving daily”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "Nvidia",
+        "CoreWeave",
+        "Jensen Huang"
+      ],
+      "concepts": []
+    },
+    "clm-7980b93d4cbeca67c5b3": {
+      "text": "CoreWeave raised its hourly GPU rental pricing by an additional 10 percent in autumn 2026, building on prior price increases.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning.md",
+        "anchor": "^clm-7980b93d4cbeca67c5b3"
+      },
+      "evidence": [
+        {
+          "source_id": "src-3118f233d13e35e58f6b",
+          "relation": "supports",
+          "locator": "§ Wall Street ties and insurance capital: “Rosenblatt Securities analyst John McPeake noted CoreWeave raised hourly GPU rental prices by an additional 10 percent”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "CoreWeave"
+      ],
+      "concepts": []
+    },
+    "clm-34d02f75755f6213b132": {
+      "text": "Nvidia is negotiating to invest hundreds of millions of dollars in Australian cloud provider Firmus after Firmus aborted its initial public offering in October 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO.md",
+        "anchor": "^clm-34d02f75755f6213b132"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf0def9e852e44a0327b",
+          "relation": "supports",
+          "locator": "§ Nvidia's rescue talks with Firmus: “Nvidia is negotiating to invest hundreds of millions of dollars in Australian GPU cloud provider Firmus”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Nvidia",
+        "Firmus"
+      ],
+      "concepts": []
+    },
+    "clm-351154ac4717bcb07c6c": {
+      "text": "Firmus sought a $30 billion valuation to raise $5 billion on the Australian Securities Exchange before canceling the listing due to investor resistance over valuation and revenue prospects.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO.md",
+        "anchor": "^clm-351154ac4717bcb07c6c"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf0def9e852e44a0327b",
+          "relation": "supports",
+          "locator": "§ Nvidia's rescue talks with Firmus: “Firmus had sought a $30 billion valuation to raise $5 billion on the Australian Securities Exchange”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Firmus"
+      ],
+      "concepts": []
+    },
+    "clm-d6807b6416604e1193e2": {
+      "text": "Firmus has raised more than $13 billion across equity and debt, including approximately $10 billion in debt, with backing from Blackstone, Coatue, Jane Street, and Nvidia.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO.md",
+        "anchor": "^clm-d6807b6416604e1193e2"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf0def9e852e44a0327b",
+          "relation": "supports",
+          "locator": "§ Nvidia's rescue talks with Firmus: “Firmus has raised over $13 billion to date, including roughly $10 billion in debt”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "Firmus",
+        "Blackstone",
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-8a49f234f044119f2a1e": {
+      "text": "Following its canceled public listing, Firmus is seeking to raise at least $2 billion in private financing with significant equity participation from Nvidia.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO.md",
+        "anchor": "^clm-8a49f234f044119f2a1e"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf0def9e852e44a0327b",
+          "relation": "supports",
+          "locator": "§ Nvidia's rescue talks with Firmus: “Firmus is now attempting to raise at least $2 billion privately, with Nvidia poised to contribute”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Firmus",
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-821da3409cbdabced334": {
+      "text": "Nvidia has committed more than $170 billion in credit backstops, equity investments, and chip allocations to support neoclouds and large GPU customers.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO.md",
+        "anchor": "^clm-821da3409cbdabced334"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf0def9e852e44a0327b",
+          "relation": "supports",
+          "locator": "§ Nvidia's $170 billion neocloud exposure: “Nvidia has committed more than $170 billion to support neoclouds and large customers”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-0c6d2f7ba953dec5f4ac": {
+      "text": "Nvidia agreed in June 2026 to guarantee Firmus' $15 billion purchase of server racks housing 170,000 Rubin and Blackwell GPUs for DayOne's facility in Batam, Indonesia.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO.md",
+        "anchor": "^clm-0c6d2f7ba953dec5f4ac"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf0def9e852e44a0327b",
+          "relation": "supports",
+          "locator": "§ Nvidia's $170 billion neocloud exposure: “backstop Firmus' purchase of server racks housing at least 170,000 Rubin and Blackwell GPUs valued at roughly $15 billion”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-06",
+      "subjects": [
+        "Nvidia",
+        "Firmus",
+        "DayOne"
+      ],
+      "concepts": []
+    },
+    "clm-6a64e76b682eedf78bbb": {
+      "text": "Nvidia supports neoclouds to defend GPU demand as its biggest cloud customers, including Google, Microsoft, and Amazon, develop in-house server processors.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO.md",
+        "anchor": "^clm-6a64e76b682eedf78bbb"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf0def9e852e44a0327b",
+          "relation": "supports",
+          "locator": "§ Nvidia's $170 billion neocloud exposure: “major cloud hyperscalers like Google, Microsoft, and Amazon are developing proprietary server chips”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "Nvidia",
+        "Google",
+        "Microsoft",
+        "Amazon"
+      ],
+      "concepts": [
+        "Custom-Silicon"
+      ]
+    },
+    "clm-2bf00bf5de794edb75fc": {
+      "text": "An internal Nvidia team co-led by Nico Caprez assists neocloud partners in securing scarce data center locations with grid power connectivity.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO.md",
+        "anchor": "^clm-2bf00bf5de794edb75fc"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf0def9e852e44a0327b",
+          "relation": "supports",
+          "locator": "§ Nvidia's $170 billion neocloud exposure: “co-led by Jensen Huang's son-in-law Nico Caprez helps neoclouds locate scarce data center sites”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-2019997604a8f413cc99": {
+      "text": "Larger neoclouds rejected Nvidia's initial credit support program because it required sharing a cut of future cloud computing revenue.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO.md",
+        "anchor": "^clm-2019997604a8f413cc99"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf0def9e852e44a0327b",
+          "relation": "supports",
+          "locator": "§ Adjusting credit support terms: “larger neoclouds balked at handing over revenue shares”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-f8e4af21ff81574f5e44": {
+      "text": "Nvidia modified its credit support structure for data center developers, providing shorter-term guarantees in exchange for a smaller share of cloud revenue.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO.md",
+        "anchor": "^clm-f8e4af21ff81574f5e44"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf0def9e852e44a0327b",
+          "relation": "supports",
+          "locator": "§ Adjusting credit support terms: “offering shorter-term backstops in exchange for a smaller percentage of revenues”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-2f8a5e45d0380ba129c3": {
+      "text": "Meta released Muse Spark Open, an open-weight AI model optimized to run locally on Mac computers, while Apple updated its MLX machine learning software toolkit to support it.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick.md",
+        "anchor": "^clm-2f8a5e45d0380ba129c3"
+      },
+      "evidence": [
+        {
+          "source_id": "src-049bcd215b8fe390d6ed",
+          "relation": "supports",
+          "locator": "§ Muse Spark Open: “Meta Platforms said Thursday that it was releasing a new open-weight AI model and collaborating with Apple to run it locally on the company’s high-end Mac computers.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "Meta",
+        "Apple"
+      ],
+      "concepts": [
+        "Open-Weight-Models",
+        "Local-Inference"
+      ]
+    },
+    "clm-f9f87fb5b95478fda728": {
+      "text": "Commercial services deploying Muse Spark Open must enter a formal agreement with Meta if their annual revenue surpasses $20 million.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick.md",
+        "anchor": "^clm-f9f87fb5b95478fda728"
+      },
+      "evidence": [
+        {
+          "source_id": "src-049bcd215b8fe390d6ed",
+          "relation": "supports",
+          "locator": "§ Muse Spark Open: “Companies offering the model as a service must enter into a commercial agreement with Meta if their total annual revenue exceeds $20 million.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "Meta"
+      ],
+      "concepts": [
+        "Open-Weight-Models"
+      ]
+    },
+    "clm-897bcc23e5c952b1721a": {
+      "text": "Unlike Meta's license restrictions, Chinese models DeepSeek-V4.1-Flash and smaller Qwen models carry permissive MIT and Apache open source licenses.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick.md",
+        "anchor": "^clm-897bcc23e5c952b1721a"
+      },
+      "evidence": [
+        {
+          "source_id": "src-049bcd215b8fe390d6ed",
+          "relation": "supports",
+          "locator": "§ Muse Spark Open: “both are effectively free to use as you wish.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "DeepSeek",
+        "Qwen",
+        "Meta"
+      ],
+      "concepts": [
+        "Open-Weight-Models"
+      ]
+    },
+    "clm-25bd6e5de0d9d4be48e6": {
+      "text": "Thompson argues American open-weight developers suffer a disadvantage against Chinese labs because terms of service prohibit distilling frontier models, forcing US open models to distill distillations.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick.md",
+        "anchor": "^clm-25bd6e5de0d9d4be48e6"
+      },
+      "evidence": [
+        {
+          "source_id": "src-049bcd215b8fe390d6ed",
+          "relation": "supports",
+          "locator": "§ Muse Spark Open: “Because U.S. open weight model makers must follow the frontier labs’ terms of service, they (1) are worse than Chinese alternatives and (2) end up distilling the distillation”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "Meta",
+        "DeepSeek"
+      ],
+      "concepts": [
+        "Distillation",
+        "Open-Weight-Models"
+      ]
+    },
+    "clm-5dfcbb6dd1708df6a9f9": {
+      "text": "The United States Department of Homeland Security issued a directive ordering all federal civilian agencies to eliminate DeepSeek models from their IT environments.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick.md",
+        "anchor": "^clm-5dfcbb6dd1708df6a9f9"
+      },
+      "evidence": [
+        {
+          "source_id": "src-049bcd215b8fe390d6ed",
+          "relation": "supports",
+          "locator": "§ Muse Spark Open: “Department of Homeland Security mandated that federal civilian agencies rid themselves of DeepSeek models”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "DeepSeek"
+      ],
+      "concepts": [
+        "Export-Controls"
+      ]
+    },
+    "clm-d93b005ee59704b1cf33": {
+      "text": "Thompson notes that John Ternus replacing Tim Cook as Apple CEO helped thaw relations between Apple and Meta, enabling engineering collaboration on local AI.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick.md",
+        "anchor": "^clm-d93b005ee59704b1cf33"
+      },
+      "evidence": [
+        {
+          "source_id": "src-049bcd215b8fe390d6ed",
+          "relation": "supports",
+          "locator": "§ Meta + Apple: “perhaps because of the replacement of Tim Cook with John Ternus as Apple CEO, there is an actual thawing of the relationship”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "Apple",
+        "Meta",
+        "John Ternus",
+        "Tim Cook"
+      ],
+      "concepts": []
+    },
+    "clm-e9f678d7c5678fdeeee0": {
+      "text": "Apple demonstrated local AI development at its Cupertino campus using two Mac Studio computers with 512GB of unified memory connected via four Thunderbolt 5 cables.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick.md",
+        "anchor": "^clm-e9f678d7c5678fdeeee0"
+      },
+      "evidence": [
+        {
+          "source_id": "src-049bcd215b8fe390d6ed",
+          "relation": "supports",
+          "locator": "§ Meta + Apple: “two Macs Studio with 512GB of unified memory linked together with four Thunderbolt 5 cables”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "Apple"
+      ],
+      "concepts": [
+        "Local-Inference"
+      ]
+    },
+    "clm-976af6d2c1c4935e1496": {
+      "text": "Thompson argues that running AI models locally creates effectively zero-cost tokens, enabling speculative coding where a harness builds multiple alternative feature paths overnight like CPU branch prediction.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick.md",
+        "anchor": "^clm-976af6d2c1c4935e1496"
+      },
+      "evidence": [
+        {
+          "source_id": "src-049bcd215b8fe390d6ed",
+          "relation": "supports",
+          "locator": "§ Meta + Apple: “if inference is running locally, however, then you have effectively unlimited tokens, which means throwing away unused paths is costless”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "Apple",
+        "Meta"
+      ],
+      "concepts": [
+        "Local-Inference",
+        "AI-Agents"
+      ]
+    },
+    "clm-ea6db657ad94343fbb37": {
+      "text": "Thompson maintains that thin-client cloud computing remains dominant because scarce high-end compute and massive memory aggregate most economically in centralized data centers.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick.md",
+        "anchor": "^clm-ea6db657ad94343fbb37"
+      },
+      "evidence": [
+        {
+          "source_id": "src-049bcd215b8fe390d6ed",
+          "relation": "supports",
+          "locator": "§ Thin and Thick: “if compute isn’t yet good enough, then workloads will flow to wherever compute is the best, which is going to be in large data centers”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "Meta",
+        "Apple"
+      ],
+      "concepts": [
+        "Local-Inference",
+        "Scale-Economies"
+      ]
+    },
+    "clm-ef128dd3272ad4b11629": {
+      "text": "With high-spec 512GB Mac Studio rigs costing around $20,000, cloud API and subscription pricing remains more economically viable for the vast majority of users.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick.md",
+        "anchor": "^clm-ef128dd3272ad4b11629"
+      },
+      "evidence": [
+        {
+          "source_id": "src-049bcd215b8fe390d6ed",
+          "relation": "supports",
+          "locator": "§ Thin and Thick: “Given that a reasonably equipped 512GB Mac Studio is probably going to be approaching $20,000 or so, even API costs”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-20",
+      "subjects": [
+        "Apple"
+      ],
+      "concepts": [
+        "Local-Inference"
+      ]
+    },
+    "clm-450358e828faa87b7c93": {
+      "text": "Netflix generated third-quarter 2026 revenue of $12.9 billion, up 12 percent year-over-year for its lowest quarterly percentage growth in three years, with net income rising 44 percent to $3.66 billion.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal.md",
+        "anchor": "^clm-450358e828faa87b7c93"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a1d64b4ec58b5310fbef",
+          "relation": "supports",
+          "locator": "§ Netflix Earnings: “revenue of $12.9 billion, up 12% from the same period a year earlier. That is the company’s lowest quarterly-revenue percentage growth in three years.”"
+        }
+      ],
+      "notes": "Updates clm-c571ee37385500fb0701: Netflix reported 12% revenue growth to $12.9 billion, matching its 11.7% guidance.",
+      "supersedes": "clm-c571ee37385500fb0701",
+      "kind": "fact",
+      "as_of": "2026-Q3",
+      "subjects": [
+        "Netflix"
+      ],
+      "concepts": []
+    },
+    "clm-e7e16e3ca289bb3eae87": {
+      "text": "Netflix laid off approximately 1,000 employees, or 6 percent of its workforce, and replaced both its content chief and film division head following programming difficulties.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal.md",
+        "anchor": "^clm-e7e16e3ca289bb3eae87"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a1d64b4ec58b5310fbef",
+          "relation": "supports",
+          "locator": "§ Netflix Earnings: “Netflix has cut its workforce by about 6%, or around 1,000 positions, and parted ways with its content chief and the head of its film unit”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Netflix"
+      ],
+      "concepts": []
+    },
+    "clm-5c2e7f24c16fc044ff98": {
+      "text": "Netflix stock fell over 40 percent in the year leading up to October 2026, pressured by slowing growth after its failed takeover bid for Warner Bros. Discovery assets.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal.md",
+        "anchor": "^clm-5c2e7f24c16fc044ff98"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a1d64b4ec58b5310fbef",
+          "relation": "supports",
+          "locator": "§ Netflix Earnings: “Netflix’s stock is down more than 40% over the past year.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Netflix",
+        "Warner Bros. Discovery"
+      ],
+      "concepts": []
+    },
+    "clm-0720ecec18e1bf6c18ab": {
+      "text": "Netflix co-CEO Greg Peters pointed to industry-leading low churn across all regions as proof that recent price hikes succeeded and customer value remained healthy.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal.md",
+        "anchor": "^clm-0720ecec18e1bf6c18ab"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a1d64b4ec58b5310fbef",
+          "relation": "supports",
+          "locator": "§ Netflix Earnings: “The best evidence that we’ve got that we’re delivering that value is churn. We’ve got healthy retention in every region.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "Netflix",
+        "Greg Peters"
+      ],
+      "concepts": []
+    },
+    "clm-ae888b3856f6beb39938": {
+      "text": "Netflix co-CEO Ted Sarandos conceded that while international programming is driving growth, viewing engagement in the United States is not growing as fast as management desires.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal.md",
+        "anchor": "^clm-ae888b3856f6beb39938"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a1d64b4ec58b5310fbef",
+          "relation": "supports",
+          "locator": "§ Netflix Earnings: “Now the U.S. is also working. It’s just not growing as fast as it could or as fast as we’d like.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "Netflix",
+        "Ted Sarandos"
+      ],
+      "concepts": []
+    },
+    "clm-b0ec6582ba9bc5300e58": {
+      "text": "Thompson argues Netflix's content reputation remains excessively reliant on Stranger Things, which originally premiered ten years earlier without comparable widespread successors.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal.md",
+        "anchor": "^clm-b0ec6582ba9bc5300e58"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a1d64b4ec58b5310fbef",
+          "relation": "supports",
+          "locator": "§ Netflix Earnings: “Stranger Things is by far Netflix’s most well-regarded show, at least as far as widespread acclaim for content quality goes, and it premiered ten years ago!”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "Netflix"
+      ],
+      "concepts": []
+    },
+    "clm-62202b1424d10dff2614": {
+      "text": "Buffett defined an economic franchise as a business with no close substitutes, unregulated pricing, and an ability to absorb managerial mistakes without mortal injury.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal.md",
+        "anchor": "^clm-62202b1424d10dff2614"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a1d64b4ec58b5310fbef",
+          "relation": "supports",
+          "locator": "§ Business or Franchise: “An economic franchise arises from a product or service that: (1) is needed or desired; (2) is thought by its customers to have no close substitute”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "Warren Buffett"
+      ],
+      "concepts": [
+        "Sustainable-Competitive-Advantage"
+      ]
+    },
+    "clm-f6a4ab22dd034ed1f899": {
+      "text": "Buffett contrasted franchises with ordinary businesses, which earn superior returns only through low-cost operations or tight supply and remain vulnerable to poor management.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal.md",
+        "anchor": "^clm-f6a4ab22dd034ed1f899"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a1d64b4ec58b5310fbef",
+          "relation": "supports",
+          "locator": "§ Business or Franchise: “In contrast, “a business” earns exceptional profits only if it is the low-cost operator or if supply of its product or service is tight.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "Warren Buffett"
+      ],
+      "concepts": [
+        "Sustainable-Competitive-Advantage"
+      ]
+    },
+    "clm-eea56ecc747554c0a6ca": {
+      "text": "Thompson argues Netflix was previously viewed as an unstoppable franchise destined to aggregate all entertainment, but has transitioned into a business where further growth demands flawless execution.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal.md",
+        "anchor": "^clm-eea56ecc747554c0a6ca"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a1d64b4ec58b5310fbef",
+          "relation": "supports",
+          "locator": "§ Business or Franchise: “That doesn’t mean it’s a bad business, it just means it is in fact a business, not a franchise, at least when it comes to growth.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "Netflix"
+      ],
+      "concepts": [
+        "Aggregation-Theory",
+        "Sustainable-Competitive-Advantage"
+      ]
+    },
+    "clm-fbc2222825b45ef6eed5": {
+      "text": "Disney licensed library titles and current television seasons to Netflix to leverage Netflix's global user base of more than 325 million subscribers.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal.md",
+        "anchor": "^clm-fbc2222825b45ef6eed5"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a1d64b4ec58b5310fbef",
+          "relation": "supports",
+          "locator": "§ Disney’s Deal: “Disney Entertainment and Netflix have entered into an expansive new content licensing agreement, which will bring an eclectic mix of library titles”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Disney",
+        "Netflix"
+      ],
+      "concepts": []
+    },
+    "clm-9de733a33514432cb9e5": {
+      "text": "Disney licensed Percy Jackson and the Olympians seasons to Netflix for a three-month promotional run ahead of its season premiere on Disney+.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal.md",
+        "anchor": "^clm-9de733a33514432cb9e5"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a1d64b4ec58b5310fbef",
+          "relation": "supports",
+          "locator": "§ Disney’s Deal: “Disney+ original series “Percy Jackson and the Olympians” Seasons 1-2 will be available on Netflix globally beginning Oct. 4”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Disney",
+        "Netflix"
+      ],
+      "concepts": []
+    },
+    "clm-f568a6a6e405f8e018d5": {
+      "text": "Disney licensed five Ice Age films to Netflix worldwide starting October 2026 as a promotional window before theatrical release of the sixth installment.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal.md",
+        "anchor": "^clm-f568a6a6e405f8e018d5"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a1d64b4ec58b5310fbef",
+          "relation": "supports",
+          "locator": "§ Disney’s Deal: “all five of 20th Century Studios’ “Ice Age” films will be available on Netflix worldwide beginning Oct. 4”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Disney",
+        "Netflix"
+      ],
+      "concepts": []
+    },
+    "clm-b73ce5c322718c5e6f67": {
+      "text": "Thompson argues Disney licensing major franchises to promote theatrical releases demonstrates that Netflix's massive distribution scale makes it the superior vehicle for monetizing entertainment content.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-21",
+      "location": {
+        "path": "wiki/sources/2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal.md",
+        "anchor": "^clm-b73ce5c322718c5e6f67"
+      },
+      "evidence": [
+        {
+          "source_id": "src-a1d64b4ec58b5310fbef",
+          "relation": "supports",
+          "locator": "§ Disney’s Deal: “when money is actually on the line — specifically, an upcoming theatrical release — even Disney realizes that its optimal strategy is to build an audience on Netflix, not its own service.”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10-21",
+      "subjects": [
+        "Disney",
+        "Netflix"
+      ],
+      "concepts": [
+        "Aggregation-Theory"
+      ]
     }
   },
-  "generated_at": "2026-10-19T21:49:00Z",
+  "generated_at": "2026-10-22T01:28:33Z",
   "schema": "claude-obsidian.claim-ledger.v1"
 }

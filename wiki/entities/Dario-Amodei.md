@@ -3,11 +3,11 @@ type: entity
 title: Dario Amodei
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/person
-claim_count: 8
+claim_count: 9
 ---
 
 # Dario Amodei
@@ -42,6 +42,10 @@ CEO and cofounder of Anthropic.
 
 - Dario Amodei pushed OpenAI on information hazard risks before leaving in 2021, writing memos on an air-gapped computer disconnected from networks to avoid foreign espionage. ([[2026-10-14-OpenAIs-Math-Breakthroughs-Rattle-Cryptography-Leaders#^clm-d3b7b3426edcbc25c0d0|cite]])
 
+### 2026-10-19 [[2026-10-19-Altman-Describes-Three-Endgames-for-AI|Altman Describes Three Endgames for AI, Including One Where a Single Firm ‘Melts Everyone Else’s GPUs’]]
+
+- Anthropic CEO Dario Amodei argued the United States and China can agree on prohibitions against dangerous uses like bioweapons, while the United States maintains its advanced chip lead. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-457cf7e6141fafedb96f|cite]])
+
 ## Related concepts
 
-[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]]
+[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Export-Controls|Chip Export Controls]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]]

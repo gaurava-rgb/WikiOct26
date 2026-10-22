@@ -3,11 +3,11 @@ type: entity
 title: Andreessen Horowitz
 status: developing
 created: 2026-10-13
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 8
+claim_count: 9
 ---
 
 # Andreessen Horowitz
@@ -29,6 +29,10 @@ Venture capital firm (a16z) and Applied Intuition investor.
 
 - Applied Intuition had $400 million in annual recurring revenue at the end of 2024 and has doubled revenue every year in recent years, Andreessen Horowitz said in July 2026. ([[2026-10-13-Applied-Intuition-Fields-Offers-at-30-Billion-Valuation#^clm-9f5f611191b0c6946270|cite]])
 - Applied Intuition has raised $1.2 billion from investors including Andreessen Horowitz, General Catalyst, Lux Capital and Kleiner Perkins, and had not used most of it as of July 2026. ([[2026-10-13-Applied-Intuition-Fields-Offers-at-30-Billion-Valuation#^clm-bb0f7b48d20574bcafee|cite]])
+
+### 2026-10-20 [[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning|How CoreWeave’s Debt Binge Brought a Moment of Reckoning]]
+
+- Ben Horowitz criticized CoreWeave's debt-heavy structure as a Rube Goldberg financial machine, stating Andreessen Horowitz avoided investing in such models. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-59c8144f9535fdf2e694|cite]])
 
 ## Related concepts
 

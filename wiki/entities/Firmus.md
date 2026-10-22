@@ -3,10 +3,10 @@ type: entity
 title: Firmus
 status: developing
 created: 2026-10-13
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
-claim_count: 7
+claim_count: 12
 ---
 
 # Firmus
@@ -37,6 +37,14 @@ claim_count: 7
 ### 2026-10-18 [[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose|Neocloud Shakeout Looms, and Nvidia Has a Lot to Lose]]
 
 - CoreWeave CEO Michael Intrator criticized rivals Firmus, Lambda, and Nscale for seeking massive capital without the execution, scale, or software solutions of CoreWeave. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-4acc526be5a41f8987d3|cite]])
+
+### 2026-10-20 [[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO|Nvidia Moves to Back GPU Cloud Provider Firmus After Investors Balk at Its IPO]]
+
+- Nvidia is negotiating to invest hundreds of millions of dollars in Australian cloud provider Firmus after Firmus aborted its initial public offering in October 2026. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-34d02f75755f6213b132|cite]])
+- Firmus sought a $30 billion valuation to raise $5 billion on the Australian Securities Exchange before canceling the listing due to investor resistance over valuation and revenue prospects. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-351154ac4717bcb07c6c|cite]])
+- Firmus has raised more than $13 billion across equity and debt, including approximately $10 billion in debt, with backing from Blackstone, Coatue, Jane Street, and Nvidia. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-d6807b6416604e1193e2|cite]])
+- Following its canceled public listing, Firmus is seeking to raise at least $2 billion in private financing with significant equity participation from Nvidia. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-8a49f234f044119f2a1e|cite]])
+- Nvidia agreed in June 2026 to guarantee Firmus' $15 billion purchase of server racks housing 170,000 Rubin and Blackwell GPUs for DayOne's facility in Batam, Indonesia. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-0c6d2f7ba953dec5f4ac|cite]])
 
 ## Related concepts
 

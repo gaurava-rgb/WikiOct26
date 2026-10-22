@@ -3,11 +3,11 @@ type: entity
 title: CoreWeave
 status: developing
 created: 2026-10-09
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 19
+claim_count: 32
 ---
 
 # CoreWeave
@@ -55,6 +55,22 @@ Neocloud that rents out Nvidia AI chips; Nvidia has invested in it.
 - CoreWeave primarily leases data center facilities, whereas builder clouds like Nebius, IREN, and Nscale risk stalled construction if financing dries up. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-a79d412686eda8e1396a|cite]])
 - CoreWeave CEO Michael Intrator criticized rivals Firmus, Lambda, and Nscale for seeking massive capital without the execution, scale, or software solutions of CoreWeave. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-4acc526be5a41f8987d3|cite]])
 - Nvidia CEO Jensen Huang stated in Stockholm that CoreWeave will not need further credit backstops beyond an existing $6.3 billion GPU rent-back agreement. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-e56051fec12c2ad66514|cite]])
+
+### 2026-10-20 [[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning|How CoreWeave’s Debt Binge Brought a Moment of Reckoning]]
+
+- CoreWeave shares fell approximately 20 percent in mid-October 2026, falling from near $80 to $61 and leaving the company valued at $35 billion. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-6ffa1ff93280219d71c5|cite]])
+- Yields on CoreWeave debt climbed above 15 percent as rising benchmark yields and inflation figures raised expectations of higher borrowing costs. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-a3ac686906824c0fcd8c|cite]])
+- Ben Horowitz criticized CoreWeave's debt-heavy structure as a Rube Goldberg financial machine, stating Andreessen Horowitz avoided investing in such models. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-59c8144f9535fdf2e694|cite]])
+- Investors frequently use CoreWeave equity and credit default swaps to hedge broad exposure to private foundation AI labs. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-35f469178fff7aa57b9d|cite]])
+- CoreWeave was founded in 2017 as Atlantic Crypto by commodities traders mining digital assets with Nvidia GPUs, before pivoting to cloud computing after the 2018 cryptocurrency crash. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-4370e70558eb5e285097|cite]])
+- Blackstone CEO Steve Schwarzman approved a $2.3 billion loan to CoreWeave in August 2023 despite internal misgivings about backing a firm that made only $16 million the prior year. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-e74186bc106dafb19939|cite]])
+- CoreWeave secured its foundational Blackstone financing after landing a multibillion-dollar contract from Microsoft, which lacked sufficient GPUs after ChatGPT launched. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-3dd4e9d91ec418f6e856|cite]])
+- CoreWeave structures project financing by borrowing against customer contracts, estimating it takes two and a half years of contract cash flow to pay off project debt. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-b4ccf20f9a33d8a7d593|cite]])
+- CoreWeave generated $5.1 billion in revenue in 2025 across cloud computing agreements with Microsoft, Meta, and OpenAI. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-24b2e9e879752e23466f|cite]])
+- Insurance companies including American General Life, Fidelity & Guaranty Life, and Security Life of Denver purchased more than $740 million of CoreWeave project debt backed by a Meta contract. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-0f786e153f90a2f306f7|cite]])
+- Nvidia invested $221 million in CoreWeave in April 2023 and an additional $2 billion in January 2026 to support independent cloud competition against hyperscalers. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-8271692f0d25cc2df138|cite]])
+- Nvidia CEO Jensen Huang stated CoreWeave's strength is improving every day and maintained the company will not require extra Nvidia credit backstops. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-2b4b1514bf23a8b97759|cite]])
+- CoreWeave raised its hourly GPU rental pricing by an additional 10 percent in autumn 2026, building on prior price increases. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-7980b93d4cbeca67c5b3|cite]])
 
 ## Related concepts
 

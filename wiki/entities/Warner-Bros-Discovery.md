@@ -3,11 +3,11 @@ type: entity
 title: Warner Bros. Discovery
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 8
+claim_count: 9
 ---
 
 # Warner Bros. Discovery
@@ -32,6 +32,10 @@ Media company owning the Warner Bros. studio and HBO Max streaming service.
 ### 2026-10-06 [[2026-10-06-Ubers-MA-Blitz|Uber's M&A Blitz]]
 
 - The Ellison family's Paramount Skydance closed its $110 billion purchase of Warner Bros. Discovery; the combined company is called Skydance and owns Warner Bros. and Paramount studios, HBO Max, Paramount+ and CBS. ([[2026-10-06-Ubers-MA-Blitz#^clm-7fdf34f631418f4423a3|cite]])
+
+### 2026-10-21 [[2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal|Netflix Earnings, Business or Franchise, Disney’s Deal]]
+
+- Netflix stock fell over 40 percent in the year leading up to October 2026, pressured by slowing growth after its failed takeover bid for Warner Bros. Discovery assets. ([[2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal#^clm-5c2e7f24c16fc044ff98|cite]])
 
 ## Related concepts
 

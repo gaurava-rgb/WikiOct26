@@ -3,11 +3,11 @@ type: entity
 title: Nvidia
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 199
+claim_count: 212
 ---
 
 # Nvidia
@@ -358,6 +358,28 @@ US chip designer whose GPUs (graphics processors) dominate AI training and infer
 ### 2026-10-19 [[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government|Pentagon’s Emil Michael Vows Export Controls if AI Labs Don’t Cooperate With Government]]
 
 - Emil Michael favored promoting domestic open-source alternatives like Reflection, Thinking Machines, and Nvidia Nemotron rather than mandating model weight audits. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-c86f08d1a09f02b2aad8|cite]])
+
+### 2026-10-19 [[2026-10-19-Altman-Describes-Three-Endgames-for-AI|Altman Describes Three Endgames for AI, Including One Where a Single Firm ‘Melts Everyone Else’s GPUs’]]
+
+- Mark Zuckerberg and Jensen Huang argue that new regulatory agencies and model testing rules cause regulatory capture that shields incumbents like OpenAI and Anthropic. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-3eba4d5f7a89ca875d87|cite]])
+
+### 2026-10-20 [[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning|How CoreWeave’s Debt Binge Brought a Moment of Reckoning]]
+
+- CoreWeave was founded in 2017 as Atlantic Crypto by commodities traders mining digital assets with Nvidia GPUs, before pivoting to cloud computing after the 2018 cryptocurrency crash. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-4370e70558eb5e285097|cite]])
+- Nvidia invested $221 million in CoreWeave in April 2023 and an additional $2 billion in January 2026 to support independent cloud competition against hyperscalers. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-8271692f0d25cc2df138|cite]])
+- Nvidia CEO Jensen Huang stated CoreWeave's strength is improving every day and maintained the company will not require extra Nvidia credit backstops. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-2b4b1514bf23a8b97759|cite]])
+
+### 2026-10-20 [[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO|Nvidia Moves to Back GPU Cloud Provider Firmus After Investors Balk at Its IPO]]
+
+- Nvidia is negotiating to invest hundreds of millions of dollars in Australian cloud provider Firmus after Firmus aborted its initial public offering in October 2026. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-34d02f75755f6213b132|cite]])
+- Firmus has raised more than $13 billion across equity and debt, including approximately $10 billion in debt, with backing from Blackstone, Coatue, Jane Street, and Nvidia. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-d6807b6416604e1193e2|cite]])
+- Following its canceled public listing, Firmus is seeking to raise at least $2 billion in private financing with significant equity participation from Nvidia. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-8a49f234f044119f2a1e|cite]])
+- Nvidia has committed more than $170 billion in credit backstops, equity investments, and chip allocations to support neoclouds and large GPU customers. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-821da3409cbdabced334|cite]])
+- Nvidia agreed in June 2026 to guarantee Firmus' $15 billion purchase of server racks housing 170,000 Rubin and Blackwell GPUs for DayOne's facility in Batam, Indonesia. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-0c6d2f7ba953dec5f4ac|cite]])
+- Nvidia supports neoclouds to defend GPU demand as its biggest cloud customers, including Google, Microsoft, and Amazon, develop in-house server processors. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-6a64e76b682eedf78bbb|cite]])
+- An internal Nvidia team co-led by Nico Caprez assists neocloud partners in securing scarce data center locations with grid power connectivity. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-2bf00bf5de794edb75fc|cite]])
+- Larger neoclouds rejected Nvidia's initial credit support program because it required sharing a cut of future cloud computing revenue. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-2019997604a8f413cc99|cite]])
+- Nvidia modified its credit support structure for data center developers, providing shorter-term guarantees in exchange for a smaller share of cloud revenue. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-f8e4af21ff81574f5e44|cite]])
 
 ## Related concepts
 

@@ -3,7 +3,7 @@ type: entity
 title: Hugging Face
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
@@ -86,4 +86,4 @@ Model hosting company; target of the 2026 'Hugging Face incident' hack.
 
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[Chain-of-Thought-Monitoring|Chain-of-Thought Monitoring]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], Mechanistic Interpretability, [[Reward-Hacking|Reward Hacking]]
+[[AI-Agents|AI Agents]], [[Chain-of-Thought-Monitoring|Chain-of-Thought Monitoring]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Mechanistic-Interpretability|Mechanistic Interpretability]], [[Reward-Hacking|Reward Hacking]]

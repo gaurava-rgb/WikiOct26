@@ -3,7 +3,7 @@ type: concept
 title: AI as Referral Channel vs Distributor
 status: developing
 created: 2026-10-08
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - concept
 source_count: 2

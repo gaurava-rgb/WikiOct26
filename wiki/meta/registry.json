@@ -546,6 +546,10 @@
       "blurb": "Venture-backed bank focused on cross-border clearing for fintech and crypto firms.",
       "kind": "company"
     },
+    "Ayesha Arora-Hughes": {
+      "blurb": "Founder of venture capital firm Permanent Partners Collective; former S32 investor.",
+      "kind": "person"
+    },
     "BNSF Railway": {
       "blurb": "Berkshire Hathaway-owned U.S. freight railroad; a capital-hungry business with large absolute profits.",
       "kind": "company"
@@ -865,6 +869,10 @@
     "ElevenLabs": {
       "blurb": "AI voice and speech generation company.",
       "kind": "company"
+    },
+    "Eliezer Yudkowsky": {
+      "blurb": "AI safety theorist who formulated the idea of a pivotal act to prevent unaligned superintelligence.",
+      "kind": "person"
     },
     "Eliyan": {
       "blurb": "Chip interconnect startup founded in 2021 whose optical-electronic links let chiplets and AI racks share data faster.",
@@ -1406,6 +1414,10 @@
       "blurb": "Sportswear company long dogged by sweatshop allegations.",
       "kind": "company"
     },
+    "Nikesh Arora": {
+      "blurb": "Chair and CEO of Palo Alto Networks; former president and COO of SoftBank.",
+      "kind": "person"
+    },
     "Noam Brown": {
       "blurb": "OpenAI research scientist working on reasoning and agents; earlier built the Diplomacy-playing AI at Meta.",
       "kind": "person"
@@ -1481,6 +1493,10 @@
     "Palmer Luckey": {
       "blurb": "Founder of Anduril Industries and Erebor Bank.",
       "kind": "person"
+    },
+    "Palo Alto Networks": {
+      "blurb": "Enterprise cybersecurity vendor led by CEO Nikesh Arora.",
+      "kind": "company"
     },
     "Parag Agrawal": {
       "blurb": "Founder and CEO of Parallel; former CTO and then CEO of Twitter until Elon Musk bought it. Also spelled Agrawal.",
@@ -1722,6 +1738,10 @@
       "blurb": "Japanese investment group and one of OpenAI's largest investors.",
       "kind": "company"
     },
+    "Sonia Joseph": {
+      "blurb": "Co-founder and CEO of World Mechanics; former head of Meta's interpretability forum.",
+      "kind": "person"
+    },
     "Sora": {
       "blurb": "OpenAI's video generation model and TikTok-like app, shut down in 2026.",
       "kind": "product"
@@ -1741,6 +1761,10 @@
     "Sriram Krishnan": {
       "blurb": "Former Trump AI adviser; co-founder and general partner at Kearny Jackson.",
       "kind": "person"
+    },
+    "Standards Authority for Frontier AI": {
+      "blurb": "Planned industry safety evaluation coalition between OpenAI, Google, and Anthropic.",
+      "kind": "org"
     },
     "Stargate": {
       "blurb": "OpenAI's large AI data center buildout with Oracle and partners.",
@@ -1807,7 +1831,7 @@
       "kind": "company"
     },
     "Ted Sarandos": {
-      "blurb": "Co-CEO of Netflix, long its chief content officer.",
+      "blurb": "Co-CEO of Netflix alongside Greg Peters.",
       "kind": "person"
     },
     "Temu": {
@@ -1982,6 +2006,10 @@
       "blurb": "Enterprise HR and finance SaaS company.",
       "kind": "company"
     },
+    "World Mechanics": {
+      "blurb": "AI startup developing interpretable world models for robotics and physical industry.",
+      "kind": "company"
+    },
     "X": {
       "blurb": "Social network formerly called Twitter, now owned by SpaceX.",
       "kind": "company"
@@ -2001,6 +2029,10 @@
     "Y Combinator": {
       "blurb": "Startup accelerator that funds very young companies with small checks; Sam Altman once ran it.",
       "kind": "company"
+    },
+    "Yann LeCun": {
+      "blurb": "Chief AI Scientist at Meta and developer of the Joint Embedding Predictive Architecture (JEPA).",
+      "kind": "person"
     },
     "YouTube": {
       "blurb": "Alphabet's video platform.",

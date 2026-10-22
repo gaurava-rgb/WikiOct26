@@ -3,7 +3,7 @@ type: entity
 title: Sundar Pichai
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/person
@@ -34,4 +34,4 @@ CEO of Google and its parent company Alphabet.
 
 ## Related concepts
 
-[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Stack-Integration|Full-Stack AI Integration]], World Models
+[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[World-Models|World Models]]

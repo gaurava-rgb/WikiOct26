@@ -3,11 +3,11 @@ type: entity
 title: Mark Zuckerberg
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/person
-claim_count: 18
+claim_count: 19
 ---
 
 # Mark Zuckerberg
@@ -63,6 +63,10 @@ Co-founder and CEO of Meta.
 ### 2026-10-18 [[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week|Meta, Tesla and Netflix Q3 Updates Coming This Week]]
 
 - Meta CEO Mark Zuckerberg stated that 9 million small businesses use at least one Meta AI creative tool to build ads. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-7405b0353e0c8f03d074|cite]])
+
+### 2026-10-19 [[2026-10-19-Altman-Describes-Three-Endgames-for-AI|Altman Describes Three Endgames for AI, Including One Where a Single Firm ‘Melts Everyone Else’s GPUs’]]
+
+- Mark Zuckerberg and Jensen Huang argue that new regulatory agencies and model testing rules cause regulatory capture that shields incumbents like OpenAI and Anthropic. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-3eba4d5f7a89ca875d87|cite]])
 
 ## Related concepts
 

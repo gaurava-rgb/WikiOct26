@@ -3,11 +3,11 @@ type: entity
 title: Tim Cook
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/person
-claim_count: 22
+claim_count: 25
 ---
 
 # Tim Cook
@@ -52,6 +52,15 @@ CEO of Apple, succeeded by John Ternus.
 ### 2026-09-10 [[2026-09-10-The-iPhone-Duo-The-Intelligent-Personal-Hub-Apple-Watch-Audio-Intelligence|The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence]]
 
 - Thompson notes the irony that Apple's iPhone Duo video praised combining two products into one, when Tim Cook once mocked Microsoft's Surface for doing the same thing. ([[2026-09-10-The-iPhone-Duo-The-Intelligent-Personal-Hub-Apple-Watch-Audio-Intelligence#^clm-916c8a4f4e1c17da9207|cite]])
+
+### 2026-10-19 [[2026-10-19-At-Apple-Pigs-Are-About-to-Fly|At Apple, Pigs Are About to Fly]]
+
+- A touchscreen MacBook reverses a decade of company resistance under former CEO Tim Cook, who in 2012 rejected touchscreen laptops by comparing them to converging a toaster and refrigerator. ([[2026-10-19-At-Apple-Pigs-Are-About-to-Fly#^clm-1d79b3769ec657640681|cite]])
+- The hardware pivot reflects the leadership of CEO John Ternus, a longtime hardware engineering executive who is more product-driven than Tim Cook was. ([[2026-10-19-At-Apple-Pigs-Are-About-to-Fly#^clm-90f34deb7fbd9a67ea31|cite]])
+
+### 2026-10-20 [[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick|Muse Spark Open, Meta + Apple, Thin and Thick]]
+
+- Thompson notes that John Ternus replacing Tim Cook as Apple CEO helped thaw relations between Apple and Meta, enabling engineering collaboration on local AI. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-d93b005ee59704b1cf33|cite]])
 
 ## Related concepts
 

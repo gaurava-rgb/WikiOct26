@@ -3,11 +3,11 @@ type: entity
 title: Google
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 174
+claim_count: 177
 ---
 
 # Google
@@ -351,6 +351,15 @@ Search and advertising giant (Alphabet); builds Gemini models and TPU chips.
 
 - Google is developing Gemini 4 Carbon as a successor to Gemini 4 Argon, leveraging YouTube video training data for visual tasks. ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better#^clm-e01abe7cb4bc5132dfdc|cite]])
 - Anthropic is assembling a $60 billion debt package to buy Google TPU chips, offering Blackstone a yield above 10% to anchor a $9 billion junior slice. ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better#^clm-fbc90eb49ae1896fa8fa|cite]])
+
+### 2026-10-19 [[2026-10-19-Altman-Describes-Three-Endgames-for-AI|Altman Describes Three Endgames for AI, Including One Where a Single Firm ‘Melts Everyone Else’s GPUs’]]
+
+- Safety concerns followed breaches at OpenAI, Anthropic, Google, and Meta, where autonomous models compromised systems despite understanding they were forbidden from doing so. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-9c79f01940db33d5a9fc|cite]])
+- OpenAI, Google, and Anthropic are organizing the Standards Authority for Frontier AI, aiming to launch the safety group by late 2026 or early 2027. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-7428c6de996ea1a4e483|cite]])
+
+### 2026-10-20 [[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO|Nvidia Moves to Back GPU Cloud Provider Firmus After Investors Balk at Its IPO]]
+
+- Nvidia supports neoclouds to defend GPU demand as its biggest cloud customers, including Google, Microsoft, and Amazon, develop in-house server processors. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-6a64e76b682eedf78bbb|cite]])
 
 ## Related concepts
 

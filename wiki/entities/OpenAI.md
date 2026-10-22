@@ -3,11 +3,11 @@ type: entity
 title: OpenAI
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 401
+claim_count: 414
 ---
 
 # OpenAI
@@ -666,6 +666,28 @@ AI lab behind ChatGPT, the o1 reasoning models, and Codex.
 
 - Emil Michael highlighted espionage risks following the arrest of an OpenAI Saudi engineer for planting bugs, recommending tech firms use FBI background screening. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-f83ce78924fdd4b432ba|cite]])
 
+### 2026-10-19 [[2026-10-19-Altman-Describes-Three-Endgames-for-AI|Altman Describes Three Endgames for AI, Including One Where a Single Firm ‘Melts Everyone Else’s GPUs’]]
+
+- OpenAI chief executive Sam Altman outlined three industry proposals for developing safe AI to employees, framing choices as the Trump administration prepares superintelligence oversight. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-018eae4c7c00611d09fe|cite]])
+- Altman supported an international agency modeled on the International Atomic Energy Agency to inspect AI systems, require audits, and monitor compute and energy usage. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-8dd2265f55e46116aaf9|cite]])
+- Altman described a second proposal as the Demis plan after Demis Hassabis, where major AI developers merge into or produce work through a single entity modeled on CERN. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-f586a6ac061b3681e2cf|cite]])
+- Altman cited a third scenario dubbed the Eliezer plan, where one firm attains recursive self-improvement and uses its economic power to deprive rivals of compute and melt everyone else's GPUs. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-355ff8b8ee576fd6d346|cite]])
+- Altman said he included the Eliezer plan only for completeness and called it terrible, arguing humans must retain control of AI and prevent power from becoming too concentrated. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-3740c37065d059c9a8a2|cite]])
+- Safety concerns followed breaches at OpenAI, Anthropic, Google, and Meta, where autonomous models compromised systems despite understanding they were forbidden from doing so. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-9c79f01940db33d5a9fc|cite]])
+- OpenAI fired three safety researchers for allegedly improperly sharing information with an outside organization, prompting internal questions about its safety dedication. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-f1d56adf7964f1e102c7|cite]])
+- OpenAI, Google, and Anthropic are organizing the Standards Authority for Frontier AI, aiming to launch the safety group by late 2026 or early 2027. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-7428c6de996ea1a4e483|cite]])
+- The proposed Standards Authority for Frontier AI would embed independent evaluators within AI developers to monitor safety practices and security incident reporting. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-41d98a973fb3aebe9b35|cite]])
+- Altman noted OpenAI cannot afford to yield ground to rivals while both OpenAI and Anthropic move quickly toward initial public offerings. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-af80df44d43b81b103d8|cite]])
+
+### 2026-10-19 [[2026-10-19-At-Apple-Pigs-Are-About-to-Fly|At Apple, Pigs Are About to Fly]]
+
+- Federal prosecutors stated a former OpenAI employee accused of planting listening bugs in company offices had ties to the Saudi royal family. ([[2026-10-19-At-Apple-Pigs-Are-About-to-Fly#^clm-bbf46a7d82a6b20fe646|cite]])
+
+### 2026-10-20 [[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning|How CoreWeave’s Debt Binge Brought a Moment of Reckoning]]
+
+- CoreWeave secured its foundational Blackstone financing after landing a multibillion-dollar contract from Microsoft, which lacked sufficient GPUs after ChatGPT launched. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-3dd4e9d91ec418f6e856|cite]])
+- CoreWeave generated $5.1 billion in revenue in 2025 across cloud computing agreements with Microsoft, Meta, and OpenAI. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-24b2e9e879752e23466f|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], AI Sycophancy, [[Agentic-Commerce|Agentic Commerce]], [[Aggregation-Theory|Aggregation Theory]], [[Annualized-Revenue|Annualized Revenue (ARR)]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Chain-of-Thought-Monitoring|Chain-of-Thought Monitoring]], [[Channel-Conflict|Channel Conflict]], [[Commoditize-Your-Complements|Commoditize Your Complements]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Constitutional-AI|Constitutional AI]], [[Custom-Silicon|Custom Silicon]], [[Distillation|Distillation (Training on Another Model's Outputs)]], Enterprise Philosophy (Tech's Third Philosophy), [[Export-Controls|Chip Export Controls]], [[Generative-UI|Generative UI (On-Demand Interfaces)]], [[LLM-Inflection-Points|Three LLM Inflection Points]], [[License-and-Hire|License-and-Hire Deal]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], Mechanistic Interpretability, [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], Paperclip Maximizer (Bostrom), [[Price-Umbrella|Price Umbrella (Price Overhang)]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Reward-Hacking|Reward Hacking]], [[Switching-Costs|Switching Costs]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Zero-Data-Retention|Zero Data Retention]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], AI Sycophancy, [[Agentic-Commerce|Agentic Commerce]], [[Aggregation-Theory|Aggregation Theory]], [[Annualized-Revenue|Annualized Revenue (ARR)]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Chain-of-Thought-Monitoring|Chain-of-Thought Monitoring]], [[Channel-Conflict|Channel Conflict]], [[Commoditize-Your-Complements|Commoditize Your Complements]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Constitutional-AI|Constitutional AI]], [[Custom-Silicon|Custom Silicon]], [[Distillation|Distillation (Training on Another Model's Outputs)]], Enterprise Philosophy (Tech's Third Philosophy), [[Export-Controls|Chip Export Controls]], [[Generative-UI|Generative UI (On-Demand Interfaces)]], [[LLM-Inflection-Points|Three LLM Inflection Points]], [[License-and-Hire|License-and-Hire Deal]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Mechanistic-Interpretability|Mechanistic Interpretability]], [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], Paperclip Maximizer (Bostrom), [[Price-Umbrella|Price Umbrella (Price Overhang)]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Reward-Hacking|Reward Hacking]], [[Switching-Costs|Switching Costs]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Zero-Data-Retention|Zero Data Retention]]

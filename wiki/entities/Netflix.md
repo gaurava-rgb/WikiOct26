@@ -3,11 +3,11 @@ type: entity
 title: Netflix
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 64
+claim_count: 75
 ---
 
 # Netflix
@@ -107,6 +107,20 @@ Video streaming service; an AWS customer that competes with Amazon Prime Video.
 - Prediction: Netflix projected third-quarter revenue growth of 11.7%, slowing from 16.2% in the first quarter of 2026. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-c571ee37385500fb0701|cite]])
 - Netflix shares fell 25% year-to-date in 2026, trading at 5.6 times forward revenue compared to 2.2 times for Walt Disney Co. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-5483dd628f6e17b2a981|cite]])
 
+### 2026-10-21 [[2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal|Netflix Earnings, Business or Franchise, Disney’s Deal]]
+
+- Netflix generated third-quarter 2026 revenue of $12.9 billion, up 12 percent year-over-year for its lowest quarterly percentage growth in three years, with net income rising 44 percent to $3.66 billion. ([[2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal#^clm-450358e828faa87b7c93|cite]])
+- Netflix laid off approximately 1,000 employees, or 6 percent of its workforce, and replaced both its content chief and film division head following programming difficulties. ([[2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal#^clm-e7e16e3ca289bb3eae87|cite]])
+- Netflix stock fell over 40 percent in the year leading up to October 2026, pressured by slowing growth after its failed takeover bid for Warner Bros. Discovery assets. ([[2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal#^clm-5c2e7f24c16fc044ff98|cite]])
+- Netflix co-CEO Greg Peters pointed to industry-leading low churn across all regions as proof that recent price hikes succeeded and customer value remained healthy. ([[2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal#^clm-0720ecec18e1bf6c18ab|cite]])
+- Netflix co-CEO Ted Sarandos conceded that while international programming is driving growth, viewing engagement in the United States is not growing as fast as management desires. ([[2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal#^clm-ae888b3856f6beb39938|cite]])
+- Thompson argues Netflix's content reputation remains excessively reliant on Stranger Things, which originally premiered ten years earlier without comparable widespread successors. ([[2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal#^clm-b0ec6582ba9bc5300e58|cite]])
+- Thompson argues Netflix was previously viewed as an unstoppable franchise destined to aggregate all entertainment, but has transitioned into a business where further growth demands flawless execution. ([[2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal#^clm-eea56ecc747554c0a6ca|cite]])
+- Disney licensed library titles and current television seasons to Netflix to leverage Netflix's global user base of more than 325 million subscribers. ([[2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal#^clm-fbc2222825b45ef6eed5|cite]])
+- Disney licensed Percy Jackson and the Olympians seasons to Netflix for a three-month promotional run ahead of its season premiere on Disney+. ([[2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal#^clm-9de733a33514432cb9e5|cite]])
+- Disney licensed five Ice Age films to Netflix worldwide starting October 2026 as a promotional window before theatrical release of the sixth installment. ([[2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal#^clm-f568a6a6e405f8e018d5|cite]])
+- Thompson argues Disney licensing major franchises to promote theatrical releases demonstrates that Netflix's massive distribution scale makes it the superior vehicle for monetizing entertainment content. ([[2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal#^clm-b73ce5c322718c5e6f67|cite]])
+
 ## Related concepts
 
-[[Aggregation-Theory|Aggregation Theory]], [[Channel-Conflict|Channel Conflict]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Two-Sided-Marketplace|Two-Sided Marketplace (Platform)]], The Unified Content Business Model, [[Vertical-Integration|Vertical Integration]]
+[[Aggregation-Theory|Aggregation Theory]], [[Channel-Conflict|Channel Conflict]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Sustainable-Competitive-Advantage|Sustainable Competitive Advantage]], [[Two-Sided-Marketplace|Two-Sided Marketplace (Platform)]], The Unified Content Business Model, [[Vertical-Integration|Vertical Integration]]

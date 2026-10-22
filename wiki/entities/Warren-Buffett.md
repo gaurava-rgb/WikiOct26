@@ -3,11 +3,11 @@ type: entity
 title: Warren Buffett
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/person
-claim_count: 4
+claim_count: 6
 ---
 
 # Warren Buffett
@@ -26,6 +26,11 @@ Investor and chairman of Berkshire Hathaway.
 - Berkshire Hathaway bought See's Candies in 1972 for $25 million, when sales were $30 million and pre-tax earnings under $5 million; by 2007 sales were $383 million and pre-tax profit $82 million, with only $32 million reinvested since 1972. ([[2026-06-02-The-Google-Capital-Company#^clm-b85c0e45d8aecf44ce38|cite]])
 - Berkshire Hathaway invested in Google at only a slight discount to its all-time high, now that Warren Buffett no longer makes investment decisions and Greg Abel is his successor as CEO. ([[2026-06-02-The-Google-Capital-Company#^clm-151de28e0270cc2b3d0b|cite]])
 
+### 2026-10-21 [[2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal|Netflix Earnings, Business or Franchise, Disney’s Deal]]
+
+- Buffett defined an economic franchise as a business with no close substitutes, unregulated pricing, and an ability to absorb managerial mistakes without mortal injury. ([[2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal#^clm-62202b1424d10dff2614|cite]])
+- Buffett contrasted franchises with ordinary businesses, which earn superior returns only through low-cost operations or tight supply and remain vulnerable to poor management. ([[2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal#^clm-f6a4ab22dd034ed1f899|cite]])
+
 ## Related concepts
 
-[[First-Mover-Advantage|First-Mover Advantage]]
+[[First-Mover-Advantage|First-Mover Advantage]], [[Sustainable-Competitive-Advantage|Sustainable Competitive Advantage]]

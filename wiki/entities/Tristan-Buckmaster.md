@@ -3,7 +3,7 @@ type: entity
 title: Tristan Buckmaster
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/person

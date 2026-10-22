@@ -3,11 +3,11 @@ type: entity
 title: DeepSeek
 status: developing
 created: 2026-10-08
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 35
+claim_count: 39
 ---
 
 # DeepSeek
@@ -68,6 +68,16 @@ Chinese AI lab based in Hangzhou that makes cheap, efficient open models such as
 - DeepSeek is bypassing Nvidia CUDA software lock-in using TileLang, an open-source programming language developed by Peking University researchers. ([[2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia#^clm-cbc07a8e60cad697ddbc|cite]])
 - DeepSeek released a TileLang version tailored for Huawei Ascend 950 chips with five code suites covering calculations and data transfers. ([[2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia#^clm-31f7dc1aa7b0bd6dc2b5|cite]])
 - Full pre-training of a frontier AI model requires well over 10,000 Huawei Ascend 950DT processors running uninterrupted for weeks. ([[2026-10-19-How-DeepSeek-Is-Shaping-Huaweis-AI-Chips-in-a-Growing-Challenge-to-Nvidia#^clm-30d2c22f4450782cf3a3|cite]])
+
+### 2026-10-19 [[2026-10-19-At-Apple-Pigs-Are-About-to-Fly|At Apple, Pigs Are About to Fly]]
+
+- The United States Department of Homeland Security ordered all federal civilian agencies to purge DeepSeek software from their systems and barred future purchases. ([[2026-10-19-At-Apple-Pigs-Are-About-to-Fly#^clm-9415a83a150422cce797|cite]])
+
+### 2026-10-20 [[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick|Muse Spark Open, Meta + Apple, Thin and Thick]]
+
+- Unlike Meta's license restrictions, Chinese models DeepSeek-V4.1-Flash and smaller Qwen models carry permissive MIT and Apache open source licenses. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-897bcc23e5c952b1721a|cite]])
+- Thompson argues American open-weight developers suffer a disadvantage against Chinese labs because terms of service prohibit distilling frontier models, forcing US open models to distill distillations. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-25bd6e5de0d9d4be48e6|cite]])
+- The United States Department of Homeland Security issued a directive ordering all federal civilian agencies to eliminate DeepSeek models from their IT environments. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-5dfcbb6dd1708df6a9f9|cite]])
 
 ## Related concepts
 

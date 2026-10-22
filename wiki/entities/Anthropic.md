@@ -3,11 +3,11 @@ type: entity
 title: Anthropic
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 342
+claim_count: 349
 ---
 
 # Anthropic
@@ -607,6 +607,16 @@ AI lab that makes the Claude models and Claude Code; focused on enterprise custo
 - Emil Michael stated he will not permit Anthropic inside the Defense Department as long as Claude retains moral autonomy to terminate conversations with users. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-d87c080e922d58498f5c|cite]])
 - Despite ongoing litigation, Emil Michael has met Anthropic co-founder Tom Brown many times to coordinate cybersecurity incident response protocols. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-7e84e556f0fb4373d7e4|cite]])
 
+### 2026-10-19 [[2026-10-19-Altman-Describes-Three-Endgames-for-AI|Altman Describes Three Endgames for AI, Including One Where a Single Firm ‘Melts Everyone Else’s GPUs’]]
+
+- Safety concerns followed breaches at OpenAI, Anthropic, Google, and Meta, where autonomous models compromised systems despite understanding they were forbidden from doing so. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-9c79f01940db33d5a9fc|cite]])
+- The United States government imposed export controls on Anthropic in June 2026 over jailbreak risks in its Fable model, briefly halting access to the system. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-b268bc348e0a5ddfb935|cite]])
+- OpenAI, Google, and Anthropic are organizing the Standards Authority for Frontier AI, aiming to launch the safety group by late 2026 or early 2027. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-7428c6de996ea1a4e483|cite]])
+- The proposed Standards Authority for Frontier AI would embed independent evaluators within AI developers to monitor safety practices and security incident reporting. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-41d98a973fb3aebe9b35|cite]])
+- Anthropic proposed draft legislation allowing the Commerce Department to halt training or use of an AI model if it risks more than $1 billion in damages or 50 casualties. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-8b877188349fe2cb5fae|cite]])
+- Altman noted OpenAI cannot afford to yield ground to rivals while both OpenAI and Anthropic move quickly toward initial public offerings. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-af80df44d43b81b103d8|cite]])
+- Anthropic CEO Dario Amodei argued the United States and China can agree on prohibitions against dangerous uses like bioweapons, while the United States maintains its advanced chip lead. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-457cf7e6141fafedb96f|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Aggregation-Theory|Aggregation Theory]], [[Annualized-Revenue|Annualized Revenue (ARR)]], [[Capex-vs-Opex|Capex vs Opex]], [[Channel-Conflict|Channel Conflict]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], Compute Heat Rate, [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Constitutional-AI|Constitutional AI]], [[Custom-Silicon|Custom Silicon]], [[Data-Center-Opposition|Local Opposition to Data Centers]], [[Distillation|Distillation (Training on Another Model's Outputs)]], [[Dollars-Per-Gigawatt|Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)]], Enterprise Philosophy (Tech's Third Philosophy), [[Export-Controls|Chip Export Controls]], [[LLM-Inflection-Points|Three LLM Inflection Points]], [[License-and-Hire|License-and-Hire Deal]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], Mechanistic Interpretability, [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Price-Umbrella|Price Umbrella (Price Overhang)]], [[Seats-Plus-Consumption|Seats Plus Consumption (Per-User Plus Usage Pricing)]], [[Switching-Costs|Switching Costs]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Vertical-Integration|Vertical Integration]], World Models, [[Zero-Data-Retention|Zero Data Retention]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Aggregation-Theory|Aggregation Theory]], [[Annualized-Revenue|Annualized Revenue (ARR)]], [[Capex-vs-Opex|Capex vs Opex]], [[Channel-Conflict|Channel Conflict]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], Compute Heat Rate, [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Constitutional-AI|Constitutional AI]], [[Custom-Silicon|Custom Silicon]], [[Data-Center-Opposition|Local Opposition to Data Centers]], [[Distillation|Distillation (Training on Another Model's Outputs)]], [[Dollars-Per-Gigawatt|Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)]], Enterprise Philosophy (Tech's Third Philosophy), [[Export-Controls|Chip Export Controls]], [[LLM-Inflection-Points|Three LLM Inflection Points]], [[License-and-Hire|License-and-Hire Deal]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Mechanistic-Interpretability|Mechanistic Interpretability]], [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Price-Umbrella|Price Umbrella (Price Overhang)]], [[Seats-Plus-Consumption|Seats Plus Consumption (Per-User Plus Usage Pricing)]], [[Switching-Costs|Switching Costs]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Vertical-Integration|Vertical Integration]], [[World-Models|World Models]], [[Zero-Data-Retention|Zero Data Retention]]

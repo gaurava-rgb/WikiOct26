@@ -3,11 +3,11 @@ type: entity
 title: Xi Jinping
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/person
-claim_count: 4
+claim_count: 5
 ---
 
 # Xi Jinping
@@ -25,6 +25,10 @@ President of China and head of the Chinese Communist Party.
 ### 2026-10-19 [[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better|Anthropic Readies Model That Reads Users' Intentions Better]]
 
 - China proposed export controls covering 23 AI technologies including large language models, agents, chip design, and computing clusters. ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better#^clm-cb46857cee1bcea03d30|cite]])
+
+### 2026-10-19 [[2026-10-19-Altman-Describes-Three-Endgames-for-AI|Altman Describes Three Endgames for AI, Including One Where a Single Firm ‘Melts Everyone Else’s GPUs’]]
+
+- Chinese President Xi Jinping stated in September 2026 that China and the United States share the capability and responsibility to manage AI and keep it under human control. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-9825799f188d4cda10ce|cite]])
 
 ## Related concepts
 

@@ -3,11 +3,11 @@ type: entity
 title: Jensen Huang
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/person
-claim_count: 27
+claim_count: 29
 ---
 
 # Jensen Huang
@@ -75,6 +75,14 @@ Co-founder and CEO of Nvidia.
 ### 2026-10-18 [[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose|Neocloud Shakeout Looms, and Nvidia Has a Lot to Lose]]
 
 - Nvidia CEO Jensen Huang stated in Stockholm that CoreWeave will not need further credit backstops beyond an existing $6.3 billion GPU rent-back agreement. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-e56051fec12c2ad66514|cite]])
+
+### 2026-10-19 [[2026-10-19-Altman-Describes-Three-Endgames-for-AI|Altman Describes Three Endgames for AI, Including One Where a Single Firm ‘Melts Everyone Else’s GPUs’]]
+
+- Mark Zuckerberg and Jensen Huang argue that new regulatory agencies and model testing rules cause regulatory capture that shields incumbents like OpenAI and Anthropic. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-3eba4d5f7a89ca875d87|cite]])
+
+### 2026-10-20 [[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning|How CoreWeave’s Debt Binge Brought a Moment of Reckoning]]
+
+- Nvidia CEO Jensen Huang stated CoreWeave's strength is improving every day and maintained the company will not require extra Nvidia credit backstops. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-2b4b1514bf23a8b97759|cite]])
 
 ## Related concepts
 

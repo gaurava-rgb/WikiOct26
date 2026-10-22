@@ -3,11 +3,11 @@ type: entity
 title: General Catalyst
 status: developing
 created: 2026-10-13
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 7
+claim_count: 8
 ---
 
 # General Catalyst
@@ -31,6 +31,10 @@ Venture capital firm building a data center to supply compute to its startups.
 ### 2026-10-14 [[2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions|Inside a TPG-Backed Accounting Firm’s Plans for AI and More Acquisitions]]
 
 - Thrive Capital created Thrive Holdings to acquire and modernize professional service firms like accountants, while General Catalyst pursued AI-focused rollups. ([[2026-10-14-Inside-a-TPG-Backed-Accounting-Firms-Plans-for-AI-and-More-Acquisitions#^clm-c4561424fdf786351c61|cite]])
+
+### 2026-10-19 [[2026-10-19-Nikesh-Arora-Advises-Daughter-on-AI-Venture-Fund|Palo Alto Networks CEO Advises Daughter on New AI-Focused Venture Capital Fund]]
+
+- Venture capital firm General Catalyst appointed Nikesh Arora as its first lead independent director in April 2026. ([[2026-10-19-Nikesh-Arora-Advises-Daughter-on-AI-Venture-Fund#^clm-480efc5aa3d57dfaaab7|cite]])
 
 ## Related concepts
 

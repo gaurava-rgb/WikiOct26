@@ -3,11 +3,11 @@ type: entity
 title: Emil Michael
 status: developing
 created: 2026-10-19
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/person
-claim_count: 9
+claim_count: 10
 ---
 
 # Emil Michael
@@ -27,6 +27,10 @@ Under Secretary of Defense for Research and Engineering and member of Trump's Su
 - Emil Michael favored promoting domestic open-source alternatives like Reflection, Thinking Machines, and Nvidia Nemotron rather than mandating model weight audits. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-c86f08d1a09f02b2aad8|cite]])
 - Emil Michael highlighted espionage risks following the arrest of an OpenAI Saudi engineer for planting bugs, recommending tech firms use FBI background screening. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-f83ce78924fdd4b432ba|cite]])
 - Emil Michael stated he had no visibility into whether software errors from Palantir contributed to a February 2026 missile strike in Iran. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-b4e05f58f685064978c8|cite]])
+
+### 2026-10-19 [[2026-10-19-Altman-Describes-Three-Endgames-for-AI|Altman Describes Three Endgames for AI, Including One Where a Single Firm ‘Melts Everyone Else’s GPUs’]]
+
+- Pentagon official Emil Michael said the administration will impose stricter checks like export controls if frontier AI developers behave like drunk drivers. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-d24fe52690216a1eeb28|cite]])
 
 ## Related concepts
 

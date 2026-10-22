@@ -3,11 +3,11 @@ type: entity
 title: Sam Altman
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/person
-claim_count: 22
+claim_count: 26
 ---
 
 # Sam Altman
@@ -64,6 +64,13 @@ CEO of OpenAI.
 ### 2026-10-10 [[2026-10-10-Zuckerbergs-Big-Biotech-Moment|Zuckerberg’s Big Biotech Moment]]
 
 - Per Kevin Roose's book The AGI Chronicles, Sam Altman texted Jeff Bezos just before the January 2025 Project Stargate announcement to check they could use the name, since Amazon owns MGM, which owns the Stargate franchise. ([[2026-10-10-Zuckerbergs-Big-Biotech-Moment#^clm-4c3ff242b1e623b7627b|cite]])
+
+### 2026-10-19 [[2026-10-19-Altman-Describes-Three-Endgames-for-AI|Altman Describes Three Endgames for AI, Including One Where a Single Firm ‘Melts Everyone Else’s GPUs’]]
+
+- OpenAI chief executive Sam Altman outlined three industry proposals for developing safe AI to employees, framing choices as the Trump administration prepares superintelligence oversight. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-018eae4c7c00611d09fe|cite]])
+- Altman supported an international agency modeled on the International Atomic Energy Agency to inspect AI systems, require audits, and monitor compute and energy usage. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-8dd2265f55e46116aaf9|cite]])
+- Altman said he included the Eliezer plan only for completeness and called it terrible, arguing humans must retain control of AI and prevent power from becoming too concentrated. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-3740c37065d059c9a8a2|cite]])
+- Altman noted OpenAI cannot afford to yield ground to rivals while both OpenAI and Anthropic move quickly toward initial public offerings. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-af80df44d43b81b103d8|cite]])
 
 ## Related concepts
 

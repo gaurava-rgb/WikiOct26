@@ -3,7 +3,7 @@ type: entity
 title: GLM
 status: developing
 created: 2026-10-08
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/product
@@ -30,4 +30,4 @@ Family of large open weight AI models; a compressed GLM-5.2 variant runs on four
 
 ## Related concepts
 
-[[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], Mechanistic Interpretability, [[Open-Weight-Models|Open-Weight Models]], [[Reward-Hacking|Reward Hacking]]
+[[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Mechanistic-Interpretability|Mechanistic Interpretability]], [[Open-Weight-Models|Open-Weight Models]], [[Reward-Hacking|Reward Hacking]]

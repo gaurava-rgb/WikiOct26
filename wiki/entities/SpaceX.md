@@ -3,11 +3,11 @@ type: entity
 title: SpaceX
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 103
+claim_count: 104
 ---
 
 # SpaceX
@@ -190,6 +190,10 @@ Elon Musk's rocket and satellite company; now owns X and xAI.
 ### 2026-10-18 [[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week|Meta, Tesla and Netflix Q3 Updates Coming This Week]]
 
 - Tesla market capitalization stands at $1.4 trillion, approximately $600 billion below SpaceX valuation of roughly $2 trillion. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-e41b833b1dc0903c4cbe|cite]])
+
+### 2026-10-19 [[2026-10-19-At-Apple-Pigs-Are-About-to-Fly|At Apple, Pigs Are About to Fly]]
+
+- Prediction: Elon Musk announced a plan to give every American child one share of SpaceX stock in 2027, an endowment potentially worth nearly $11 billion. ([[2026-10-19-At-Apple-Pigs-Are-About-to-Fly#^clm-9317c5bf147192a61689|cite]])
 
 ## Related concepts
 

@@ -3,11 +3,11 @@ type: entity
 title: Microsoft
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 135
+claim_count: 138
 ---
 
 # Microsoft
@@ -300,6 +300,15 @@ US software and cloud company (Windows, Office, Azure, Xbox); a major OpenAI inv
 ### 2026-10-18 [[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week|Meta, Tesla and Netflix Q3 Updates Coming This Week]]
 
 - Microsoft pulled out of a planned United Kingdom data center being built by Nscale following delays in accessing grid power. ([[2026-10-18-Meta-Tesla-and-Netflix-Q3-Updates-Coming-This-Week#^clm-63e73267d2e1b380f630|cite]])
+
+### 2026-10-20 [[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning|How CoreWeave’s Debt Binge Brought a Moment of Reckoning]]
+
+- CoreWeave secured its foundational Blackstone financing after landing a multibillion-dollar contract from Microsoft, which lacked sufficient GPUs after ChatGPT launched. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-3dd4e9d91ec418f6e856|cite]])
+- CoreWeave generated $5.1 billion in revenue in 2025 across cloud computing agreements with Microsoft, Meta, and OpenAI. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-24b2e9e879752e23466f|cite]])
+
+### 2026-10-20 [[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO|Nvidia Moves to Back GPU Cloud Provider Firmus After Investors Balk at Its IPO]]
+
+- Nvidia supports neoclouds to defend GPU demand as its biggest cloud customers, including Google, Microsoft, and Amazon, develop in-house server processors. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-6a64e76b682eedf78bbb|cite]])
 
 ## Related concepts
 

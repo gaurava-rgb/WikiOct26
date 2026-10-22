@@ -3,11 +3,11 @@ type: entity
 title: John Ternus
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/person
-claim_count: 16
+claim_count: 19
 ---
 
 # John Ternus
@@ -55,6 +55,15 @@ Apple's longtime hardware chief, named in April 2026 to succeed Tim Cook as CEO.
 ### 2026-09-20 [[2026-09-20-Why-Apple-Is-Betting-on-Foldable-iPhones|Why Apple Is Betting on Foldable iPhones]]
 
 - New Apple CEO John Ternus showed the first foldable iPhone, the iPhone Duo, at an event in September 2026. ([[2026-09-20-Why-Apple-Is-Betting-on-Foldable-iPhones#^clm-a2274ab79590210da364|cite]])
+
+### 2026-10-19 [[2026-10-19-At-Apple-Pigs-Are-About-to-Fly|At Apple, Pigs Are About to Fly]]
+
+- The hardware pivot reflects the leadership of CEO John Ternus, a longtime hardware engineering executive who is more product-driven than Tim Cook was. ([[2026-10-19-At-Apple-Pigs-Are-About-to-Fly#^clm-90f34deb7fbd9a67ea31|cite]])
+- John Ternus has led Apple into previously ignored categories with an initial product slate featuring the iPhone Duo foldable, HomeView smart display, and touchscreen MacBook. ([[2026-10-19-At-Apple-Pigs-Are-About-to-Fly#^clm-318ec23127030ed03030|cite]])
+
+### 2026-10-20 [[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick|Muse Spark Open, Meta + Apple, Thin and Thick]]
+
+- Thompson notes that John Ternus replacing Tim Cook as Apple CEO helped thaw relations between Apple and Meta, enabling engineering collaboration on local AI. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-d93b005ee59704b1cf33|cite]])
 
 ## Related concepts
 

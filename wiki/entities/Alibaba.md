@@ -3,7 +3,7 @@ type: entity
 title: Alibaba
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
@@ -51,4 +51,4 @@ Chinese e-commerce and cloud company.
 
 ## Related concepts
 
-[[Data-Asset|Data as a Competitive Asset]], Mechanistic Interpretability, [[Open-Weight-Models|Open-Weight Models]], [[Sustainable-Competitive-Advantage|Sustainable Competitive Advantage]], [[Two-Sided-Marketplace|Two-Sided Marketplace (Platform)]]
+[[Data-Asset|Data as a Competitive Asset]], [[Mechanistic-Interpretability|Mechanistic Interpretability]], [[Open-Weight-Models|Open-Weight Models]], [[Sustainable-Competitive-Advantage|Sustainable Competitive Advantage]], [[Two-Sided-Marketplace|Two-Sided Marketplace (Platform)]]

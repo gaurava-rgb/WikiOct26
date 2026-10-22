@@ -3,11 +3,11 @@ type: entity
 title: Amazon
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 353
+claim_count: 354
 ---
 
 # Amazon
@@ -461,6 +461,10 @@ US e-commerce, logistics, and cloud company (AWS). Known for long-term, capital-
 ### 2026-10-15 [[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator|Why AI-Written Software Needs a Flight Simulator]]
 
 - Microsoft and Amazon provide software resilience tools that inject controlled experimental faults directly into live production servers rather than simulated environments. ([[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator#^clm-864947003a94f9455613|cite]])
+
+### 2026-10-20 [[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO|Nvidia Moves to Back GPU Cloud Provider Firmus After Investors Balk at Its IPO]]
+
+- Nvidia supports neoclouds to defend GPU demand as its biggest cloud customers, including Google, Microsoft, and Amazon, develop in-house server processors. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-6a64e76b682eedf78bbb|cite]])
 
 ## Related concepts
 

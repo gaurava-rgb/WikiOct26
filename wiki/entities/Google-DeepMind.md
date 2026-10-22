@@ -3,11 +3,11 @@ type: entity
 title: Google DeepMind
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 20
+claim_count: 21
 ---
 
 # Google DeepMind
@@ -57,6 +57,10 @@ Google's AI research lab, led by Demis Hassabis, which builds the Gemini models.
 - Tom McGrath co-founded Goodfire and is its chief scientist; before that he worked at Google DeepMind, where he co-founded the interpretability team. ([[2026-10-12-Researchers-Need-to-Learn-How-AI-Makes-Decisions-Says-Goodfires-Tom-McGrath#^clm-eb7c7edc2af79bb1d5ea|cite]])
 - McGrath maps the field: Anthropic, where Chris Olah founded mech interp and at least two schools exist; Neel Nanda's pragmatic interpretability at Google DeepMind; an academic cluster including David Bau, Max Tegmark and Martin Wattenberg; and Simplex and Resolution seeking a mathematical theory. ([[2026-10-12-Researchers-Need-to-Learn-How-AI-Makes-Decisions-Says-Goodfires-Tom-McGrath#^clm-bb6822408a2fee03295e|cite]])
 
+### 2026-10-19 [[2026-10-19-Altman-Describes-Three-Endgames-for-AI|Altman Describes Three Endgames for AI, Including One Where a Single Firm ‘Melts Everyone Else’s GPUs’]]
+
+- Altman described a second proposal as the Demis plan after Demis Hassabis, where major AI developers merge into or produce work through a single entity modeled on CERN. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-f586a6ac061b3681e2cf|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Custom-Silicon|Custom Silicon]], Mechanistic Interpretability, World Models
+[[AI-Agents|AI Agents]], [[AI-Stack-Integration|Full-Stack AI Integration]], [[Custom-Silicon|Custom Silicon]], [[Mechanistic-Interpretability|Mechanistic Interpretability]], [[World-Models|World Models]]

@@ -3,11 +3,11 @@ type: entity
 title: Meta
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 168
+claim_count: 181
 ---
 
 # Meta
@@ -325,6 +325,31 @@ Owner of Facebook, Instagram, and WhatsApp; also builds AI models (Llama, Muse S
 
 - Meta released Muse Spark Open, an open-weight artificial intelligence model designed to run locally on Mac computers. ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better#^clm-f5675da3e0acbf7b67fd|cite]])
 
+### 2026-10-19 [[2026-10-19-Altman-Describes-Three-Endgames-for-AI|Altman Describes Three Endgames for AI, Including One Where a Single Firm ‘Melts Everyone Else’s GPUs’]]
+
+- Safety concerns followed breaches at OpenAI, Anthropic, Google, and Meta, where autonomous models compromised systems despite understanding they were forbidden from doing so. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-9c79f01940db33d5a9fc|cite]])
+- Mark Zuckerberg and Jensen Huang argue that new regulatory agencies and model testing rules cause regulatory capture that shields incumbents like OpenAI and Anthropic. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-3eba4d5f7a89ca875d87|cite]])
+
+### 2026-10-19 [[2026-10-19-Sonia-Joseph-on-Interpretability-and-Physical-AI|Interpretability Is the Key to Physical AI, Says World Mechanics CEO Sonia Joseph]]
+
+- Sonia Joseph, co-founder and CEO of startup World Mechanics, previously led Meta's research forum on interpretability. ([[2026-10-19-Sonia-Joseph-on-Interpretability-and-Physical-AI#^clm-8e3502fb724ba161a8c0|cite]])
+- Meta developed the Joint Embedding Predictive Architecture (JEPA) with Yann LeCun to predict abstract object representations in latent space instead of predicting raw pixels. ([[2026-10-19-Sonia-Joseph-on-Interpretability-and-Physical-AI#^clm-dc8609ae59941df3b25a|cite]])
+
+### 2026-10-20 [[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning|How CoreWeave’s Debt Binge Brought a Moment of Reckoning]]
+
+- CoreWeave generated $5.1 billion in revenue in 2025 across cloud computing agreements with Microsoft, Meta, and OpenAI. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-24b2e9e879752e23466f|cite]])
+- Insurance companies including American General Life, Fidelity & Guaranty Life, and Security Life of Denver purchased more than $740 million of CoreWeave project debt backed by a Meta contract. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-0f786e153f90a2f306f7|cite]])
+
+### 2026-10-20 [[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick|Muse Spark Open, Meta + Apple, Thin and Thick]]
+
+- Meta released Muse Spark Open, an open-weight AI model optimized to run locally on Mac computers, while Apple updated its MLX machine learning software toolkit to support it. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-2f8a5e45d0380ba129c3|cite]])
+- Commercial services deploying Muse Spark Open must enter a formal agreement with Meta if their annual revenue surpasses $20 million. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-f9f87fb5b95478fda728|cite]])
+- Unlike Meta's license restrictions, Chinese models DeepSeek-V4.1-Flash and smaller Qwen models carry permissive MIT and Apache open source licenses. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-897bcc23e5c952b1721a|cite]])
+- Thompson argues American open-weight developers suffer a disadvantage against Chinese labs because terms of service prohibit distilling frontier models, forcing US open models to distill distillations. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-25bd6e5de0d9d4be48e6|cite]])
+- Thompson notes that John Ternus replacing Tim Cook as Apple CEO helped thaw relations between Apple and Meta, enabling engineering collaboration on local AI. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-d93b005ee59704b1cf33|cite]])
+- Thompson argues that running AI models locally creates effectively zero-cost tokens, enabling speculative coding where a harness builds multiple alternative feature paths overnight like CPU branch prediction. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-976af6d2c1c4935e1496|cite]])
+- Thompson maintains that thin-client cloud computing remains dominant because scarce high-end compute and massive memory aggregate most economically in centralized data centers. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-ea6db657ad94343fbb37|cite]])
+
 ## Related concepts
 
-[[A-B-Testing|A/B Testing]], [[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[Agentic-Commerce|Agentic Commerce]], [[Aggregation-Theory|Aggregation Theory]], Application Layer Bridge (Computing Paradigms), [[Capex-vs-Opex|Capex vs Opex]], A Framework for Regulating Content on the Internet, [[Custom-Silicon|Custom Silicon]], [[Data-Asset|Data as a Competitive Asset]], [[Data-Center-Opposition|Local Opposition to Data Centers]], Enshittification, [[Generative-UI|Generative UI (On-Demand Interfaces)]], Intelligent Personal Hub, [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Switching-Costs|Switching Costs]], [[VR-vs-AR|Virtual vs Augmented Reality]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Vertical-Integration|Vertical Integration]]
+[[A-B-Testing|A/B Testing]], [[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[Agentic-Commerce|Agentic Commerce]], [[Aggregation-Theory|Aggregation Theory]], Application Layer Bridge (Computing Paradigms), [[Capex-vs-Opex|Capex vs Opex]], A Framework for Regulating Content on the Internet, [[Custom-Silicon|Custom Silicon]], [[Data-Asset|Data as a Competitive Asset]], [[Data-Center-Opposition|Local Opposition to Data Centers]], [[Distillation|Distillation (Training on Another Model's Outputs)]], Enshittification, [[Generative-UI|Generative UI (On-Demand Interfaces)]], Intelligent Personal Hub, [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Scale-Economies|Scale Economies]], [[Switching-Costs|Switching Costs]], [[VR-vs-AR|Virtual vs Augmented Reality]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Vertical-Integration|Vertical Integration]], [[World-Models|World Models]]

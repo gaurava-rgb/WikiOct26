@@ -3,11 +3,11 @@ type: entity
 title: Qwen
 status: developing
 created: 2026-09-29
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/product
-claim_count: 8
+claim_count: 9
 ---
 
 # Qwen
@@ -36,6 +36,10 @@ Family of open weight AI models from Alibaba that can run on consumer GPUs.
 - Goodfire announced an effort to fully reverse-engineer a language model, targeting Alibaba's Qwen3.6-35B-A3B, which is a couple of orders of magnitude smaller than frontier models so experiments cost about 100 times less. ([[2026-10-12-Researchers-Need-to-Learn-How-AI-Makes-Decisions-Says-Goodfires-Tom-McGrath#^clm-3433e08de750d8075436|cite]])
 - Prediction: McGrath predicts Goodfire will achieve satisfactory reverse engineering of Qwen3.6-35B-A3B within a year, though not of a frontier-scale model, and expects the method to scale afterward. ([[2026-10-12-Researchers-Need-to-Learn-How-AI-Makes-Decisions-Says-Goodfires-Tom-McGrath#^clm-6d89d216ef1fd4101dca|cite]])
 
+### 2026-10-20 [[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick|Muse Spark Open, Meta + Apple, Thin and Thick]]
+
+- Unlike Meta's license restrictions, Chinese models DeepSeek-V4.1-Flash and smaller Qwen models carry permissive MIT and Apache open source licenses. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-897bcc23e5c952b1721a|cite]])
+
 ## Related concepts
 
-[[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], Mechanistic Interpretability, [[Open-Weight-Models|Open-Weight Models]], [[Reward-Hacking|Reward Hacking]]
+[[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Mechanistic-Interpretability|Mechanistic Interpretability]], [[Open-Weight-Models|Open-Weight Models]], [[Reward-Hacking|Reward Hacking]]

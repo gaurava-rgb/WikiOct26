@@ -3,11 +3,11 @@ type: entity
 title: Blackstone
 status: developing
 created: 2026-10-09
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 4
+claim_count: 8
 ---
 
 # Blackstone
@@ -31,6 +31,16 @@ Large private equity and alternative asset manager.
 ### 2026-10-19 [[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better|Anthropic Readies Model That Reads Users' Intentions Better]]
 
 - Anthropic is assembling a $60 billion debt package to buy Google TPU chips, offering Blackstone a yield above 10% to anchor a $9 billion junior slice. ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better#^clm-fbc90eb49ae1896fa8fa|cite]])
+
+### 2026-10-20 [[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning|How CoreWeave’s Debt Binge Brought a Moment of Reckoning]]
+
+- Blackstone CEO Steve Schwarzman approved a $2.3 billion loan to CoreWeave in August 2023 despite internal misgivings about backing a firm that made only $16 million the prior year. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-e74186bc106dafb19939|cite]])
+- CoreWeave secured its foundational Blackstone financing after landing a multibillion-dollar contract from Microsoft, which lacked sufficient GPUs after ChatGPT launched. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-3dd4e9d91ec418f6e856|cite]])
+- Insurance companies including American General Life, Fidelity & Guaranty Life, and Security Life of Denver purchased more than $740 million of CoreWeave project debt backed by a Meta contract. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-0f786e153f90a2f306f7|cite]])
+
+### 2026-10-20 [[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO|Nvidia Moves to Back GPU Cloud Provider Firmus After Investors Balk at Its IPO]]
+
+- Firmus has raised more than $13 billion across equity and debt, including approximately $10 billion in debt, with backing from Blackstone, Coatue, Jane Street, and Nvidia. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-d6807b6416604e1193e2|cite]])
 
 ## Related concepts
 

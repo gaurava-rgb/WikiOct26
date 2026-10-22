@@ -3,7 +3,7 @@ type: entity
 title: Goodfire
 status: developing
 created: 2026-10-13
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
@@ -37,4 +37,4 @@ Mechanistic interpretability startup, the most prominent in the field; trying to
 
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[Chain-of-Thought-Monitoring|Chain-of-Thought Monitoring]], Mechanistic Interpretability, [[Open-Weight-Models|Open-Weight Models]], [[Reward-Hacking|Reward Hacking]]
+[[AI-Agents|AI Agents]], [[Chain-of-Thought-Monitoring|Chain-of-Thought Monitoring]], [[Mechanistic-Interpretability|Mechanistic Interpretability]], [[Open-Weight-Models|Open-Weight Models]], [[Reward-Hacking|Reward Hacking]]

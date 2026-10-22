@@ -3,10 +3,10 @@ type: concept
 title: "Distillation (Training on Another Model's Outputs)"
 status: developing
 created: 2026-10-15
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - concept
-source_count: 3
+source_count: 5
 ---
 
 # Distillation (Training on Another Model's Outputs)
@@ -28,3 +28,11 @@ Training your own AI model on the answers produced by a stronger model, so the s
 ### 2026-10-19 [[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better|Anthropic Readies Model That Reads Users' Intentions Better]]
 
 - DeepSeek released an update to its lightweight V4.1-Flash model delivering significant performance gains nearing frontier capabilities. ([[2026-10-19-Anthropic-Readies-Model-That-Reads-Users-Intentions-Better#^clm-a362850de66afa32e08d|cite]])
+
+### 2026-10-19 [[2026-10-19-Sonia-Joseph-on-Interpretability-and-Physical-AI|Interpretability Is the Key to Physical AI, Says World Mechanics CEO Sonia Joseph]]
+
+- Joseph proposes a training method that treats unsupervised video model latent space like an environment, using reinforcement learning to identify interpretable physical primitives and distill them into efficient architectures. ([[2026-10-19-Sonia-Joseph-on-Interpretability-and-Physical-AI#^clm-b23f47cb491cb332ff28|cite]])
+
+### 2026-10-20 [[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick|Muse Spark Open, Meta + Apple, Thin and Thick]]
+
+- Thompson argues American open-weight developers suffer a disadvantage against Chinese labs because terms of service prohibit distilling frontier models, forcing US open models to distill distillations. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-25bd6e5de0d9d4be48e6|cite]])

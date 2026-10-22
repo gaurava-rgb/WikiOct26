@@ -3,7 +3,7 @@ type: concept
 title: Annualized Revenue (ARR)
 status: developing
 created: 2026-10-13
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - concept
 source_count: 6

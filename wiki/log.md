@@ -13,6 +13,11 @@ tags:
 
 Newest completed operations appear first.
 
+## 2026-10-21 ingest-20261021-b30
+
+- Batch 30: Altman AI endgames, Apple touchscreen, Sonia Joseph physical AI, Arora fund, CoreWeave debt, Firmus neocloud, Meta-Apple Muse, Netflix earnings.
+- Sources: 8; claims added or updated this batch: 91.
+
 ## 2026-10-19 editor-update-20261019-b29
 
 - Editor update: slotted 8 The Information articles (batch b29) into the AI shift story, Anthropic 2026 journey, OpenAI late 2026 journey, Nvidia late 2026 journey, Meta October 2026 journey, and what-changed page; 4 what-changed entries on neocloud consolidation shakeout, Chinese pre-training on Huawei Ascend and TileLang, Anthropic $60B TPU debt financing, and Pentagon export control enforcement against safety guardrails.

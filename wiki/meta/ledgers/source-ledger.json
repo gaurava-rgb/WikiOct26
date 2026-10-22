@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:49:00Z",
+  "generated_at": "2026-10-22T01:28:33Z",
   "schema": "claude-obsidian.source-ledger.v1",
   "sources": {
     "src-a3fe751aca2f987ed6fc": {
@@ -3326,6 +3326,206 @@
       "url": "https://www.theinformation.com/articles/pentagons-emil-michael-vows-export-controls-ai-labs-cooperate-government",
       "form": "interview",
       "summary": "Under Secretary of Defense Emil Michael vowed in an interview to deploy export controls and executive authorities against frontier AI labs that refuse to cooperate with the government. Michael likened labs asking for regulation to drunk drivers demanding someone else pull them over, and reiterated his refusal to allow Anthropic into the Pentagon while Claude retains autonomy to end conversations. Michael regularly meets with Anthropic co-founder Tom Brown on incident response, while the Pentagon prepares loans to decrease dependence on ASML and TSMC."
+    },
+    "src-6ccf999e592581cabd92": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-19 The Information - Altman describes three endgames for AI (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Altman Describes Three Endgames for AI, Including One Where a Single Firm ‘Melts Everyone Else’s GPUs’",
+      "authority": "secondary",
+      "content_sha256": "61f6283c34d62598821171c053f93d90b511d68edbe449c8ef81e17f747cb049",
+      "ingested_at": "2026-10-21",
+      "retrieved_at": "2026-10-21",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-19-Altman-Describes-Three-Endgames-for-AI.md"
+      ],
+      "supersedes": null,
+      "author": "Stephanie Palazzolo, Amir Efrati",
+      "published": "2026-10-19",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/altman-describes-three-endgames-ai-including-one-single-firm-melts-everyone-elses-gpus",
+      "form": "article",
+      "summary": "OpenAI CEO Sam Altman told employees about three proposals for safe AI development: an international IAEA-style monitoring body, a CERN-style unified lab merging frontier developers, and a scenario where a single developer achieves recursive self-improvement and deprives rivals of compute. Altman supported the international agency and called single-firm dominance terrible. Meanwhile, OpenAI, Google, and Anthropic are forming the Standards Authority for Frontier AI, while Anthropic proposed legislation allowing federal shutdowns of dangerous models."
+    },
+    "src-9c900f3525631995d240": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-19 The Information - At Apple pigs are about to fly (notes).md"
+      },
+      "content_kind": "document",
+      "title": "At Apple, Pigs Are About to Fly",
+      "authority": "secondary",
+      "content_sha256": "bc338e193415bd24794e3be0fd402325864280add560cc88d62429ab4e7ba823",
+      "ingested_at": "2026-10-21",
+      "retrieved_at": "2026-10-21",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-19-At-Apple-Pigs-Are-About-to-Fly.md"
+      ],
+      "supersedes": null,
+      "author": "Nick Wingfield",
+      "published": "2026-10-19",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/apple-pigs-fly",
+      "form": "article",
+      "summary": "Apple issued invitations for a product event teasing a touchscreen MacBook Pro, reversing a decade-long refusal under former CEO Tim Cook, who previously compared touchscreen laptops to combining a toaster and refrigerator. The reversal comes under new CEO John Ternus, who has pushed Apple into previously avoided hardware categories including the iPhone Duo foldable and HomeView smart display. Meanwhile, Elon Musk pledged an $11 billion SpaceX equity gift to American children, and the Department of Homeland Security banned DeepSeek from federal civilian systems."
+    },
+    "src-1ca297c985f65cf881c4": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-19 The Information - Sonia Joseph on interpretability and physical AI (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Interpretability Is the Key to Physical AI, Says World Mechanics CEO Sonia Joseph",
+      "authority": "primary",
+      "content_sha256": "065d33db3c39e085e3ee4e8e619959109e13cd62a9bf6491f6a7761cdacd71e6",
+      "ingested_at": "2026-10-21",
+      "retrieved_at": "2026-10-21",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-19-Sonia-Joseph-on-Interpretability-and-Physical-AI.md"
+      ],
+      "supersedes": null,
+      "author": "Rocket Drew",
+      "published": "2026-10-19",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/interpretability-key-physical-ai-says-world-mechanics-ceo-sonia-joseph",
+      "form": "interview",
+      "summary": "In an interview with The Information, World Mechanics CEO and former Meta researcher Sonia Joseph argues that world models and mechanistic interpretability are inextricably linked. Building reliable physical AI systems for robotics, medicine, and manufacturing requires disentangled internal representations that directly map to physical laws, rather than relying on black-box heuristics or text-based reasoning. She contends that interpretability-guided training cuts data needs and speeds up development compared to brute-force compute."
+    },
+    "src-04da7b0e8a997f29f178": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-19 The Information - Nikesh Arora advises daughter on AI venture fund (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Palo Alto Networks CEO Advises Daughter on New AI-Focused Venture Capital Fund",
+      "authority": "secondary",
+      "content_sha256": "9848ee0e046ab6574931aba38d50db696b5a6a7454f06ea85c6921227ef8e15b",
+      "ingested_at": "2026-10-21",
+      "retrieved_at": "2026-10-21",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-19-Nikesh-Arora-Advises-Daughter-on-AI-Venture-Fund.md"
+      ],
+      "supersedes": null,
+      "author": "Julia Hornstein, Valida Pau",
+      "published": "2026-10-19",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/palo-alto-networks-ceo-advises-daughter-new-ai-focused-venture-capital-fund",
+      "form": "article",
+      "summary": "Ayesha Arora-Hughes, daughter of Palo Alto Networks CEO Nikesh Arora, is raising Permanent Partners Collective Fund I with a target above $100 million to back AI applications and infrastructure. Nikesh Arora serves as an adviser to the firm, drawing on his past leadership at SoftBank and role as lead independent director at General Catalyst. Meanwhile, Palo Alto Networks is actively seeking cybersecurity acquisitions as autonomous AI agents transform enterprise security."
+    },
+    "src-3118f233d13e35e58f6b": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-20 The Information - How CoreWeaves debt binge brought a moment of reckoning (notes).md"
+      },
+      "content_kind": "document",
+      "title": "How CoreWeave’s Debt Binge Brought a Moment of Reckoning",
+      "authority": "secondary",
+      "content_sha256": "973878b18d91cf4d9f6e8b16833ae3579286291dad1a21c55e05148f04a3e73d",
+      "ingested_at": "2026-10-21",
+      "retrieved_at": "2026-10-21",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning.md"
+      ],
+      "supersedes": null,
+      "author": "Dakin Campbell",
+      "published": "2026-10-20",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/coreweaves-debt-binge-brought-perilous-moment-reckoning",
+      "form": "article",
+      "summary": "CoreWeave faced an acute market reckoning as its stock dropped 20 percent in a week to $61 and bond yields climbed above 15 percent amid rising interest rates and inflation data. The neocloud, which originated as crypto miner Atlantic Crypto in 2017, pioneered debt financing collateralized by AI chips through a $2.3 billion Blackstone loan in 2023 anchored by Microsoft. While CoreWeave grew to $5.1 billion in revenue in 2025 and secured insurance company debt, critics like Ben Horowitz characterize its business as a fragile financial machine under rising capital costs."
+    },
+    "src-bf0def9e852e44a0327b": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-20 The Information - Nvidia moves to back Firmus after pulled IPO (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Nvidia Moves to Back GPU Cloud Provider Firmus After Investors Balk at Its IPO",
+      "authority": "secondary",
+      "content_sha256": "1287a48057addbf96440b30735ee71883f6085cf2773ccde5930d0ac2d3af167",
+      "ingested_at": "2026-10-21",
+      "retrieved_at": "2026-10-21",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO.md"
+      ],
+      "supersedes": null,
+      "author": "Phoebe Liu",
+      "published": "2026-10-20",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/nvidia-moves-back-gpu-cloud-provider-firmus-investors-balk-ipo",
+      "form": "article",
+      "summary": "Nvidia is in talks to invest hundreds of millions in Australian neocloud Firmus after it pulled a planned $5 billion IPO at a $30 billion valuation. Firmus has raised over $13 billion, including $10 billion in debt, and is seeking $2 billion privately. The talks reflect Nvidia's broader $170 billion in commitments to support GPU cloud buyers and counter hyperscaler custom chips. Nvidia has also adjusted its credit support terms, offering shorter-term guarantees for smaller cuts of revenue."
+    },
+    "src-049bcd215b8fe390d6ed": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/Muse Spark Open, Meta + Apple, Thin and Thick.md"
+      },
+      "content_kind": "document",
+      "title": "Muse Spark Open, Meta + Apple, Thin and Thick",
+      "authority": "secondary",
+      "content_sha256": "f9aecabed61a738cc5baab413ee239b8256a0a75be4531fa481092410e0b2ca5",
+      "ingested_at": "2026-10-21",
+      "retrieved_at": "2026-10-21",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "Stratechery",
+      "pages": [
+        "wiki/sources/2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick.md"
+      ],
+      "supersedes": null,
+      "author": "Ben Thompson",
+      "published": "2026-10-20",
+      "publisher": "Stratechery",
+      "url": "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/",
+      "form": "article",
+      "summary": "Meta released Muse Spark Open, an open-weight model optimized with Apple to run locally on high-end Macs using updated MLX software. Thompson analyzes the commercial restrictions on Meta's models compared to permissive Chinese models like DeepSeek and Qwen, noting that US labs face distillation constraints. Thompson attended a demonstration at Apple using two connected 512GB Mac Studios and argues local inference unlocks speculative branch-prediction coding workflows where tokens are effectively free, though high hardware costs and cloud scale keep thin-client architectures dominant for most workloads."
+    },
+    "src-a1d64b4ec58b5310fbef": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/Netflix Earnings, Business or Franchise, Disney’s Deal.md"
+      },
+      "content_kind": "document",
+      "title": "Netflix Earnings, Business or Franchise, Disney’s Deal",
+      "authority": "secondary",
+      "content_sha256": "e4302c994d0b316379904d11ae9ec37f314e182666513a13ea228603b86f73f7",
+      "ingested_at": "2026-10-21",
+      "retrieved_at": "2026-10-21",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "Stratechery",
+      "pages": [
+        "wiki/sources/2026-10-21-Netflix-Earnings-Business-or-Franchise-Disneys-Deal.md"
+      ],
+      "supersedes": null,
+      "author": "Ben Thompson",
+      "published": "2026-10-21",
+      "publisher": "Stratechery",
+      "url": "https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal/",
+      "form": "article",
+      "summary": "Netflix reported Q3 2026 revenue of $12.9 billion, up 12 percent year-over-year in its slowest quarterly revenue growth in three years, alongside net income of $3.66 billion. The company cut roughly 1,000 jobs and replaced its content leadership amid sluggish US engagement growth. Thompson applies Warren Buffett's distinction between an economic franchise and a business, arguing Netflix has transitioned into a business where continued growth requires operational excellence. However, a major licensing deal with Disney demonstrates Netflix's enduring distribution power across over 325 million subscribers."
     }
   }
 }

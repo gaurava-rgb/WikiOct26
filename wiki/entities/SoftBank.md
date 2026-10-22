@@ -3,11 +3,11 @@ type: entity
 title: SoftBank
 status: developing
 created: 2026-10-08
-updated: 2026-10-19
+updated: 2026-10-21
 tags:
   - entity
   - entity/company
-claim_count: 4
+claim_count: 5
 ---
 
 # SoftBank
@@ -31,3 +31,7 @@ Japanese investment group and one of OpenAI's largest investors.
 ### 2026-10-11 [[2026-10-11-Amazons-Bargains-Include-Its-Stock|Amazon’s Bargains Include Its Stock]]
 
 - SoftBank CEO Masayoshi Son is looking to raise up to $100 billion from Gulf investors to fund his AI investments, per the Financial Times. ([[2026-10-11-Amazons-Bargains-Include-Its-Stock#^clm-618275d9d09290365c82|cite]])
+
+### 2026-10-19 [[2026-10-19-Nikesh-Arora-Advises-Daughter-on-AI-Venture-Fund|Palo Alto Networks CEO Advises Daughter on New AI-Focused Venture Capital Fund]]
+
+- Nikesh Arora advises the fund using experience gained as president and chief operating officer of SoftBank, where he oversaw investments in firms including Ola and Snapdeal. ([[2026-10-19-Nikesh-Arora-Advises-Daughter-on-AI-Venture-Fund#^clm-7237bb221d3d4005982c|cite]])
