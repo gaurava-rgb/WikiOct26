@@ -3,11 +3,11 @@ type: entity
 title: Google
 status: developing
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company
-claim_count: 179
+claim_count: 184
 ---
 
 # Google
@@ -365,9 +365,26 @@ Search and advertising giant (Alphabet); builds Gemini models and TPU chips.
 
 - The United States government sanctioned a Chinese startup and venture capital firm linked to Linwei Ding, a former Google engineer convicted of stealing proprietary AI trade secrets. ([[2026-10-20-OpenAIs-Pacing-2-0-Problem#^clm-a4b03760a5f7082c3b29|cite]])
 
+### 2026-10-20 [[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds|Nvidia Has Put More Than $170 Billion on the Line for Neoclouds]]
+
+- Google, Amazon, and Microsoft accelerated investments in their own custom AI chips to replace Nvidia GPUs. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-9d13622a29ce67ffb75d|cite]])
+
 ### 2026-10-21 [[2026-10-21-How-Thoma-Bravo-Found-Discount-in-Cybersecurity-Market|How Thoma Bravo Found a Discount in a Hot Cybersecurity Market]]
 
 - Cybersecurity consolidation included mega-deals in 2025 such as Alphabet's $32 billion acquisition of Wiz and Palo Alto Networks' $25 billion acquisition of CyberArk. ([[2026-10-21-How-Thoma-Bravo-Found-Discount-in-Cybersecurity-Market#^clm-fc2dfda9333068f1e27e|cite]])
+
+### 2026-10-22 [[2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor|Why Blackstone Thinks AI Bottlenecks Could Work in its Favor]]
+
+- Blackstone's joint venture with Google to build a 500-megawatt TPU cloud, backed by an initial $5 billion equity commitment, could require up to $25 billion in total capital and has faced site delays. ([[2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor#^clm-41ce280799f5b4fffbbe|cite]])
+- Google formed a partnership with energy software firm Voltus to pay residential and commercial customers to reduce electricity usage during peak demand. ([[2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor#^clm-807c382aa3617922aab8|cite]])
+
+### 2026-10-22 [[2026-10-22-Datadog-Offered-4-Billion-to-Buy-Cloud-Security-Startup-Upwind|Datadog Offered $4 Billion to Buy Cloud Security Startup ‘Upwind’]]
+
+- Datadog's nearly $4 billion buyout offer valued Upwind Security at approximately 80 times annual recurring revenue. ([[2026-10-22-Datadog-Offered-4-Billion-to-Buy-Cloud-Security-Startup-Upwind#^clm-28fe08f7213055faa5c1|cite]])
+
+### 2026-10-22 [[2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off|Utopai Becomes a Unicorn as Video AI Takes Off]]
+
+- Utopai Studios Chief Executive Cecilia Shen, formerly an AI researcher on Google's X moonshot team, founded the company in 2022. ([[2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off#^clm-9f8b00c1b758769f2daf|cite]])
 
 ## Related concepts
 

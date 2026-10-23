@@ -3,7 +3,7 @@ type: entity
 title: Epic Games
 status: developing
 created: 2026-10-16
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company

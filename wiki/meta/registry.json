@@ -766,6 +766,10 @@
       "blurb": "CEO and cofounder of Anthropic.",
       "kind": "person"
     },
+    "Datadog": {
+      "blurb": "Cloud monitoring and observability software provider.",
+      "kind": "company"
+    },
     "Dave Dugan": {
       "blurb": "Vice president of global ad solutions at OpenAI and former Meta executive.",
       "kind": "person"
@@ -1101,6 +1105,10 @@
     "Hatch": {
       "blurb": "Meta's personal AI agent, delayed from July 2026 for safety work.",
       "kind": "product"
+    },
+    "Higgsfield": {
+      "blurb": "AI video generation startup providing models to content creators.",
+      "kind": "company"
     },
     "Hill County": {
       "blurb": "Rural Texas county southwest of Dallas.",
@@ -1956,6 +1964,14 @@
     },
     "United Airlines": {
       "blurb": "US airline that moved its core systems off legacy mainframes to the cloud.",
+      "kind": "company"
+    },
+    "Upwind Security": {
+      "blurb": "Israeli cloud cybersecurity startup that monitors cloud workloads and AI agents.",
+      "kind": "company"
+    },
+    "Utopai Studios": {
+      "blurb": "Video AI film studio that produces films using customized models.",
       "kind": "company"
     },
     "Varonis Systems": {

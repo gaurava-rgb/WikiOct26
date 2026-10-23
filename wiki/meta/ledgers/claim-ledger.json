@@ -84744,8 +84744,2480 @@
       "concepts": [
         "AI-Agents"
       ]
+    },
+    "clm-b0ecd0ceea9d6dbf44f8": {
+      "text": "Nvidia disclosed up to $164.5 billion in lease guarantees and other commitments to support new data centers as of its July 2026 quarter filings.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds.md",
+        "anchor": "^clm-b0ecd0ceea9d6dbf44f8"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf5b39eb764c56a8e27a",
+          "relation": "supports",
+          "locator": "§ Central bank for neoclouds: “disclosed up to $164.5 billion in guarantees and other commitments to support new data centers”"
+        }
+      ],
+      "notes": "Updates clm-583c872a7aebf1c15581: regulatory filings confirm $164.5 billion in data center commitments as of July 2026.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-07",
+      "subjects": [
+        "Nvidia"
+      ],
+      "concepts": [
+        "AI-Compute-Demand"
+      ]
+    },
+    "clm-ad3ba8711b612b1e649f": {
+      "text": "Nvidia data center commitments include agreements to pay landlords if cloud tenants default on leases and promises to purchase compute capacity.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds.md",
+        "anchor": "^clm-ad3ba8711b612b1e649f"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf5b39eb764c56a8e27a",
+          "relation": "supports",
+          "locator": "§ Central bank for neoclouds: “pay landlords if cloud tenants default on leases, as well as promises to purchase compute capacity”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-07",
+      "subjects": [
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-396b2e1c478d32bc297b": {
+      "text": "Nvidia has invested or agreed to invest more than $7 billion directly into AI cloud providers on top of its lease commitments, putting over $170 billion on the line.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds.md",
+        "anchor": "^clm-396b2e1c478d32bc297b"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf5b39eb764c56a8e27a",
+          "relation": "supports",
+          "locator": "§ Central bank for neoclouds: “invested or agreed to invest more than $7 billion directly into AI cloud providers”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-07",
+      "subjects": [
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-f19d056c75bf0bb36f61": {
+      "text": "Nvidia's total equity portfolio was valued at nearly $100 billion as of July 2026, spanning data center builders like SB Energy and AI research labs like OpenAI and Anthropic.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds.md",
+        "anchor": "^clm-f19d056c75bf0bb36f61"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf5b39eb764c56a8e27a",
+          "relation": "supports",
+          "locator": "§ Central bank for neoclouds: “total equity portfolio was valued at nearly $100 billion as of July 2026”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-07",
+      "subjects": [
+        "Nvidia",
+        "SB Energy",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-fa4d60d5f5d87a8cce3e": {
+      "text": "Non-hyperscaler customers, including neoclouds and large corporations, accounted for 45% of Nvidia data center revenue, or $40 billion, in the July 2026 quarter.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds.md",
+        "anchor": "^clm-fa4d60d5f5d87a8cce3e"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf5b39eb764c56a8e27a",
+          "relation": "supports",
+          "locator": "§ Financial risks and revenue mix: “accounted for 45% of Nvidia data center revenue in the July 2026 quarter”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-07",
+      "subjects": [
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-fdcc1bd8c82f28ae9cdd": {
+      "text": "Shares in publicly traded AI cloud firms CoreWeave, Nebius, and IREN dropped sharply in mid-October 2026 as public markets soured on AI cloud expansion plans.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds.md",
+        "anchor": "^clm-fdcc1bd8c82f28ae9cdd"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf5b39eb764c56a8e27a",
+          "relation": "supports",
+          "locator": "§ Market backlash and delayed public listings: “Shares in publicly traded AI cloud firms CoreWeave, Nebius, and IREN dropped sharply”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "CoreWeave",
+        "Nebius",
+        "IREN"
+      ],
+      "concepts": []
+    },
+    "clm-bd6f064d8d587cf99877": {
+      "text": "Nvidia-backed cloud startups Firmus and Lambda pulled or postponed planned initial public offerings in October 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds.md",
+        "anchor": "^clm-bd6f064d8d587cf99877"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf5b39eb764c56a8e27a",
+          "relation": "supports",
+          "locator": "§ Market backlash and delayed public listings: “startups Firmus and Lambda have pulled or postponed planned initial public offerings”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Firmus",
+        "Lambda",
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-d5608103dca204d3b681": {
+      "text": "Data center developer SB Energy and GPU cloud operator Nscale published IPO registration documents in September 2026 but have not proceeded with public listings.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds.md",
+        "anchor": "^clm-d5608103dca204d3b681"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf5b39eb764c56a8e27a",
+          "relation": "supports",
+          "locator": "§ Market backlash and delayed public listings: “published IPO registration documents in September 2026 but have not proceeded with listings”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "SB Energy",
+        "Nscale"
+      ],
+      "concepts": []
+    },
+    "clm-3ffd37c995c1fd48bf4f": {
+      "text": "Nvidia entered discussions to provide a fresh direct investment of hundreds of millions of dollars to Firmus after Firmus cancelled its IPO.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds.md",
+        "anchor": "^clm-3ffd37c995c1fd48bf4f"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf5b39eb764c56a8e27a",
+          "relation": "supports",
+          "locator": "§ Market backlash and delayed public listings: “discussions to provide a fresh direct investment of hundreds of millions of dollars to Firmus”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Nvidia",
+        "Firmus"
+      ],
+      "concepts": []
+    },
+    "clm-a96910b5f037c9318632": {
+      "text": "Nvidia Chief Financial Officer Colette Kress stated on an August 2026 earnings call that the company's financial risk from backing AI labs is limited because it can redeploy GPUs to other buyers.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds.md",
+        "anchor": "^clm-a96910b5f037c9318632"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf5b39eb764c56a8e27a",
+          "relation": "supports",
+          "locator": "§ Financial risks and revenue mix: “financial risk from backing AI labs is limited because it can redeploy graphics processing units”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-08",
+      "subjects": [
+        "Nvidia",
+        "Colette Kress"
+      ],
+      "concepts": []
+    },
+    "clm-f008664b4ed4e83ea338": {
+      "text": "Investor demand grew for financial protection against default on Nvidia's own corporate debt amid rising neocloud financing risks.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds.md",
+        "anchor": "^clm-f008664b4ed4e83ea338"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf5b39eb764c56a8e27a",
+          "relation": "supports",
+          "locator": "§ Market backlash and delayed public listings: “demand has grown for financial protection against default on Nvidia's own corporate debt”"
+        }
+      ],
+      "notes": "Updates clm-c6e065cb5277de70ba37: persistent demand for Nvidia debt default protection into October 2026.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-9d13622a29ce67ffb75d": {
+      "text": "Google, Amazon, and Microsoft accelerated investments in their own custom AI chips to replace Nvidia GPUs.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds.md",
+        "anchor": "^clm-9d13622a29ce67ffb75d"
+      },
+      "evidence": [
+        {
+          "source_id": "src-bf5b39eb764c56a8e27a",
+          "relation": "supports",
+          "locator": "§ Financial risks and revenue mix: “accelerating investments in their own in-house custom AI chips to replace Nvidia GPUs”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Google",
+        "Amazon",
+        "Microsoft",
+        "Nvidia"
+      ],
+      "concepts": [
+        "Custom-Silicon"
+      ]
+    },
+    "clm-d54feccc9bb3cc99d969": {
+      "text": "Since August 2026, an OpenAI-led industry coalition has worked quietly to fix critical vulnerabilities in PHP, an open-source web language.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh.md",
+        "anchor": "^clm-d54feccc9bb3cc99d969"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9cf403c7e6292c75b1ec",
+          "relation": "supports",
+          "locator": "§ The narrowing defender's window: “OpenAI-led industry coalition has worked quietly to fix critical vulnerabilities in PHP”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-08",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-f1f549ad1d8f81e4d57f": {
+      "text": "OpenAI warned that the defender's window, the period when defenders armed with frontier AI can detect and patch vulnerabilities before attackers exploit them, is rapidly closing.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh.md",
+        "anchor": "^clm-f1f549ad1d8f81e4d57f"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9cf403c7e6292c75b1ec",
+          "relation": "supports",
+          "locator": "§ The narrowing defender's window: “defender's window is shrinking rapidly”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": [
+        "Verification-Advantage"
+      ]
+    },
+    "clm-1fe49104028371c2cf31": {
+      "text": "Anthropic warned in late September 2026 that Chinese lab Z.ai's GLM-5.3 model trailed United States frontier models by only four months in cyber capabilities.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh.md",
+        "anchor": "^clm-1fe49104028371c2cf31"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9cf403c7e6292c75b1ec",
+          "relation": "supports",
+          "locator": "§ The narrowing defender's window: “Z.ai's GLM-5.3 model trailed United States frontier models by only four months”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-09",
+      "subjects": [
+        "Anthropic",
+        "Z.ai"
+      ],
+      "concepts": [
+        "Open-Weight-Models"
+      ]
+    },
+    "clm-9f00e0357bdb214a1221": {
+      "text": "The Trump administration's Super Intelligence Force stepped in to coordinate government communications and push parties to deploy the PHP security patch.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh.md",
+        "anchor": "^clm-9f00e0357bdb214a1221"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9cf403c7e6292c75b1ec",
+          "relation": "supports",
+          "locator": "§ The narrowing defender's window: “Super Intelligence Force stepped in to coordinate government communications”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Trump Administration",
+        "Emil Michael"
+      ],
+      "concepts": []
+    },
+    "clm-4cad92c4f83889896707": {
+      "text": "In late October 2026, OpenAI briefed National Intelligence Director Jay Clayton and senior defense official Emil Michael in its first major engagement with the Super Intelligence Force.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh.md",
+        "anchor": "^clm-4cad92c4f83889896707"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9cf403c7e6292c75b1ec",
+          "relation": "supports",
+          "locator": "§ The narrowing defender's window: “briefing National Intelligence Director Jay Clayton and senior defense official Emil Michael”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI",
+        "Emil Michael",
+        "Trump Administration"
+      ],
+      "concepts": []
+    },
+    "clm-808ecee8a2d98f48b69b": {
+      "text": "Meta Platforms reported third-quarter 2026 revenue of $64.6 billion, up 26% year over year, while Reality Labs trimmed its operating losses.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh.md",
+        "anchor": "^clm-808ecee8a2d98f48b69b"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9cf403c7e6292c75b1ec",
+          "relation": "supports",
+          "locator": "§ Meta Q3 earnings and Class C stock: “third-quarter 2026 revenue of $64.6 billion, up 26% year over year”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-Q3",
+      "subjects": [
+        "Meta",
+        "Reality Labs"
+      ],
+      "concepts": []
+    },
+    "clm-14c306ceb0083d3decd1": {
+      "text": "Meta recorded negative free cash flow of $2.12 billion in third-quarter 2026 due to AI infrastructure investments, down from positive $10.63 billion a year earlier.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh.md",
+        "anchor": "^clm-14c306ceb0083d3decd1"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9cf403c7e6292c75b1ec",
+          "relation": "supports",
+          "locator": "§ Meta Q3 earnings and Class C stock: “negative free cash flow of $2.12 billion, down from positive free cash flow of $10.63 billion”"
+        }
+      ],
+      "notes": "Updates clm-9a0ce83bda1f59882d94: Meta actual Q3 free cash flow was negative $2.12 billion, better than projected negative $10.3 billion.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-Q3",
+      "subjects": [
+        "Meta"
+      ],
+      "concepts": [
+        "Capex-vs-Opex"
+      ]
+    },
+    "clm-b1dcc921139a0ac1f98e": {
+      "text": "Meta reaffirmed full-year 2026 capital expenditures of $135 billion to $145 billion.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh.md",
+        "anchor": "^clm-b1dcc921139a0ac1f98e"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9cf403c7e6292c75b1ec",
+          "relation": "supports",
+          "locator": "§ Meta Q3 earnings and Class C stock: “reaffirmed full-year 2026 capital expenditures of $135 billion to $145 billion”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Meta"
+      ],
+      "concepts": [
+        "Capex-vs-Opex"
+      ]
+    },
+    "clm-68d550a6369839284f99": {
+      "text": "Meta Chief Executive Mark Zuckerberg announced that the Muse personal agent app reached 10 million users in the United States and Canada within six weeks of launch.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh.md",
+        "anchor": "^clm-68d550a6369839284f99"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9cf403c7e6292c75b1ec",
+          "relation": "supports",
+          "locator": "§ Meta Q3 earnings and Class C stock: “Muse personal agent app reached 10 million users in the United States and Canada”"
+        }
+      ],
+      "notes": "Updates clm-c307ea9bf101fdc2b427: Muse achieved 10 million users in North America in its first six weeks.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Meta",
+        "Mark Zuckerberg"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-088bf12c677fb7b90d7a": {
+      "text": "Meta plans to monetize Muse through commerce transaction fees paid by businesses and token fees for power users accessing advanced models.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh.md",
+        "anchor": "^clm-088bf12c677fb7b90d7a"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9cf403c7e6292c75b1ec",
+          "relation": "supports",
+          "locator": "§ Meta Q3 earnings and Class C stock: “monetization planned through commerce transaction fees and fees for advanced model tokens”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Meta"
+      ],
+      "concepts": [
+        "Agentic-Commerce"
+      ]
+    },
+    "clm-a9d1b575c9e295d552ea": {
+      "text": "Meta incurred nearly $10 billion in legal charges in the third quarter of 2026, reducing operating income by 37% to just under $13 billion.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh.md",
+        "anchor": "^clm-a9d1b575c9e295d552ea"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9cf403c7e6292c75b1ec",
+          "relation": "supports",
+          "locator": "§ Meta Q3 earnings and Class C stock: “incurred nearly $10 billion in legal charges in the third quarter”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-Q3",
+      "subjects": [
+        "Meta"
+      ],
+      "concepts": []
+    },
+    "clm-42c2f037554b0f24e6ad": {
+      "text": "Meta announced a new class of non-voting Class C common stock, effective January 19, 2027, issued as a 1:1 dividend to existing Class A and B shareholders to fund AI investments without diluting Mark Zuckerberg's voting control.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh.md",
+        "anchor": "^clm-42c2f037554b0f24e6ad"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9cf403c7e6292c75b1ec",
+          "relation": "supports",
+          "locator": "§ Meta Q3 earnings and Class C stock: “new class of non-voting Class C common stock, effective January 19, 2027”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Meta",
+        "Mark Zuckerberg"
+      ],
+      "concepts": []
+    },
+    "clm-15b1156c059fc3d0fb32": {
+      "text": "Tesla reported third-quarter 2026 revenue flat at $28 billion, with automotive revenue falling 3% to $20.56 billion.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh.md",
+        "anchor": "^clm-15b1156c059fc3d0fb32"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9cf403c7e6292c75b1ec",
+          "relation": "supports",
+          "locator": "§ Tesla and Microsoft updates: “flat third-quarter revenue of $28 billion, with automotive revenue falling 3% to $20.56 billion”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-Q3",
+      "subjects": [
+        "Tesla"
+      ],
+      "concepts": []
+    },
+    "clm-4d16e4a91aa3f3c89343": {
+      "text": "Microsoft asked shareholders to approve a 6% cut to Chief Executive Satya Nadella's pay following revenue drops in Xbox gaming.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh.md",
+        "anchor": "^clm-4d16e4a91aa3f3c89343"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9cf403c7e6292c75b1ec",
+          "relation": "supports",
+          "locator": "§ Tesla and Microsoft updates: “6% cut to Chief Executive Satya Nadella's pay following revenue drops in its Xbox”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Microsoft",
+        "Satya Nadella"
+      ],
+      "concepts": []
+    },
+    "clm-fe825630568374505457": {
+      "text": "Andreessen Horowitz informed limited partners that its dedicated blockchain unit, a16z crypto, will change its name to a16z frontier and broaden beyond crypto into emerging technologies.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund.md",
+        "anchor": "^clm-fe825630568374505457"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1074af88e6b677dfca6b",
+          "relation": "supports",
+          "locator": "§ Rebranding to a16z frontier: “informed limited partners that its dedicated blockchain unit, a16z crypto, will change its name to a16z frontier”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Andreessen Horowitz"
+      ],
+      "concepts": []
+    },
+    "clm-08790903d1ea4ffcbd01": {
+      "text": "Across five dedicated funds launched since 2018, Andreessen Horowitz's crypto division raised nearly $10 billion in committed capital.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund.md",
+        "anchor": "^clm-08790903d1ea4ffcbd01"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1074af88e6b677dfca6b",
+          "relation": "supports",
+          "locator": "§ Rebranding to a16z frontier: “raised nearly $10 billion in committed capital”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Andreessen Horowitz"
+      ],
+      "concepts": []
+    },
+    "clm-5911631af0bf6e7a2280": {
+      "text": "General partner Ali Yahya, who joined Andreessen Horowitz in 2017 as the crypto group's first full-time member, departed the firm to launch a startup.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund.md",
+        "anchor": "^clm-5911631af0bf6e7a2280"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1074af88e6b677dfca6b",
+          "relation": "supports",
+          "locator": "§ Rebranding to a16z frontier: “crypto group's first full-time member, is departing to build a startup”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Andreessen Horowitz"
+      ],
+      "concepts": []
+    },
+    "clm-3dfeb51c9b4f09a02b09": {
+      "text": "Andreessen Horowitz raised a peak $4.5 billion crypto fund in 2022, but its May 2026 fund was less than half that size at $2.2 billion.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund.md",
+        "anchor": "^clm-3dfeb51c9b4f09a02b09"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1074af88e6b677dfca6b",
+          "relation": "supports",
+          "locator": "§ Rebranding to a16z frontier: “announced in May 2026, closed at $2.2 billion, less than half the size of its 2022 fund”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-05",
+      "subjects": [
+        "Andreessen Horowitz"
+      ],
+      "concepts": []
+    },
+    "clm-0f13c34c4e220062a29c": {
+      "text": "Andreessen Horowitz's crypto fund broadened its portfolio by investing in non-blockchain startups including prediction market Kalshi and compute market infrastructure firm Ornn.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund.md",
+        "anchor": "^clm-0f13c34c4e220062a29c"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1074af88e6b677dfca6b",
+          "relation": "supports",
+          "locator": "§ Rebranding to a16z frontier: “investing in non-blockchain startups, including prediction market Kalshi and compute market infrastructure firm Ornn”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Andreessen Horowitz"
+      ],
+      "concepts": []
+    },
+    "clm-8cf92a1c3327a2abb6f2": {
+      "text": "In May 2026 Haun Ventures, led by former a16z partner Katie Haun, expanded its mandate to non-crypto financial services startups across $1 billion in new capital.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund.md",
+        "anchor": "^clm-8cf92a1c3327a2abb6f2"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1074af88e6b677dfca6b",
+          "relation": "supports",
+          "locator": "§ Broad shift across venture firms: “Haun Ventures, led by former a16z partner Katie Haun, expanded its mandate to non-crypto financial services”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-05",
+      "subjects": [
+        "Andreessen Horowitz"
+      ],
+      "concepts": []
+    },
+    "clm-6569628ba73742bc19ce": {
+      "text": "In August 2026 Paradigm announced its $1.2 billion fund would invest in artificial intelligence, robotics, and other frontiers alongside blockchain.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund.md",
+        "anchor": "^clm-6569628ba73742bc19ce"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1074af88e6b677dfca6b",
+          "relation": "supports",
+          "locator": "§ Broad shift across venture firms: “Paradigm announced its $1.2 billion fund would invest in artificial intelligence, robotics, and other technical frontiers”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-08",
+      "subjects": [
+        "Andreessen Horowitz"
+      ],
+      "concepts": []
+    },
+    "clm-d092b7938a75fa60efd1": {
+      "text": "General partner Chris Dixon acknowledged that non-financial consumer Web3 use cases had fallen short, arguing crypto had entered a financial era focused on stablecoins and agentic payments.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund.md",
+        "anchor": "^clm-d092b7938a75fa60efd1"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1074af88e6b677dfca6b",
+          "relation": "supports",
+          "locator": "§ Broad shift across venture firms: “crypto had entered a financial era focused on stablecoins and agentic payments”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026",
+      "subjects": [
+        "Andreessen Horowitz"
+      ],
+      "concepts": [
+        "Agentic-Commerce"
+      ]
+    },
+    "clm-e319e0cc9754357e711d": {
+      "text": "Andreessen Horowitz put tens of millions of dollars into the Fairshake super PAC network during the 2024 election cycle to back crypto-friendly candidates.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund.md",
+        "anchor": "^clm-e319e0cc9754357e711d"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1074af88e6b677dfca6b",
+          "relation": "supports",
+          "locator": "§ Political and regulatory landscape: “tens of millions of dollars backing crypto-friendly political candidates through the Fairshake super PAC”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2024",
+      "subjects": [
+        "Andreessen Horowitz"
+      ],
+      "concepts": []
+    },
+    "clm-5e6e70320395b68c1a74": {
+      "text": "The crypto industry faced an extended downturn in 2026 following the failure of the Clarity Act in Congress, despite the mid-2025 passage of the Genius Act regulating stablecoins.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund.md",
+        "anchor": "^clm-5e6e70320395b68c1a74"
+      },
+      "evidence": [
+        {
+          "source_id": "src-1074af88e6b677dfca6b",
+          "relation": "supports",
+          "locator": "§ Political and regulatory landscape: “faced an extended downturn in 2026 compounded by the failure of the Clarity Act”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026",
+      "subjects": [
+        "Andreessen Horowitz"
+      ],
+      "concepts": []
+    },
+    "clm-78651b34895d6e36a47e": {
+      "text": "Blackstone Chief Executive Steve Schwarzman argued on the firm's Q3 2026 earnings call that power availability constraints and local opposition make existing data centers more valuable.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor.md",
+        "anchor": "^clm-78651b34895d6e36a47e"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27892d13f98e163b8c13",
+          "relation": "supports",
+          "locator": "§ Bottlenecks as pricing power: “power availability bottlenecks and rising local opposition to data centers make new capacity harder to build”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Blackstone"
+      ],
+      "concepts": [
+        "Data-Center-Opposition",
+        "AI-Compute-Demand"
+      ]
+    },
+    "clm-20ef18cea7817274e0ff": {
+      "text": "Blackstone President Jon Gray stated the firm can demand higher lease returns on uncommitted data center projects to compensate for rising interest rates.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor.md",
+        "anchor": "^clm-20ef18cea7817274e0ff"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27892d13f98e163b8c13",
+          "relation": "supports",
+          "locator": "§ Bottlenecks as pricing power: “demand higher lease returns on uncommitted data center projects to compensate for rising interest rates”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Blackstone"
+      ],
+      "concepts": []
+    },
+    "clm-ecbcedea0790950d6420": {
+      "text": "Blackstone reported that its digital infrastructure assets experienced extraordinary leasing momentum in Q3 2026, significantly outperforming real estate and private equity.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor.md",
+        "anchor": "^clm-ecbcedea0790950d6420"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27892d13f98e163b8c13",
+          "relation": "supports",
+          "locator": "§ Bottlenecks as pricing power: “digital infrastructure assets experienced extraordinary leasing momentum, significantly outperforming its traditional real estate”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-Q3",
+      "subjects": [
+        "Blackstone"
+      ],
+      "concepts": []
+    },
+    "clm-1bf1ac72a936c518031d": {
+      "text": "Blackstone President Jon Gray stated that AI computing demand continues to grow faster than the available supply of chips and data centers.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor.md",
+        "anchor": "^clm-1bf1ac72a936c518031d"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27892d13f98e163b8c13",
+          "relation": "supports",
+          "locator": "§ Bottlenecks as pricing power: “AI computing demand continues to outpace the supply of available compute chips”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10",
+      "subjects": [
+        "Blackstone"
+      ],
+      "concepts": [
+        "AI-Compute-Demand"
+      ]
+    },
+    "clm-c1c66c1cb0a4e421eb29": {
+      "text": "CoreWeave shares fell another 10% in late October 2026 as financing fears mounted, increasing pressure on Blackstone's billions in loans to the company.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor.md",
+        "anchor": "^clm-c1c66c1cb0a4e421eb29"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27892d13f98e163b8c13",
+          "relation": "supports",
+          "locator": "§ Neocloud exposure and funding uncertainty: “CoreWeave dropped another 10% on Thursday following steep declines earlier in October”"
+        }
+      ],
+      "notes": "Updates clm-e74186bc106dafb19939: CoreWeave equity and bond declines pressure Blackstone's multibillion-dollar loan exposure.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "CoreWeave",
+        "Blackstone"
+      ],
+      "concepts": []
+    },
+    "clm-88d0b86f401126eb60cf": {
+      "text": "Blackstone has provided both equity financing and loans to Australian GPU cloud provider Firmus, which cancelled its planned initial public offering in October 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor.md",
+        "anchor": "^clm-88d0b86f401126eb60cf"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27892d13f98e163b8c13",
+          "relation": "supports",
+          "locator": "§ Neocloud exposure and funding uncertainty: “Blackstone has provided both equity financing and loans to Firmus”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Firmus",
+        "Blackstone"
+      ],
+      "concepts": []
+    },
+    "clm-41ce280799f5b4fffbbe": {
+      "text": "Blackstone's joint venture with Google to build a 500-megawatt TPU cloud, backed by an initial $5 billion equity commitment, could require up to $25 billion in total capital and has faced site delays.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor.md",
+        "anchor": "^clm-41ce280799f5b4fffbbe"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27892d13f98e163b8c13",
+          "relation": "supports",
+          "locator": "§ Neocloud exposure and funding uncertainty: “Google, announced in May 2026 with an initial $5 billion equity commitment to build a 500-megawatt TPU cloud”"
+        }
+      ],
+      "notes": "Updates clm-26cfa872882d12d9a3e2: Blackstone TPU cloud venture with Google faces site delays and could require up to $25 billion.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Blackstone",
+        "Google"
+      ],
+      "concepts": [
+        "Custom-Silicon"
+      ]
+    },
+    "clm-62249cee87fe4d4e8e5c": {
+      "text": "Jas Khaira, head of AI investing at Blackstone, cautioned at a conference that the firm has not identified where all the debt will come from to finance trillions in infrastructure.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor.md",
+        "anchor": "^clm-62249cee87fe4d4e8e5c"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27892d13f98e163b8c13",
+          "relation": "supports",
+          "locator": "§ Neocloud exposure and funding uncertainty: “cautioned at a conference that the firm has not identified where all the public and private debt will come from”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "quote",
+      "as_of": "2026-10",
+      "subjects": [
+        "Blackstone"
+      ],
+      "concepts": []
+    },
+    "clm-229d9341a1f50c483f9a": {
+      "text": "Meta Platforms shares fell 7% following its Q3 earnings release due to investor dilution concerns over its new Class C shares created to finance AI capital spending.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor.md",
+        "anchor": "^clm-229d9341a1f50c483f9a"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27892d13f98e163b8c13",
+          "relation": "supports",
+          "locator": "§ Market reactions: “Meta Platforms shares fell 7% on Thursday as investor optimism over third-quarter results gave way to dilution worries”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Meta"
+      ],
+      "concepts": [
+        "Capex-vs-Opex"
+      ]
+    },
+    "clm-807c382aa3617922aab8": {
+      "text": "Google formed a partnership with energy software firm Voltus to pay residential and commercial customers to reduce electricity usage during peak demand.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor.md",
+        "anchor": "^clm-807c382aa3617922aab8"
+      },
+      "evidence": [
+        {
+          "source_id": "src-27892d13f98e163b8c13",
+          "relation": "supports",
+          "locator": "§ Market reactions: “Google formed a partnership with energy software firm Voltus to pay residential and commercial customers”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Google"
+      ],
+      "concepts": []
+    },
+    "clm-e1ab51e3f047ce7a442a": {
+      "text": "Datadog made an offer to acquire Israeli cloud cybersecurity startup Upwind Security for nearly $4 billion.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Datadog-Offered-4-Billion-to-Buy-Cloud-Security-Startup-Upwind.md",
+        "anchor": "^clm-e1ab51e3f047ce7a442a"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9ef760c6c9bc7990310c",
+          "relation": "supports",
+          "locator": "§ Datadog's buyout offer: “offer to acquire Israeli cloud cybersecurity startup Upwind Security for nearly $4 billion”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Datadog",
+        "Upwind Security"
+      ],
+      "concepts": []
+    },
+    "clm-531cfc65dd09e2935292": {
+      "text": "Datadog carries a market capitalization of $90 billion and sells observability software that tracks applications across corporate cloud infrastructure.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Datadog-Offered-4-Billion-to-Buy-Cloud-Security-Startup-Upwind.md",
+        "anchor": "^clm-531cfc65dd09e2935292"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9ef760c6c9bc7990310c",
+          "relation": "supports",
+          "locator": "§ Datadog's buyout offer: “carries a market capitalization of $90 billion and sells observability software that tracks applications”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Datadog"
+      ],
+      "concepts": []
+    },
+    "clm-957f79973baf2d1c97e0": {
+      "text": "Datadog previously attempted to acquire Upwind Security for roughly $1 billion in 2025 before talks ended.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Datadog-Offered-4-Billion-to-Buy-Cloud-Security-Startup-Upwind.md",
+        "anchor": "^clm-957f79973baf2d1c97e0"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9ef760c6c9bc7990310c",
+          "relation": "supports",
+          "locator": "§ Datadog's buyout offer: “attempted to acquire Upwind for roughly $1 billion in 2025”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2025",
+      "subjects": [
+        "Datadog",
+        "Upwind Security"
+      ],
+      "concepts": []
+    },
+    "clm-5e09a93c2de42cea4c91": {
+      "text": "Upwind Security is finalizing a $300 million funding round at a private valuation of roughly $3.8 billion, fielding multiple takeover bids without accepting an offer.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Datadog-Offered-4-Billion-to-Buy-Cloud-Security-Startup-Upwind.md",
+        "anchor": "^clm-5e09a93c2de42cea4c91"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9ef760c6c9bc7990310c",
+          "relation": "supports",
+          "locator": "§ Upwind's growth and fundraising: “finalizing a $300 million funding round at a private valuation of roughly $3.8 billion”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Upwind Security"
+      ],
+      "concepts": []
+    },
+    "clm-78c436ec3ecd02b62b6c": {
+      "text": "Upwind Security develops cybersecurity software to monitor cloud workloads and AI agents, automatically detecting and responding to breaches.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Datadog-Offered-4-Billion-to-Buy-Cloud-Security-Startup-Upwind.md",
+        "anchor": "^clm-78c436ec3ecd02b62b6c"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9ef760c6c9bc7990310c",
+          "relation": "supports",
+          "locator": "§ Upwind's growth and fundraising: “develops cybersecurity software designed to monitor cloud-hosted workloads, specifically tracking AI agents”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Upwind Security"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-042a974ec9f24466f506": {
+      "text": "Enterprise customers using Upwind Security software include streaming provider Roku and Brazilian digital bank Nubank.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Datadog-Offered-4-Billion-to-Buy-Cloud-Security-Startup-Upwind.md",
+        "anchor": "^clm-042a974ec9f24466f506"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9ef760c6c9bc7990310c",
+          "relation": "supports",
+          "locator": "§ Upwind's growth and fundraising: “using Upwind software include streaming provider Roku and Brazilian digital bank Nubank”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Upwind Security"
+      ],
+      "concepts": []
+    },
+    "clm-4365a610f6158247fee9": {
+      "text": "Upwind Security's annual recurring revenue crossed $50 million, up from about $20 million in ARR at the end of 2025.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Datadog-Offered-4-Billion-to-Buy-Cloud-Security-Startup-Upwind.md",
+        "anchor": "^clm-4365a610f6158247fee9"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9ef760c6c9bc7990310c",
+          "relation": "supports",
+          "locator": "§ Upwind's growth and fundraising: “annual recurring revenue recently crossed $50 million (approximately $4 million monthly), up from about $20 million”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Upwind Security"
+      ],
+      "concepts": [
+        "Annualized-Revenue"
+      ]
+    },
+    "clm-28fe08f7213055faa5c1": {
+      "text": "Datadog's nearly $4 billion buyout offer valued Upwind Security at approximately 80 times annual recurring revenue.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Datadog-Offered-4-Billion-to-Buy-Cloud-Security-Startup-Upwind.md",
+        "anchor": "^clm-28fe08f7213055faa5c1"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9ef760c6c9bc7990310c",
+          "relation": "supports",
+          "locator": "§ Upwind's growth and fundraising: “value Upwind at approximately 80 times ARR, exceeding the revenue multiple Alphabet paid for Wiz”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Datadog",
+        "Upwind Security",
+        "Google"
+      ],
+      "concepts": []
+    },
+    "clm-cd9a447371b9e31cfe38": {
+      "text": "Upwind Security was founded in 2022 by Chief Executive Amiram Shachar and raised a $250 million round in January 2026 at a $1.5 billion valuation.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Datadog-Offered-4-Billion-to-Buy-Cloud-Security-Startup-Upwind.md",
+        "anchor": "^clm-cd9a447371b9e31cfe38"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9ef760c6c9bc7990310c",
+          "relation": "supports",
+          "locator": "§ Upwind's growth and fundraising: “founded in 2022 by Chief Executive Amiram Shachar and had previously raised more than $400 million”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-01",
+      "subjects": [
+        "Upwind Security"
+      ],
+      "concepts": []
+    },
+    "clm-d983eb078bb48f097f3f": {
+      "text": "The proliferation of AI agents independently accessing corporate databases and cloud applications has driven rapid demand for runtime agent monitoring tools.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Datadog-Offered-4-Billion-to-Buy-Cloud-Security-Startup-Upwind.md",
+        "anchor": "^clm-d983eb078bb48f097f3f"
+      },
+      "evidence": [
+        {
+          "source_id": "src-9ef760c6c9bc7990310c",
+          "relation": "supports",
+          "locator": "§ Industry consolidation: “proliferation of AI agents that independently access corporate databases and cloud applications has driven rapid demand”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Upwind Security"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-51de0eb2e03b9a67b65c": {
+      "text": "Salesforce plans to require enterprise customers to register external AI agents starting around November 2026, preparing to charge fees whenever outside agents analyze or update Salesforce records.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps.md",
+        "anchor": "^clm-51de0eb2e03b9a67b65c"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b0c7740098c08647dc4a",
+          "relation": "supports",
+          "locator": "§ Tollgates for third-party AI agents: “register external AI agents starting around November 2026, preparing to charge fees”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Salesforce"
+      ],
+      "concepts": [
+        "Seats-Plus-Consumption",
+        "AI-Agents"
+      ]
+    },
+    "clm-41721b8985ae2beefc94": {
+      "text": "Salesforce plans to bill each action an external AI agent takes inside its applications as an interaction.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps.md",
+        "anchor": "^clm-41721b8985ae2beefc94"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b0c7740098c08647dc4a",
+          "relation": "supports",
+          "locator": "§ Tollgates for third-party AI agents: “Each action an autonomous AI agent executes within Salesforce applications will be categorized and billed as an interaction”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Salesforce"
+      ],
+      "concepts": [
+        "Seats-Plus-Consumption"
+      ]
+    },
+    "clm-15bce47a41a60d373554": {
+      "text": "Salesforce offered enterprise customers the option to purchase unlimited AI agent usage through a headless license.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps.md",
+        "anchor": "^clm-15bce47a41a60d373554"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b0c7740098c08647dc4a",
+          "relation": "supports",
+          "locator": "§ Tollgates for third-party AI agents: “option to purchase unlimited agent access via a headless license”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Salesforce"
+      ],
+      "concepts": [
+        "Seats-Plus-Consumption"
+      ]
+    },
+    "clm-379dca66d94b230713e0": {
+      "text": "The rise of autonomous AI agents operating enterprise software more efficiently than humans threatens traditional per-seat SaaS licensing models.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps.md",
+        "anchor": "^clm-379dca66d94b230713e0"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b0c7740098c08647dc4a",
+          "relation": "supports",
+          "locator": "§ Pressure on per-seat enterprise software pricing: “agents operate apps faster and more effectively than human workers, undermining traditional seat-based software licensing”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "argument",
+      "as_of": "2026-10",
+      "subjects": [
+        "Salesforce"
+      ],
+      "concepts": [
+        "Seats-Plus-Consumption",
+        "AI-Agents"
+      ]
+    },
+    "clm-e92906369f3e13409ed3": {
+      "text": "Enterprise software vendors Atlassian, Workday, ServiceNow, and Datadog are also establishing tollgates and outcome-based pricing models for external AI agents.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps.md",
+        "anchor": "^clm-e92906369f3e13409ed3"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b0c7740098c08647dc4a",
+          "relation": "supports",
+          "locator": "§ Pressure on per-seat enterprise software pricing: “Atlassian, Workday, ServiceNow, and Datadog are also establishing tollgates”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Salesforce",
+        "Atlassian",
+        "Workday",
+        "ServiceNow",
+        "Datadog"
+      ],
+      "concepts": [
+        "Seats-Plus-Consumption"
+      ]
+    },
+    "clm-2f12b4b503d0fc237ceb": {
+      "text": "Software consultant Nick Hamm reported that most of his 150 enterprise clients deploy Claude and OpenAI models across Salesforce applications for free.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps.md",
+        "anchor": "^clm-2f12b4b503d0fc237ceb"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b0c7740098c08647dc4a",
+          "relation": "supports",
+          "locator": "§ Pressure on per-seat enterprise software pricing: “most of his 150 enterprise clients currently deploy Claude and OpenAI models across Salesforce applications for free”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Salesforce",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-1376f1cfcaf929e2b763": {
+      "text": "Enterprise clients are reconsidering agent architectures and may transfer data out of Salesforce if third-party AI tollgate fees are set too high.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps.md",
+        "anchor": "^clm-1376f1cfcaf929e2b763"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b0c7740098c08647dc4a",
+          "relation": "supports",
+          "locator": "§ Pressure on per-seat enterprise software pricing: “transfer company data out of Salesforce into external repositories if tollgate fees are set too high”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Salesforce"
+      ],
+      "concepts": [
+        "Switching-Costs"
+      ]
+    },
+    "clm-7e18fbf418cd6dde01cf": {
+      "text": "New Salesforce customers will receive a three-month grace period to register AI agents after formal pricing is published, while existing customers will see fee changes at contract renewal.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps.md",
+        "anchor": "^clm-7e18fbf418cd6dde01cf"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b0c7740098c08647dc4a",
+          "relation": "supports",
+          "locator": "§ Pressure on per-seat enterprise software pricing: “three-month grace period to register AI agents after formal pricing is published, while existing customers will see fee changes at contract renewal”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Salesforce"
+      ],
+      "concepts": []
+    },
+    "clm-8d6dccfedc5c56c9797d": {
+      "text": "Lumen deployed Salesforce native AI sales agents to automatically gather client requirements and generate pricing quotes for data center fiber connections.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps.md",
+        "anchor": "^clm-8d6dccfedc5c56c9797d"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b0c7740098c08647dc4a",
+          "relation": "supports",
+          "locator": "§ Enterprise deployment at Lumen: “Lumen made significant investments over the past year deploying Salesforce native AI sales agents”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Salesforce"
+      ],
+      "concepts": [
+        "AI-Agents"
+      ]
+    },
+    "clm-33b7a24b8eb7a2d37717": {
+      "text": "Salesforce allowed Lumen to use existing enterprise subscription fees to cover its usage of built-in AI sales agents.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps.md",
+        "anchor": "^clm-33b7a24b8eb7a2d37717"
+      },
+      "evidence": [
+        {
+          "source_id": "src-b0c7740098c08647dc4a",
+          "relation": "supports",
+          "locator": "§ Enterprise deployment at Lumen: “Salesforce has allowed existing enterprise subscription fees to cover usage of built-in AI agents”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Salesforce"
+      ],
+      "concepts": []
+    },
+    "clm-0418b97c74a3e573aa68": {
+      "text": "SB Energy is evaluating whether to delay its initial public offering to December 2026 or into 2027, later than its earlier September target.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO.md",
+        "anchor": "^clm-0418b97c74a3e573aa68"
+      },
+      "evidence": [
+        {
+          "source_id": "src-79edc669f8e7abc8ab16",
+          "relation": "supports",
+          "locator": "§ Delayed IPO timeline: “SB Energy is evaluating whether to delay its initial public offering to December 2026 or into 2027”"
+        }
+      ],
+      "notes": "Updates clm-d81bd65e738416570d41: SB Energy weighs postponing IPO to December or 2027 after filing amended prospectus in late September.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "SB Energy",
+        "SoftBank"
+      ],
+      "concepts": []
+    },
+    "clm-9e9dfa847c1221307b8b": {
+      "text": "SB Energy leaders are tracking Anthropic's expected public offering ahead of the Thanksgiving holiday in November 2026 to gauge investor sentiment.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO.md",
+        "anchor": "^clm-9e9dfa847c1221307b8b"
+      },
+      "evidence": [
+        {
+          "source_id": "src-79edc669f8e7abc8ab16",
+          "relation": "supports",
+          "locator": "§ Delayed IPO timeline: “tracking Anthropic's expected public offering ahead of the Thanksgiving holiday in November 2026”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "SB Energy",
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-e3fc6e1b344a685cd9f0": {
+      "text": "SB Energy sought to raise $5 billion to $7 billion from its IPO to fund the massive Ohio data center campus being built for OpenAI.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO.md",
+        "anchor": "^clm-e3fc6e1b344a685cd9f0"
+      },
+      "evidence": [
+        {
+          "source_id": "src-79edc669f8e7abc8ab16",
+          "relation": "supports",
+          "locator": "§ Delayed IPO timeline: “had aimed to raise between $5 billion and $7 billion from the offering to fund the massive Ohio data center”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "SB Energy",
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-bc8d822d38a5a1e3412e": {
+      "text": "OpenAI's planned Ohio data center is designed for 8.5 gigawatts of power capacity, roughly $600 billion in Nvidia chips, and a $105 billion credit guarantee from Nvidia.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO.md",
+        "anchor": "^clm-bc8d822d38a5a1e3412e"
+      },
+      "evidence": [
+        {
+          "source_id": "src-79edc669f8e7abc8ab16",
+          "relation": "supports",
+          "locator": "§ Delayed IPO timeline: “Ohio campus is designed to reach 8.5 gigawatts of power capacity, house approximately $600 billion in Nvidia chips”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI",
+        "SB Energy",
+        "Nvidia"
+      ],
+      "concepts": [
+        "Dollars-Per-Gigawatt",
+        "AI-Compute-Demand"
+      ]
+    },
+    "clm-050e21f8237979075b26": {
+      "text": "Building the full Ohio data center campus will require more than $100 billion in total capital.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO.md",
+        "anchor": "^clm-050e21f8237979075b26"
+      },
+      "evidence": [
+        {
+          "source_id": "src-79edc669f8e7abc8ab16",
+          "relation": "supports",
+          "locator": "§ Delayed IPO timeline: “Building the full Ohio campus will require more than $100 billion in total capital”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "SB Energy",
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-7570b796eb12895fed8c": {
+      "text": "SB Energy reported $1.2 billion in cash and cash equivalents as of June 30, 2026, alongside a $1.5 billion Nvidia equity investment received in August.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO.md",
+        "anchor": "^clm-7570b796eb12895fed8c"
+      },
+      "evidence": [
+        {
+          "source_id": "src-79edc669f8e7abc8ab16",
+          "relation": "supports",
+          "locator": "§ Balance sheet and valuation hurdles: “supported by a $1.5 billion investment from Nvidia in mid-August 2026 alongside $1.2 billion in cash”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-08",
+      "subjects": [
+        "SB Energy",
+        "Nvidia"
+      ],
+      "concepts": []
+    },
+    "clm-cb506998b06eeb7c95fd": {
+      "text": "Prospective IPO investors balked at a proposed $60 billion valuation for SB Energy, which represents more than 200 times its annualized first-half 2026 revenue of $139 million.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO.md",
+        "anchor": "^clm-cb506998b06eeb7c95fd"
+      },
+      "evidence": [
+        {
+          "source_id": "src-79edc669f8e7abc8ab16",
+          "relation": "supports",
+          "locator": "§ Balance sheet and valuation hurdles: “proposed a valuation around $60 billion for SB Energy, but prospective investors have balked at the price”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "SB Energy"
+      ],
+      "concepts": []
+    },
+    "clm-ad78dc30879cc13a89e5": {
+      "text": "SB Energy holds $430 billion in contracted data center lease revenue, tied entirely to OpenAI's Ohio campus over 15 to 20 year terms starting in 2028.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO.md",
+        "anchor": "^clm-ad78dc30879cc13a89e5"
+      },
+      "evidence": [
+        {
+          "source_id": "src-79edc669f8e7abc8ab16",
+          "relation": "supports",
+          "locator": "§ Balance sheet and valuation hurdles: “holds $430 billion in contracted data center lease revenue, but that revenue is tied entirely to the OpenAI Ohio facility”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "SB Energy",
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-43892ad2fc7a05a392f9": {
+      "text": "Nscale is attempting to proceed with a fall 2026 public listing at a valuation around $30 billion, aided by talks with Anthropic over a $45 billion cloud contract.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO.md",
+        "anchor": "^clm-43892ad2fc7a05a392f9"
+      },
+      "evidence": [
+        {
+          "source_id": "src-79edc669f8e7abc8ab16",
+          "relation": "supports",
+          "locator": "§ Headwinds across data center developers: “Nscale is attempting to proceed with a fall 2026 public listing at a valuation around $30 billion”"
+        }
+      ],
+      "notes": "Updates clm-fa9e2fe2f425c722ec4e: Nscale targets $30 billion valuation, down from prior reports of exceeding $35 billion.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Nscale",
+        "Anthropic"
+      ],
+      "concepts": []
+    },
+    "clm-c7153369eb9ae09b95e1": {
+      "text": "Singapore-based data center operator DayOne is considering delaying its initial public offering or downsizing the capital raised.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO.md",
+        "anchor": "^clm-c7153369eb9ae09b95e1"
+      },
+      "evidence": [
+        {
+          "source_id": "src-79edc669f8e7abc8ab16",
+          "relation": "supports",
+          "locator": "§ Headwinds across data center developers: “DayOne is considering delaying its initial public offering or downsizing the capital raised”"
+        }
+      ],
+      "notes": "Updates clm-d34a23c88ac7ff7562ef: DayOne weighs delaying or downsizing planned $5 billion New York IPO.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "DayOne"
+      ],
+      "concepts": []
+    },
+    "clm-180ee3f9570b93b07915": {
+      "text": "Blackstone-backed data center operator AirTrunk postponed a planned $1.5 billion real estate investment trust listing on the Singapore Exchange.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO.md",
+        "anchor": "^clm-180ee3f9570b93b07915"
+      },
+      "evidence": [
+        {
+          "source_id": "src-79edc669f8e7abc8ab16",
+          "relation": "supports",
+          "locator": "§ Headwinds across data center developers: “AirTrunk postponed a planned $1.5 billion real estate investment trust listing on the Singapore Exchange”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "AirTrunk",
+        "Blackstone"
+      ],
+      "concepts": []
+    },
+    "clm-439b857fc59c435cf651": {
+      "text": "Utopai Studios secured a $60 million funding round at a $1 billion valuation, and received term sheets for a follow-on round valuing the company at $2 billion to $3 billion.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off.md",
+        "anchor": "^clm-439b857fc59c435cf651"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2e312559cafd51e91c01",
+          "relation": "supports",
+          "locator": "§ Video AI renaissance and Utopai Studios: “secured a $60 million funding round at a $1 billion valuation, attaining unicorn status, with term sheets received for a follow-on round valuing the business between $2 billion and $3 billion”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Utopai Studios"
+      ],
+      "concepts": []
+    },
+    "clm-9f8b00c1b758769f2daf": {
+      "text": "Utopai Studios Chief Executive Cecilia Shen, formerly an AI researcher on Google's X moonshot team, founded the company in 2022.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off.md",
+        "anchor": "^clm-9f8b00c1b758769f2daf"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2e312559cafd51e91c01",
+          "relation": "supports",
+          "locator": "§ Video AI renaissance and Utopai Studios: “Chief Executive Cecilia Shen, a former AI researcher on Google's X moonshot team, founded Utopai in 2022”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2022",
+      "subjects": [
+        "Utopai Studios",
+        "Google"
+      ],
+      "concepts": []
+    },
+    "clm-5afc1c29e6d2fdbd4566": {
+      "text": "Utopai Studios operates as an independent film studio rather than a software seller, arguing that selling software alone offers negligible profit margins in entertainment.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off.md",
+        "anchor": "^clm-5afc1c29e6d2fdbd4566"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2e312559cafd51e91c01",
+          "relation": "supports",
+          "locator": "§ Video AI renaissance and Utopai Studios: “operates as an independent film studio, arguing that selling software alone offers negligible profit margins”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Utopai Studios"
+      ],
+      "concepts": []
+    },
+    "clm-022f146898813350082c": {
+      "text": "Utopai Studios fine-tuned the open-source MiniMax H3 model to create a video engine that ranks second on Artificial Analysis text-to-video benchmarks.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off.md",
+        "anchor": "^clm-022f146898813350082c"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2e312559cafd51e91c01",
+          "relation": "supports",
+          "locator": "§ Video AI renaissance and Utopai Studios: “fine-tuned open-source model MiniMax H3 to build its own video engine, ranked second on Artificial Analysis”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Utopai Studios",
+        "MiniMax"
+      ],
+      "concepts": [
+        "Open-Weight-Models"
+      ]
+    },
+    "clm-691378f285ba5c442b2c": {
+      "text": "Deploying AI tools cuts scene planning and computer-generated imagery costs for films by 80% to 90%.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off.md",
+        "anchor": "^clm-691378f285ba5c442b2c"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2e312559cafd51e91c01",
+          "relation": "supports",
+          "locator": "§ Video AI renaissance and Utopai Studios: “cuts scene planning and computer-generated imagery costs by 80% to 90%”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Utopai Studios"
+      ],
+      "concepts": []
+    },
+    "clm-f750788f6ee920c3aba2": {
+      "text": "Utopai Studios has more than 20 projects in development, including two television series and three feature films planned for release in approximately 3,000 North American theaters in 2027.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off.md",
+        "anchor": "^clm-f750788f6ee920c3aba2"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2e312559cafd51e91c01",
+          "relation": "supports",
+          "locator": "§ Video AI renaissance and Utopai Studios: “three feature films planned for release in approximately 3,000 North American movie theaters in 2027”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Utopai Studios"
+      ],
+      "concepts": []
+    },
+    "clm-884454e68958f837da43": {
+      "text": "Video AI startup Higgsfield announced it crossed $1 billion in annualized revenue in September 2026, after quadrupling its valuation to $5.4 billion in August.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off.md",
+        "anchor": "^clm-884454e68958f837da43"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2e312559cafd51e91c01",
+          "relation": "supports",
+          "locator": "§ Video AI peers: “Higgsfield announced it crossed $1 billion in annualized revenue in September 2026, after quadrupling its valuation to $5.4 billion”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-09",
+      "subjects": [
+        "Higgsfield"
+      ],
+      "concepts": [
+        "Annualized-Revenue"
+      ]
+    },
+    "clm-78acc59e848dfb5565d1": {
+      "text": "Kling AI, the video generation division of Kuaishou Technology, raised nearly $3 billion at a $15 billion valuation in summer 2026.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off.md",
+        "anchor": "^clm-78acc59e848dfb5565d1"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2e312559cafd51e91c01",
+          "relation": "supports",
+          "locator": "§ Video AI peers: “raised nearly $3 billion at a $15 billion valuation in summer 2026”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-08",
+      "subjects": [
+        "Kling AI"
+      ],
+      "concepts": []
+    },
+    "clm-d72e494e9843cd16808e": {
+      "text": "Media executive Jeffrey Katzenberg partnered with the former head of OpenAI's Sora app to establish an AI film production company in discussions to license and customize Sora.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off.md",
+        "anchor": "^clm-d72e494e9843cd16808e"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2e312559cafd51e91c01",
+          "relation": "supports",
+          "locator": "§ Video AI peers: “partnered with the former head of OpenAI's Sora app to establish an AI film production company in discussions to license and customize Sora”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
+    },
+    "clm-3646670b8ca5a740b0a9": {
+      "text": "DeepSeek is completing roughly $15 billion (approximately 100 billion yuan) in fresh financing led by CATL and Tencent.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off.md",
+        "anchor": "^clm-3646670b8ca5a740b0a9"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2e312559cafd51e91c01",
+          "relation": "supports",
+          "locator": "§ Infrastructure and frontier lab updates: “completing roughly $15 billion (approximately 100 billion yuan) in fresh financing led by electric vehicle battery giant CATL and Tencent”"
+        }
+      ],
+      "notes": "Updates clm-c04a9c3d73b67dde8cb5: DeepSeek funding round doubled to 100 billion yuan ($15 billion) led by CATL and Tencent.",
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "DeepSeek"
+      ],
+      "concepts": []
+    },
+    "clm-a466a922766867a0bd4b": {
+      "text": "Nebius closed a $3.5 billion senior secured credit facility arranged by Citi.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off.md",
+        "anchor": "^clm-a466a922766867a0bd4b"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2e312559cafd51e91c01",
+          "relation": "supports",
+          "locator": "§ Infrastructure and frontier lab updates: “closed a $3.5 billion senior secured credit facility arranged by Citi”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Nebius"
+      ],
+      "concepts": []
+    },
+    "clm-5532277c972b6f4aa28e": {
+      "text": "Nvidia announced multi-year supply agreements with chip substrate suppliers Ibiden, Samsung Electro-Mechanics, and Unimicron to expand substrate capacity 2.5 times over three years, including a multibillion-dollar reservation with Ibiden.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off.md",
+        "anchor": "^clm-5532277c972b6f4aa28e"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2e312559cafd51e91c01",
+          "relation": "supports",
+          "locator": "§ Infrastructure and frontier lab updates: “multibillion-dollar reservation with Ibiden to expand substrate manufacturing capacity by 2.5 times over three years”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "Nvidia"
+      ],
+      "concepts": [
+        "Scale-Economies"
+      ]
+    },
+    "clm-9631cbfd80c7e302cf35": {
+      "text": "OpenAI announced that its frontier models will be accessible via Google Cloud, reducing its historical exclusivity with Microsoft Azure.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off.md",
+        "anchor": "^clm-9631cbfd80c7e302cf35"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2e312559cafd51e91c01",
+          "relation": "supports",
+          "locator": "§ Infrastructure and frontier lab updates: “models will be accessible via Google Cloud, reducing its historical exclusivity with Microsoft Azure”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI",
+        "Google Cloud",
+        "Microsoft"
+      ],
+      "concepts": []
+    },
+    "clm-73d4f715e68ccccef387": {
+      "text": "OpenAI expanded ChatGPT advertising across 26 additional countries to generate revenue to cover infrastructure expenses.",
+      "assessment": "accepted",
+      "confidence": "high",
+      "risk": "normal",
+      "reviewed_at": "2026-10-23",
+      "location": {
+        "path": "wiki/sources/2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off.md",
+        "anchor": "^clm-73d4f715e68ccccef387"
+      },
+      "evidence": [
+        {
+          "source_id": "src-2e312559cafd51e91c01",
+          "relation": "supports",
+          "locator": "§ Infrastructure and frontier lab updates: “expanded ChatGPT advertising across 26 additional countries to generate revenue”"
+        }
+      ],
+      "notes": null,
+      "supersedes": null,
+      "kind": "fact",
+      "as_of": "2026-10",
+      "subjects": [
+        "OpenAI"
+      ],
+      "concepts": []
     }
   },
-  "generated_at": "2026-10-22T01:34:04Z",
+  "generated_at": "2026-10-23T18:01:59Z",
   "schema": "claude-obsidian.claim-ledger.v1"
 }

@@ -3,7 +3,7 @@ type: entity
 title: TPG
 status: developing
 created: 2026-10-14
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company

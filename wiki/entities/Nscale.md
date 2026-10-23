@@ -3,11 +3,11 @@ type: entity
 title: Nscale
 status: developing
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company
-claim_count: 10
+claim_count: 12
 ---
 
 # Nscale
@@ -49,6 +49,14 @@ UK-based neocloud that rents out GPU capacity.
 ### 2026-10-20 [[2026-10-20-OpenAIs-Pacing-2-0-Problem|OpenAI’s ‘Pacing 2.0’ Problem: How Smart Is Too Smart?]]
 
 - Anthropic is negotiating a second compute agreement with Nscale valued at roughly $45 billion, building on their prior $45 billion deal for 460 megawatts of Vera Rubin GPUs in West Virginia. ([[2026-10-20-OpenAIs-Pacing-2-0-Problem#^clm-830d482823aff82f5a76|cite]])
+
+### 2026-10-20 [[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds|Nvidia Has Put More Than $170 Billion on the Line for Neoclouds]]
+
+- Data center developer SB Energy and GPU cloud operator Nscale published IPO registration documents in September 2026 but have not proceeded with public listings. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-d5608103dca204d3b681|cite]])
+
+### 2026-10-22 [[2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO|SB Energy Considers Waiting Until December or Later for an IPO]]
+
+- Nscale is attempting to proceed with a fall 2026 public listing at a valuation around $30 billion, aided by talks with Anthropic over a $45 billion cloud contract. ([[2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO#^clm-43892ad2fc7a05a392f9|cite]])
 
 ## Related concepts
 

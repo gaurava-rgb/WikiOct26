@@ -3,10 +3,10 @@ type: concept
 title: Verification Advantage (Verifiable Data)
 status: developing
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - concept
-source_count: 6
+source_count: 7
 ---
 
 # Verification Advantage (Verifiable Data)
@@ -44,3 +44,7 @@ Thompson's idea that AI models improve fastest on tasks where you can check the 
 - Replit uses deterministic simulation software as a flight simulator to repeatedly test AI-written applications against network disasters and cyberattacks. ([[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator#^clm-fcd47102d2f46d5b1635|cite]])
 - Using generative AI models to evaluate code generates false alarms because probabilistic models behave inconsistently across repeated runs. ([[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator#^clm-0e340c1a7ba8872cc7a7|cite]])
 - Antithesis CEO Will Wilson argues that while AI made code generation simpler, verifying that software works correctly did not get easier. ([[2026-10-15-Why-AI-Written-Software-Needs-a-Flight-Simulator#^clm-7e1edacebccdf6c899e9|cite]])
+
+### 2026-10-21 [[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh|The Closing of the ‘Defenders Window’ Is Nigh]]
+
+- OpenAI warned that the defender's window, the period when defenders armed with frontier AI can detect and patch vulnerabilities before attackers exploit them, is rapidly closing. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-f1f549ad1d8f81e4d57f|cite]])

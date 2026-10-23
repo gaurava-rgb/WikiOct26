@@ -3,11 +3,11 @@ type: entity
 title: DeepSeek
 status: developing
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company
-claim_count: 40
+claim_count: 41
 ---
 
 # DeepSeek
@@ -82,6 +82,10 @@ Chinese AI lab based in Hangzhou that makes cheap, efficient open models such as
 ### 2026-10-20 [[2026-10-20-OpenAIs-Pacing-2-0-Problem|OpenAI’s ‘Pacing 2.0’ Problem: How Smart Is Too Smart?]]
 
 - A hacker utilized approximately $5,000 in tokens across DeepSeek and Anthropic models to breach more than 100 company websites, according to cybersecurity firm NorForge. ([[2026-10-20-OpenAIs-Pacing-2-0-Problem#^clm-cdca9cd2cc52657a55b9|cite]])
+
+### 2026-10-22 [[2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off|Utopai Becomes a Unicorn as Video AI Takes Off]]
+
+- DeepSeek is completing roughly $15 billion (approximately 100 billion yuan) in fresh financing led by CATL and Tencent. ([[2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off#^clm-3646670b8ca5a740b0a9|cite]])
 
 ## Related concepts
 

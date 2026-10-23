@@ -3,10 +3,10 @@ type: concept
 title: Local Opposition to Data Centers
 status: developing
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - concept
-source_count: 6
+source_count: 7
 ---
 
 # Local Opposition to Data Centers
@@ -61,3 +61,7 @@ Growing local pushback against building data centers, especially for AI. Neighbo
 
 - A Royal Powers and Occam Edge paper argues AI data centers could get partial power sooner by agreeing to leave the grid for a few peak hours a year, which could lower power costs for everyone by spreading utility costs over more revenue. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-eb8af59ec0cda67dd0bb|cite]])
 - Prediction: Hut 8's tax payments on the Louisiana site are expected to triple West Feliciana Parish's annual revenue to $130 million from $40 million, and the parish passed a law letting it cut residents' property taxes 25%. ([[2026-10-11-The-Attractive-Economics-Behind-Anthropic-Data-Center-Sprint#^clm-1880d8837e3dbb78fdb4|cite]])
+
+### 2026-10-22 [[2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor|Why Blackstone Thinks AI Bottlenecks Could Work in its Favor]]
+
+- Blackstone Chief Executive Steve Schwarzman argued on the firm's Q3 2026 earnings call that power availability constraints and local opposition make existing data centers more valuable. ([[2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor#^clm-78651b34895d6e36a47e|cite]])

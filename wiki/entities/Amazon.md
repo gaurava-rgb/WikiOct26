@@ -3,11 +3,11 @@ type: entity
 title: Amazon
 status: developing
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company
-claim_count: 355
+claim_count: 356
 ---
 
 # Amazon
@@ -465,6 +465,10 @@ US e-commerce, logistics, and cloud company (AWS). Known for long-term, capital-
 ### 2026-10-20 [[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO|Nvidia Moves to Back GPU Cloud Provider Firmus After Investors Balk at Its IPO]]
 
 - Nvidia supports neoclouds to defend GPU demand as its biggest cloud customers, including Google, Microsoft, and Amazon, develop in-house server processors. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-6a64e76b682eedf78bbb|cite]])
+
+### 2026-10-20 [[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds|Nvidia Has Put More Than $170 Billion on the Line for Neoclouds]]
+
+- Google, Amazon, and Microsoft accelerated investments in their own custom AI chips to replace Nvidia GPUs. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-9d13622a29ce67ffb75d|cite]])
 
 ### 2026-10-21 [[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD|OpenAI, Anthropic Should Cap Compute for R&D, Say AI Safety Advocates]]
 

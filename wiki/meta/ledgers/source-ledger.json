@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T01:34:04Z",
+  "generated_at": "2026-10-23T18:01:59Z",
   "schema": "claude-obsidian.source-ledger.v1",
   "sources": {
     "src-a3fe751aca2f987ed6fc": {
@@ -3701,6 +3701,206 @@
       "url": "https://www.theinformation.com/articles/thoma-bravo-found-discount-hot-cybersecurity-market",
       "form": "article",
       "summary": "Thoma Bravo portfolio company Proofpoint agreed to acquire data security platform Varonis Systems for $6.3 billion, or roughly six times forward ARR, capitalizing on temporary stock pressure during Varonis' SaaS transition. The transaction expands Proofpoint into securing access permissions for autonomous AI agents ahead of a planned IPO. Cybersecurity M&A reached a record 170 transactions in the third quarter, driven by AI-driven threat vectors, strategic corporate takeovers like Alphabet's Wiz deal, and private equity demand for companies generating verifiable agentic revenue."
+    },
+    "src-bf5b39eb764c56a8e27a": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-20 The Information - Nvidia puts over 170 billion on the line for neoclouds (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Nvidia Has Put More Than $170 Billion on the Line for Neoclouds",
+      "authority": "secondary",
+      "content_sha256": "15aef24b55fe212878ab981c22fcd448416bd5353158ad0602f770328ff04d54",
+      "ingested_at": "2026-10-23",
+      "retrieved_at": "2026-10-23",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds.md"
+      ],
+      "supersedes": null,
+      "author": "Shane Burke, Phoebe Liu",
+      "published": "2026-10-20",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/nvidia-put-170-billion-line-neoclouds",
+      "form": "article",
+      "summary": "Nvidia has disclosed up to $164.5 billion in data center lease guarantees and commitments as of its July 2026 filings, alongside more than $7 billion in direct AI cloud investments. Its equity portfolio reached nearly $100 billion, while non-hyperscalers drove 45% ($40 billion) of quarterly data center revenue. As equity markets soured on AI cloud firms, CoreWeave, Nebius, and IREN shares tumbled, while Firmus, Lambda, SB Energy, and Nscale delayed IPOs, prompting Nvidia talks for fresh direct funding to Firmus."
+    },
+    "src-9cf403c7e6292c75b1ec": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-21 The Information - Closing of the defenders window is nigh (notes).md"
+      },
+      "content_kind": "document",
+      "title": "The Closing of the ‘Defenders Window’ Is Nigh",
+      "authority": "secondary",
+      "content_sha256": "d069012bb369f97e67d0138a09c90a0fc3f53a6b673658a99cdaa7d3fe1608e9",
+      "ingested_at": "2026-10-23",
+      "retrieved_at": "2026-10-23",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh.md"
+      ],
+      "supersedes": null,
+      "author": "Leo Schwartz, Nick Wingfield",
+      "published": "2026-10-21",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/closing-defenders-window-nigh",
+      "form": "article",
+      "summary": "OpenAI led an industry effort to patch critical vulnerabilities in PHP as frontier labs warn the defender's window is closing against unrestricted Chinese open-weight models like Z.ai's GLM-5.3. The Trump administration's Super Intelligence Force stepped in to coordinate remediation in its first major engagement with OpenAI. Meanwhile, Meta reported Q3 revenue up 26% to $64.6 billion and 10 million Muse users, but negative free cash flow of $2.12 billion on heavy AI capex, prompting the creation of non-voting Class C shares to fund compute without diluting Mark Zuckerberg's control."
+    },
+    "src-1074af88e6b677dfca6b": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-22 The Information - Andreessen Horowitz drops crypto from flagship blockchain fund name (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Andreessen Horowitz to Drop ‘Crypto’ From Name of Flagship Blockchain Fund",
+      "authority": "secondary",
+      "content_sha256": "0d3e71d19755d94bdaa3df1b169cb5c36363704d98cdc7cb41ab2b7aeab68cd5",
+      "ingested_at": "2026-10-23",
+      "retrieved_at": "2026-10-23",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund.md"
+      ],
+      "supersedes": null,
+      "author": "Leo Schwartz",
+      "published": "2026-10-22",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/andreessen-horowitz-drop-crypto-name-flagship-blockchain-fund",
+      "form": "article",
+      "summary": "Andreessen Horowitz is rebranding its dedicated blockchain unit from a16z crypto to a16z frontier, broadening its mandate to artificial intelligence, compute infrastructure, and robotics. Across five funds the group raised nearly $10 billion, but its May 2026 vehicle of $2.2 billion fell to less than half its 2022 predecessor. Founding partner Ali Yahya is leaving, while general partner Chris Dixon acknowledged consumer Web3 shortfalls and repositioned the sector around stablecoins and agentic payments."
+    },
+    "src-27892d13f98e163b8c13": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-22 The Information - Why Blackstone thinks AI bottlenecks could work in its favor (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Why Blackstone Thinks AI Bottlenecks Could Work in its Favor",
+      "authority": "secondary",
+      "content_sha256": "57892f1e4613d7f650a0942ed515d1c1dc8b2dd0d72974044a78ce975290aece",
+      "ingested_at": "2026-10-23",
+      "retrieved_at": "2026-10-23",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor.md"
+      ],
+      "supersedes": null,
+      "author": "Alex Eichenstein, Nick Wingfield",
+      "published": "2026-10-22",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/blackstone-thinks-ai-bottlenecks-work-favor",
+      "form": "article",
+      "summary": "Blackstone leadership argued on its Q3 2026 earnings call that power bottlenecks and local opposition to data centers increase the scarcity value of existing infrastructure, allowing higher lease pricing on uncommitted capacity. While digital infrastructure leasing drove firm-leading returns, Blackstone faces mounting debt risks on billions loaned to CoreWeave and Firmus as both neoclouds encounter market turmoil. Blackstone AI investing head Jas Khaira warned that credit markets have not mapped out who will absorb trillions in infrastructure debt."
+    },
+    "src-9ef760c6c9bc7990310c": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-22 The Information - Datadog offered 4 billion to buy cloud security startup Upwind (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Datadog Offered $4 Billion to Buy Cloud Security Startup ‘Upwind’",
+      "authority": "secondary",
+      "content_sha256": "fbb643f0d0917e9fa9c334c020d3d365601a889244345eec5abf91fce7a4d997",
+      "ingested_at": "2026-10-23",
+      "retrieved_at": "2026-10-23",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-22-Datadog-Offered-4-Billion-to-Buy-Cloud-Security-Startup-Upwind.md"
+      ],
+      "supersedes": null,
+      "author": "Aaron Holmes, Valida Pau",
+      "published": "2026-10-22",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/datadog-offered-buy-security-startup-upwind-nearly-4-billion",
+      "form": "article",
+      "summary": "Observability provider Datadog offered nearly $4 billion to acquire Israeli cloud cybersecurity startup Upwind Security, representing roughly 80 times ARR. Upwind has resisted acquisition offers as it finalizes a $300 million funding round at a $3.8 billion valuation. The startup's ARR grew from $20 million at the end of 2025 to over $50 million, fueled by surging enterprise demand for tools that monitor autonomous AI agents accessing cloud systems."
+    },
+    "src-b0c7740098c08647dc4a": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-22 The Information - Salesforce customers brace for new fees to use Claude in apps (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Salesforce Customers Brace For New Fees to Use Claude in Its Apps",
+      "authority": "secondary",
+      "content_sha256": "5e04f2493ea0495318345e5e720dd102bc08980131fa1fa33d27975d36ec134c",
+      "ingested_at": "2026-10-23",
+      "retrieved_at": "2026-10-23",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps.md"
+      ],
+      "supersedes": null,
+      "author": "Laura Bratton",
+      "published": "2026-10-22",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/salesforce-customers-brace-new-fees-use-claude-apps",
+      "form": "article",
+      "summary": "Salesforce plans to require enterprise customers to register external AI agents around November 2026, preparing to bill each action as an interaction or charge for headless licenses when customers use Claude or OpenAI models. The move leads an industry-wide transition by SaaS vendors including Atlassian, Workday, ServiceNow, and Datadog to protect revenues as autonomous agents undermine per-seat pricing models."
+    },
+    "src-79edc669f8e7abc8ab16": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-22 The Information - SB Energy considers waiting until December or later for IPO (notes).md"
+      },
+      "content_kind": "document",
+      "title": "SB Energy Considers Waiting Until December or Later for an IPO",
+      "authority": "secondary",
+      "content_sha256": "ccfbbf1462c2ae7b0750b9b562d64f53e1658e030ec3c45e13621b02b3676a99",
+      "ingested_at": "2026-10-23",
+      "retrieved_at": "2026-10-23",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO.md"
+      ],
+      "supersedes": null,
+      "author": "Phoebe Liu, Valida Pau",
+      "published": "2026-10-22",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/sb-energy-considers-waiting-december-later-ipo",
+      "form": "article",
+      "summary": "SoftBank-controlled data center builder SB Energy is considering delaying its initial public offering to December 2026 or into 2027 after previously aiming for September. Bankers floated a $60 billion valuation on $139 million in first-half revenue, but investors balked at the 200x multiple despite $430 billion in contracted revenue for OpenAI's Ohio data center campus. The pause mirrors broader delays across data center developers, including DayOne and AirTrunk, while Nscale presses ahead targeting a $30 billion listing."
+    },
+    "src-2e312559cafd51e91c01": {
+      "origin": {
+        "kind": "file",
+        "locator": ".raw/captured/2026-10-22 The Information - Utopai becomes unicorn as video AI takes off (notes).md"
+      },
+      "content_kind": "document",
+      "title": "Utopai Becomes a Unicorn as Video AI Takes Off",
+      "authority": "secondary",
+      "content_sha256": "fca89aaa67e58dc2d1aa814e94b393536f92bcd1453b3d552b8c247a6c9e0ebc",
+      "ingested_at": "2026-10-23",
+      "retrieved_at": "2026-10-23",
+      "refresh_due": "2031-12-31",
+      "review_status": "active",
+      "independence_key": "The Information",
+      "pages": [
+        "wiki/sources/2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off.md"
+      ],
+      "supersedes": null,
+      "author": "Rocket Drew",
+      "published": "2026-10-22",
+      "publisher": "The Information",
+      "url": "https://www.theinformation.com/articles/utopai-becomes-unicorn-video-ai-takes",
+      "form": "article",
+      "summary": "Video AI startup Utopai Studios attained unicorn status at a $1 billion valuation, using fine-tuned open-source MiniMax models to cut film planning and CGI costs by 80-90% across 20 upcoming film and TV projects. Peer Higgsfield reached $1 billion in annualized revenue, while Kling AI raised nearly $3 billion at a $15 billion valuation. In broader tech news, DeepSeek is closing a $15 billion funding round led by CATL and Tencent, Nebius secured a $3.5 billion credit facility, Nvidia expanded chip substrate capacity 2.5x with suppliers like Ibiden, and OpenAI launched models on Google Cloud."
     }
   }
 }

@@ -3,10 +3,10 @@ type: concept
 title: Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)
 status: developing
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - concept
-source_count: 10
+source_count: 11
 ---
 
 # Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)
@@ -56,3 +56,7 @@ A way to measure how much of a data center's spending one supplier captures, sta
 ### 2026-10-20 [[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger|SpaceX’s Musk Lauds Its Soaring Cloud Business and Possible Tesla Merger]]
 
 - SpaceX CFO Bret Johnsen reported that strong cloud compute pricing allows SpaceX to recoup capital on new data center deployments in less than one year. ([[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger#^clm-773b289664fbb0bd82ad|cite]])
+
+### 2026-10-22 [[2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO|SB Energy Considers Waiting Until December or Later for an IPO]]
+
+- OpenAI's planned Ohio data center is designed for 8.5 gigawatts of power capacity, roughly $600 billion in Nvidia chips, and a $105 billion credit guarantee from Nvidia. ([[2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO#^clm-bc8d822d38a5a1e3412e|cite]])

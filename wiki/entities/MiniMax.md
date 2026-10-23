@@ -3,11 +3,11 @@ type: entity
 title: MiniMax
 status: developing
 created: 2026-10-13
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company
-claim_count: 2
+claim_count: 3
 ---
 
 # MiniMax
@@ -23,3 +23,11 @@ Chinese AI startup that sells cheap AI models.
 ### 2026-10-09 [[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded|China’s AI Model Race Is Just Getting More Crowded]]
 
 - Five Chinese AI startups earn recurring revenue from their own models: Z.ai and MiniMax went public in Hong Kong in January 2026, and DeepSeek, Moonshot AI and StepFun are preparing to go public soon. ([[2026-10-09-Chinas-AI-Model-Race-Is-Just-Getting-More-Crowded#^clm-5347f7b2be93258ddac0|cite]])
+
+### 2026-10-22 [[2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off|Utopai Becomes a Unicorn as Video AI Takes Off]]
+
+- Utopai Studios fine-tuned the open-source MiniMax H3 model to create a video engine that ranks second on Artificial Analysis text-to-video benchmarks. ([[2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off#^clm-022f146898813350082c|cite]])
+
+## Related concepts
+
+[[Open-Weight-Models|Open-Weight Models]]

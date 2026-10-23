@@ -3,11 +3,11 @@ type: entity
 title: Google Cloud
 status: developing
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company
-claim_count: 44
+claim_count: 45
 ---
 
 # Google Cloud
@@ -83,6 +83,10 @@ Google's cloud computing unit (GCP), which rents computing, AI models, and tools
 ### 2026-10-15 [[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training|Cursor Staff Investigated Whether Confidential Data Reached SpaceX for AI Training]]
 
 - In summer 2026, researcher discovery of Grok Build uploading entire Git repositories to Google Cloud storage led xAI to disable uploads and open source the tool. ([[2026-10-15-Cursor-Staff-Investigated-Confidential-Data-SpaceX-AI-Training#^clm-2b9491f0c34fc99a05a2|cite]])
+
+### 2026-10-22 [[2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off|Utopai Becomes a Unicorn as Video AI Takes Off]]
+
+- OpenAI announced that its frontier models will be accessible via Google Cloud, reducing its historical exclusivity with Microsoft Azure. ([[2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off#^clm-9631cbfd80c7e302cf35|cite]])
 
 ## Related concepts
 

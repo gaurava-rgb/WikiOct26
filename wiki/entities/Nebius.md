@@ -3,11 +3,11 @@ type: entity
 title: Nebius
 status: developing
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company
-claim_count: 6
+claim_count: 8
 ---
 
 # Nebius
@@ -39,6 +39,14 @@ Neocloud that rents out AI chips; Nvidia has invested in it.
 ### 2026-10-18 [[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose|Neocloud Shakeout Looms, and Nvidia Has a Lot to Lose]]
 
 - CoreWeave primarily leases data center facilities, whereas builder clouds like Nebius, IREN, and Nscale risk stalled construction if financing dries up. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-a79d412686eda8e1396a|cite]])
+
+### 2026-10-20 [[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds|Nvidia Has Put More Than $170 Billion on the Line for Neoclouds]]
+
+- Shares in publicly traded AI cloud firms CoreWeave, Nebius, and IREN dropped sharply in mid-October 2026 as public markets soured on AI cloud expansion plans. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-fdcc1bd8c82f28ae9cdd|cite]])
+
+### 2026-10-22 [[2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off|Utopai Becomes a Unicorn as Video AI Takes Off]]
+
+- Nebius closed a $3.5 billion senior secured credit facility arranged by Citi. ([[2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off#^clm-a466a922766867a0bd4b|cite]])
 
 ## Related concepts
 

@@ -3,7 +3,7 @@ type: entity
 title: Bill Peebles
 status: developing
 created: 2026-10-13
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/person

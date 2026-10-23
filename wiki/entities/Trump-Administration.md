@@ -3,11 +3,11 @@ type: entity
 title: Trump Administration
 status: developing
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/organization
-claim_count: 31
+claim_count: 33
 ---
 
 # Trump Administration
@@ -88,6 +88,11 @@ US federal executive branch under President Trump.
 - Under Secretary of Defense Emil Michael warned in an interview that the administration will use export controls against AI labs that fail to cooperate on national security. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-4bf6b93dd948e10ed034|cite]])
 - Emil Michael serves as one of four leaders on President Trump's Super Intelligence Force, acting as government liaison to frontier AI companies on cybersecurity. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-53abd5a7f082996828e2|cite]])
 - The Trump administration affirmed its willingness to use stringent checks, citing export controls placed on Anthropic in June 2026 cutting off non-US users. ([[2026-10-19-Pentagons-Emil-Michael-Vows-Export-Controls-if-AI-Labs-Dont-Cooperate-With-Government#^clm-7c2c60030865a9a58281|cite]])
+
+### 2026-10-21 [[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh|The Closing of the ‘Defenders Window’ Is Nigh]]
+
+- The Trump administration's Super Intelligence Force stepped in to coordinate government communications and push parties to deploy the PHP security patch. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-9f00e0357bdb214a1221|cite]])
+- In late October 2026, OpenAI briefed National Intelligence Director Jay Clayton and senior defense official Emil Michael in its first major engagement with the Super Intelligence Force. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-4cad92c4f83889896707|cite]])
 
 ## Related concepts
 

@@ -3,11 +3,11 @@ type: entity
 title: Mark Zuckerberg
 status: developing
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/person
-claim_count: 19
+claim_count: 21
 ---
 
 # Mark Zuckerberg
@@ -67,6 +67,11 @@ Co-founder and CEO of Meta.
 ### 2026-10-19 [[2026-10-19-Altman-Describes-Three-Endgames-for-AI|Altman Describes Three Endgames for AI, Including One Where a Single Firm ‘Melts Everyone Else’s GPUs’]]
 
 - Mark Zuckerberg and Jensen Huang argue that new regulatory agencies and model testing rules cause regulatory capture that shields incumbents like OpenAI and Anthropic. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-3eba4d5f7a89ca875d87|cite]])
+
+### 2026-10-21 [[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh|The Closing of the ‘Defenders Window’ Is Nigh]]
+
+- Meta Chief Executive Mark Zuckerberg announced that the Muse personal agent app reached 10 million users in the United States and Canada within six weeks of launch. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-68d550a6369839284f99|cite]])
+- Meta announced a new class of non-voting Class C common stock, effective January 19, 2027, issued as a 1:1 dividend to existing Class A and B shareholders to fund AI investments without diluting Mark Zuckerberg's voting control. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-42c2f037554b0f24e6ad|cite]])
 
 ## Related concepts
 

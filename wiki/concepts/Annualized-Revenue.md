@@ -3,10 +3,10 @@ type: concept
 title: Annualized Revenue (ARR)
 status: developing
 created: 2026-10-13
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - concept
-source_count: 6
+source_count: 8
 ---
 
 # Annualized Revenue (ARR)
@@ -45,3 +45,11 @@ A guess at a full year's sales, usually one month's revenue multiplied by 12. Fa
 
 - Annualized revenue from ChatGPT advertising reached $1 billion in late August 2026 after launching in February 2026. ([[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices#^clm-378dc4733abccaf8a474|cite]])
 - OpenAI approached a $50 billion annualized revenue pace across its overall business at the end of September 2026. ([[2026-10-15-OpenAI-Accelerates-Ad-Sprint-With-Meta-Hires-Slashed-Prices#^clm-1af30d56a72e0f8a3b33|cite]])
+
+### 2026-10-22 [[2026-10-22-Datadog-Offered-4-Billion-to-Buy-Cloud-Security-Startup-Upwind|Datadog Offered $4 Billion to Buy Cloud Security Startup ‘Upwind’]]
+
+- Upwind Security's annual recurring revenue crossed $50 million, up from about $20 million in ARR at the end of 2025. ([[2026-10-22-Datadog-Offered-4-Billion-to-Buy-Cloud-Security-Startup-Upwind#^clm-4365a610f6158247fee9|cite]])
+
+### 2026-10-22 [[2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off|Utopai Becomes a Unicorn as Video AI Takes Off]]
+
+- Video AI startup Higgsfield announced it crossed $1 billion in annualized revenue in September 2026, after quadrupling its valuation to $5.4 billion in August. ([[2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off#^clm-884454e68958f837da43|cite]])

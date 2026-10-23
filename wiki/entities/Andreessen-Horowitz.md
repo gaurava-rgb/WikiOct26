@@ -3,11 +3,11 @@ type: entity
 title: Andreessen Horowitz
 status: developing
 created: 2026-10-13
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company
-claim_count: 10
+claim_count: 20
 ---
 
 # Andreessen Horowitz
@@ -38,6 +38,19 @@ Venture capital firm (a16z) and Applied Intuition investor.
 
 - Robotics startup Eka Robotics raised $150 million in Series A funding at a $1.45 billion valuation led by Andreessen Horowitz and F-Prime. ([[2026-10-20-OpenAIs-Pacing-2-0-Problem#^clm-e04b0bfb3d7a86321ae0|cite]])
 
+### 2026-10-22 [[2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund|Andreessen Horowitz to Drop ‘Crypto’ From Name of Flagship Blockchain Fund]]
+
+- Andreessen Horowitz informed limited partners that its dedicated blockchain unit, a16z crypto, will change its name to a16z frontier and broaden beyond crypto into emerging technologies. ([[2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund#^clm-fe825630568374505457|cite]])
+- Across five dedicated funds launched since 2018, Andreessen Horowitz's crypto division raised nearly $10 billion in committed capital. ([[2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund#^clm-08790903d1ea4ffcbd01|cite]])
+- General partner Ali Yahya, who joined Andreessen Horowitz in 2017 as the crypto group's first full-time member, departed the firm to launch a startup. ([[2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund#^clm-5911631af0bf6e7a2280|cite]])
+- Andreessen Horowitz raised a peak $4.5 billion crypto fund in 2022, but its May 2026 fund was less than half that size at $2.2 billion. ([[2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund#^clm-3dfeb51c9b4f09a02b09|cite]])
+- Andreessen Horowitz's crypto fund broadened its portfolio by investing in non-blockchain startups including prediction market Kalshi and compute market infrastructure firm Ornn. ([[2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund#^clm-0f13c34c4e220062a29c|cite]])
+- In May 2026 Haun Ventures, led by former a16z partner Katie Haun, expanded its mandate to non-crypto financial services startups across $1 billion in new capital. ([[2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund#^clm-8cf92a1c3327a2abb6f2|cite]])
+- In August 2026 Paradigm announced its $1.2 billion fund would invest in artificial intelligence, robotics, and other frontiers alongside blockchain. ([[2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund#^clm-6569628ba73742bc19ce|cite]])
+- General partner Chris Dixon acknowledged that non-financial consumer Web3 use cases had fallen short, arguing crypto had entered a financial era focused on stablecoins and agentic payments. ([[2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund#^clm-d092b7938a75fa60efd1|cite]])
+- Andreessen Horowitz put tens of millions of dollars into the Fairshake super PAC network during the 2024 election cycle to back crypto-friendly candidates. ([[2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund#^clm-e319e0cc9754357e711d|cite]])
+- The crypto industry faced an extended downturn in 2026 following the failure of the Clarity Act in Congress, despite the mid-2025 passage of the Genius Act regulating stablecoins. ([[2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund#^clm-5e6e70320395b68c1a74|cite]])
+
 ## Related concepts
 
-[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Annualized-Revenue|Annualized Revenue (ARR)]], [[Capex-vs-Opex|Capex vs Opex]]
+[[AI-Compute-Demand|AI Compute Demand vs Supply]], [[Agentic-Commerce|Agentic Commerce]], [[Annualized-Revenue|Annualized Revenue (ARR)]], [[Capex-vs-Opex|Capex vs Opex]]

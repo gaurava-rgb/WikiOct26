@@ -3,11 +3,11 @@ type: entity
 title: Nvidia
 status: developing
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company
-claim_count: 212
+claim_count: 225
 ---
 
 # Nvidia
@@ -380,6 +380,28 @@ US chip designer whose GPUs (graphics processors) dominate AI training and infer
 - An internal Nvidia team co-led by Nico Caprez assists neocloud partners in securing scarce data center locations with grid power connectivity. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-2bf00bf5de794edb75fc|cite]])
 - Larger neoclouds rejected Nvidia's initial credit support program because it required sharing a cut of future cloud computing revenue. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-2019997604a8f413cc99|cite]])
 - Nvidia modified its credit support structure for data center developers, providing shorter-term guarantees in exchange for a smaller share of cloud revenue. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-f8e4af21ff81574f5e44|cite]])
+
+### 2026-10-20 [[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds|Nvidia Has Put More Than $170 Billion on the Line for Neoclouds]]
+
+- Nvidia disclosed up to $164.5 billion in lease guarantees and other commitments to support new data centers as of its July 2026 quarter filings. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-b0ecd0ceea9d6dbf44f8|cite]])
+- Nvidia data center commitments include agreements to pay landlords if cloud tenants default on leases and promises to purchase compute capacity. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-ad3ba8711b612b1e649f|cite]])
+- Nvidia has invested or agreed to invest more than $7 billion directly into AI cloud providers on top of its lease commitments, putting over $170 billion on the line. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-396b2e1c478d32bc297b|cite]])
+- Nvidia's total equity portfolio was valued at nearly $100 billion as of July 2026, spanning data center builders like SB Energy and AI research labs like OpenAI and Anthropic. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-f19d056c75bf0bb36f61|cite]])
+- Non-hyperscaler customers, including neoclouds and large corporations, accounted for 45% of Nvidia data center revenue, or $40 billion, in the July 2026 quarter. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-fa4d60d5f5d87a8cce3e|cite]])
+- Nvidia-backed cloud startups Firmus and Lambda pulled or postponed planned initial public offerings in October 2026. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-bd6f064d8d587cf99877|cite]])
+- Nvidia entered discussions to provide a fresh direct investment of hundreds of millions of dollars to Firmus after Firmus cancelled its IPO. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-3ffd37c995c1fd48bf4f|cite]])
+- Nvidia Chief Financial Officer Colette Kress stated on an August 2026 earnings call that the company's financial risk from backing AI labs is limited because it can redeploy GPUs to other buyers. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-a96910b5f037c9318632|cite]])
+- Investor demand grew for financial protection against default on Nvidia's own corporate debt amid rising neocloud financing risks. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-f008664b4ed4e83ea338|cite]])
+- Google, Amazon, and Microsoft accelerated investments in their own custom AI chips to replace Nvidia GPUs. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-9d13622a29ce67ffb75d|cite]])
+
+### 2026-10-22 [[2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO|SB Energy Considers Waiting Until December or Later for an IPO]]
+
+- OpenAI's planned Ohio data center is designed for 8.5 gigawatts of power capacity, roughly $600 billion in Nvidia chips, and a $105 billion credit guarantee from Nvidia. ([[2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO#^clm-bc8d822d38a5a1e3412e|cite]])
+- SB Energy reported $1.2 billion in cash and cash equivalents as of June 30, 2026, alongside a $1.5 billion Nvidia equity investment received in August. ([[2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO#^clm-7570b796eb12895fed8c|cite]])
+
+### 2026-10-22 [[2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off|Utopai Becomes a Unicorn as Video AI Takes Off]]
+
+- Nvidia announced multi-year supply agreements with chip substrate suppliers Ibiden, Samsung Electro-Mechanics, and Unimicron to expand substrate capacity 2.5 times over three years, including a multibillion-dollar reservation with Ibiden. ([[2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off#^clm-5532277c972b6f4aa28e|cite]])
 
 ## Related concepts
 

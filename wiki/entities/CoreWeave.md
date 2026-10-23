@@ -3,11 +3,11 @@ type: entity
 title: CoreWeave
 status: developing
 created: 2026-10-09
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company
-claim_count: 32
+claim_count: 34
 ---
 
 # CoreWeave
@@ -71,6 +71,14 @@ Neocloud that rents out Nvidia AI chips; Nvidia has invested in it.
 - Nvidia invested $221 million in CoreWeave in April 2023 and an additional $2 billion in January 2026 to support independent cloud competition against hyperscalers. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-8271692f0d25cc2df138|cite]])
 - Nvidia CEO Jensen Huang stated CoreWeave's strength is improving every day and maintained the company will not require extra Nvidia credit backstops. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-2b4b1514bf23a8b97759|cite]])
 - CoreWeave raised its hourly GPU rental pricing by an additional 10 percent in autumn 2026, building on prior price increases. ([[2026-10-20-How-CoreWeaves-Debt-Binge-Brought-a-Moment-of-Reckoning#^clm-7980b93d4cbeca67c5b3|cite]])
+
+### 2026-10-20 [[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds|Nvidia Has Put More Than $170 Billion on the Line for Neoclouds]]
+
+- Shares in publicly traded AI cloud firms CoreWeave, Nebius, and IREN dropped sharply in mid-October 2026 as public markets soured on AI cloud expansion plans. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-fdcc1bd8c82f28ae9cdd|cite]])
+
+### 2026-10-22 [[2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor|Why Blackstone Thinks AI Bottlenecks Could Work in its Favor]]
+
+- CoreWeave shares fell another 10% in late October 2026 as financing fears mounted, increasing pressure on Blackstone's billions in loans to the company. ([[2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor#^clm-c1c66c1cb0a4e421eb29|cite]])
 
 ## Related concepts
 

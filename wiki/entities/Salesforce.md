@@ -3,11 +3,11 @@ type: entity
 title: Salesforce
 status: developing
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company
-claim_count: 10
+claim_count: 20
 ---
 
 # Salesforce
@@ -50,6 +50,19 @@ US maker of customer relationship software (CRM) for businesses; hosts the Dream
 
 - Salesforce agreed to purchase customer marketing software company Braze for roughly $5.66 billion including debt in October 2026. ([[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger#^clm-7f62edd509e4ac38f13b|cite]])
 
+### 2026-10-22 [[2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps|Salesforce Customers Brace For New Fees to Use Claude in Its Apps]]
+
+- Salesforce plans to require enterprise customers to register external AI agents starting around November 2026, preparing to charge fees whenever outside agents analyze or update Salesforce records. ([[2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps#^clm-51de0eb2e03b9a67b65c|cite]])
+- Salesforce plans to bill each action an external AI agent takes inside its applications as an interaction. ([[2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps#^clm-41721b8985ae2beefc94|cite]])
+- Salesforce offered enterprise customers the option to purchase unlimited AI agent usage through a headless license. ([[2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps#^clm-15bce47a41a60d373554|cite]])
+- The rise of autonomous AI agents operating enterprise software more efficiently than humans threatens traditional per-seat SaaS licensing models. ([[2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps#^clm-379dca66d94b230713e0|cite]])
+- Enterprise software vendors Atlassian, Workday, ServiceNow, and Datadog are also establishing tollgates and outcome-based pricing models for external AI agents. ([[2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps#^clm-e92906369f3e13409ed3|cite]])
+- Software consultant Nick Hamm reported that most of his 150 enterprise clients deploy Claude and OpenAI models across Salesforce applications for free. ([[2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps#^clm-2f12b4b503d0fc237ceb|cite]])
+- Enterprise clients are reconsidering agent architectures and may transfer data out of Salesforce if third-party AI tollgate fees are set too high. ([[2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps#^clm-1376f1cfcaf929e2b763|cite]])
+- New Salesforce customers will receive a three-month grace period to register AI agents after formal pricing is published, while existing customers will see fee changes at contract renewal. ([[2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps#^clm-7e18fbf418cd6dde01cf|cite]])
+- Lumen deployed Salesforce native AI sales agents to automatically gather client requirements and generate pricing quotes for data center fiber connections. ([[2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps#^clm-8d6dccfedc5c56c9797d|cite]])
+- Salesforce allowed Lumen to use existing enterprise subscription fees to cover its usage of built-in AI sales agents. ([[2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps#^clm-33b7a24b8eb7a2d37717|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]]
+[[AI-Agents|AI Agents]], [[Seats-Plus-Consumption|Seats Plus Consumption (Per-User Plus Usage Pricing)]], [[Switching-Costs|Switching Costs]]

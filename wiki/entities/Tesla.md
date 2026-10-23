@@ -3,11 +3,11 @@ type: entity
 title: Tesla
 status: developing
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company
-claim_count: 14
+claim_count: 15
 ---
 
 # Tesla
@@ -50,6 +50,10 @@ US electric car maker led by Elon Musk; plans a low-cost robotaxi called Cyberca
 ### 2026-10-20 [[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger|SpaceX’s Musk Lauds Its Soaring Cloud Business and Possible Tesla Merger]]
 
 - Tesla and SpaceX formed independent board committees to evaluate a potential merger, with Elon Musk recusing himself from formal deliberations as CEO of both companies. ([[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger#^clm-3680dad596e0033e9320|cite]])
+
+### 2026-10-21 [[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh|The Closing of the ‘Defenders Window’ Is Nigh]]
+
+- Tesla reported third-quarter 2026 revenue flat at $28 billion, with automotive revenue falling 3% to $20.56 billion. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-15b1156c059fc3d0fb32|cite]])
 
 ## Related concepts
 

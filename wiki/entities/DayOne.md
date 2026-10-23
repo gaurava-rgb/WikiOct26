@@ -3,11 +3,11 @@ type: entity
 title: DayOne
 status: developing
 created: 2026-10-19
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company
-claim_count: 10
+claim_count: 11
 ---
 
 # DayOne
@@ -31,3 +31,7 @@ Singapore-based data center operator spun off from GDS Holdings, preparing a New
 ### 2026-10-20 [[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO|Nvidia Moves to Back GPU Cloud Provider Firmus After Investors Balk at Its IPO]]
 
 - Nvidia agreed in June 2026 to guarantee Firmus' $15 billion purchase of server racks housing 170,000 Rubin and Blackwell GPUs for DayOne's facility in Batam, Indonesia. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-0c6d2f7ba953dec5f4ac|cite]])
+
+### 2026-10-22 [[2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO|SB Energy Considers Waiting Until December or Later for an IPO]]
+
+- Singapore-based data center operator DayOne is considering delaying its initial public offering or downsizing the capital raised. ([[2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO#^clm-c7153369eb9ae09b95e1|cite]])

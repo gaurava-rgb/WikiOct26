@@ -3,11 +3,11 @@ type: entity
 title: Anthropic
 status: developing
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company
-claim_count: 371
+claim_count: 376
 ---
 
 # Anthropic
@@ -627,6 +627,10 @@ AI lab that makes the Claude models and Claude Code; focused on enterprise custo
 - SpaceX's Superintelligence segment, comprising X, Grok Bot, and cloud infrastructure leasing to clients like Anthropic, expanded rapidly in late 2026. ([[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger#^clm-e41d3ec2665415a606f7|cite]])
 - Anthropic's draft IPO prospectus disclosed first-half 2026 revenue of $16.3 billion and an accounting net loss exceeding $80 billion related to financing contracts. ([[2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger#^clm-a207660879059b09ad5c|cite]])
 
+### 2026-10-20 [[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds|Nvidia Has Put More Than $170 Billion on the Line for Neoclouds]]
+
+- Nvidia's total equity portfolio was valued at nearly $100 billion as of July 2026, spanning data center builders like SB Energy and AI research labs like OpenAI and Anthropic. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-f19d056c75bf0bb36f61|cite]])
+
 ### 2026-10-21 [[2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work|How Bank Hackers Got Claude to Do Their Dirty Work]]
 
 - Cybersecurity firm Straiker found that Latin American hacking group CyberCartel automated financial sector cyberattacks using off-the-shelf commercial AI models instead of restricted frontier systems like Mythos. ([[2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work#^clm-b75317f32039e57cbfaf|cite]])
@@ -653,6 +657,19 @@ AI lab that makes the Claude models and Claude Code; focused on enterprise custo
 - Frontier AI labs resist compute restrictions because leadership, including Anthropic CEO Dario Amodei, considers raw compute volume the decisive factor driving AI intelligence gains. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-f3c04d5d14e577138943|cite]])
 - Anthropic dedicated approximately 6 percent of its AI research compute to safety work as of July 2026, alongside an equivalent share dedicated to safeguard systems. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-bdc3ea3514f117cfb1ea|cite]])
 - Prediction: Anthropic's draft registration statement indicated the company could commit up to $750 billion toward compute infrastructure over the coming years. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-4d03a17a152fcbbda616|cite]])
+
+### 2026-10-21 [[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh|The Closing of the ‘Defenders Window’ Is Nigh]]
+
+- Anthropic warned in late September 2026 that Chinese lab Z.ai's GLM-5.3 model trailed United States frontier models by only four months in cyber capabilities. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-1fe49104028371c2cf31|cite]])
+
+### 2026-10-22 [[2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps|Salesforce Customers Brace For New Fees to Use Claude in Its Apps]]
+
+- Software consultant Nick Hamm reported that most of his 150 enterprise clients deploy Claude and OpenAI models across Salesforce applications for free. ([[2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps#^clm-2f12b4b503d0fc237ceb|cite]])
+
+### 2026-10-22 [[2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO|SB Energy Considers Waiting Until December or Later for an IPO]]
+
+- SB Energy leaders are tracking Anthropic's expected public offering ahead of the Thanksgiving holiday in November 2026 to gauge investor sentiment. ([[2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO#^clm-9e9dfa847c1221307b8b|cite]])
+- Nscale is attempting to proceed with a fall 2026 public listing at a valuation around $30 billion, aided by talks with Anthropic over a $45 billion cloud contract. ([[2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO#^clm-43892ad2fc7a05a392f9|cite]])
 
 ## Related concepts
 

@@ -3,10 +3,10 @@ type: entity
 title: Firmus
 status: developing
 created: 2026-10-13
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
-claim_count: 12
+claim_count: 15
 ---
 
 # Firmus
@@ -45,6 +45,15 @@ claim_count: 12
 - Firmus has raised more than $13 billion across equity and debt, including approximately $10 billion in debt, with backing from Blackstone, Coatue, Jane Street, and Nvidia. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-d6807b6416604e1193e2|cite]])
 - Following its canceled public listing, Firmus is seeking to raise at least $2 billion in private financing with significant equity participation from Nvidia. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-8a49f234f044119f2a1e|cite]])
 - Nvidia agreed in June 2026 to guarantee Firmus' $15 billion purchase of server racks housing 170,000 Rubin and Blackwell GPUs for DayOne's facility in Batam, Indonesia. ([[2026-10-20-Nvidia-Moves-to-Back-Firmus-After-Pulled-IPO#^clm-0c6d2f7ba953dec5f4ac|cite]])
+
+### 2026-10-20 [[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds|Nvidia Has Put More Than $170 Billion on the Line for Neoclouds]]
+
+- Nvidia-backed cloud startups Firmus and Lambda pulled or postponed planned initial public offerings in October 2026. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-bd6f064d8d587cf99877|cite]])
+- Nvidia entered discussions to provide a fresh direct investment of hundreds of millions of dollars to Firmus after Firmus cancelled its IPO. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-3ffd37c995c1fd48bf4f|cite]])
+
+### 2026-10-22 [[2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor|Why Blackstone Thinks AI Bottlenecks Could Work in its Favor]]
+
+- Blackstone has provided both equity financing and loans to Australian GPU cloud provider Firmus, which cancelled its planned initial public offering in October 2026. ([[2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor#^clm-88d0b86f401126eb60cf|cite]])
 
 ## Related concepts
 

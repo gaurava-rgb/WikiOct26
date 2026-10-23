@@ -3,11 +3,11 @@ type: entity
 title: Satya Nadella
 status: developing
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/person
-claim_count: 12
+claim_count: 13
 ---
 
 # Satya Nadella
@@ -45,6 +45,10 @@ CEO of Microsoft.
 - In March 2026 Nadella named Lamanna executive vice president over Copilot engineering reporting directly to him, unifying the separate Copilot engineering groups; Jacob Andreou shares Copilot oversight. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-ecd00f2c82882749c5cc|cite]])
 - In October 2026 Nadella put Lamanna in charge of Office as well, after the July 2026 retirement of Rajesh Jha, who had run Office and Windows. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-c96f2e881844cdec6868|cite]])
 - Multiple senior Microsoft executives see Lamanna as a possible successor to Nadella, and some read Nadella bringing him, Andreou, Asha Sharma, Hayete Gallot and Arun Ulag to board meetings as introducing successor candidates. ([[2026-10-12-How-Microsofts-New-Office-Chief-Fixed-Copilot-and-Won-Over-Nadella#^clm-95136aa939f3370ce4fa|cite]])
+
+### 2026-10-21 [[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh|The Closing of the ‘Defenders Window’ Is Nigh]]
+
+- Microsoft asked shareholders to approve a 6% cut to Chief Executive Satya Nadella's pay following revenue drops in Xbox gaming. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-4d16e4a91aa3f3c89343|cite]])
 
 ## Related concepts
 

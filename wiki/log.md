@@ -13,6 +13,11 @@ tags:
 
 Newest completed operations appear first.
 
+## 2026-10-23 ingest-20261023-b32
+
+- Batch 32: Nvidia B neoclouds, PHP defender window, a16z frontier, Blackstone bottlenecks, Datadog Upwind, Salesforce Claude fees, SB Energy IPO, Utopai video AI.
+- Sources: 8; claims added or updated this batch: 91.
+
 ## 2026-10-21 editor-update-20261021-b30-b31
 
 - Editor update: slotted 15 articles across batches b30 and b31 into the AI shift story, OpenAI late 2026 journey, Anthropic 2026 journey, Apple 2025-2026 journey, Meta October 2026 journey, Nvidia late 2026 journey, Microsoft journey, and what-changed page; 5 what-changed entries on Apple touchscreen reversal, local AI speculative coding, CyberCartel agent orchestration bank attacks, Nvidia credit guarantee restructuring, and Netflix franchise-to-business transition.

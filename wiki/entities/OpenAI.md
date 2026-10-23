@@ -3,11 +3,11 @@ type: entity
 title: OpenAI
 status: developing
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company
-claim_count: 423
+claim_count: 435
 ---
 
 # OpenAI
@@ -695,6 +695,10 @@ AI lab behind ChatGPT, the o1 reasoning models, and Codex.
 - Pacing 2.0 requires establishing objective thresholds or speed limits to determine when OpenAI should halt development or deployment of recursive self-improving AI. ([[2026-10-20-OpenAIs-Pacing-2-0-Problem#^clm-bfcfde13ab0e1687a023|cite]])
 - Altman stated OpenAI cannot yield ground to rivals in the short term, but must commit to a long-term pacing policy within twelve months. ([[2026-10-20-OpenAIs-Pacing-2-0-Problem#^clm-c242c69c41c07c90e0cd|cite]])
 
+### 2026-10-20 [[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds|Nvidia Has Put More Than $170 Billion on the Line for Neoclouds]]
+
+- Nvidia's total equity portfolio was valued at nearly $100 billion as of July 2026, spanning data center builders like SB Energy and AI research labs like OpenAI and Anthropic. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-f19d056c75bf0bb36f61|cite]])
+
 ### 2026-10-21 [[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD|OpenAI, Anthropic Should Cap Compute for R&D, Say AI Safety Advocates]]
 
 - Safety advocates are pushing AI laboratories to impose binding caps on compute allocated to research and development to slow capability progress. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-ad4790784e595130470f|cite]])
@@ -703,6 +707,29 @@ AI lab behind ChatGPT, the o1 reasoning models, and Codex.
 - Advocates argue compute allocation caps are superior to capability benchmarks because hardware compute distribution is verifiable and resistant to manipulation. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-d633c3da37bece49f54a|cite]])
 - OpenAI redirected roughly 10 percent of its total computing power toward alignment and safety monitoring in late 2026 following internal agent security incidents. ([[2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD#^clm-86eeb070528e8e502121|cite]])
 
+### 2026-10-21 [[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh|The Closing of the ‘Defenders Window’ Is Nigh]]
+
+- Since August 2026, an OpenAI-led industry coalition has worked quietly to fix critical vulnerabilities in PHP, an open-source web language. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-d54feccc9bb3cc99d969|cite]])
+- OpenAI warned that the defender's window, the period when defenders armed with frontier AI can detect and patch vulnerabilities before attackers exploit them, is rapidly closing. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-f1f549ad1d8f81e4d57f|cite]])
+- In late October 2026, OpenAI briefed National Intelligence Director Jay Clayton and senior defense official Emil Michael in its first major engagement with the Super Intelligence Force. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-4cad92c4f83889896707|cite]])
+
+### 2026-10-22 [[2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps|Salesforce Customers Brace For New Fees to Use Claude in Its Apps]]
+
+- Software consultant Nick Hamm reported that most of his 150 enterprise clients deploy Claude and OpenAI models across Salesforce applications for free. ([[2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps#^clm-2f12b4b503d0fc237ceb|cite]])
+
+### 2026-10-22 [[2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO|SB Energy Considers Waiting Until December or Later for an IPO]]
+
+- SB Energy sought to raise $5 billion to $7 billion from its IPO to fund the massive Ohio data center campus being built for OpenAI. ([[2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO#^clm-e3fc6e1b344a685cd9f0|cite]])
+- OpenAI's planned Ohio data center is designed for 8.5 gigawatts of power capacity, roughly $600 billion in Nvidia chips, and a $105 billion credit guarantee from Nvidia. ([[2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO#^clm-bc8d822d38a5a1e3412e|cite]])
+- Building the full Ohio data center campus will require more than $100 billion in total capital. ([[2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO#^clm-050e21f8237979075b26|cite]])
+- SB Energy holds $430 billion in contracted data center lease revenue, tied entirely to OpenAI's Ohio campus over 15 to 20 year terms starting in 2028. ([[2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO#^clm-ad78dc30879cc13a89e5|cite]])
+
+### 2026-10-22 [[2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off|Utopai Becomes a Unicorn as Video AI Takes Off]]
+
+- Media executive Jeffrey Katzenberg partnered with the former head of OpenAI's Sora app to establish an AI film production company in discussions to license and customize Sora. ([[2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off#^clm-d72e494e9843cd16808e|cite]])
+- OpenAI announced that its frontier models will be accessible via Google Cloud, reducing its historical exclusivity with Microsoft Azure. ([[2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off#^clm-9631cbfd80c7e302cf35|cite]])
+- OpenAI expanded ChatGPT advertising across 26 additional countries to generate revenue to cover infrastructure expenses. ([[2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off#^clm-73d4f715e68ccccef387|cite]])
+
 ## Related concepts
 
-[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], AI Sycophancy, [[Agentic-Commerce|Agentic Commerce]], [[Aggregation-Theory|Aggregation Theory]], [[Annualized-Revenue|Annualized Revenue (ARR)]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Chain-of-Thought-Monitoring|Chain-of-Thought Monitoring]], [[Channel-Conflict|Channel Conflict]], [[Commoditize-Your-Complements|Commoditize Your Complements]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Constitutional-AI|Constitutional AI]], [[Custom-Silicon|Custom Silicon]], [[Distillation|Distillation (Training on Another Model's Outputs)]], Enterprise Philosophy (Tech's Third Philosophy), [[Export-Controls|Chip Export Controls]], [[Generative-UI|Generative UI (On-Demand Interfaces)]], [[LLM-Inflection-Points|Three LLM Inflection Points]], [[License-and-Hire|License-and-Hire Deal]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Mechanistic-Interpretability|Mechanistic Interpretability]], [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], Paperclip Maximizer (Bostrom), [[Price-Umbrella|Price Umbrella (Price Overhang)]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Reward-Hacking|Reward Hacking]], [[Switching-Costs|Switching Costs]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Zero-Data-Retention|Zero Data Retention]]
+[[AI-Agents|AI Agents]], [[AI-Compute-Demand|AI Compute Demand vs Supply]], [[AI-Diffusion|AI Diffusion]], [[AI-Stack-Integration|Full-Stack AI Integration]], AI Sycophancy, [[Agentic-Commerce|Agentic Commerce]], [[Aggregation-Theory|Aggregation Theory]], [[Annualized-Revenue|Annualized Revenue (ARR)]], [[Answer-vs-Agentic-Inference|Answer Inference vs Agentic Inference]], [[Chain-of-Thought-Monitoring|Chain-of-Thought Monitoring]], [[Channel-Conflict|Channel Conflict]], [[Commoditize-Your-Complements|Commoditize Your Complements]], [[Commodity-Cost-Advantage|Winning a Commodity Market on Cost]], [[Conservation-of-Attractive-Profits|Conservation of Attractive Profits]], [[Constitutional-AI|Constitutional AI]], [[Custom-Silicon|Custom Silicon]], [[Distillation|Distillation (Training on Another Model's Outputs)]], [[Dollars-Per-Gigawatt|Dollars Per Gigawatt (Nvidia Revenue per Unit of Data Center Power)]], Enterprise Philosophy (Tech's Third Philosophy), [[Export-Controls|Chip Export Controls]], [[Generative-UI|Generative UI (On-Demand Interfaces)]], [[LLM-Inflection-Points|Three LLM Inflection Points]], [[License-and-Hire|License-and-Hire Deal]], [[Local-Inference|Local Inference (Running AI Models on Your Own Hardware)]], [[Mechanistic-Interpretability|Mechanistic Interpretability]], [[Open-Weight-Models|Open-Weight Models]], [[Opportunity-Cost-of-Compute|Opportunity Cost of Compute]], Paperclip Maximizer (Bostrom), [[Price-Umbrella|Price Umbrella (Price Overhang)]], [[Referral-vs-Distribution|AI as Referral Channel vs Distributor]], [[Reward-Hacking|Reward Hacking]], [[Switching-Costs|Switching Costs]], [[Verification-Advantage|Verification Advantage (Verifiable Data)]], [[Zero-Data-Retention|Zero Data Retention]]

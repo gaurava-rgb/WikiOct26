@@ -3,11 +3,11 @@ type: entity
 title: Colette Kress
 status: developing
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/person
-claim_count: 8
+claim_count: 9
 ---
 
 # Colette Kress
@@ -35,6 +35,10 @@ Chief Financial Officer of Nvidia.
 ### 2026-09-13 [[2026-09-13-Nvidias-Growing-Dependence-On-a-Few-Big-Customers|Nvidia's Growing Dependence On a Few Big Customers]]
 
 - In February 2026, Nvidia CFO Colette Kress said the five biggest cloud firms and hyperscalers made up more than 50% of data center revenue. ([[2026-09-13-Nvidias-Growing-Dependence-On-a-Few-Big-Customers#^clm-f95e63c6993118c148a5|cite]])
+
+### 2026-10-20 [[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds|Nvidia Has Put More Than $170 Billion on the Line for Neoclouds]]
+
+- Nvidia Chief Financial Officer Colette Kress stated on an August 2026 earnings call that the company's financial risk from backing AI labs is limited because it can redeploy GPUs to other buyers. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-a96910b5f037c9318632|cite]])
 
 ## Related concepts
 

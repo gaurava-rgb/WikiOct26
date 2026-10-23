@@ -3,7 +3,7 @@ type: concept
 title: "Distillation (Training on Another Model's Outputs)"
 status: developing
 created: 2026-10-15
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - concept
 source_count: 5

@@ -3,11 +3,11 @@ type: entity
 title: Microsoft
 status: developing
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company
-claim_count: 145
+claim_count: 148
 ---
 
 # Microsoft
@@ -319,9 +319,21 @@ US software and cloud company (Windows, Office, Azure, Xbox); a major OpenAI inv
 - Xbox CEO Asha Sharma implemented a restructuring plan in July 2026 to eliminate 3,200 jobs, or roughly 20 percent of staff, to prioritize core game franchises. ([[2026-10-20-Private-Equity-Firms-Weighed-Buyout-of-Microsofts-Xbox#^clm-1eb4284f69b8545b1869|cite]])
 - Xbox accounts for approximately 7 percent of Microsoft's corporate revenue as Microsoft prioritizes massive capital expenditure in AI infrastructure. ([[2026-10-20-Private-Equity-Firms-Weighed-Buyout-of-Microsofts-Xbox#^clm-446d5dbf60bb57eccc59|cite]])
 
+### 2026-10-20 [[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds|Nvidia Has Put More Than $170 Billion on the Line for Neoclouds]]
+
+- Google, Amazon, and Microsoft accelerated investments in their own custom AI chips to replace Nvidia GPUs. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-9d13622a29ce67ffb75d|cite]])
+
 ### 2026-10-21 [[2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work|How Bank Hackers Got Claude to Do Their Dirty Work]]
 
 - Cybersecurity providers including Microsoft and Palo Alto Networks have introduced multi-model defensive systems to match attacker tooling while containing client compute costs. ([[2026-10-21-How-Bank-Hackers-Got-Claude-to-Do-Dirty-Work#^clm-ba45dc81bb1631e203b2|cite]])
+
+### 2026-10-21 [[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh|The Closing of the ‘Defenders Window’ Is Nigh]]
+
+- Microsoft asked shareholders to approve a 6% cut to Chief Executive Satya Nadella's pay following revenue drops in Xbox gaming. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-4d16e4a91aa3f3c89343|cite]])
+
+### 2026-10-22 [[2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off|Utopai Becomes a Unicorn as Video AI Takes Off]]
+
+- OpenAI announced that its frontier models will be accessible via Google Cloud, reducing its historical exclusivity with Microsoft Azure. ([[2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off#^clm-9631cbfd80c7e302cf35|cite]])
 
 ## Related concepts
 

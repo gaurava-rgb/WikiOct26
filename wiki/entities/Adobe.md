@@ -3,7 +3,7 @@ type: entity
 title: Adobe
 status: developing
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company

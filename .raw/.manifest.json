@@ -690,6 +690,14 @@
       ],
       "source_id": "src-bf0def9e852e44a0327b"
     },
+    ".raw/captured/2026-10-20 The Information - Nvidia puts over 170 billion on the line for neoclouds (notes).md": {
+      "hash": "15aef24b55fe212878ab981c22fcd448416bd5353158ad0602f770328ff04d54",
+      "ingested_at": "2026-10-23",
+      "pages_created": [
+        "wiki/sources/2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds.md"
+      ],
+      "source_id": "src-bf5b39eb764c56a8e27a"
+    },
     ".raw/captured/2026-10-20 The Information - OpenAIs pacing 2.0 problem (notes).md": {
       "hash": "4adddfd423046fb46611a06f15210a9d125efd74295e651ed1882d320f049acb",
       "ingested_at": "2026-10-21",
@@ -713,6 +721,14 @@
         "wiki/sources/2026-10-20-SpaceX-Musk-Lauds-Cloud-Business-and-Tesla-Merger.md"
       ],
       "source_id": "src-aff8939b29dd79caa843"
+    },
+    ".raw/captured/2026-10-21 The Information - Closing of the defenders window is nigh (notes).md": {
+      "hash": "d069012bb369f97e67d0138a09c90a0fc3f53a6b673658a99cdaa7d3fe1608e9",
+      "ingested_at": "2026-10-23",
+      "pages_created": [
+        "wiki/sources/2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh.md"
+      ],
+      "source_id": "src-9cf403c7e6292c75b1ec"
     },
     ".raw/captured/2026-10-21 The Information - Hackers used Claude and Grok to automate bank attacks (notes).md": {
       "hash": "44d2de3ffe7990e3dca6dd0cd2fcfc080ca0c47ac6f73c745df046f54596686f",
@@ -745,6 +761,54 @@
         "wiki/sources/2026-10-21-OpenAI-Anthropic-Should-Cap-Compute-for-RD.md"
       ],
       "source_id": "src-e9c6633c3c04da299e5c"
+    },
+    ".raw/captured/2026-10-22 The Information - Andreessen Horowitz drops crypto from flagship blockchain fund name (notes).md": {
+      "hash": "0d3e71d19755d94bdaa3df1b169cb5c36363704d98cdc7cb41ab2b7aeab68cd5",
+      "ingested_at": "2026-10-23",
+      "pages_created": [
+        "wiki/sources/2026-10-22-Andreessen-Horowitz-to-Drop-Crypto-From-Name-of-Flagship-Blockchain-Fund.md"
+      ],
+      "source_id": "src-1074af88e6b677dfca6b"
+    },
+    ".raw/captured/2026-10-22 The Information - Datadog offered 4 billion to buy cloud security startup Upwind (notes).md": {
+      "hash": "fbb643f0d0917e9fa9c334c020d3d365601a889244345eec5abf91fce7a4d997",
+      "ingested_at": "2026-10-23",
+      "pages_created": [
+        "wiki/sources/2026-10-22-Datadog-Offered-4-Billion-to-Buy-Cloud-Security-Startup-Upwind.md"
+      ],
+      "source_id": "src-9ef760c6c9bc7990310c"
+    },
+    ".raw/captured/2026-10-22 The Information - SB Energy considers waiting until December or later for IPO (notes).md": {
+      "hash": "ccfbbf1462c2ae7b0750b9b562d64f53e1658e030ec3c45e13621b02b3676a99",
+      "ingested_at": "2026-10-23",
+      "pages_created": [
+        "wiki/sources/2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO.md"
+      ],
+      "source_id": "src-79edc669f8e7abc8ab16"
+    },
+    ".raw/captured/2026-10-22 The Information - Salesforce customers brace for new fees to use Claude in apps (notes).md": {
+      "hash": "5e04f2493ea0495318345e5e720dd102bc08980131fa1fa33d27975d36ec134c",
+      "ingested_at": "2026-10-23",
+      "pages_created": [
+        "wiki/sources/2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps.md"
+      ],
+      "source_id": "src-b0c7740098c08647dc4a"
+    },
+    ".raw/captured/2026-10-22 The Information - Utopai becomes unicorn as video AI takes off (notes).md": {
+      "hash": "fca89aaa67e58dc2d1aa814e94b393536f92bcd1453b3d552b8c247a6c9e0ebc",
+      "ingested_at": "2026-10-23",
+      "pages_created": [
+        "wiki/sources/2026-10-22-Utopai-Becomes-a-Unicorn-as-Video-AI-Takes-Off.md"
+      ],
+      "source_id": "src-2e312559cafd51e91c01"
+    },
+    ".raw/captured/2026-10-22 The Information - Why Blackstone thinks AI bottlenecks could work in its favor (notes).md": {
+      "hash": "57892f1e4613d7f650a0942ed515d1c1dc8b2dd0d72974044a78ce975290aece",
+      "ingested_at": "2026-10-23",
+      "pages_created": [
+        "wiki/sources/2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor.md"
+      ],
+      "source_id": "src-27892d13f98e163b8c13"
     },
     ".raw/captured/2026.28_ XBOX On the Rocks.md": {
       "hash": "952790fa551289ee6883b864241796a4d483817fa6f376ff40e8fad1aec4a082",

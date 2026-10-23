@@ -3,11 +3,11 @@ type: entity
 title: Meta
 status: developing
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company
-claim_count: 181
+claim_count: 189
 ---
 
 # Meta
@@ -349,6 +349,20 @@ Owner of Facebook, Instagram, and WhatsApp; also builds AI models (Llama, Muse S
 - Thompson notes that John Ternus replacing Tim Cook as Apple CEO helped thaw relations between Apple and Meta, enabling engineering collaboration on local AI. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-d93b005ee59704b1cf33|cite]])
 - Thompson argues that running AI models locally creates effectively zero-cost tokens, enabling speculative coding where a harness builds multiple alternative feature paths overnight like CPU branch prediction. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-976af6d2c1c4935e1496|cite]])
 - Thompson maintains that thin-client cloud computing remains dominant because scarce high-end compute and massive memory aggregate most economically in centralized data centers. ([[2026-10-20-Muse-Spark-Open-Meta-Apple-Thin-and-Thick#^clm-ea6db657ad94343fbb37|cite]])
+
+### 2026-10-21 [[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh|The Closing of the ‘Defenders Window’ Is Nigh]]
+
+- Meta Platforms reported third-quarter 2026 revenue of $64.6 billion, up 26% year over year, while Reality Labs trimmed its operating losses. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-808ecee8a2d98f48b69b|cite]])
+- Meta recorded negative free cash flow of $2.12 billion in third-quarter 2026 due to AI infrastructure investments, down from positive $10.63 billion a year earlier. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-14c306ceb0083d3decd1|cite]])
+- Meta reaffirmed full-year 2026 capital expenditures of $135 billion to $145 billion. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-b1dcc921139a0ac1f98e|cite]])
+- Meta Chief Executive Mark Zuckerberg announced that the Muse personal agent app reached 10 million users in the United States and Canada within six weeks of launch. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-68d550a6369839284f99|cite]])
+- Meta plans to monetize Muse through commerce transaction fees paid by businesses and token fees for power users accessing advanced models. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-088bf12c677fb7b90d7a|cite]])
+- Meta incurred nearly $10 billion in legal charges in the third quarter of 2026, reducing operating income by 37% to just under $13 billion. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-a9d1b575c9e295d552ea|cite]])
+- Meta announced a new class of non-voting Class C common stock, effective January 19, 2027, issued as a 1:1 dividend to existing Class A and B shareholders to fund AI investments without diluting Mark Zuckerberg's voting control. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-42c2f037554b0f24e6ad|cite]])
+
+### 2026-10-22 [[2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor|Why Blackstone Thinks AI Bottlenecks Could Work in its Favor]]
+
+- Meta Platforms shares fell 7% following its Q3 earnings release due to investor dilution concerns over its new Class C shares created to finance AI capital spending. ([[2026-10-22-Why-Blackstone-Thinks-AI-Bottlenecks-Could-Work-in-its-Favor#^clm-229d9341a1f50c483f9a|cite]])
 
 ## Related concepts
 

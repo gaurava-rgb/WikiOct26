@@ -3,11 +3,11 @@ type: entity
 title: Emil Michael
 status: developing
 created: 2026-10-19
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/person
-claim_count: 10
+claim_count: 12
 ---
 
 # Emil Michael
@@ -31,6 +31,11 @@ Under Secretary of Defense for Research and Engineering and member of Trump's Su
 ### 2026-10-19 [[2026-10-19-Altman-Describes-Three-Endgames-for-AI|Altman Describes Three Endgames for AI, Including One Where a Single Firm ‘Melts Everyone Else’s GPUs’]]
 
 - Pentagon official Emil Michael said the administration will impose stricter checks like export controls if frontier AI developers behave like drunk drivers. ([[2026-10-19-Altman-Describes-Three-Endgames-for-AI#^clm-d24fe52690216a1eeb28|cite]])
+
+### 2026-10-21 [[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh|The Closing of the ‘Defenders Window’ Is Nigh]]
+
+- The Trump administration's Super Intelligence Force stepped in to coordinate government communications and push parties to deploy the PHP security patch. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-9f00e0357bdb214a1221|cite]])
+- In late October 2026, OpenAI briefed National Intelligence Director Jay Clayton and senior defense official Emil Michael in its first major engagement with the Super Intelligence Force. ([[2026-10-21-The-Closing-of-the-Defenders-Window-Is-Nigh#^clm-4cad92c4f83889896707|cite]])
 
 ## Related concepts
 

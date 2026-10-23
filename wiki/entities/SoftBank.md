@@ -3,11 +3,11 @@ type: entity
 title: SoftBank
 status: developing
 created: 2026-10-08
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company
-claim_count: 5
+claim_count: 6
 ---
 
 # SoftBank
@@ -35,3 +35,7 @@ Japanese investment group and one of OpenAI's largest investors.
 ### 2026-10-19 [[2026-10-19-Nikesh-Arora-Advises-Daughter-on-AI-Venture-Fund|Palo Alto Networks CEO Advises Daughter on New AI-Focused Venture Capital Fund]]
 
 - Nikesh Arora advises the fund using experience gained as president and chief operating officer of SoftBank, where he oversaw investments in firms including Ola and Snapdeal. ([[2026-10-19-Nikesh-Arora-Advises-Daughter-on-AI-Venture-Fund#^clm-7237bb221d3d4005982c|cite]])
+
+### 2026-10-22 [[2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO|SB Energy Considers Waiting Until December or Later for an IPO]]
+
+- SB Energy is evaluating whether to delay its initial public offering to December 2026 or into 2027, later than its earlier September target. ([[2026-10-22-SB-Energy-Considers-Waiting-Until-December-or-Later-for-an-IPO#^clm-0418b97c74a3e573aa68|cite]])

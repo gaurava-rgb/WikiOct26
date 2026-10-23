@@ -3,7 +3,7 @@ type: concept
 title: World Models
 status: developing
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - concept
 source_count: 2

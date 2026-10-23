@@ -3,11 +3,11 @@ type: entity
 title: Workday
 status: developing
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company
-claim_count: 23
+claim_count: 24
 ---
 
 # Workday
@@ -50,6 +50,10 @@ Enterprise HR and finance SaaS company.
 - Some employees and investors fear these headless tools turn Workday and Salesforce into dumb infrastructure, basically glorified databases, while their leaders say they will still make plenty of money. ([[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off#^clm-295717aa76ad0220d408|cite]])
 - Workday CEO Aneel Bhusri said Workday is giving customers choice, and that headless use through other companies' AI will be equally good for Workday, though he prefers its own interface. ([[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off#^clm-6440c2b7a83e5192c4e4|cite]])
 - Starting in February 2027, after a fee-free grace period, Workday will charge customers based on how often AI agents tap connectors and take actions in Workday. ([[2026-10-13-Why-Companies-Cant-Prove-Their-AI-Spending-Pays-Off#^clm-abc24be218565eca8040|cite]])
+
+### 2026-10-22 [[2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps|Salesforce Customers Brace For New Fees to Use Claude in Its Apps]]
+
+- Enterprise software vendors Atlassian, Workday, ServiceNow, and Datadog are also establishing tollgates and outcome-based pricing models for external AI agents. ([[2026-10-22-Salesforce-Customers-Brace-For-New-Fees-to-Use-Claude-in-Its-Apps#^clm-e92906369f3e13409ed3|cite]])
 
 ## Related concepts
 

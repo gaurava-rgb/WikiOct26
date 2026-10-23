@@ -3,11 +3,11 @@ type: entity
 title: Lambda
 status: developing
 created: 2026-10-19
-updated: 2026-10-21
+updated: 2026-10-23
 tags:
   - entity
   - entity/company
-claim_count: 2
+claim_count: 3
 ---
 
 # Lambda
@@ -23,3 +23,7 @@ AI cloud provider and GPU rental specialist.
 ### 2026-10-18 [[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose|Neocloud Shakeout Looms, and Nvidia Has a Lot to Lose]]
 
 - CoreWeave CEO Michael Intrator criticized rivals Firmus, Lambda, and Nscale for seeking massive capital without the execution, scale, or software solutions of CoreWeave. ([[2026-10-18-Neocloud-Shakeout-Looms-and-Nvidia-Has-a-Lot-to-Lose#^clm-4acc526be5a41f8987d3|cite]])
+
+### 2026-10-20 [[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds|Nvidia Has Put More Than $170 Billion on the Line for Neoclouds]]
+
+- Nvidia-backed cloud startups Firmus and Lambda pulled or postponed planned initial public offerings in October 2026. ([[2026-10-20-Nvidia-Has-Put-More-Than-170-Billion-on-the-Line-for-Neoclouds#^clm-bd6f064d8d587cf99877|cite]])
