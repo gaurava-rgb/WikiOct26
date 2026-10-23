@@ -13,6 +13,10 @@ tags:
 
 Newest completed operations appear first.
 
+## 2026-10-23 editor-update-20261023-b32
+
+- Editor update: slotted 8 The Information articles (batch b32) into the AI shift story, OpenAI late 2026 journey, Anthropic 2026 journey, Meta October 2026 journey, Nvidia late 2026 journey, and what-changed page; 6 what-changed entries on Nvidia $164.5B regulatory lease guarantees, Meta Q3 FCF and Class C non-voting stock, SB Energy IPO delay, Salesforce agent tollgates, PHP defender window closing, and a16z frontier rebrand.
+
 ## 2026-10-23 ingest-20261023-b32
 
 - Batch 32: Nvidia B neoclouds, PHP defender window, a16z frontier, Blackstone bottlenecks, Datadog Upwind, Salesforce Claude fees, SB Energy IPO, Utopai video AI.
